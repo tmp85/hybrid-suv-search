@@ -29,13 +29,13 @@
       "location": "Hillsboro, OR",
       "mileage": 46655,
       "model": "Hyundai Santa Fe Plug-In Hybrid",
-      "new_vs_prior": "Verified active Oct 29 via CarGurus: still $24,094 / 46,655 mi, unchanged; Hyundai CPO; price includes fees",
+      "new_vs_prior": "Verified active Oct 30 via CarGurus: still $24,094 / 46,655 mi, unchanged; Hyundai CPO; price includes fees; confirm availability before travel (dealer inventory crawl previously did not show this unit)",
       "price": 24094,
       "price_vs_prior": 0,
       "seller": "Dick's Hillsboro Hyundai (dealer)",
       "trim": "SEL Convenience",
       "url": "https://www.cargurus.com/Cars/listing/460479314",
-      "verification_date": "2026-10-29",
+      "verification_date": "2026-10-30",
       "verified_active": true,
       "vin": "KM8S6DA22NU035178",
       "year": 2022
@@ -1516,8 +1516,8 @@
       "history": "CARFAX One-Owner, Clean CARFAX per dealer; GM CarBravo Certified",
       "concerns": "72,550 mi is high side; confirm CarBravo certification coverage in writing; price excludes government taxes/fees (includes $85 doc + $37 e-filing)",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "Verified active Oct 29 via CarGurus: still $23,874 / 72,550 mi, unchanged; CarBravo Certified; price includes fees",
-      "verification_date": "2026-10-29",
+      "new_vs_prior": "Verified active Oct 30 via CarGurus: still $23,874 / 72,550 mi (page shows prior $24,124, -$250 on the page; unchanged vs Oct 29 record $23,874); CARFAX One-Owner, Clean CARFAX; GM CarBravo Certified; price includes fees",
+      "verification_date": "2026-10-30",
       "verified_active": true
     },
     {
@@ -1536,8 +1536,8 @@
       "history": "CARFAX 1-Owner badge on listing page; owner count/accidents/title outcome not fully stated in observed excerpt",
       "concerns": "History unverified from page — request CARFAX/AutoCheck; 'Lifetime Powertrain Warranty' is a dealer offer, not manufacturer CPO; confirm fees",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "Verified active Oct 29 via dealer page: still $23,647 / 62,519 mi, unchanged; $42,030 + $85 doc + $37 e-filing - $18,505 savings",
-      "verification_date": "2026-10-29",
+      "new_vs_prior": "Verified active Oct 30 via dealer page: still $23,647 / 62,519 mi, InStock; $42,030 + $85 doc + $37 e-filing - $18,505 savings; CARFAX 1-Owner badge; accident/title not fully stated on page",
+      "verification_date": "2026-10-30",
       "verified_active": true
     },
     {
@@ -1972,8 +1972,8 @@
       "hybrid_type": "Full hybrid",
       "mileage": 31584,
       "drivetrain": "FWD",
-      "price": 29107,
-      "price_vs_prior": 0,
+      "price": 29102,
+      "price_vs_prior": -5,
       "location": "Cerritos, CA",
       "seller": "Kia of Cerritos (dealer)",
       "url": "https://www.cargurus.com/details/460851868",
@@ -1982,8 +1982,8 @@
       "concerns": "FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage — confirm VIN eligibility with dealer (estimate).",
       "verified_active": true,
-      "verification_date": "2026-10-29",
-      "new_vs_prior": "Verified active Oct 29 via CarGurus: still $29,107 / 31,584 mi, unchanged; Kia CPO; price includes fees"
+      "verification_date": "2026-10-30",
+      "new_vs_prior": "Verified active Oct 30 via CarGurus: $29,107 -> $29,102 (-$5) / 31,584 mi; Kia CPO; Clean CARFAX, CARFAX One-Owner; price includes fees"
     },
     {
       "year": 2023,
@@ -2052,18 +2052,18 @@
       "hybrid_type": "Plug-in hybrid",
       "mileage": 41677,
       "drivetrain": "AWD",
-      "price": 29720,
-      "price_vs_prior": 0,
+      "price": 28109,
+      "price_vs_prior": -1611,
       "location": "Irvine, CA",
       "seller": "Tuttle-Click Mazda (dealer)",
       "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
       "vin": "JM3KKDHA8R1150573",
-      "history": "CARFAX 1-Owner Good Value badge; accident/clean-title outcome not stated on page itself (see linked CARFAX report)",
-      "concerns": "PRICE DROP: total $29,888 -> $29,720 (-$168); retail $29,499 + $122 doc/ERF + $99 LoJack (LoJack optional, removable — confirm); MODEL-SPECIFIC: 2024 CX-90 PHEV subject to NHTSA recalls — verify all remedies completed by VIN before pursuit",
+      "history": "CARFAX 1-Owner Good Value badge; dealer notes reduced from $30,988; battery warranty 96 mo / 100k mi per listing",
+      "concerns": "MODEL-SPECIFIC: 2024 CX-90 PHEV subject to NHTSA recalls — verify all remedies completed by VIN before pursuit; LoJack $99 optional, confirm removable; accident/clean-title outcome not stated on page itself (see linked CARFAX report)",
       "battery_warranty_note": "Battery warranty 96 months / 100,000 miles shown on dealer page (estimate, confirm by VIN)",
       "verified_active": true,
-      "verification_date": "2026-10-29",
-      "new_vs_prior": "Verified active Oct 29 via dealer page (after initial Akamai block cleared): still $29,720 / 41,677 mi, unchanged; $29,499 + $122 doc/ERF + $99 LoJack; verify CX-90 PHEV recalls by VIN"
+      "verification_date": "2026-10-30",
+      "new_vs_prior": "Verified active Oct 30 via dealer page (live read after Akamai block cleared): PRICE DROP $29,720 -> $28,109 (-$1,611); retail $27,888 + $122 doc/ERF + $99 LoJack (LoJack optional, removable); 41,677 mi; CARFAX 1-Owner Good Value; verify CX-90 PHEV recalls by VIN"
     },
     {
       "year": 2022,
@@ -2082,8 +2082,8 @@
       "concerns": "SRP-LEVEL only: mileage, title, accidents, owners not shown on inventory page; distinct VIN from Sands Kia Surprise 2022 Sorento S; cash price $23,992 incl $998 doc fee",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
       "verified_active": true,
-      "verification_date": "2026-10-29",
-      "new_vs_prior": "Verified active Oct 29 via dealer page: still $20,693 / 53,490 mi (+12); $19,695 + $998 doc fee"
+      "verification_date": "2026-10-30",
+      "new_vs_prior": "Verified active Oct 30 via dealer page: still $20,693 / 53,490 mi, FWD, Carfax one-owner badge; advertised price includes $998 doc fee; finance example via Ally on approved credit"
     },
     {
       "year": 2024,
@@ -2312,9 +2312,9 @@
       "concerns": "Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price; CarGurus SRP crawls showed higher conflicting prices ($26,485-$26,835) — do not treat those as a price drop; vs Oct 23 iSeeCars record $23,494, essentially unchanged (+$28)",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
       "verified_active": true,
-      "verification_date": "2026-10-29",
-      "price_vs_prior": -118,
-      "new_vs_prior": "PRICE DROP Oct 29: $23,522 -> $23,404 (-$118); 0 accidents, 1 owner, personal use, clean title"
+      "verification_date": "2026-10-30",
+      "price_vs_prior": 0,
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $23,404 / 79,151 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; fees not disclosed; confirm charging cable and EV range/charge health"
     },
     {
       "year": 2023,
@@ -2407,16 +2407,16 @@
       "mileage": 77306,
       "drivetrain": "AWD",
       "price": 23990,
-      "location": "Dallas, TX",
-      "seller": "Carvana - Dallas (dealer, online only)",
+      "location": "Birmingham, AL",
+      "seller": "Carvana - Birmingham (dealer, online only)",
       "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRHDLGXP5185400/",
       "vin": "KNDRHDLGXP5185400",
       "history": "0 accidents, 3 owners, personal use, clean title; $3,000 price drop; 45 days on Edmunds",
       "concerns": "3 owners — main caveat; online-only seller (no in-person lot); $0 dealer fees; taxes/registration/government fees excluded; confirm condition via inspection",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "Verified active Oct 29 via Edmunds: still $23,990 / 77,306 mi, unchanged; LOCATION CORRECTION: Edmunds shows Carvana - Dallas, TX (online only), not Phoenix/Albuquerque; 0 accidents, 3 owners, clean title; $0 dealer fees",
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $23,990 / 77,306 mi, unchanged; LOCATION CORRECTION: now shows Carvana - Birmingham, Birmingham, AL (online only), not Dallas, TX; 0 accidents, 3 owners, personal use, clean title; $0 dealer fees",
       "price_vs_prior": 0,
-      "verification_date": "2026-10-29",
+      "verification_date": "2026-10-30",
       "verified_active": true
     },
     {
@@ -2434,9 +2434,9 @@
       "history": "0 accidents, 1 owner, personal use, clean title; 18 days on Edmunds",
       "concerns": "PRICE DROP: $29,072 -> $28,772 total (-$300; base $28,073 + $699 doc fee); near price ceiling; top trim; confirm no financing condition on price",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "Verified active Oct 29 via Edmunds: still $28,772 / 58,670 mi, unchanged; $28,073 + $699 doc fee; 0 accidents, 1 owner, clean title",
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $28,772 total / 58,670 mi, unchanged; $28,073 + $699 doc fee; 0 accidents, 1 owner, personal use, clean title",
       "price_vs_prior": 0,
-      "verification_date": "2026-10-29",
+      "verification_date": "2026-10-30",
       "verified_active": true
     },
     {
@@ -2454,9 +2454,9 @@
       "history": "0 accidents, 1 owner, corporate fleet vehicle, clean title; $1,000 price drop; 9 days on Edmunds",
       "concerns": "Corporate fleet history; FWD only (AWD is bonus, acceptable); online-only seller; $0 dealer fees; taxes/registration/government fees excluded; 83,528 mi",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "PRICE DROP Oct 29: $23,990 -> $22,590 (-$1,400); $0 dealer fees; corporate fleet, 0 accidents, 1 owner, clean title",
-      "price_vs_prior": -1400,
-      "verification_date": "2026-10-29",
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $22,590 / 83,528 mi, unchanged; 0 accidents, 1 owner, corporate fleet, clean title; $0 dealer fees",
+      "price_vs_prior": 0,
+      "verification_date": "2026-10-30",
       "verified_active": true
     },
     {
@@ -2494,10 +2494,10 @@
       "history": "1 accident, 1 owner, personal use, clean title",
       "concerns": "NEW Oct 26 — history/accidents/owners not shown; online-only seller; confirm condition via inspection; $0 dealer fees typical of Carvana, taxes/gov fees excluded",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "Verified active Oct 29 via Edmunds: still $27,990 / 66,168 mi, unchanged; LOCATION CORRECTION: Edmunds shows Carvana - Fresno, CA (online only), not Dallas/Phoenix; 1 ACCIDENT now flagged; $0 dealer fees",
+      "new_vs_prior": "GONE Oct 30 — Edmunds: 'sold or removed by the dealer' (was $27,990 / 66,168 mi, Carvana - Fresno, CA, 1 accident flagged)",
       "price_vs_prior": 0,
-      "verification_date": "2026-10-29",
-      "verified_active": true
+      "verification_date": "2026-10-30",
+      "verified_active": false
     },
     {
       "year": 2023,
@@ -2514,9 +2514,9 @@
       "history": "0 accidents, 1 owner, LEASE vehicle, clean title",
       "concerns": "NEW Oct 26 — history/accidents/owners/fees not shown; near price ceiling; confirm all history and out-the-door price before travel",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "PRICE INCREASE Oct 29: $29,450 -> $29,896 (+$446); 21,389 mi unchanged; lease history now stated",
-      "price_vs_prior": 446,
-      "verification_date": "2026-10-29",
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $29,896 / 21,389 mi, unchanged; 0 accidents, 1 owner, LEASE vehicle, clean title; not dealer-verified; fees not disclosed",
+      "price_vs_prior": 0,
+      "verification_date": "2026-10-30",
       "verified_active": true
     },
     {
@@ -2534,9 +2534,9 @@
       "history": "History details not shown on Edmunds summary (8 days on Edmunds; $135 price increase shown; Fair Price $522 above market)",
       "concerns": "NEW Oct 27 — history/accidents/owners/fees not shown; confirm history and out-the-door price before travel; $135 price increase shown",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "Verified active Oct 29 via Edmunds: still $24,585 / 79,839 mi, unchanged; $23,986 + $599 doc fee; 0 accidents, 1 owner, clean title",
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $24,585 total / 79,839 mi, unchanged; $23,986 + $599 doc fee; 0 accidents, 1 owner, personal use, clean title",
       "price_vs_prior": 0,
-      "verification_date": "2026-10-29",
+      "verification_date": "2026-10-30",
       "verified_active": true
     },
     {
@@ -2554,9 +2554,9 @@
       "history": "History details not shown on Edmunds summary; Fair Price $165 below market",
       "concerns": "NEW Oct 27 — 114,930 mi OVER the 100k preference — consider only if condition/value justify; history/accidents/owners/fees not shown; confirm before travel",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "Verified active Oct 29 via Edmunds: still $21,500 / 114,930 mi, unchanged; 0 accidents, 1 owner, clean title",
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $21,500 / 114,930 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; 114,930 mi OVER the 100k preference; not dealer-verified; fees not disclosed",
       "price_vs_prior": 0,
-      "verification_date": "2026-10-29",
+      "verification_date": "2026-10-30",
       "verified_active": true
     },
     {
@@ -2574,9 +2574,9 @@
       "history": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020",
       "concerns": "Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "PRICE DROP Oct 29: $27,544 -> $27,422 (-$122); 0 accidents, 1 owner, personal use, clean title",
-      "price_vs_prior": -122,
-      "verification_date": "2026-10-29",
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $27,422 / 35,609 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; fees not disclosed",
+      "price_vs_prior": 0,
+      "verification_date": "2026-10-30",
       "verified_active": true
     },
     {
@@ -2594,9 +2594,9 @@
       "history": "AutoCheck: 0 accidents, 1 owner, LEASE vehicle, clean title; Edmunds Fair Price $430 below market; stock 260920A",
       "concerns": "LEASE vehicle history; listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
-      "new_vs_prior": "Verified active Oct 29 via Edmunds: still $27,117 / 37,177 mi, unchanged; 0 accidents, 1 owner, LEASE vehicle, clean title",
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $27,117 / 37,177 mi, unchanged; 0 accidents, 1 owner, LEASE vehicle, clean title; not dealer-verified; fees not disclosed",
       "price_vs_prior": 0,
-      "verification_date": "2026-10-29",
+      "verification_date": "2026-10-30",
       "verified_active": true
     },
     {
@@ -2715,9 +2715,9 @@
       "concerns": "Online-only seller; 91,936 mi near/above preference line; fees not disclosed; $109 price drop noted",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
       "verified_active": true,
-      "verification_date": "2026-10-29",
-      "price_vs_prior": null,
-      "new_vs_prior": "NEW Oct 29 — detail-verified via Edmunds; lowest-priced new candidate, clean history"
+      "verification_date": "2026-10-30",
+      "price_vs_prior": 0,
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $21,199 / 91,936 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; online-only seller; fees not disclosed"
     },
     {
       "year": 2022,
@@ -2735,9 +2735,9 @@
       "concerns": "$23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
       "verified_active": true,
-      "verification_date": "2026-10-29",
-      "price_vs_prior": null,
-      "new_vs_prior": "NEW Oct 29 — detail-verified via Edmunds; AWD, clean 1-owner history"
+      "verification_date": "2026-10-30",
+      "price_vs_prior": 0,
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $24,293 total / 51,445 mi, unchanged; $23,494 + $799 dealer services fee; 0 accidents, 1 owner, personal use, clean title"
     },
     {
       "year": 2023,
@@ -2755,9 +2755,9 @@
       "concerns": "Edmunds: listing not dealer-verified — confirm details/fees with dealer before travel; Good Price $1,428 below market",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
       "verified_active": true,
-      "verification_date": "2026-10-29",
-      "price_vs_prior": null,
-      "new_vs_prior": "NEW Oct 29 — detail-verified via Edmunds; lease history; not dealer-verified"
+      "verification_date": "2026-10-30",
+      "price_vs_prior": 0,
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $24,592 / 61,753 mi, unchanged; 0 accidents, 1 owner, LEASE vehicle, clean title; not dealer-verified; fees not disclosed"
     },
     {
       "year": 2023,
@@ -2775,9 +2775,9 @@
       "concerns": "Edmunds: listing not dealer-verified — confirm CPO coverage and fees in writing; Fair Price $516 below market",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage — confirm VIN eligibility with dealer (estimate).",
       "verified_active": true,
-      "verification_date": "2026-10-29",
-      "price_vs_prior": null,
-      "new_vs_prior": "NEW Oct 29 — detail-verified via Edmunds; CPO; not dealer-verified"
+      "verification_date": "2026-10-30",
+      "price_vs_prior": 0,
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $25,586 / 56,963 mi, unchanged; Certified Pre-Owned; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; fees not disclosed"
     },
     {
       "year": 2021,
@@ -2795,13 +2795,13 @@
       "concerns": "Edmunds: listing not dealer-verified — confirm details/fees; no photos on page; Fair Price $34 above market",
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k — confirm VIN eligibility (estimate).",
       "verified_active": true,
-      "verification_date": "2026-10-29",
-      "price_vs_prior": null,
-      "new_vs_prior": "NEW Oct 29 — detail-verified via Edmunds; lowest mileage of new candidates; not dealer-verified"
+      "verification_date": "2026-10-30",
+      "price_vs_prior": 0,
+      "new_vs_prior": "Verified active Oct 30 via Edmunds: still $25,599 / 33,685 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; no photos on page; fees not disclosed"
     }
   ],
-  "notes": "Search run Thu Oct 29, 2026, ~7:00-9:00 a.m. America/Phoenix. 21 listings verified ACTIVE today (16 carried from Oct 28 + 5 new detail-verified). PRICE DROPS: Carvana Phoenix Sorento EX $23,990 -> $22,590 (-$1,400); Freeway Toyota Hanford Sorento PHEV SX Prestige $23,522 -> $23,404 (-$118); Palm Springs Kia Sorento PHEV SX $27,544 -> $27,422 (-$122). PRICE INCREASE: Centennial Leasing Phoenix Sorento EX $29,450 -> $29,896 (+$446). GONE: 2023 Jeep Grand Cherokee 4xe Base (Edmunds sold/removed). NEW detail-verified: Driveway Fresno Sorento EX $21,199; AutoNation Peoria Sorento S AWD $24,293; Mark Kia Scottsdale Sorento EX $24,592; Camelback Kia Phoenix Sorento EX CPO $25,586; Tempe Kia Sorento EX $25,599. LOCATION CORRECTIONS: Carvana EX now Dallas TX online-only; Carvana SX Prestige now Fresno CA, 1 accident flagged. SCREENED OUT: manufacturer-repurchased 2025 Sorento EX and lemon-reported 2023 Sorento EX (clean-title requirement). NOT re-checked (Capital One pages, decision pending): status unknown, NOT confirmed gone. Tycho delivery Oct 29: 22 tasks (21 listings + summary), all succeeded.",
-  "search_date": "2026-10-29",
+  "notes": "Search run Fri Oct 30, 2026, ~7:00-9:00 a.m. America/Phoenix. 20 listings verified ACTIVE today (all carried from Oct 29). PRICE DROPS: Tuttle-Click Mazda Irvine CX-90 PHEV Premium $29,720 -> $28,109 (-$1,611); Kia of Cerritos Sorento EX CPO $29,107 -> $29,102 (-$5). GONE: Carvana Fresno Sorento SX Prestige (was $27,990) — Edmunds sold/removed. LOCATION CORRECTION: Carvana Sorento EX now Birmingham, AL (online only), was Dallas, TX; still $23,990. NO new detail-verified listings today. NOT re-checked (Capital One pages, decision pending): status unknown, NOT confirmed gone. Tycho delivery Oct 30: 21 tasks (20 listings + summary) — see run log for final states.",
+  "search_date": "2026-10-30",
   "search_time_mst": "07:00-09:00",
   "timezone": "America/Phoenix"
 }
