@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T18:00:03.194Z",
-  "revision": "4040e3f132dd3362c8dd0ab6844e59f9341a717c",
+  "generatedAt": "2026-10-31T18:25:22.428Z",
+  "revision": "978244b4c7d4f2c96d40c81ea7cee7d12ce3e16f",
   "vehicles": [
     {
       "id": "KM8S6DA22NU035178",
@@ -159,7 +159,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.cargurus.com/Cars/listing/460479314",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "vin": "KNDRGDLG3N5107069",
@@ -359,12 +373,19 @@
           "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
           "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
           "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
+        },
+        {
+          "result": "observed",
+          "checkedAt": "2026-10-31T18:00:03.194Z",
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
         }
       ],
       "missingFromFeed": false,
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
         "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -383,7 +404,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRJDLH3N5122875",
@@ -514,7 +549,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRH4LG0P5224396",
@@ -672,7 +721,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRH4LG0P5224396/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRJDLH9N5109810",
@@ -803,7 +866,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH9N5109810/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "vin": "JTEAAAAH6NJ101083",
@@ -895,7 +972,7 @@
       "missingFromFeed": false,
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "finalUrl": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -914,7 +991,14 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "ChatGPT historical",
+        "observedAt": "2026-10-31",
+        "url": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
+        "priceBasis": "Direct dealer display: $23,899 + $85 documentation = $23,984. Electronic filing/emissions testing included; taxes, government fees and smog certificate excluded."
+      },
+      "sourcePresence": {}
     },
     {
       "id": "KNDRMDLHXP5169878",
@@ -1045,7 +1129,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2023/vin/KNDRMDLHXP5169878/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRH4LG2M5040086",
@@ -1176,7 +1274,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2021/vin/KNDRH4LG2M5040086/?radius=50",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "JM3KKEHA4R1122775",
@@ -1279,6 +1391,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.edmunds.com/mazda/cx-90/2024/vin/JM3KKEHA4R1122775/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -1410,7 +1536,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRH4LG4P5223087/?radius=50",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRH4LG3P5132781",
@@ -1572,7 +1712,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRH4LG3P5132781/?radius=50",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRH4LG7P5193809",
@@ -1730,7 +1884,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.cargurus.com/details/460851868",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRKDLG6P5200279",
@@ -1888,7 +2056,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRKDLG6P5200279/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRHDLG7R5248469",
@@ -1994,10 +2176,24 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.cars.com/vehicledetail/c9a03e10-3fa4-401e-8597-15aceec95590/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.cars.com/vehicledetail/c9a03e10-3fa4-401e-8597-15aceec95590/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -2124,10 +2320,24 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.sandskia.com/used-Phoenix-2022-Kia-Sorento%2BHybrid-S-KNDRG4LG8N5081732",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-26",
+        "url": "https://www.sandskia.com/used-Phoenix-2022-Kia-Sorento%2BHybrid-S-KNDRG4LG8N5081732",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-26",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -2286,7 +2496,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.cargurus.com/details/451663169",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRHDLG4P5191306",
@@ -2389,6 +2613,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-26",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRHDLG4P5191306/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-26",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -2547,7 +2785,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRH4LG0P5173658/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "vin": "KM8S2DA15NU025649",
@@ -2638,11 +2890,19 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.lithia.com/used/Hyundai/2022-Hyundai-Santa-Fe-Hybrid-a3f0ac38ac1811a5b94575c6b5faa03d.htm",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
-      }
+      },
+      "currentObservation": {
+        "source": "ChatGPT historical",
+        "observedAt": "2026-10-13",
+        "url": "https://www.edmunds.com/hyundai/santa-fe-hybrid/2022/vin/KM8S2DA15NU025649/?radius=200",
+        "priceBasis": "$22,495 seller display versus $22,314 elsewhere. Inclusion of $85 documentation and $37 electronic filing unresolved. No substantiated price-change chronology."
+      },
+      "sourcePresence": {},
+      "missingFromFeed": false
     },
     {
       "id": "KM8S2DA12NU026385",
@@ -2754,7 +3014,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.capitalone.com/cars/vehicle-details/2022/Hyundai/Santa+Fe+Hybrid/Blue/KM8S2DA12NU026385",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "vin": "JTEAAAAH7MJ033388",
@@ -2842,7 +3116,15 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "ChatGPT historical",
+        "observedAt": "2026-10-15",
+        "url": "https://www.truecar.com/used-cars-for-sale/listing/JTEAAAAH7MJ033388/2021-toyota-venza/",
+        "priceBasis": "TrueCar $28,661 with fees/add-ons described as included; Capital One $28,995; another ad $29,080. No original quote or component breakdown verified."
+      },
+      "sourcePresence": {},
+      "missingFromFeed": false
     },
     {
       "id": "muse-76a7ur",
@@ -2947,7 +3229,21 @@
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
       "verificationHistory": [],
-      "missingFromFeed": false
+      "missingFromFeed": false,
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.cargurus.com/details/461421102",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRH4LG2P5169174",
@@ -3050,6 +3346,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-19",
+        "url": "https://www.cargurus.com/details/461264785",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-19",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -3155,7 +3465,21 @@
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
       "verificationHistory": [],
-      "missingFromFeed": false
+      "missingFromFeed": false,
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.cargurus.com/details/458285167",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "1C4RJYD62P8802109",
@@ -3258,6 +3582,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.carfax.com/vehicle/1C4RJYD62P8802109",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -3363,7 +3701,21 @@
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
       "verificationHistory": [],
-      "missingFromFeed": false
+      "missingFromFeed": false,
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.cargurus.com/details/458376264",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "1FM5K8FW5MNA08450",
@@ -3475,7 +3827,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-20",
+        "url": "https://www.iseecars.com/cars-for-sale#id=1opMKfMsXN5cUNXIkLIXtGA%3D%3D",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-20",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRHDLGXP5175577",
@@ -3581,10 +3947,24 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "reason": "Vehicle identity not confirmed; requires recheck."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -3690,7 +4070,21 @@
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
       "verificationHistory": [],
-      "missingFromFeed": false
+      "missingFromFeed": false,
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.cargurus.com/details/461261274",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "1C4RJYD68P8775319",
@@ -3802,7 +4196,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.iseecars.com/used_cars-t10341-jeep-grand-cherokee-los-angeles-ca",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "5TDBBRCH7LS504894",
@@ -3905,6 +4313,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.edmunds.com/toyota/highlander-hybrid/2020/vin/5TDBBRCH7LS504894/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -4008,6 +4430,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.cargurus.com/details/461979665",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -4114,10 +4550,24 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.earnhardthyundai.com/used-city-2022-Hyundai-Santa%20Fe%20Hybrid-vehicle-KM8S5DA19NU037634",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.earnhardthyundai.com/used-city-2022-Hyundai-Santa%20Fe%20Hybrid-vehicle-KM8S5DA19NU037634",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -4261,10 +4711,24 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.hellosubarutemecula.com/inventory/used-2023-kia-sorento-hybrid-ex-awd-4d-sport-utility-kndrhdlg0p5189018/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-30",
+        "url": "https://www.hellosubarutemecula.com/inventory/used-2023-kia-sorento-hybrid-ex-awd-4d-sport-utility-kndrhdlg0p5189018/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-30",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -4368,6 +4832,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-17",
+        "url": "https://www.capitalone.com/cars/vehicle-details/2023/Kia/Sorento+Hybrid/EX/KNDRHDLG0P5204259",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-17",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -4499,7 +4977,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRH4LG7P5142231/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "muse-scwm4k",
@@ -4604,7 +5096,21 @@
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
       "verificationHistory": [],
-      "missingFromFeed": false
+      "missingFromFeed": false,
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.cargurus.com/details/454350256",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "JM3KKDHA8R1150573",
@@ -4753,6 +5259,13 @@
           "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
           "httpStatus": 403,
           "reason": "Access restricted; availability unknown."
+        },
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-10-31T18:00:03.194Z",
+          "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
         }
       ],
       "missingFromFeed": false,
@@ -4773,11 +5286,25 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "1C4RJYB68R8521339",
@@ -4889,7 +5416,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://cartruckbuysell.com/listings/2024-jeep-grand-cherokee-4d17d257",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "5NMS2DA15PH001205",
@@ -4995,10 +5536,24 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.cars.com/vehicledetail/30c01ad9-b72a-4d72-9f2d-c6dee8d04c00/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-18",
+        "url": "https://www.cars.com/vehicledetail/30c01ad9-b72a-4d72-9f2d-c6dee8d04c00/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-18",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -5111,7 +5666,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.capitalone.com/cars/vehicle-details/2025/Hyundai/Santa+Fe+Hybrid/SEL/5NMP2DG18SH058651",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KM8S2DA13NU053322",
@@ -5223,7 +5792,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.capitalone.com/cars/vehicle-details/2022/Hyundai/Santa+Fe+Hybrid/Blue/KM8S2DA13NU053322",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRHDLGXP5187891",
@@ -5354,7 +5937,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-31",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRHDLGXP5187891/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "vin": "KNDRHDLG5P5175812",
@@ -5438,7 +6035,15 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "ChatGPT historical",
+        "observedAt": "2026-10-14",
+        "url": "https://www.capitalone.com/cars/vehicle-details/2023/Kia/Sorento%2BHybrid/EX/KNDRHDLG5P5175812",
+        "priceBasis": "Prior marketplace $24,076 described as fee-inclusive. Original current total not substantiated; earlier claimed long-term price reduction is unsupported in retained records."
+      },
+      "sourcePresence": {},
+      "missingFromFeed": false
     },
     {
       "id": "1FM5K7FW2NNA11236",
@@ -5541,6 +6146,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-19",
+        "url": "https://www.iseecars.com/used_cars-t5989-used-ford-explorer-hybrid-for-sale",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-19",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -5653,7 +6272,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.iseecars.com/used_cars-t5698-2022-kia-sorento-plug-in-hybrid-for-sale",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "1C4RJYD62P8785778",
@@ -5759,10 +6392,24 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.onetoyota.com/inventory/used-2023-jeep-grand-cherokee-overland-4xe-4wd-4d-sport-utility-1c4rjyd62p8785778/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-22",
+        "url": "https://www.onetoyota.com/inventory/used-2023-jeep-grand-cherokee-overland-4xe-4wd-4d-sport-utility-1c4rjyd62p8785778/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-22",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -5866,6 +6513,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-19",
+        "url": "https://www.cargurus.com/details/458462346",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-19",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -5969,6 +6630,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-19",
+        "url": "https://www.cargurus.com/Cars/s-Used-Kia-Sorento-Hybrid-Under-30000-d3106_spt381",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-19",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -6081,7 +6756,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.carsoncityhyundai.com/search/used-cars-hyundai-santa-fe-plug-in-hybrid/?md=11494&tp=used",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "KNDRMDLGXP5144003",
@@ -6184,6 +6873,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-14",
+        "url": "https://www.cargurus.com/Cars/s-Used-Kia-Sorento-Hybrid-Under-30000-d3106_spt381",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-14",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -6290,10 +6993,24 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "reason": "Vehicle identity not confirmed; requires recheck."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -6397,6 +7114,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-12",
+        "url": "https://www.cargurus.com/Cars/s-Used-Kia-Sorento-Hybrid-Under-30000-d3106_spt381",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-12",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -6500,6 +7231,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-14",
+        "url": "https://www.edmunds.com/used-kia-sorento-plug-in-hybrid-lake-elsinore-ca/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-14",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -6603,6 +7348,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-19",
+        "url": "https://www.cargurus.com/Cars/s-Used-Kia-Sorento-Hybrid-Under-30000-d3106_spt381",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-19",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -6706,6 +7465,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-14",
+        "url": "https://www.cargurus.com/Cars/s-Used-Kia-Sorento-Hybrid-Under-30000-d3106_spt381",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-14",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -6809,6 +7582,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-19",
+        "url": "https://www.cargurus.com/Cars/s-Used-Kia-Sorento-Hybrid-Under-30000-d3106_spt381",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-19",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -6912,6 +7699,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-17",
+        "url": "https://www.capitalone.com/cars/vehicle-details/2023/Kia/Sorento+Hybrid/SX+Prestige/KNDRMDLG5P5130610",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-17",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -7015,6 +7816,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-26",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRMDLG5P5137671/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-26",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -7118,6 +7933,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-18",
+        "url": "https://www.cargurus.com/details/460093469",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-18",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -7221,6 +8050,20 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.iseecars.com/used_cars-t5698-2019-toyota-highlander-hybrid-for-sale",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -7310,11 +8153,19 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:00:03.194Z",
+        "checkedAt": "2026-10-31T18:25:22.428Z",
         "url": "https://www.echopark.com/car/2T2BGMCA5JC027777",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
-      }
+      },
+      "currentObservation": {
+        "source": "ChatGPT historical",
+        "observedAt": "2026-10-15",
+        "url": "https://www.echopark.com/car/2T2BGMCA5JC027777",
+        "priceBasis": "Original $27,497 + $699 documentation = $28,196. Marketplace boilerplate also referenced $699 appearance protection; mandatory status and inclusion unresolved."
+      },
+      "sourcePresence": {},
+      "missingFromFeed": false
     },
     {
       "vin": "5TDJGRFHXJS046922",
@@ -7390,7 +8241,15 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "ChatGPT historical",
+        "observedAt": "2026-10-15",
+        "url": "",
+        "priceBasis": "Marketplace $29,238. Dealer-specific quote and fee-inclusive total not established."
+      },
+      "sourcePresence": {},
+      "missingFromFeed": false
     },
     {
       "id": "1C4RJYB67P8791515",
@@ -7493,6 +8352,20 @@
       "eligibility": {
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-26",
+        "url": "https://www.edmunds.com/jeep/grand-cherokee-4xe/2023/vin/1C4RJYB67P8791515/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-26",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -7596,6 +8469,20 @@
       "eligibility": {
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-26",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRHDLG1P5158604/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-26",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -7708,7 +8595,21 @@
       "eligibility": {
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.iseecars.com/used_cars-t5698-2023-mitsubishi-outlander-phev-for-sale",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "JA4T5VA90RZ067435",
@@ -7820,7 +8721,21 @@
       "eligibility": {
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.iseecars.com/used_cars-t3016-2024-mitsubishi-outlander-phev-se-for-sale",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "7FART6H90ME012343",
@@ -7932,7 +8847,21 @@
       "eligibility": {
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-23",
+        "url": "https://www.iseecars.com/used_cars-t24726-used-honda-cr-v-hybrid-touring-for-sale",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-23",
+          "mode": "snapshot"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "1FM5K7FWXMNA13511",
@@ -8035,6 +8964,20 @@
       "eligibility": {
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-19",
+        "url": "https://www.iseecars.com/used_cars-t5989-used-ford-explorer-hybrid-for-sale",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-19",
+          "mode": "snapshot",
+          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+        }
       }
     },
     {
@@ -8142,7 +9085,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-25",
+        "url": "https://www.cargurus.com/details/461429722",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-25",
+          "mode": "snapshot"
+        }
+      },
+      "missingFromFeed": false
     },
     {
       "id": "KNDRHDJG9S5385017",
@@ -8249,7 +9206,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-25",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2025/vin/KNDRHDJG9S5385017/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-25",
+          "mode": "snapshot"
+        }
+      },
+      "missingFromFeed": false
     },
     {
       "id": "KNDRH4LG9P5169625",
@@ -8361,6 +9332,19 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-30",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRH4LG9P5169625/?radius=50",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-30",
+          "mode": "snapshot"
+        }
       }
     },
     {
@@ -8468,7 +9452,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-25",
+        "url": "https://www.cargurus.com/details/456800451",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-25",
+          "mode": "snapshot"
+        }
+      },
+      "missingFromFeed": false
     },
     {
       "id": "5NMS3DA16PH010024",
@@ -8575,7 +9573,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-13",
+        "url": "https://www.edmunds.com/hyundai/santa-fe-hybrid/2023/vin/5NMS3DA16PH010024/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-13",
+          "mode": "snapshot"
+        }
+      },
+      "missingFromFeed": false
     },
     {
       "id": "KNDRKDLG8P5170640",
@@ -8682,7 +9694,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-21",
+        "url": "https://www.cargurus.com/details/461744859",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-21",
+          "mode": "snapshot"
+        }
+      },
+      "missingFromFeed": false
     },
     {
       "id": "KNDRG4LG4N5110224",
@@ -8822,6 +9848,19 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-30",
+        "url": "https://www.markkia.com/viewdetails/used/kndrg4lg4n5110224/2022-kia-sorento-hybrid-sport-utility?type=finance",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-30",
+          "mode": "snapshot"
+        }
       }
     },
     {
@@ -8969,7 +10008,21 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-19",
+        "url": "https://www.kiaofirvine.com/viewdetails/cpo/kndrhdlg0p5187947/2023-kia-sorento-hybrid-sport-utility?type=cash",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-19",
+          "mode": "snapshot"
+        }
+      },
+      "missingFromFeed": false
     },
     {
       "id": "KNDPVCAG6P7033972",
@@ -9076,7 +10129,21 @@
       "eligibility": {
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-17",
+        "url": "https://www.edmunds.com/kia/sportage-hybrid/2023/vin/KNDPVCAG6P7033972/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-17",
+          "mode": "snapshot"
+        }
+      },
+      "missingFromFeed": false
     },
     {
       "id": "JA4T5VA98RZ065741",
@@ -9183,7 +10250,21 @@
       "eligibility": {
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-15",
+        "url": "https://www.edmunds.com/mitsubishi/outlander-phev/2024/vin/JA4T5VA98RZ065741/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-15",
+          "mode": "snapshot"
+        }
+      },
+      "missingFromFeed": false
     },
     {
       "id": "KNDRHDLGXP5185400",
@@ -9324,6 +10405,19 @@
       "eligibility": {
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-30",
+        "url": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRHDLGXP5185400/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": false,
+          "observedAt": "2026-10-30",
+          "mode": "snapshot"
+        }
       }
     },
     {
@@ -9431,14 +10525,28 @@
       "eligibility": {
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
-      }
+      },
+      "currentObservation": {
+        "source": "Muse",
+        "observedAt": "2026-10-13",
+        "url": "https://www.edmunds.com/honda/cr-v/2023/vin/2HKRS6H53PH811745/",
+        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-13",
+          "mode": "snapshot"
+        }
+      },
+      "missingFromFeed": false
     }
   ],
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T18:00:03.194Z",
+      "lastAttemptAt": "2026-10-31T18:25:22.428Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:00:03.194Z",
+      "lastSuccessAt": "2026-10-31T18:25:22.428Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 32,
@@ -9458,7 +10566,11 @@
       "status": "not_connected",
       "lastSuccessAt": null,
       "reportDate": null,
-      "error": "Daily ChatGPT research has no verified machine-readable export. Retained October 15 research is historical only."
+      "error": "raw.githubusercontent.com HTTP 404",
+      "lastAttemptAt": "2026-10-31T18:25:22.428Z",
+      "exporterMode": "not_connected",
+      "automationVerified": false,
+      "provenance": {}
     }
   },
   "counts": {
@@ -9473,203 +10585,229 @@
   },
   "reconciliation": [
     {
+      "source": "muse",
       "sourceId": "muse:KM8S6DA22NU035178",
       "vehicleId": "KM8S6DA22NU035178",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRHDLG6P5204248",
       "vehicleId": "KNDRHDLG6P5204248",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:5NMP2DG18SH058651",
       "vehicleId": "5NMP2DG18SH058651",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KM8S2DA12NU026385",
       "vehicleId": "KM8S2DA12NU026385",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KM8S2DA13NU053322",
       "vehicleId": "KM8S2DA13NU053322",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:1C4RJYB68R8521339",
       "vehicleId": "1C4RJYB68R8521339",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KM8S7DA23PU075463",
       "vehicleId": "KM8S7DA23PU075463",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRH4LG7P5193809",
       "vehicleId": "KNDRH4LG7P5193809",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:1FM5K8FW5MNA08450",
       "vehicleId": "1FM5K8FW5MNA08450",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:JM3KKDHA8R1150573",
       "vehicleId": "JM3KKDHA8R1150573",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:JA4T5VA90RZ067435",
       "vehicleId": "JA4T5VA90RZ067435",
       "disposition": "outside_criteria",
       "reason": "Outside price, location, midsize or hybrid criteria; retained for audit."
     },
     {
+      "source": "muse",
       "sourceId": "muse:7FART6H90ME012343",
       "vehicleId": "7FART6H90ME012343",
       "disposition": "outside_criteria",
       "reason": "Outside price, location, midsize or hybrid criteria; retained for audit."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRJDLH8N5115968",
       "vehicleId": "KNDRJDLH8N5115968",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:JA4T5VA94PZ037710",
       "vehicleId": "JA4T5VA94PZ037710",
       "disposition": "outside_criteria",
       "reason": "Outside price, location, midsize or hybrid criteria; retained for audit."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRMDLHXP5169878",
       "vehicleId": "KNDRMDLHXP5169878",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:1C4RJYD68P8775319",
       "vehicleId": "1C4RJYD68P8775319",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRKDLG6P5200279",
       "vehicleId": "KNDRKDLG6P5200279",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRH4LG0P5173658",
       "vehicleId": "KNDRH4LG0P5173658",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRH4LG0P5224396",
       "vehicleId": "KNDRH4LG0P5224396",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRH4LG7P5142231",
       "vehicleId": "KNDRH4LG7P5142231",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRHDLGXP5187891",
       "vehicleId": "KNDRHDLGXP5187891",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRJDLH3N5122875",
       "vehicleId": "KNDRJDLH3N5122875",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRJDLH9N5109810",
       "vehicleId": "KNDRJDLH9N5109810",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRH4LG3P5132781",
       "vehicleId": "KNDRH4LG3P5132781",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRGDLG3N5107069",
       "vehicleId": "KNDRGDLG3N5107069",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRH4LG4P5223087",
       "vehicleId": "KNDRH4LG4P5223087",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:KNDRH4LG2M5040086",
       "vehicleId": "KNDRH4LG2M5040086",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:https://www.cargurus.com/details/461421102",
       "vehicleId": "muse-76a7ur",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:https://www.cargurus.com/details/454350256",
       "vehicleId": "muse-scwm4k",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:https://www.cargurus.com/details/461261274",
       "vehicleId": "muse-3jtoeh",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:https://www.cargurus.com/details/458376264",
       "vehicleId": "muse-trddgp",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     },
     {
+      "source": "muse",
       "sourceId": "muse:https://www.cargurus.com/details/458285167",
       "vehicleId": "muse-q06fgq",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     }
   ],
-  "alerts": [],
-  "testUpdate": {
-    "passed": true,
-    "at": "2026-10-31T18:00:03.194Z",
-    "vin": "KM8S6DA22NU035178",
-    "mode": "isolated +$1 fixture merged and validated; live public price unchanged"
-  }
+  "alerts": []
 }

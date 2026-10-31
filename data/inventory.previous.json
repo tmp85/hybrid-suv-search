@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T17:58:28.835Z",
-  "revision": "cb3f0cfb457d52de1871c0b43b6aa853befab514",
+  "generatedAt": "2026-10-31T18:00:03.194Z",
+  "revision": "4040e3f132dd3362c8dd0ab6844e59f9341a717c",
   "vehicles": [
     {
       "id": "KM8S6DA22NU035178",
@@ -291,6 +291,27 @@
           "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
           "agent": "Muse",
           "basis": "Muse report asking price; fee inclusion requires confirmation."
+        },
+        {
+          "date": "2026-10-12",
+          "price": 25191,
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "agent": "Muse",
+          "basis": "Original $25,191; marketplace $24,591. $600 discrepancy."
+        },
+        {
+          "date": "2026-10-14",
+          "price": 24591,
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "agent": "Muse",
+          "basis": "Original and marketplace match at $24,591; $600 below the previously recorded original quote. Exact change time unknown."
+        },
+        {
+          "date": "2026-10-15",
+          "price": 24591,
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "agent": "Muse",
+          "basis": "Unchanged from October 14."
         }
       ],
       "listingState": "verified_active",
@@ -331,11 +352,19 @@
         "reason": "Direct seller GET returned 200 and matched VIN/title. Later request was restricted; no independent price override or sale inference."
       },
       "reportedPriceChange": -500,
-      "verificationHistory": [],
+      "verificationHistory": [
+        {
+          "result": "observed",
+          "checkedAt": "2026-10-31T17:58:28.835Z",
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
+        }
+      ],
       "missingFromFeed": false,
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
         "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -866,7 +895,7 @@
       "missingFromFeed": false,
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "finalUrl": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -1965,7 +1994,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.cars.com/vehicledetail/c9a03e10-3fa4-401e-8597-15aceec95590/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -2095,7 +2124,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.sandskia.com/used-Phoenix-2022-Kia-Sorento%2BHybrid-S-KNDRG4LG8N5081732",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -2609,7 +2638,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.lithia.com/used/Hyundai/2022-Hyundai-Santa-Fe-Hybrid-a3f0ac38ac1811a5b94575c6b5faa03d.htm",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -2916,7 +2945,9 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "verificationHistory": [],
+      "missingFromFeed": false
     },
     {
       "id": "KNDRH4LG2P5169174",
@@ -3122,7 +3153,9 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "verificationHistory": [],
+      "missingFromFeed": false
     },
     {
       "id": "1C4RJYD62P8802109",
@@ -3328,7 +3361,9 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "verificationHistory": [],
+      "missingFromFeed": false
     },
     {
       "id": "1FM5K8FW5MNA08450",
@@ -3546,7 +3581,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -3653,7 +3688,9 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "verificationHistory": [],
+      "missingFromFeed": false
     },
     {
       "id": "1C4RJYD68P8775319",
@@ -4077,7 +4114,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.earnhardthyundai.com/used-city-2022-Hyundai-Santa%20Fe%20Hybrid-vehicle-KM8S5DA19NU037634",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -4224,7 +4261,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.hellosubarutemecula.com/inventory/used-2023-kia-sorento-hybrid-ex-awd-4d-sport-utility-kndrhdlg0p5189018/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -4565,7 +4602,9 @@
       "eligibility": {
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      }
+      },
+      "verificationHistory": [],
+      "missingFromFeed": false
     },
     {
       "id": "JM3KKDHA8R1150573",
@@ -4707,7 +4746,15 @@
         }
       ],
       "reportedPriceChange": 0,
-      "verificationHistory": [],
+      "verificationHistory": [
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-10-31T17:58:28.835Z",
+          "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
+        }
+      ],
       "missingFromFeed": false,
       "score": 38.8,
       "rankReasons": [
@@ -4726,7 +4773,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -4948,7 +4995,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.cars.com/vehicledetail/30c01ad9-b72a-4d72-9f2d-c6dee8d04c00/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -5712,7 +5759,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.onetoyota.com/inventory/used-2023-jeep-grand-cherokee-overland-4xe-4wd-4d-sport-utility-1c4rjyd62p8785778/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -6243,7 +6290,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -7263,7 +7310,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T17:58:28.835Z",
+        "checkedAt": "2026-10-31T18:00:03.194Z",
         "url": "https://www.echopark.com/car/2T2BGMCA5JC027777",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -8872,6 +8919,13 @@
           "url": "https://www.cargurus.com/Cars/s-Used-Kia-Sorento-Hybrid-Under-30000-d3106_spt381",
           "agent": "Muse",
           "basis": "Muse report asking price; fee inclusion requires confirmation."
+        },
+        {
+          "date": "2026-10-14",
+          "price": 28372,
+          "url": "https://www.kiaofirvine.com/viewdetails/cpo/kndrhdlg0p5187947/2023-kia-sorento-hybrid-sport-utility?type=cash",
+          "agent": "Muse",
+          "basis": "Corrected complete total to $28,372. This was not a verified price increase."
         }
       ],
       "listingState": "confirmed_unavailable",
@@ -9382,9 +9436,9 @@
   ],
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T17:58:28.835Z",
+      "lastAttemptAt": "2026-10-31T18:00:03.194Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T17:58:28.835Z",
+      "lastSuccessAt": "2026-10-31T18:00:03.194Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 32,
@@ -9611,5 +9665,11 @@
       "reason": "Merged by VIN or exact vehicle-specific URL."
     }
   ],
-  "alerts": []
+  "alerts": [],
+  "testUpdate": {
+    "passed": true,
+    "at": "2026-10-31T18:00:03.194Z",
+    "vin": "KM8S6DA22NU035178",
+    "mode": "isolated +$1 fixture merged and validated; live public price unchanged"
+  }
 }

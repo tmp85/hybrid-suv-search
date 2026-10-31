@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T18:00:03.194Z",
+  "generatedAt": "2026-10-31T18:25:22.428Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T18:00:03.194Z",
+      "lastAttemptAt": "2026-10-31T18:25:22.428Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:00:03.194Z",
+      "lastSuccessAt": "2026-10-31T18:25:22.428Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 32,
@@ -24,7 +24,11 @@
       "status": "not_connected",
       "lastSuccessAt": null,
       "reportDate": null,
-      "error": "Daily ChatGPT research has no verified machine-readable export. Retained October 15 research is historical only."
+      "error": "raw.githubusercontent.com HTTP 404",
+      "lastAttemptAt": "2026-10-31T18:25:22.428Z",
+      "exporterMode": "not_connected",
+      "automationVerified": false,
+      "provenance": {}
     }
   },
   "counts": {
