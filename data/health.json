@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T18:25:22.428Z",
+  "generatedAt": "2026-10-31T18:27:42.509Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T18:25:22.428Z",
+      "lastAttemptAt": "2026-10-31T18:27:42.509Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:25:22.428Z",
+      "lastSuccessAt": "2026-10-31T18:27:42.509Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 32,
@@ -21,25 +21,43 @@
       }
     },
     "independent": {
-      "status": "not_connected",
-      "lastSuccessAt": null,
-      "reportDate": null,
-      "error": "raw.githubusercontent.com HTTP 404",
-      "lastAttemptAt": "2026-10-31T18:25:22.428Z",
-      "exporterMode": "not_connected",
+      "status": "connected",
+      "lastSuccessAt": "2026-10-31T18:27:42.509Z",
+      "reportDate": "2026-10-31",
+      "error": null,
+      "lastAttemptAt": "2026-10-31T18:27:42.509Z",
+      "exporterMode": "one_time",
       "automationVerified": false,
-      "provenance": {}
+      "provenance": {
+        "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
+        "originSha256": "fc30eac687bfd168275dc9bf8a1018ece26147712a82a3862939886cdd9d7593",
+        "mode": "repository_checkout",
+        "path": "independent/listings.json",
+        "triggerRevision": "052118ea51174a4b115146fb272c46611c8eb712"
+      },
+      "lastExportAt": "2026-10-31T18:27:03.845Z",
+      "imported": 5,
+      "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
+      "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z",
+      "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
+      "contentHash": "fc30eac687bfd168275dc9bf8a1018ece26147712a82a3862939886cdd9d7593",
+      "automationId": "6acc0c049d908191bdd620f519aee69c",
+      "writer": {
+        "mode": "one_time",
+        "automationId": "6acc0c049d908191bdd620f519aee69c",
+        "runUrl": null
+      }
     }
   },
   "counts": {
-    "imported": 81,
-    "active": 21,
-    "stale": 48,
+    "imported": 83,
+    "active": 22,
+    "stale": 49,
     "archived": 12,
-    "verified": 21,
-    "awaitingVerification": 0,
+    "verified": 20,
+    "awaitingVerification": 2,
     "outsideCriteria": 10,
-    "qualifyingActive": 21
+    "qualifyingActive": 22
   },
   "alerts": []
 }

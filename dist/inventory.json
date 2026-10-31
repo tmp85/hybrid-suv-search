@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T18:25:22.428Z",
-  "revision": "978244b4c7d4f2c96d40c81ea7cee7d12ce3e16f",
+  "generatedAt": "2026-10-31T18:27:42.509Z",
+  "revision": "052118ea51174a4b115146fb272c46611c8eb712",
   "vehicles": [
     {
       "id": "KM8S6DA22NU035178",
@@ -176,396 +176,6 @@
       "priceConflicts": []
     },
     {
-      "vin": "KNDRGDLG3N5107069",
-      "name": "Kia Sorento",
-      "trim": "Hybrid S AWD",
-      "year": 2022,
-      "mileage": 51445,
-      "price": 23793,
-      "basePrice": 23792,
-      "fees": null,
-      "feeNote": "Muse report asking price; fee inclusion requires confirmation.",
-      "city": "Peoria",
-      "state": "AZ",
-      "drive": "AWD",
-      "type": "HEV",
-      "rows": null,
-      "status": "shortlist",
-      "rank": 2,
-      "title": "Reported clean",
-      "owners": 1,
-      "accidents": "None reported",
-      "use": "Personal reported",
-      "maintenance": "Unknown",
-      "historyDate": "2026-09-01",
-      "checked": "2026-10-31",
-      "availability": "Ad observed by Muse 2026-10-31; unsold status unconfirmed",
-      "historySource": "Muse JSON feed; history claims attributed to its report",
-      "airport": "Phoenix Sky Harbor · PHX",
-      "reason": "Included in the Muse daily report. Read the original listing and report concerns before pursuing.",
-      "concern": "0 accidents, 1 owner, personal use, clean title · $23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds",
-      "sellerClaim": "0 accidents, 1 owner, personal use, clean title",
-      "unknowns": [
-        "Seller-confirmed availability",
-        "Full history evidence",
-        "Fees / conditions"
-      ],
-      "color": "sage",
-      "sources": [
-        {
-          "label": "Original dealer listing",
-          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069"
-        },
-        {
-          "label": "TrueCar / AutoCheck summary",
-          "url": "https://www.truecar.com/used-cars-for-sale/listing/KNDRGDLG3N5107069/2022-kia-sorento/"
-        },
-        {
-          "label": "Edmunds · via Muse",
-          "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50"
-        }
-      ],
-      "events": [
-        {
-          "date": "2026-10-12",
-          "price": 25191,
-          "text": "Original $25,191; marketplace $24,591. $600 discrepancy."
-        },
-        {
-          "date": "2026-10-14",
-          "price": 24591,
-          "text": "Original and marketplace match at $24,591; $600 below the previously recorded original quote. Exact change time unknown."
-        },
-        {
-          "date": "2026-10-15",
-          "price": 24591,
-          "text": "Unchanged from October 14."
-        },
-        {
-          "date": "2026-10-30",
-          "text": "Muse report: 0 accidents, 1 owner, personal use, clean title · $23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds"
-        },
-        {
-          "date": "2026-10-30",
-          "text": "Verified active Oct 30 via Edmunds: still $24,293 total / 51,445 mi, unchanged; $23,494 + $799 dealer services fee; 0 accidents, 1 owner, personal use, clean title"
-        },
-        {
-          "date": "2026-10-31",
-          "text": "Muse report: 0 accidents, 1 owner, personal use, clean title · $23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds"
-        },
-        {
-          "date": "2026-10-31",
-          "text": "Verified active Oct 31 via Edmunds: PRICE DROP $24,293 -> $23,793 (-$500) / 51,445 mi unchanged; $22,994 + $799 dealer services fee; 0 accidents, 1 owner, personal use, clean title"
-        },
-        {
-          "date": "2026-10-31",
-          "text": "Direct seller GET returned 200 and matched VIN/title. Later request was restricted; no independent price override or sale inference."
-        }
-      ],
-      "id": "KNDRGDLG3N5107069",
-      "discoveryAgents": [
-        "ChatGPT",
-        "Muse"
-      ],
-      "sourceIds": [
-        "muse:KNDRGDLG3N5107069"
-      ],
-      "priceHistory": [
-        {
-          "date": "2026-10-12",
-          "price": 25191,
-          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-          "agent": "ChatGPT",
-          "basis": "Original $25,191; marketplace $24,591. $600 discrepancy."
-        },
-        {
-          "date": "2026-10-14",
-          "price": 24591,
-          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-          "agent": "ChatGPT",
-          "basis": "Original and marketplace match at $24,591; $600 below the previously recorded original quote. Exact change time unknown."
-        },
-        {
-          "date": "2026-10-15",
-          "price": 24591,
-          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-          "agent": "ChatGPT",
-          "basis": "Unchanged from October 14."
-        },
-        {
-          "date": "2026-10-30",
-          "price": 24293,
-          "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
-          "agent": "Muse",
-          "basis": "Muse report asking price; fee inclusion requires confirmation."
-        },
-        {
-          "date": "2026-10-31",
-          "price": 23793,
-          "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
-          "agent": "Muse",
-          "basis": "Muse report asking price; fee inclusion requires confirmation."
-        },
-        {
-          "date": "2026-10-12",
-          "price": 25191,
-          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-          "agent": "Muse",
-          "basis": "Original $25,191; marketplace $24,591. $600 discrepancy."
-        },
-        {
-          "date": "2026-10-14",
-          "price": 24591,
-          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-          "agent": "Muse",
-          "basis": "Original and marketplace match at $24,591; $600 below the previously recorded original quote. Exact change time unknown."
-        },
-        {
-          "date": "2026-10-15",
-          "price": 24591,
-          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-          "agent": "Muse",
-          "basis": "Unchanged from October 14."
-        }
-      ],
-      "listingState": "verified_active",
-      "seller": "AutoNation Chevrolet Arrowhead (dealer)",
-      "origin": "Muse",
-      "imported": true,
-      "observations": [
-        {
-          "source": "Muse",
-          "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
-          "checkedAt": "2026-10-30",
-          "price": 24293,
-          "name": "Kia Sorento",
-          "year": 2022,
-          "mileage": 51445,
-          "notes": "0 accidents, 1 owner, personal use, clean title · $23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds",
-          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
-          "availability": "Ad observed by Muse 2026-10-30; unsold status unconfirmed"
-        },
-        {
-          "source": "Muse",
-          "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
-          "checkedAt": "2026-10-31",
-          "price": 23793,
-          "name": "Kia Sorento",
-          "year": 2022,
-          "mileage": 51445,
-          "notes": "0 accidents, 1 owner, personal use, clean title · $23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds",
-          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
-          "availability": "Ad observed by Muse 2026-10-31; unsold status unconfirmed"
-        }
-      ],
-      "lastVerified": "2026-10-31",
-      "evidence": {
-        "source": "One-time independent direct seller audit",
-        "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-        "date": "2026-10-31",
-        "reason": "Direct seller GET returned 200 and matched VIN/title. Later request was restricted; no independent price override or sale inference."
-      },
-      "reportedPriceChange": -500,
-      "verificationHistory": [
-        {
-          "result": "observed",
-          "checkedAt": "2026-10-31T17:58:28.835Z",
-          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-          "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
-        },
-        {
-          "result": "observed",
-          "checkedAt": "2026-10-31T18:00:03.194Z",
-          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-          "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
-        }
-      ],
-      "missingFromFeed": false,
-      "verification": {
-        "result": "observed",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
-        "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-        "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
-        "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
-      },
-      "score": 66.1,
-      "rankReasons": [
-        "Mileage / remaining-life proxy 15.7/22",
-        "Price value 12.2/18",
-        "Age proxy 5.2/10",
-        "History evidence 21/21",
-        "Verified service documentation 0/12",
-        "AWD bonus 4/4",
-        "Availability evidence 8/8"
-      ],
-      "priceDrop": 500,
-      "eligibility": {
-        "qualifies": true,
-        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      },
-      "currentObservation": {
-        "source": "Muse",
-        "observedAt": "2026-10-31",
-        "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
-        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
-      },
-      "sourcePresence": {
-        "muse": {
-          "present": true,
-          "observedAt": "2026-10-31",
-          "mode": "snapshot"
-        }
-      },
-      "priceConflicts": []
-    },
-    {
-      "id": "KNDRJDLH3N5122875",
-      "vin": "KNDRJDLH3N5122875",
-      "name": "Kia Sorento",
-      "trim": "Plug-In Hybrid SX",
-      "year": 2022,
-      "mileage": 35609,
-      "price": 27000,
-      "seller": "Palm Springs Kia (dealer)",
-      "city": "Cathedral City",
-      "state": "CA",
-      "drive": "AWD",
-      "type": "PHEV",
-      "rows": null,
-      "status": "shortlist",
-      "rank": 3,
-      "title": "Reported clean",
-      "owners": 1,
-      "accidents": "None reported",
-      "use": "Personal reported",
-      "maintenance": "Unknown",
-      "fees": null,
-      "feeNote": "Muse report asking price; fee inclusion requires confirmation.",
-      "checked": "2026-10-31",
-      "availability": "Ad observed by Muse 2026-10-31; unsold status unconfirmed",
-      "historySource": "Muse JSON feed; history claims attributed to its report",
-      "reason": "Included in the Muse daily report. Read the original listing and report concerns before pursuing.",
-      "concern": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020 · Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
-      "sellerClaim": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020",
-      "unknowns": [
-        "Seller-confirmed availability",
-        "Full history evidence",
-        "Fees / conditions"
-      ],
-      "color": "sage",
-      "origin": "Muse",
-      "imported": true,
-      "sources": [
-        {
-          "label": "Edmunds · via Muse",
-          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/"
-        }
-      ],
-      "observations": [
-        {
-          "source": "Muse",
-          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
-          "checkedAt": "2026-10-30",
-          "price": 27422,
-          "name": "Kia Sorento",
-          "year": 2022,
-          "mileage": 35609,
-          "notes": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020 · Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
-          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
-          "availability": "Ad observed by Muse 2026-10-30; unsold status unconfirmed"
-        },
-        {
-          "source": "Muse",
-          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
-          "checkedAt": "2026-10-31",
-          "price": 27000,
-          "name": "Kia Sorento",
-          "year": 2022,
-          "mileage": 35609,
-          "notes": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020 · Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
-          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
-          "availability": "Ad observed by Muse 2026-10-31; unsold status unconfirmed"
-        }
-      ],
-      "events": [
-        {
-          "date": "2026-10-30",
-          "text": "Muse report: AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020 · Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price"
-        },
-        {
-          "date": "2026-10-30",
-          "text": "Verified active Oct 30 via Edmunds: still $27,422 / 35,609 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; fees not disclosed"
-        },
-        {
-          "date": "2026-10-31",
-          "text": "Muse report: AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020 · Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price"
-        },
-        {
-          "date": "2026-10-31",
-          "text": "Verified active Oct 31 via Edmunds: PRICE DROP $27,422 -> $27,000 (-$422) / 35,609 mi unchanged; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; fees not disclosed"
-        }
-      ],
-      "discoveryAgents": [
-        "Muse"
-      ],
-      "sourceIds": [
-        "muse:KNDRJDLH3N5122875"
-      ],
-      "lastVerified": "2026-10-31",
-      "listingState": "verified_active",
-      "evidence": null,
-      "priceHistory": [
-        {
-          "date": "2026-10-30",
-          "price": 27422,
-          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
-          "agent": "Muse",
-          "basis": "Muse report asking price; fee inclusion requires confirmation."
-        },
-        {
-          "date": "2026-10-31",
-          "price": 27000,
-          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
-          "agent": "Muse",
-          "basis": "Muse report asking price; fee inclusion requires confirmation."
-        }
-      ],
-      "reportedPriceChange": -422,
-      "verificationHistory": [],
-      "missingFromFeed": false,
-      "score": 64.3,
-      "rankReasons": [
-        "Mileage / remaining-life proxy 18.9/22",
-        "Price value 7.2/18",
-        "Age proxy 5.2/10",
-        "History evidence 21/21",
-        "Verified service documentation 0/12",
-        "AWD bonus 4/4",
-        "Availability evidence 8/8"
-      ],
-      "priceDrop": 422,
-      "eligibility": {
-        "qualifies": true,
-        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      },
-      "currentObservation": {
-        "source": "Muse",
-        "observedAt": "2026-10-31",
-        "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
-        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
-      },
-      "sourcePresence": {
-        "muse": {
-          "present": true,
-          "observedAt": "2026-10-31",
-          "mode": "snapshot"
-        }
-      },
-      "priceConflicts": []
-    },
-    {
       "id": "KNDRH4LG0P5224396",
       "vin": "KNDRH4LG0P5224396",
       "name": "Kia Sorento",
@@ -580,7 +190,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 4,
+      "rank": 2,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -752,7 +362,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 5,
+      "rank": 3,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -898,7 +508,7 @@
       "type": "HEV",
       "rows": 2,
       "status": "shortlist",
-      "rank": 6,
+      "rank": 4,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -972,7 +582,7 @@
       "missingFromFeed": false,
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "finalUrl": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -1015,7 +625,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 7,
+      "rank": 5,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -1160,7 +770,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 8,
+      "rank": 6,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -1305,7 +915,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 9,
+      "rank": 7,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -1403,7 +1013,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -1422,7 +1032,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 10,
+      "rank": 8,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -1567,7 +1177,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 11,
+      "rank": 9,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -1729,178 +1339,6 @@
       "priceConflicts": []
     },
     {
-      "id": "KNDRH4LG7P5193809",
-      "vin": "KNDRH4LG7P5193809",
-      "name": "Kia Sorento",
-      "trim": "Hybrid EX FWD",
-      "year": 2023,
-      "mileage": 31584,
-      "price": 29102,
-      "seller": "Kia of Cerritos (dealer)",
-      "city": "Cerritos",
-      "state": "CA",
-      "drive": "FWD",
-      "type": "HEV",
-      "rows": null,
-      "status": "shortlist",
-      "rank": 12,
-      "title": "Reported clean",
-      "owners": 1,
-      "accidents": "None reported",
-      "use": "Unknown",
-      "maintenance": "Unknown",
-      "fees": null,
-      "feeNote": "Muse report asking price; fee inclusion requires confirmation.",
-      "checked": "2026-10-31",
-      "availability": "Ad observed by Muse 2026-10-31; unsold status unconfirmed",
-      "historySource": "Muse JSON feed; history claims attributed to its report",
-      "reason": "Included in the Muse daily report. Read the original listing and report concerns before pursuing.",
-      "concern": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)",
-      "sellerClaim": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees",
-      "unknowns": [
-        "Seller-confirmed availability",
-        "Full history evidence",
-        "Fees / conditions"
-      ],
-      "color": "sage",
-      "origin": "Muse",
-      "imported": true,
-      "sources": [
-        {
-          "label": "CarGurus · via Muse",
-          "url": "https://www.cargurus.com/details/460851868"
-        }
-      ],
-      "observations": [
-        {
-          "source": "Muse",
-          "url": "https://www.cargurus.com/details/460851868",
-          "checkedAt": "2026-10-26",
-          "price": 29110,
-          "name": "Kia Sorento",
-          "year": 2023,
-          "mileage": 31584,
-          "notes": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE DROP $29,463 -> $29,112 (-$351)",
-          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
-          "availability": "Ad observed by Muse 2026-10-26; unsold status unconfirmed"
-        },
-        {
-          "source": "Muse",
-          "url": "https://www.cargurus.com/details/460851868",
-          "checkedAt": "2026-10-30",
-          "price": 29102,
-          "name": "Kia Sorento",
-          "year": 2023,
-          "mileage": 31584,
-          "notes": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)",
-          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
-          "availability": "Ad observed by Muse 2026-10-30; unsold status unconfirmed"
-        },
-        {
-          "source": "Muse",
-          "url": "https://www.cargurus.com/details/460851868",
-          "checkedAt": "2026-10-31",
-          "price": 29102,
-          "name": "Kia Sorento",
-          "year": 2023,
-          "mileage": 31584,
-          "notes": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)",
-          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
-          "availability": "Ad observed by Muse 2026-10-31; unsold status unconfirmed"
-        }
-      ],
-      "events": [
-        {
-          "date": "2026-10-26",
-          "text": "Muse report: Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE DROP $29,463 -> $29,112 (-$351)"
-        },
-        {
-          "date": "2026-10-26",
-          "text": "Verified active Oct 26 via live browser: still $29,110 / 31,584 mi; 20 days on CarGurus; 'Price went down by $2'; Kia CPO; VIN on page KNDRH4LG7P5193809"
-        },
-        {
-          "date": "2026-10-30",
-          "text": "Muse report: Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)"
-        },
-        {
-          "date": "2026-10-30",
-          "text": "Verified active Oct 30 via CarGurus: $29,107 -> $29,102 (-$5) / 31,584 mi; Kia CPO; Clean CARFAX, CARFAX One-Owner; price includes fees"
-        },
-        {
-          "date": "2026-10-31",
-          "text": "Muse report: Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)"
-        },
-        {
-          "date": "2026-10-31",
-          "text": "Verified active Oct 31 via CarGurus: still $29,102 / 31,584 mi, unchanged; Kia CPO; Clean CARFAX, CARFAX One-Owner; price includes fees"
-        }
-      ],
-      "discoveryAgents": [
-        "Muse"
-      ],
-      "sourceIds": [
-        "muse:KNDRH4LG7P5193809"
-      ],
-      "lastVerified": "2026-10-31",
-      "listingState": "verified_active",
-      "evidence": null,
-      "priceHistory": [
-        {
-          "date": "2026-10-26",
-          "price": 29110,
-          "url": "https://www.cargurus.com/details/460851868",
-          "agent": "Muse",
-          "basis": "Muse report asking price; fee inclusion requires confirmation."
-        },
-        {
-          "date": "2026-10-30",
-          "price": 29102,
-          "url": "https://www.cargurus.com/details/460851868",
-          "agent": "Muse",
-          "basis": "Muse report asking price; fee inclusion requires confirmation."
-        },
-        {
-          "date": "2026-10-31",
-          "price": 29102,
-          "url": "https://www.cargurus.com/details/460851868",
-          "agent": "Muse",
-          "basis": "Muse report asking price; fee inclusion requires confirmation."
-        }
-      ],
-      "reportedPriceChange": 0,
-      "verificationHistory": [],
-      "missingFromFeed": false,
-      "score": 59.1,
-      "rankReasons": [
-        "Mileage / remaining-life proxy 19.7/22",
-        "Price value 4.0/18",
-        "Age proxy 6.4/10",
-        "History evidence 21/21",
-        "Verified service documentation 0/12",
-        "AWD bonus 0/4",
-        "Availability evidence 8/8"
-      ],
-      "priceDrop": 0,
-      "eligibility": {
-        "qualifies": true,
-        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      },
-      "currentObservation": {
-        "source": "Muse",
-        "observedAt": "2026-10-31",
-        "url": "https://www.cargurus.com/details/460851868",
-        "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
-      },
-      "sourcePresence": {
-        "muse": {
-          "present": true,
-          "observedAt": "2026-10-31",
-          "mode": "snapshot"
-        }
-      },
-      "priceConflicts": []
-    },
-    {
       "id": "KNDRKDLG6P5200279",
       "vin": "KNDRKDLG6P5200279",
       "name": "Kia Sorento",
@@ -1915,7 +1353,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 13,
+      "rank": 10,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -2087,7 +1525,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 14,
+      "rank": 11,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -2176,7 +1614,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.cars.com/vehicledetail/c9a03e10-3fa4-401e-8597-15aceec95590/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -2192,7 +1630,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -2212,7 +1650,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 15,
+      "rank": 12,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -2320,7 +1758,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.sandskia.com/used-Phoenix-2022-Kia-Sorento%2BHybrid-S-KNDRG4LG8N5081732",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -2336,7 +1774,7 @@
           "present": false,
           "observedAt": "2026-10-26",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -2355,7 +1793,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 16,
+      "rank": 13,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "Unknown",
@@ -2527,7 +1965,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 17,
+      "rank": 14,
       "title": "Reported clean",
       "owners": 2,
       "accidents": "None reported",
@@ -2625,7 +2063,7 @@
           "present": false,
           "observedAt": "2026-10-26",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -2644,7 +2082,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 18,
+      "rank": 15,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -2816,7 +2254,7 @@
       "type": "HEV",
       "rows": 2,
       "status": "watchlist",
-      "rank": 19,
+      "rank": 16,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -2890,7 +2328,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.lithia.com/used/Hyundai/2022-Hyundai-Santa-Fe-Hybrid-a3f0ac38ac1811a5b94575c6b5faa03d.htm",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -2919,7 +2357,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 20,
+      "rank": 17,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "Unknown",
@@ -3045,7 +2483,7 @@
       "type": "HEV",
       "rows": 2,
       "status": "watchlist",
-      "rank": 21,
+      "rank": 18,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -3141,7 +2579,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 22,
+      "rank": 19,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -3260,7 +2698,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 23,
+      "rank": 20,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -3358,7 +2796,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -3377,7 +2815,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 24,
+      "rank": 21,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -3496,7 +2934,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 25,
+      "rank": 22,
       "title": "Unknown",
       "owners": 1,
       "accidents": "None reported",
@@ -3594,7 +3032,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -3613,7 +3051,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 26,
+      "rank": 23,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -3732,7 +3170,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 27,
+      "rank": 24,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -3858,7 +3296,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 28,
+      "rank": 25,
       "title": "Unknown",
       "owners": 1,
       "accidents": "None reported",
@@ -3947,7 +3385,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -3963,9 +3401,295 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
+    },
+    {
+      "vin": "KNDRGDLG3N5107069",
+      "name": "Kia Sorento Hybrid",
+      "trim": "S",
+      "year": 2022,
+      "mileage": 51445,
+      "price": 23793,
+      "basePrice": 23792,
+      "fees": 799,
+      "feeNote": "Dealer $23,793 AutoNation 1Price includes $799 dealer services fee ($22,994 vehicle + $799); do not add fee again. Government charges/travel excluded. Financing/trade-in/rebate conditions not established.",
+      "city": "Peoria",
+      "state": "AZ",
+      "drive": "AWD",
+      "type": "HEV",
+      "rows": 3,
+      "status": "shortlist",
+      "rank": 26,
+      "title": "Unknown",
+      "owners": null,
+      "accidents": "Unknown",
+      "use": "Unknown",
+      "maintenance": "Unknown",
+      "historyDate": "2026-10-31",
+      "checked": "2026-10-31",
+      "availability": "Dealer ad retrieved October 31 corroborates VIN, 51,445 miles and itemized price. Ad presence is not seller-confirmed unsold availability.",
+      "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
+      "airport": "Phoenix Sky Harbor · PHX",
+      "reason": "Independent discovery; ranked with the same evidence rules as every source.",
+      "concern": "New dealer retrieval shows $23,793 versus $24,293 including same fee in earlier October 31 report. Prior report is price-history evidence; seller has not confirmed a written total. Earlier Muse clean-title/one-owner/no-accident claims not reverified.",
+      "sellerClaim": "New dealer retrieval shows $23,793 versus $24,293 including same fee in earlier October 31 report. Prior report is price-history evidence; seller has not confirmed a written total. Earlier Muse clean-title/one-owner/no-accident claims not reverified.",
+      "unknowns": [
+        "Seller-confirmed unsold status",
+        "Complete title/history evidence",
+        "Maintenance invoices",
+        "Battery condition"
+      ],
+      "color": "blue",
+      "sources": [
+        {
+          "label": "Original dealer listing",
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069"
+        },
+        {
+          "label": "TrueCar / AutoCheck summary",
+          "url": "https://www.truecar.com/used-cars-for-sale/listing/KNDRGDLG3N5107069/2022-kia-sorento/"
+        },
+        {
+          "label": "Edmunds · via Muse",
+          "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50"
+        },
+        {
+          "label": "Original listing · via ChatGPT independent",
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069"
+        }
+      ],
+      "events": [
+        {
+          "date": "2026-10-12",
+          "price": 25191,
+          "text": "Original $25,191; marketplace $24,591. $600 discrepancy."
+        },
+        {
+          "date": "2026-10-14",
+          "price": 24591,
+          "text": "Original and marketplace match at $24,591; $600 below the previously recorded original quote. Exact change time unknown."
+        },
+        {
+          "date": "2026-10-15",
+          "price": 24591,
+          "text": "Unchanged from October 14."
+        },
+        {
+          "date": "2026-10-30",
+          "text": "Muse report: 0 accidents, 1 owner, personal use, clean title · $23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds"
+        },
+        {
+          "date": "2026-10-30",
+          "text": "Verified active Oct 30 via Edmunds: still $24,293 total / 51,445 mi, unchanged; $23,494 + $799 dealer services fee; 0 accidents, 1 owner, personal use, clean title"
+        },
+        {
+          "date": "2026-10-31",
+          "text": "Muse report: 0 accidents, 1 owner, personal use, clean title · $23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds"
+        },
+        {
+          "date": "2026-10-31",
+          "text": "Verified active Oct 31 via Edmunds: PRICE DROP $24,293 -> $23,793 (-$500) / 51,445 mi unchanged; $22,994 + $799 dealer services fee; 0 accidents, 1 owner, personal use, clean title"
+        },
+        {
+          "date": "2026-10-31",
+          "text": "Direct seller GET returned 200 and matched VIN/title. Later request was restricted; no independent price override or sale inference."
+        },
+        {
+          "date": "2026-10-31",
+          "text": "ChatGPT independent observation: Dealer ad retrieved October 31 corroborates VIN, 51,445 miles and itemized price. Ad presence is not seller-confirmed unsold availability."
+        }
+      ],
+      "id": "KNDRGDLG3N5107069",
+      "discoveryAgents": [
+        "ChatGPT",
+        "Muse",
+        "ChatGPT independent"
+      ],
+      "sourceIds": [
+        "muse:KNDRGDLG3N5107069",
+        "independent:KNDRGDLG3N5107069"
+      ],
+      "priceHistory": [
+        {
+          "date": "2026-10-12",
+          "price": 25191,
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "agent": "ChatGPT",
+          "basis": "Original $25,191; marketplace $24,591. $600 discrepancy."
+        },
+        {
+          "date": "2026-10-14",
+          "price": 24591,
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "agent": "ChatGPT",
+          "basis": "Original and marketplace match at $24,591; $600 below the previously recorded original quote. Exact change time unknown."
+        },
+        {
+          "date": "2026-10-15",
+          "price": 24591,
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "agent": "ChatGPT",
+          "basis": "Unchanged from October 14."
+        },
+        {
+          "date": "2026-10-30",
+          "price": 24293,
+          "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
+          "agent": "Muse",
+          "basis": "Muse report asking price; fee inclusion requires confirmation."
+        },
+        {
+          "date": "2026-10-31",
+          "price": 23793,
+          "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
+          "agent": "Muse",
+          "basis": "Muse report asking price; fee inclusion requires confirmation."
+        },
+        {
+          "date": "2026-10-12",
+          "price": 25191,
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "agent": "Muse",
+          "basis": "Original $25,191; marketplace $24,591. $600 discrepancy."
+        },
+        {
+          "date": "2026-10-14",
+          "price": 24591,
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "agent": "Muse",
+          "basis": "Original and marketplace match at $24,591; $600 below the previously recorded original quote. Exact change time unknown."
+        },
+        {
+          "date": "2026-10-15",
+          "price": 24591,
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "agent": "Muse",
+          "basis": "Unchanged from October 14."
+        },
+        {
+          "date": "2026-10-31",
+          "price": 23793,
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "agent": "ChatGPT independent",
+          "basis": "Dealer $23,793 AutoNation 1Price includes $799 dealer services fee ($22,994 vehicle + $799); do not add fee again. Government charges/travel excluded. Financing/trade-in/rebate conditions not established."
+        }
+      ],
+      "listingState": "verified_active",
+      "seller": "AutoNation Chevrolet Arrowhead",
+      "origin": "ChatGPT independent",
+      "imported": true,
+      "observations": [
+        {
+          "source": "Muse",
+          "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
+          "checkedAt": "2026-10-30",
+          "price": 24293,
+          "name": "Kia Sorento",
+          "year": 2022,
+          "mileage": 51445,
+          "notes": "0 accidents, 1 owner, personal use, clean title · $23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds",
+          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
+          "availability": "Ad observed by Muse 2026-10-30; unsold status unconfirmed"
+        },
+        {
+          "source": "Muse",
+          "url": "https://www.edmunds.com/kia/sorento-hybrid/2022/vin/KNDRGDLG3N5107069/?radius=50",
+          "checkedAt": "2026-10-31",
+          "price": 23793,
+          "name": "Kia Sorento",
+          "year": 2022,
+          "mileage": 51445,
+          "notes": "0 accidents, 1 owner, personal use, clean title · $23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds",
+          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
+          "availability": "Ad observed by Muse 2026-10-31; unsold status unconfirmed"
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z",
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "checkedAt": "2026-10-31",
+          "price": 23793,
+          "priceBasis": "Dealer $23,793 AutoNation 1Price includes $799 dealer services fee ($22,994 vehicle + $799); do not add fee again. Government charges/travel excluded. Financing/trade-in/rebate conditions not established.",
+          "availability": "Dealer ad retrieved October 31 corroborates VIN, 51,445 miles and itemized price. Ad presence is not seller-confirmed unsold availability.",
+          "notes": "New dealer retrieval shows $23,793 versus $24,293 including same fee in earlier October 31 report. Prior report is price-history evidence; seller has not confirmed a written total. Earlier Muse clean-title/one-owner/no-accident claims not reverified."
+        }
+      ],
+      "lastVerified": "2026-10-31",
+      "evidence": {
+        "source": "One-time independent direct seller audit",
+        "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+        "date": "2026-10-31",
+        "reason": "Direct seller GET returned 200 and matched VIN/title. Later request was restricted; no independent price override or sale inference."
+      },
+      "reportedPriceChange": -500,
+      "verificationHistory": [
+        {
+          "result": "observed",
+          "checkedAt": "2026-10-31T17:58:28.835Z",
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
+        },
+        {
+          "result": "observed",
+          "checkedAt": "2026-10-31T18:00:03.194Z",
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
+        },
+        {
+          "result": "observed",
+          "checkedAt": "2026-10-31T18:25:22.428Z",
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
+        }
+      ],
+      "missingFromFeed": false,
+      "verification": {
+        "result": "observed",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
+        "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+        "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+        "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
+      },
+      "score": 45.1,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 15.7/22",
+        "Price value 12.2/18",
+        "Age proxy 5.2/10",
+        "History evidence 0/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 4/4",
+        "Availability evidence 8/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": true,
+        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "ChatGPT independent",
+        "observedAt": "2026-10-31",
+        "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+        "priceBasis": "Dealer $23,793 AutoNation 1Price includes $799 dealer services fee ($22,994 vehicle + $799); do not add fee again. Government charges/travel excluded. Financing/trade-in/rebate conditions not established."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        },
+        "independent": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "observations",
+          "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z"
+        }
+      },
+      "priceConflicts": []
     },
     {
       "id": "muse-3jtoeh",
@@ -3982,7 +3706,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 29,
+      "rank": 27,
       "title": "Reported clean",
       "owners": 2,
       "accidents": "None reported",
@@ -4101,7 +3825,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 30,
+      "rank": 28,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -4227,7 +3951,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 31,
+      "rank": 29,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -4325,7 +4049,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -4344,7 +4068,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 32,
+      "rank": 30,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "1 accident reported",
@@ -4442,7 +4166,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -4461,7 +4185,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 33,
+      "rank": 31,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -4550,7 +4274,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.earnhardthyundai.com/used-city-2022-Hyundai-Santa%20Fe%20Hybrid-vehicle-KM8S5DA19NU037634",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -4566,7 +4290,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -4585,7 +4309,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 34,
+      "rank": 32,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -4711,7 +4435,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.hellosubarutemecula.com/inventory/used-2023-kia-sorento-hybrid-ex-awd-4d-sport-utility-kndrhdlg0p5189018/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -4727,7 +4451,7 @@
           "present": false,
           "observedAt": "2026-10-30",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -4746,7 +4470,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 35,
+      "rank": 33,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -4844,7 +4568,7 @@
           "present": false,
           "observedAt": "2026-10-17",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -4863,7 +4587,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 36,
+      "rank": 34,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -5008,7 +4732,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 37,
+      "rank": 35,
       "title": "Reported clean",
       "owners": 3,
       "accidents": "1 accident reported",
@@ -5127,7 +4851,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 38,
+      "rank": 36,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -5266,6 +4990,13 @@
           "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
           "httpStatus": 403,
           "reason": "Access restricted; availability unknown."
+        },
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-10-31T18:25:22.428Z",
+          "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
         }
       ],
       "missingFromFeed": false,
@@ -5286,7 +5017,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -5321,7 +5052,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 39,
+      "rank": 37,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -5447,7 +5178,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 40,
+      "rank": 38,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -5536,7 +5267,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.cars.com/vehicledetail/30c01ad9-b72a-4d72-9f2d-c6dee8d04c00/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -5552,7 +5283,7 @@
           "present": false,
           "observedAt": "2026-10-18",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -5571,7 +5302,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 41,
+      "rank": 39,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -5697,7 +5428,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 42,
+      "rank": 40,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -5823,7 +5554,7 @@
       "type": "HEV",
       "rows": null,
       "status": "shortlist",
-      "rank": 43,
+      "rank": 41,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -5954,6 +5685,202 @@
       "priceConflicts": []
     },
     {
+      "id": "KNDRJDLH3N5122875",
+      "vin": "KNDRJDLH3N5122875",
+      "name": "Kia Sorento PHEV",
+      "trim": "SX",
+      "year": 2022,
+      "mileage": 35609,
+      "price": 27422,
+      "seller": "Palm Springs Kia",
+      "city": "Cathedral City",
+      "state": "CA",
+      "drive": "AWD",
+      "type": "PHEV",
+      "rows": 3,
+      "status": "watchlist",
+      "rank": 42,
+      "title": "Unknown",
+      "owners": null,
+      "accidents": "Unknown",
+      "use": "Unknown",
+      "maintenance": "Unknown",
+      "fees": null,
+      "feeNote": "AutosToday advertised $27,422. Estimated out-the-door $29,795 is an estimate, not a binding itemized fee total. Mandatory fees and financing/trade-in conditions unknown. Earlier morning CARFAX quote $27,122 conflicts; no confirmed comparable dealer price cut.",
+      "checked": "2026-10-31",
+      "availability": "VIN-specific AutosToday ad retrieved October 31. Marketplace evidence may lag seller inventory; unsold availability unconfirmed.",
+      "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
+      "reason": "Independent discovery; ranked with the same evidence rules as every source.",
+      "concern": "Public marketplace re-observation; battery/charging equipment and full history unknown. Earlier report attributed clean title/one owner/no accidents to Muse and service claims to CARFAX; not rechecked in this export.",
+      "sellerClaim": "Public marketplace re-observation; battery/charging equipment and full history unknown. Earlier report attributed clean title/one owner/no accidents to Muse and service claims to CARFAX; not rechecked in this export.",
+      "unknowns": [
+        "Seller-confirmed unsold status",
+        "Complete title/history evidence",
+        "Maintenance invoices",
+        "Battery condition",
+        "Conflicting contemporaneous quotes; obtain a current written price."
+      ],
+      "color": "blue",
+      "origin": "ChatGPT independent",
+      "imported": true,
+      "sources": [
+        {
+          "label": "Edmunds · via Muse",
+          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/"
+        },
+        {
+          "label": "Original listing · via ChatGPT independent",
+          "url": "https://www.autostoday.com/cars-for-sale/used-cars/listing/KNDRJDLH3N5122875/2022-kia-sorento-phev-sx-cathedral-city-ca"
+        }
+      ],
+      "observations": [
+        {
+          "source": "Muse",
+          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
+          "checkedAt": "2026-10-30",
+          "price": 27422,
+          "name": "Kia Sorento",
+          "year": 2022,
+          "mileage": 35609,
+          "notes": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020 · Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
+          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
+          "availability": "Ad observed by Muse 2026-10-30; unsold status unconfirmed"
+        },
+        {
+          "source": "Muse",
+          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
+          "checkedAt": "2026-10-31",
+          "price": 27000,
+          "name": "Kia Sorento",
+          "year": 2022,
+          "mileage": 35609,
+          "notes": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020 · Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
+          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
+          "availability": "Ad observed by Muse 2026-10-31; unsold status unconfirmed"
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z",
+          "url": "https://www.autostoday.com/cars-for-sale/used-cars/listing/KNDRJDLH3N5122875/2022-kia-sorento-phev-sx-cathedral-city-ca",
+          "checkedAt": "2026-10-31",
+          "price": 27422,
+          "priceBasis": "AutosToday advertised $27,422. Estimated out-the-door $29,795 is an estimate, not a binding itemized fee total. Mandatory fees and financing/trade-in conditions unknown. Earlier morning CARFAX quote $27,122 conflicts; no confirmed comparable dealer price cut.",
+          "availability": "VIN-specific AutosToday ad retrieved October 31. Marketplace evidence may lag seller inventory; unsold availability unconfirmed.",
+          "notes": "Public marketplace re-observation; battery/charging equipment and full history unknown. Earlier report attributed clean title/one owner/no accidents to Muse and service claims to CARFAX; not rechecked in this export."
+        }
+      ],
+      "events": [
+        {
+          "date": "2026-10-30",
+          "text": "Muse report: AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020 · Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price"
+        },
+        {
+          "date": "2026-10-30",
+          "text": "Verified active Oct 30 via Edmunds: still $27,422 / 35,609 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; fees not disclosed"
+        },
+        {
+          "date": "2026-10-31",
+          "text": "Muse report: AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020 · Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price"
+        },
+        {
+          "date": "2026-10-31",
+          "text": "Verified active Oct 31 via Edmunds: PRICE DROP $27,422 -> $27,000 (-$422) / 35,609 mi unchanged; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; fees not disclosed"
+        },
+        {
+          "date": "2026-10-31",
+          "text": "ChatGPT independent observation: VIN-specific AutosToday ad retrieved October 31. Marketplace evidence may lag seller inventory; unsold availability unconfirmed."
+        }
+      ],
+      "discoveryAgents": [
+        "Muse",
+        "ChatGPT independent"
+      ],
+      "sourceIds": [
+        "muse:KNDRJDLH3N5122875",
+        "independent:KNDRJDLH3N5122875"
+      ],
+      "lastVerified": null,
+      "listingState": "awaiting_verification",
+      "evidence": null,
+      "priceHistory": [
+        {
+          "date": "2026-10-30",
+          "price": 27422,
+          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
+          "agent": "Muse",
+          "basis": "Muse report asking price; fee inclusion requires confirmation."
+        },
+        {
+          "date": "2026-10-31",
+          "price": 27000,
+          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
+          "agent": "Muse",
+          "basis": "Muse report asking price; fee inclusion requires confirmation."
+        },
+        {
+          "date": "2026-10-31",
+          "price": 27422,
+          "url": "https://www.autostoday.com/cars-for-sale/used-cars/listing/KNDRJDLH3N5122875/2022-kia-sorento-phev-sx-cathedral-city-ca",
+          "agent": "ChatGPT independent",
+          "basis": "AutosToday advertised $27,422. Estimated out-the-door $29,795 is an estimate, not a binding itemized fee total. Mandatory fees and financing/trade-in conditions unknown. Earlier morning CARFAX quote $27,122 conflicts; no confirmed comparable dealer price cut."
+        }
+      ],
+      "reportedPriceChange": -422,
+      "verificationHistory": [],
+      "missingFromFeed": false,
+      "score": 36.7,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 18.9/22",
+        "Price value 6.6/18",
+        "Age proxy 5.2/10",
+        "History evidence 0/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 4/4",
+        "Availability evidence 2/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": true,
+        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "ChatGPT independent",
+        "observedAt": "2026-10-31",
+        "url": "https://www.autostoday.com/cars-for-sale/used-cars/listing/KNDRJDLH3N5122875/2022-kia-sorento-phev-sx-cathedral-city-ca",
+        "priceBasis": "AutosToday advertised $27,422. Estimated out-the-door $29,795 is an estimate, not a binding itemized fee total. Mandatory fees and financing/trade-in conditions unknown. Earlier morning CARFAX quote $27,122 conflicts; no confirmed comparable dealer price cut."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        },
+        "independent": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "observations",
+          "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z"
+        }
+      },
+      "priceConflicts": [
+        {
+          "price": 27000,
+          "source": "Muse",
+          "observedAt": "2026-10-31",
+          "url": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRJDLH3N5122875/",
+          "priceBasis": "Muse report asking price; fee inclusion requires confirmation."
+        },
+        {
+          "price": 27422,
+          "source": "ChatGPT independent",
+          "observedAt": "2026-10-31",
+          "url": "https://www.autostoday.com/cars-for-sale/used-cars/listing/KNDRJDLH3N5122875/2022-kia-sorento-phev-sx-cathedral-city-ca",
+          "priceBasis": "AutosToday advertised $27,422. Estimated out-the-door $29,795 is an estimate, not a binding itemized fee total. Mandatory fees and financing/trade-in conditions unknown. Earlier morning CARFAX quote $27,122 conflicts; no confirmed comparable dealer price cut."
+        }
+      ],
+      "historyDate": "2026-10-31"
+    },
+    {
       "vin": "KNDRHDLG5P5175812",
       "name": "Kia Sorento",
       "trim": "Hybrid EX · advertised CPO",
@@ -5968,7 +5895,7 @@
       "type": "HEV",
       "rows": 3,
       "status": "watchlist",
-      "rank": 44,
+      "rank": 43,
       "title": "Earlier claim downgraded",
       "owners": null,
       "accidents": "Unsubstantiated prior claim",
@@ -6060,7 +5987,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 45,
+      "rank": 44,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -6158,7 +6085,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -6177,7 +6104,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 46,
+      "rank": 45,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -6303,7 +6230,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 47,
+      "rank": 46,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -6392,7 +6319,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.onetoyota.com/inventory/used-2023-jeep-grand-cherokee-overland-4xe-4wd-4d-sport-utility-1c4rjyd62p8785778/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -6408,9 +6335,121 @@
           "present": false,
           "observedAt": "2026-10-22",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
+    },
+    {
+      "id": "5NMP24G17SH062657",
+      "vin": "5NMP24G17SH062657",
+      "name": "Hyundai Santa Fe Hybrid",
+      "trim": "SEL",
+      "year": 2025,
+      "price": 29350,
+      "mileage": 28491,
+      "city": "Hillsboro",
+      "state": "OR",
+      "drive": "FWD",
+      "type": "HEV",
+      "rows": 3,
+      "seller": "Royal Moore Auto Group",
+      "fees": null,
+      "feeNote": "Dealer Craigslist advertised $29,350. Tax/title/registration excluded. Documentation fee $250 expressly optional; optional dealer accessories extra. Financing advertised; no proven financing/trade-in/down-payment price condition.",
+      "title": "Seller claims clean",
+      "accidents": "Unknown",
+      "owners": null,
+      "use": "Unknown",
+      "maintenance": "Unknown",
+      "checked": "2026-10-31",
+      "lastVerified": null,
+      "availability": "Vehicle-specific dealer Craigslist ad retrieved October 31 with VIN, price/miles and seller clean-title claim. Public ad/indirect evidence only; unsold availability unconfirmed.",
+      "listingState": "awaiting_verification",
+      "status": "watchlist",
+      "origin": "ChatGPT independent",
+      "imported": true,
+      "color": "blue",
+      "discoveryAgents": [
+        "ChatGPT independent"
+      ],
+      "sourceIds": [
+        "independent:5NMP24G17SH062657"
+      ],
+      "sourcePresence": {
+        "independent": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "observations",
+          "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z"
+        }
+      },
+      "currentObservation": {
+        "source": "ChatGPT independent",
+        "observedAt": "2026-10-31",
+        "url": "https://www.craigslist.org/view/d/hillsboro-2025-hyundai-santa-fe-hybrid/LukpoQTL8RGlMJv73SSeoA",
+        "priceBasis": "Dealer Craigslist advertised $29,350. Tax/title/registration excluded. Documentation fee $250 expressly optional; optional dealer accessories extra. Financing advertised; no proven financing/trade-in/down-payment price condition."
+      },
+      "evidence": null,
+      "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
+      "historyDate": "2026-10-31",
+      "sellerClaim": "Seller classifies title clean, but fuel metadata says gas while vehicle description says Hybrid. Title claim is not independent title documentation. Ownership/accident/use/service/battery evidence unknown.",
+      "reason": "Independent discovery; ranked with the same evidence rules as every source.",
+      "concern": "Seller classifies title clean, but fuel metadata says gas while vehicle description says Hybrid. Title claim is not independent title documentation. Ownership/accident/use/service/battery evidence unknown.",
+      "unknowns": [
+        "Seller-confirmed unsold status",
+        "Complete title/history evidence",
+        "Maintenance invoices",
+        "Battery condition"
+      ],
+      "sources": [
+        {
+          "label": "Original listing · via ChatGPT independent",
+          "url": "https://www.craigslist.org/view/d/hillsboro-2025-hyundai-santa-fe-hybrid/LukpoQTL8RGlMJv73SSeoA"
+        }
+      ],
+      "observations": [
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z",
+          "url": "https://www.craigslist.org/view/d/hillsboro-2025-hyundai-santa-fe-hybrid/LukpoQTL8RGlMJv73SSeoA",
+          "checkedAt": "2026-10-31",
+          "price": 29350,
+          "priceBasis": "Dealer Craigslist advertised $29,350. Tax/title/registration excluded. Documentation fee $250 expressly optional; optional dealer accessories extra. Financing advertised; no proven financing/trade-in/down-payment price condition.",
+          "availability": "Vehicle-specific dealer Craigslist ad retrieved October 31 with VIN, price/miles and seller clean-title claim. Public ad/indirect evidence only; unsold availability unconfirmed.",
+          "notes": "Seller classifies title clean, but fuel metadata says gas while vehicle description says Hybrid. Title claim is not independent title documentation. Ownership/accident/use/service/battery evidence unknown."
+        }
+      ],
+      "priceHistory": [
+        {
+          "date": "2026-10-31",
+          "price": 29350,
+          "url": "https://www.craigslist.org/view/d/hillsboro-2025-hyundai-santa-fe-hybrid/LukpoQTL8RGlMJv73SSeoA",
+          "agent": "ChatGPT independent",
+          "basis": "Dealer Craigslist advertised $29,350. Tax/title/registration excluded. Documentation fee $250 expressly optional; optional dealer accessories extra. Financing advertised; no proven financing/trade-in/down-payment price condition."
+        }
+      ],
+      "events": [
+        {
+          "date": "2026-10-31",
+          "text": "ChatGPT independent observation: Vehicle-specific dealer Craigslist ad retrieved October 31 with VIN, price/miles and seller clean-title claim. Public ad/indirect evidence only; unsold availability unconfirmed."
+        }
+      ],
+      "missingFromFeed": false,
+      "score": 34.7,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 20.3/22",
+        "Price value 3.6/18",
+        "Age proxy 8.8/10",
+        "History evidence 0/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 0/4",
+        "Availability evidence 2/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": true,
+        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "rank": 47
     },
     {
       "id": "KNDRH4LG2P5156490",
@@ -6525,7 +6564,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -6642,7 +6681,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -6885,7 +6924,7 @@
           "present": false,
           "observedAt": "2026-10-14",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -6993,7 +7032,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -7009,7 +7048,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -7126,7 +7165,7 @@
           "present": false,
           "observedAt": "2026-10-12",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -7243,7 +7282,7 @@
           "present": false,
           "observedAt": "2026-10-14",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -7360,7 +7399,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -7477,7 +7516,7 @@
           "present": false,
           "observedAt": "2026-10-14",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -7594,9 +7633,223 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
+    },
+    {
+      "id": "KNDRH4LG7P5193809",
+      "vin": "KNDRH4LG7P5193809",
+      "name": "Kia Sorento Hybrid",
+      "trim": "EX",
+      "year": 2023,
+      "mileage": 31584,
+      "price": 29102,
+      "seller": "Kia of Cerritos",
+      "city": "Cerritos",
+      "state": "CA",
+      "drive": "FWD",
+      "type": "HEV",
+      "rows": 3,
+      "status": "watchlist",
+      "rank": 58,
+      "title": "Unknown",
+      "owners": null,
+      "accidents": "Unknown",
+      "use": "Unknown",
+      "maintenance": "Unknown",
+      "fees": null,
+      "feeNote": "Earlier October 31 report and retrieved dealer inventory advertised $29,102. Earlier Capital One $28,980 quote conflicts. Documentation/accessory charges and credit qualification disclosed in earlier report; final mandatory fees/financing conditions unresolved.",
+      "checked": "2026-10-31",
+      "availability": "October 31 cross-check gave matching inventory evidence but unstable redirects/cached vehicle details. Preserve original report observation date; do not infer unsold availability or removal.",
+      "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
+      "reason": "Independent discovery; ranked with the same evidence rules as every source.",
+      "concern": "Dealer inventory initially returned matching VIN/price/miles and advertised CPO. Vehicle detail retrieval was cached five days and later redirected to inventory with inconsistent lookup results. History and CPO coverage unverified.",
+      "sellerClaim": "Dealer inventory initially returned matching VIN/price/miles and advertised CPO. Vehicle detail retrieval was cached five days and later redirected to inventory with inconsistent lookup results. History and CPO coverage unverified.",
+      "unknowns": [
+        "Seller-confirmed unsold status",
+        "Complete title/history evidence",
+        "Maintenance invoices",
+        "Battery condition"
+      ],
+      "color": "blue",
+      "origin": "ChatGPT independent",
+      "imported": true,
+      "sources": [
+        {
+          "label": "CarGurus · via Muse",
+          "url": "https://www.cargurus.com/details/460851868"
+        },
+        {
+          "label": "Original listing · via ChatGPT independent",
+          "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/"
+        }
+      ],
+      "observations": [
+        {
+          "source": "Muse",
+          "url": "https://www.cargurus.com/details/460851868",
+          "checkedAt": "2026-10-26",
+          "price": 29110,
+          "name": "Kia Sorento",
+          "year": 2023,
+          "mileage": 31584,
+          "notes": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE DROP $29,463 -> $29,112 (-$351)",
+          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
+          "availability": "Ad observed by Muse 2026-10-26; unsold status unconfirmed"
+        },
+        {
+          "source": "Muse",
+          "url": "https://www.cargurus.com/details/460851868",
+          "checkedAt": "2026-10-30",
+          "price": 29102,
+          "name": "Kia Sorento",
+          "year": 2023,
+          "mileage": 31584,
+          "notes": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)",
+          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
+          "availability": "Ad observed by Muse 2026-10-30; unsold status unconfirmed"
+        },
+        {
+          "source": "Muse",
+          "url": "https://www.cargurus.com/details/460851868",
+          "checkedAt": "2026-10-31",
+          "price": 29102,
+          "name": "Kia Sorento",
+          "year": 2023,
+          "mileage": 31584,
+          "notes": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)",
+          "priceBasis": "Muse report asking price; fee inclusion requires confirmation.",
+          "availability": "Ad observed by Muse 2026-10-31; unsold status unconfirmed"
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z",
+          "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
+          "checkedAt": "2026-10-31",
+          "price": 29102,
+          "priceBasis": "Earlier October 31 report and retrieved dealer inventory advertised $29,102. Earlier Capital One $28,980 quote conflicts. Documentation/accessory charges and credit qualification disclosed in earlier report; final mandatory fees/financing conditions unresolved.",
+          "availability": "October 31 cross-check gave matching inventory evidence but unstable redirects/cached vehicle details. Preserve original report observation date; do not infer unsold availability or removal.",
+          "notes": "Dealer inventory initially returned matching VIN/price/miles and advertised CPO. Vehicle detail retrieval was cached five days and later redirected to inventory with inconsistent lookup results. History and CPO coverage unverified."
+        }
+      ],
+      "events": [
+        {
+          "date": "2026-10-26",
+          "text": "Muse report: Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE DROP $29,463 -> $29,112 (-$351)"
+        },
+        {
+          "date": "2026-10-26",
+          "text": "Verified active Oct 26 via live browser: still $29,110 / 31,584 mi; 20 days on CarGurus; 'Price went down by $2'; Kia CPO; VIN on page KNDRH4LG7P5193809"
+        },
+        {
+          "date": "2026-10-30",
+          "text": "Muse report: Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)"
+        },
+        {
+          "date": "2026-10-30",
+          "text": "Verified active Oct 30 via CarGurus: $29,107 -> $29,102 (-$5) / 31,584 mi; Kia CPO; Clean CARFAX, CARFAX One-Owner; price includes fees"
+        },
+        {
+          "date": "2026-10-31",
+          "text": "Muse report: Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees · FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)"
+        },
+        {
+          "date": "2026-10-31",
+          "text": "Verified active Oct 31 via CarGurus: still $29,102 / 31,584 mi, unchanged; Kia CPO; Clean CARFAX, CARFAX One-Owner; price includes fees"
+        },
+        {
+          "date": "2026-10-31",
+          "text": "ChatGPT independent observation: October 31 cross-check gave matching inventory evidence but unstable redirects/cached vehicle details. Preserve original report observation date; do not infer unsold availability or removal."
+        }
+      ],
+      "discoveryAgents": [
+        "Muse",
+        "ChatGPT independent"
+      ],
+      "sourceIds": [
+        "muse:KNDRH4LG7P5193809",
+        "independent:KNDRH4LG7P5193809"
+      ],
+      "lastVerified": null,
+      "listingState": "stale",
+      "evidence": null,
+      "priceHistory": [
+        {
+          "date": "2026-10-26",
+          "price": 29110,
+          "url": "https://www.cargurus.com/details/460851868",
+          "agent": "Muse",
+          "basis": "Muse report asking price; fee inclusion requires confirmation."
+        },
+        {
+          "date": "2026-10-30",
+          "price": 29102,
+          "url": "https://www.cargurus.com/details/460851868",
+          "agent": "Muse",
+          "basis": "Muse report asking price; fee inclusion requires confirmation."
+        },
+        {
+          "date": "2026-10-31",
+          "price": 29102,
+          "url": "https://www.cargurus.com/details/460851868",
+          "agent": "Muse",
+          "basis": "Muse report asking price; fee inclusion requires confirmation."
+        },
+        {
+          "date": "2026-10-31",
+          "price": 29102,
+          "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
+          "agent": "ChatGPT independent",
+          "basis": "Earlier October 31 report and retrieved dealer inventory advertised $29,102. Earlier Capital One $28,980 quote conflicts. Documentation/accessory charges and credit qualification disclosed in earlier report; final mandatory fees/financing conditions unresolved."
+        }
+      ],
+      "reportedPriceChange": 0,
+      "verificationHistory": [],
+      "missingFromFeed": false,
+      "score": 30.1,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 19.7/22",
+        "Price value 4.0/18",
+        "Age proxy 6.4/10",
+        "History evidence 0/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 0/4",
+        "Availability evidence 0/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": true,
+        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "currentObservation": {
+        "source": "ChatGPT independent",
+        "observedAt": "2026-10-31",
+        "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
+        "priceBasis": "Earlier October 31 report and retrieved dealer inventory advertised $29,102. Earlier Capital One $28,980 quote conflicts. Documentation/accessory charges and credit qualification disclosed in earlier report; final mandatory fees/financing conditions unresolved."
+      },
+      "sourcePresence": {
+        "muse": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "snapshot"
+        },
+        "independent": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "observations",
+          "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z"
+        }
+      },
+      "priceConflicts": [],
+      "verification": {
+        "result": "inaccessible",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
+        "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
+        "httpStatus": 403,
+        "reason": "Access restricted; availability unknown."
+      },
+      "historyDate": "2026-10-31"
     },
     {
       "id": "KNDRMDLG5P5130610",
@@ -7613,7 +7866,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 58,
+      "rank": 59,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -7711,7 +7964,7 @@
           "present": false,
           "observedAt": "2026-10-17",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -7730,7 +7983,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 59,
+      "rank": 60,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -7828,7 +8081,7 @@
           "present": false,
           "observedAt": "2026-10-26",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -7847,7 +8100,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 60,
+      "rank": 61,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -7945,9 +8198,121 @@
           "present": false,
           "observedAt": "2026-10-18",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
+    },
+    {
+      "id": "5TDJGRFH0JS041065",
+      "vin": "5TDJGRFH0JS041065",
+      "name": "Toyota Highlander Hybrid",
+      "trim": "XLE",
+      "year": 2018,
+      "price": 27998,
+      "mileage": 82247,
+      "city": "Milwaukie",
+      "state": "OR",
+      "drive": "AWD",
+      "type": "HEV",
+      "rows": 3,
+      "seller": "CarMax Portland Clackamas",
+      "fees": null,
+      "feeNote": "Capital One advertised $27,998, includes dealer fees. Seller text says no document/processing fees; excludes government charges and optional products. Price assumes Oregon purchase; transfer fees separate if applicable. Financing/trade-in conditions not established.",
+      "title": "Unknown",
+      "accidents": "Unknown",
+      "owners": null,
+      "use": "Unknown",
+      "maintenance": "Unknown",
+      "checked": "2026-10-31",
+      "lastVerified": "2026-10-31",
+      "availability": "VIN-specific marketplace ad retrieved October 31 showing price/miles/AWD and seller address. Indirect evidence; no seller confirmation of unsold status.",
+      "listingState": "verified_active",
+      "status": "shortlist",
+      "origin": "ChatGPT independent",
+      "imported": true,
+      "color": "blue",
+      "discoveryAgents": [
+        "ChatGPT independent"
+      ],
+      "sourceIds": [
+        "independent:5TDJGRFH0JS041065"
+      ],
+      "sourcePresence": {
+        "independent": {
+          "present": true,
+          "observedAt": "2026-10-31",
+          "mode": "observations",
+          "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z"
+        }
+      },
+      "currentObservation": {
+        "source": "ChatGPT independent",
+        "observedAt": "2026-10-31",
+        "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065",
+        "priceBasis": "Capital One advertised $27,998, includes dealer fees. Seller text says no document/processing fees; excludes government charges and optional products. Price assumes Oregon purchase; transfer fees separate if applicable. Financing/trade-in conditions not established."
+      },
+      "evidence": null,
+      "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
+      "historyDate": "2026-10-31",
+      "sellerClaim": "Re-observed via public Capital One retrieval on October 31; marketplace inventory says updated every 24 hours, subject to prior sale. Title, accident, ownership, service and battery evidence not refreshed. Earlier morning report's TrueCar clean/no-accident claims are not newly verified.",
+      "reason": "Independent discovery; ranked with the same evidence rules as every source.",
+      "concern": "Re-observed via public Capital One retrieval on October 31; marketplace inventory says updated every 24 hours, subject to prior sale. Title, accident, ownership, service and battery evidence not refreshed. Earlier morning report's TrueCar clean/no-accident claims are not newly verified.",
+      "unknowns": [
+        "Seller-confirmed unsold status",
+        "Complete title/history evidence",
+        "Maintenance invoices",
+        "Battery condition"
+      ],
+      "sources": [
+        {
+          "label": "Original listing · via ChatGPT independent",
+          "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065"
+        }
+      ],
+      "observations": [
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z",
+          "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065",
+          "checkedAt": "2026-10-31",
+          "price": 27998,
+          "priceBasis": "Capital One advertised $27,998, includes dealer fees. Seller text says no document/processing fees; excludes government charges and optional products. Price assumes Oregon purchase; transfer fees separate if applicable. Financing/trade-in conditions not established.",
+          "availability": "VIN-specific marketplace ad retrieved October 31 showing price/miles/AWD and seller address. Indirect evidence; no seller confirmation of unsold status.",
+          "notes": "Re-observed via public Capital One retrieval on October 31; marketplace inventory says updated every 24 hours, subject to prior sale. Title, accident, ownership, service and battery evidence not refreshed. Earlier morning report's TrueCar clean/no-accident claims are not newly verified."
+        }
+      ],
+      "priceHistory": [
+        {
+          "date": "2026-10-31",
+          "price": 27998,
+          "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065",
+          "agent": "ChatGPT independent",
+          "basis": "Capital One advertised $27,998, includes dealer fees. Seller text says no document/processing fees; excludes government charges and optional products. Price assumes Oregon purchase; transfer fees separate if applicable. Financing/trade-in conditions not established."
+        }
+      ],
+      "events": [
+        {
+          "date": "2026-10-31",
+          "text": "ChatGPT independent observation: VIN-specific marketplace ad retrieved October 31 showing price/miles/AWD and seller address. Indirect evidence; no seller confirmation of unsold status."
+        }
+      ],
+      "missingFromFeed": false,
+      "score": 27.6,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 9.6/22",
+        "Price value 5.7/18",
+        "Age proxy 0.4/10",
+        "History evidence 0/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 4/4",
+        "Availability evidence 8/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": true,
+        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "rank": 62
     },
     {
       "id": "5TDJGRFH0KS063827",
@@ -7964,7 +8329,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 61,
+      "rank": 63,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -8062,7 +8427,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -8082,7 +8447,7 @@
       "type": "HEV",
       "rows": 2,
       "status": "watchlist",
-      "rank": 62,
+      "rank": 64,
       "title": "Unknown",
       "owners": null,
       "accidents": "Seller: accident-free badge",
@@ -8153,7 +8518,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:25:22.428Z",
+        "checkedAt": "2026-10-31T18:27:42.509Z",
         "url": "https://www.echopark.com/car/2T2BGMCA5JC027777",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -8182,7 +8547,7 @@
       "type": "HEV",
       "rows": 3,
       "status": "watchlist",
-      "rank": 63,
+      "rank": 65,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -8266,7 +8631,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 64,
+      "rank": 66,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -8364,7 +8729,7 @@
           "present": false,
           "observedAt": "2026-10-26",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -8383,7 +8748,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 65,
+      "rank": 67,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -8481,7 +8846,7 @@
           "present": false,
           "observedAt": "2026-10-26",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -8500,7 +8865,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 66,
+      "rank": 68,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -8626,7 +8991,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 67,
+      "rank": 69,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -8752,7 +9117,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 68,
+      "rank": 70,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -8878,7 +9243,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 69,
+      "rank": 71,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -8976,7 +9341,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:25:22.428Z"
+          "lastCheckedAt": "2026-10-31T18:27:42.509Z"
         }
       }
     },
@@ -8995,7 +9360,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 70,
+      "rank": 72,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -9116,7 +9481,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 71,
+      "rank": 73,
       "title": "Unknown",
       "owners": 1,
       "accidents": "None reported",
@@ -9237,7 +9602,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 72,
+      "rank": 74,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -9362,7 +9727,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 73,
+      "rank": 75,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -9483,7 +9848,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 74,
+      "rank": 76,
       "title": "Reported clean",
       "owners": 2,
       "accidents": "None reported",
@@ -9604,7 +9969,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 75,
+      "rank": 77,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "1 accident reported",
@@ -9725,7 +10090,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 76,
+      "rank": 78,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -9879,7 +10244,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 77,
+      "rank": 79,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -10039,7 +10404,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 78,
+      "rank": 80,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -10160,7 +10525,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "removed",
-      "rank": 79,
+      "rank": 81,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -10281,7 +10646,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 80,
+      "rank": 82,
       "title": "Reported clean",
       "owners": 3,
       "accidents": "None reported",
@@ -10435,7 +10800,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 81,
+      "rank": 83,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -10544,9 +10909,9 @@
   ],
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T18:25:22.428Z",
+      "lastAttemptAt": "2026-10-31T18:27:42.509Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:25:22.428Z",
+      "lastSuccessAt": "2026-10-31T18:27:42.509Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 32,
@@ -10563,25 +10928,43 @@
       }
     },
     "independent": {
-      "status": "not_connected",
-      "lastSuccessAt": null,
-      "reportDate": null,
-      "error": "raw.githubusercontent.com HTTP 404",
-      "lastAttemptAt": "2026-10-31T18:25:22.428Z",
-      "exporterMode": "not_connected",
+      "status": "connected",
+      "lastSuccessAt": "2026-10-31T18:27:42.509Z",
+      "reportDate": "2026-10-31",
+      "error": null,
+      "lastAttemptAt": "2026-10-31T18:27:42.509Z",
+      "exporterMode": "one_time",
       "automationVerified": false,
-      "provenance": {}
+      "provenance": {
+        "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
+        "originSha256": "fc30eac687bfd168275dc9bf8a1018ece26147712a82a3862939886cdd9d7593",
+        "mode": "repository_checkout",
+        "path": "independent/listings.json",
+        "triggerRevision": "052118ea51174a4b115146fb272c46611c8eb712"
+      },
+      "lastExportAt": "2026-10-31T18:27:03.845Z",
+      "imported": 5,
+      "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
+      "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z",
+      "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
+      "contentHash": "fc30eac687bfd168275dc9bf8a1018ece26147712a82a3862939886cdd9d7593",
+      "automationId": "6acc0c049d908191bdd620f519aee69c",
+      "writer": {
+        "mode": "one_time",
+        "automationId": "6acc0c049d908191bdd620f519aee69c",
+        "runUrl": null
+      }
     }
   },
   "counts": {
-    "imported": 81,
-    "active": 21,
-    "stale": 48,
+    "imported": 83,
+    "active": 22,
+    "stale": 49,
     "archived": 12,
-    "verified": 21,
-    "awaitingVerification": 0,
+    "verified": 20,
+    "awaitingVerification": 2,
     "outsideCriteria": 10,
-    "qualifyingActive": 21
+    "qualifyingActive": 22
   },
   "reconciliation": [
     {
@@ -10805,6 +11188,41 @@
       "source": "muse",
       "sourceId": "muse:https://www.cargurus.com/details/458285167",
       "vehicleId": "muse-q06fgq",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL."
+    },
+    {
+      "source": "independent",
+      "sourceId": "independent:5TDJGRFH0JS041065",
+      "vehicleId": "5TDJGRFH0JS041065",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL."
+    },
+    {
+      "source": "independent",
+      "sourceId": "independent:KNDRJDLH3N5122875",
+      "vehicleId": "KNDRJDLH3N5122875",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL."
+    },
+    {
+      "source": "independent",
+      "sourceId": "independent:KNDRH4LG7P5193809",
+      "vehicleId": "KNDRH4LG7P5193809",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL."
+    },
+    {
+      "source": "independent",
+      "sourceId": "independent:KNDRGDLG3N5107069",
+      "vehicleId": "KNDRGDLG3N5107069",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL."
+    },
+    {
+      "source": "independent",
+      "sourceId": "independent:5NMP24G17SH062657",
+      "vehicleId": "5NMP24G17SH062657",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
     }
