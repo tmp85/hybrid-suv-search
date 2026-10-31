@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T19:00:56.814Z",
+  "generatedAt": "2026-10-31T19:01:39.672Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T19:00:56.814Z",
+      "lastAttemptAt": "2026-10-31T19:01:39.672Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T19:00:56.814Z",
+      "lastSuccessAt": "2026-10-31T19:01:39.672Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 115,
@@ -21,10 +21,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T19:00:56.814Z",
+      "lastSuccessAt": "2026-10-31T19:01:39.672Z",
       "reportDate": "2026-10-31",
       "error": null,
-      "lastAttemptAt": "2026-10-31T19:00:56.814Z",
+      "lastAttemptAt": "2026-10-31T19:01:39.672Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "80ce220215d33c5fa17dbeba3fb55584e9686f7b"
+        "triggerRevision": "d07f2cae417523255748528bf986437f425cea55"
       },
       "lastExportAt": "2026-10-31T18:30:26.007Z",
       "imported": 9,
@@ -59,27 +59,27 @@
     "qualifyingActive": 22
   },
   "photos": {
-    "checkedAt": "2026-10-31T19:00:56.814Z",
-    "attempted": 45,
-    "collected": 4,
+    "checkedAt": "2026-10-31T19:01:39.672Z",
+    "attempted": 18,
+    "collected": 0,
     "retained": 111,
     "archivedSkipped": 13,
-    "skippedExistingPhotos": 8,
-    "skippedRecentAttempt": 40,
-    "eligible": 63,
-    "deferred": 18,
+    "skippedExistingPhotos": 12,
+    "skippedRecentAttempt": 81,
+    "eligible": 18,
+    "deferred": 0,
     "withPhotos": 12,
     "withoutPhotos": 99,
     "outcomes": {
-      "collected": 4,
-      "no_source": 17,
-      "no_photos": 7,
-      "inaccessible": 17
+      "collected": 0,
+      "no_source": 12,
+      "no_photos": 2,
+      "inaccessible": 4
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 11927
+    "elapsedMs": 534
   },
   "alerts": []
 }
