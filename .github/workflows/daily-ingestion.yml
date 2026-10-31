@@ -1,0 +1,68 @@
+name: Refresh Hybrid Search inventory
+on:
+  schedule:
+    # Arizona stays UTC-7 year-round. GitHub schedules may be delayed.
+    - cron: '17 15 * * *' # 08:17 America/Phoenix
+    - cron: '47 18 * * *' # 11:47 later retry
+  push:
+    branches: [main]
+    paths: ['listings.json', 'index.html', 'scripts/**', 'dist/inventory.js', 'data/verification-overrides.json', '.github/workflows/daily-ingestion.yml']
+  workflow_dispatch:
+    inputs:
+      test_update:
+        description: Exercise an isolated price update without publishing invented data
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: hybrid-search-inventory
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test ingestion and safety rules
+        run: node --test tests/pipeline.test.mjs
+      - name: Ingest current origin and preserve last known good data
+        id: ingest
+        env:
+          TEST_UPDATE: ${{ inputs.test_update || false }}
+        run: |
+          if [ "$TEST_UPDATE" = "true" ]; then
+            node scripts/ingest.mjs --test-update
+          else
+            node scripts/ingest.mjs
+          fi
+      - name: Publish validated data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/inventory*.json data/health.json dist/inventory.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh hybrid search inventory and health'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Retain recoverable run data
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hybrid-search-inventory-${{ github.run_id }}
+          path: |
+            data/inventory*.json
+            data/health.json
+          retention-days: 30
+      - name: Flag degraded source health after preserving published data
+        if: steps.ingest.outputs.unhealthy == 'true'
+        run: |
+          echo '::error::Source health degraded. Last known good records were preserved; inspect the summary and data/health.json.'
+          exit 1
