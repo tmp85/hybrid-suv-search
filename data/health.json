@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-10-31T19:01:39.672Z",
+  "generatedAt": "2026-10-31T19:08:51.171Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T19:01:39.672Z",
+      "lastAttemptAt": "2026-10-31T19:08:51.171Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T19:01:39.672Z",
+      "lastSuccessAt": "2026-10-31T19:08:51.171Z",
       "reportDate": "2026-10-31",
       "error": null,
-      "imported": 115,
+      "imported": 108,
       "feedUrl": "https://tmp85.github.io/hybrid-suv-search/listings.json",
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
         "mode": "repository_checkout",
-        "originSha256": "ad3f3776b519f8cbb91def435102e45bb94476480ef037d3bb041d18f3e78b61",
+        "originSha256": "fbf197bbbf3e63daf14d517e4771771cfa335fe37949d765e66fb6b4f570729d",
         "pagesSha256": "ad3f3776b519f8cbb91def435102e45bb94476480ef037d3bb041d18f3e78b61",
-        "pagesMatchesOrigin": true,
-        "sourceRecordCount": 115,
+        "pagesMatchesOrigin": false,
+        "sourceRecordCount": 108,
         "supplementRecordCount": 0
       }
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T19:01:39.672Z",
+      "lastSuccessAt": "2026-10-31T19:08:51.171Z",
       "reportDate": "2026-10-31",
       "error": null,
-      "lastAttemptAt": "2026-10-31T19:01:39.672Z",
+      "lastAttemptAt": "2026-10-31T19:08:51.171Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "d07f2cae417523255748528bf986437f425cea55"
+        "triggerRevision": "13fd9085935e0bb678d625d2373dfe6e5f0ab4f4"
       },
       "lastExportAt": "2026-10-31T18:30:26.007Z",
       "imported": 9,
@@ -59,27 +59,27 @@
     "qualifyingActive": 22
   },
   "photos": {
-    "checkedAt": "2026-10-31T19:01:39.672Z",
-    "attempted": 18,
+    "checkedAt": "2026-10-31T19:08:51.171Z",
+    "attempted": 0,
     "collected": 0,
     "retained": 111,
     "archivedSkipped": 13,
     "skippedExistingPhotos": 12,
-    "skippedRecentAttempt": 81,
-    "eligible": 18,
+    "skippedRecentAttempt": 99,
+    "eligible": 0,
     "deferred": 0,
     "withPhotos": 12,
     "withoutPhotos": 99,
     "outcomes": {
       "collected": 0,
-      "no_source": 12,
-      "no_photos": 2,
-      "inaccessible": 4
+      "no_source": 0,
+      "no_photos": 0,
+      "inaccessible": 0
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 534
+    "elapsedMs": 3
   },
   "alerts": []
 }
