@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-independent",
+  "mode": "observations",
+  "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z",
+  "generatedAt": "2026-10-31T18:27:03.845Z",
+  "reportDate": "2026-10-31",
+  "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
+  "writer": {
+    "mode": "one_time",
+    "automationId": "6acc0c049d908191bdd620f519aee69c",
+    "runUrl": null
+  },
+  "listings": [
+    {
+      "observedAt": "2026-10-31",
+      "fees": null,
+      "history": {
+        "title": "unknown",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "vin": "5TDJGRFH0JS041065",
+      "year": 2018,
+      "name": "Toyota Highlander Hybrid",
+      "trim": "XLE",
+      "type": "HEV",
+      "price": 27998,
+      "mileage": 82247,
+      "city": "Milwaukie",
+      "state": "OR",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "CarMax Portland Clackamas",
+      "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065",
+      "priceBasis": "Capital One advertised $27,998, includes dealer fees. Seller text says no document/processing fees; excludes government charges and optional products. Price assumes Oregon purchase; transfer fees separate if applicable. Financing/trade-in conditions not established.",
+      "notes": "Re-observed via public Capital One retrieval on October 31; marketplace inventory says updated every 24 hours, subject to prior sale. Title, accident, ownership, service and battery evidence not refreshed. Earlier morning report's TrueCar clean/no-accident claims are not newly verified.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "VIN-specific marketplace ad retrieved October 31 showing price/miles/AWD and seller address. Indirect evidence; no seller confirmation of unsold status."
+      }
+    },
+    {
+      "observedAt": "2026-10-31",
+      "fees": null,
+      "history": {
+        "title": "unknown",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "vin": "KNDRJDLH3N5122875",
+      "year": 2022,
+      "name": "Kia Sorento PHEV",
+      "trim": "SX",
+      "type": "PHEV",
+      "price": 27422,
+      "mileage": 35609,
+      "city": "Cathedral City",
+      "state": "CA",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "Palm Springs Kia",
+      "url": "https://www.autostoday.com/cars-for-sale/used-cars/listing/KNDRJDLH3N5122875/2022-kia-sorento-phev-sx-cathedral-city-ca",
+      "priceBasis": "AutosToday advertised $27,422. Estimated out-the-door $29,795 is an estimate, not a binding itemized fee total. Mandatory fees and financing/trade-in conditions unknown. Earlier morning CARFAX quote $27,122 conflicts; no confirmed comparable dealer price cut.",
+      "notes": "Public marketplace re-observation; battery/charging equipment and full history unknown. Earlier report attributed clean title/one owner/no accidents to Muse and service claims to CARFAX; not rechecked in this export.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "VIN-specific AutosToday ad retrieved October 31. Marketplace evidence may lag seller inventory; unsold availability unconfirmed."
+      }
+    },
+    {
+      "observedAt": "2026-10-31",
+      "fees": null,
+      "history": {
+        "title": "unknown",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "vin": "KNDRH4LG7P5193809",
+      "year": 2023,
+      "name": "Kia Sorento Hybrid",
+      "trim": "EX",
+      "type": "HEV",
+      "price": 29102,
+      "mileage": 31584,
+      "city": "Cerritos",
+      "state": "CA",
+      "drive": "FWD",
+      "rows": 3,
+      "seller": "Kia of Cerritos",
+      "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
+      "priceBasis": "Earlier October 31 report and retrieved dealer inventory advertised $29,102. Earlier Capital One $28,980 quote conflicts. Documentation/accessory charges and credit qualification disclosed in earlier report; final mandatory fees/financing conditions unresolved.",
+      "notes": "Dealer inventory initially returned matching VIN/price/miles and advertised CPO. Vehicle detail retrieval was cached five days and later redirected to inventory with inconsistent lookup results. History and CPO coverage unverified.",
+      "verification": {
+        "status": "awaiting_verification",
+        "note": "October 31 cross-check gave matching inventory evidence but unstable redirects/cached vehicle details. Preserve original report observation date; do not infer unsold availability or removal."
+      }
+    },
+    {
+      "observedAt": "2026-10-31",
+      "fees": 799,
+      "history": {
+        "title": "unknown",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "vin": "KNDRGDLG3N5107069",
+      "year": 2022,
+      "name": "Kia Sorento Hybrid",
+      "trim": "S",
+      "type": "HEV",
+      "price": 23793,
+      "mileage": 51445,
+      "city": "Peoria",
+      "state": "AZ",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "AutoNation Chevrolet Arrowhead",
+      "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+      "priceBasis": "Dealer $23,793 AutoNation 1Price includes $799 dealer services fee ($22,994 vehicle + $799); do not add fee again. Government charges/travel excluded. Financing/trade-in/rebate conditions not established.",
+      "notes": "New dealer retrieval shows $23,793 versus $24,293 including same fee in earlier October 31 report. Prior report is price-history evidence; seller has not confirmed a written total. Earlier Muse clean-title/one-owner/no-accident claims not reverified.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "Dealer ad retrieved October 31 corroborates VIN, 51,445 miles and itemized price. Ad presence is not seller-confirmed unsold availability."
+      }
+    },
+    {
+      "observedAt": "2026-10-31",
+      "fees": null,
+      "history": {
+        "title": "seller_claimed_clean",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.craigslist.org/view/d/hillsboro-2025-hyundai-santa-fe-hybrid/LukpoQTL8RGlMJv73SSeoA"
+      },
+      "vin": "5NMP24G17SH062657",
+      "listingId": "LukpoQTL8RGlMJv73SSeoA",
+      "year": 2025,
+      "name": "Hyundai Santa Fe Hybrid",
+      "trim": "SEL",
+      "type": "HEV",
+      "price": 29350,
+      "mileage": 28491,
+      "city": "Hillsboro",
+      "state": "OR",
+      "drive": "FWD",
+      "rows": 3,
+      "seller": "Royal Moore Auto Group",
+      "url": "https://www.craigslist.org/view/d/hillsboro-2025-hyundai-santa-fe-hybrid/LukpoQTL8RGlMJv73SSeoA",
+      "priceBasis": "Dealer Craigslist advertised $29,350. Tax/title/registration excluded. Documentation fee $250 expressly optional; optional dealer accessories extra. Financing advertised; no proven financing/trade-in/down-payment price condition.",
+      "notes": "Seller classifies title clean, but fuel metadata says gas while vehicle description says Hybrid. Title claim is not independent title documentation. Ownership/accident/use/service/battery evidence unknown.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "Vehicle-specific dealer Craigslist ad retrieved October 31 with VIN, price/miles and seller clean-title claim. Public ad/indirect evidence only; unsold availability unconfirmed."
+      }
+    }
+  ]
+}
