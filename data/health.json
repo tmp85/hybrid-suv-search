@@ -1,31 +1,30 @@
 {
-  "generatedAt": "2026-10-31T18:55:34.477Z",
+  "generatedAt": "2026-10-31T18:59:57.950Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T18:55:34.477Z",
-      "status": "error",
-      "lastSuccessAt": "2026-10-31T18:38:00.151Z",
+      "lastAttemptAt": "2026-10-31T18:59:57.950Z",
+      "status": "connected",
+      "lastSuccessAt": "2026-10-31T18:59:57.950Z",
       "reportDate": "2026-10-31",
-      "error": "Muse listing is missing required fields; keeping the saved snapshot.",
-      "imported": 32,
+      "error": null,
+      "imported": 115,
       "feedUrl": "https://tmp85.github.io/hybrid-suv-search/listings.json",
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
-        "originSha256": "c518865644a5870ef564fb20356df9e8cd89ec2be286c0dc34988504133a7631",
-        "pagesSha256": "c518865644a5870ef564fb20356df9e8cd89ec2be286c0dc34988504133a7631",
+        "mode": "repository_checkout",
+        "originSha256": "ad3f3776b519f8cbb91def435102e45bb94476480ef037d3bb041d18f3e78b61",
+        "pagesSha256": "ad3f3776b519f8cbb91def435102e45bb94476480ef037d3bb041d18f3e78b61",
         "pagesMatchesOrigin": true,
-        "sourceRecordCount": 27,
-        "htmlSha256": "42bd982c6544a3abab94fef0652eeac0c85b5ee09916c9794fe03c9a48d15b38",
-        "supplementRecordCount": 5,
-        "supplementSource": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/index.html"
+        "sourceRecordCount": 115,
+        "supplementRecordCount": 0
       }
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:55:34.477Z",
+      "lastSuccessAt": "2026-10-31T18:59:57.950Z",
       "reportDate": "2026-10-31",
       "error": null,
-      "lastAttemptAt": "2026-10-31T18:55:34.477Z",
+      "lastAttemptAt": "2026-10-31T18:59:57.950Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -33,7 +32,7 @@
         "originSha256": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "621bb9c6c41f28af9578fb4f1589e38ffc6f6b13"
+        "triggerRevision": "f8ed9364c3cf36e2d621bfebf2cca4dc054f763f"
       },
       "lastExportAt": "2026-10-31T18:30:26.007Z",
       "imported": 9,
@@ -50,16 +49,37 @@
     }
   },
   "counts": {
-    "imported": 84,
+    "imported": 124,
     "active": 22,
-    "stale": 49,
+    "stale": 89,
     "archived": 13,
     "verified": 18,
     "awaitingVerification": 4,
-    "outsideCriteria": 10,
+    "outsideCriteria": 21,
     "qualifyingActive": 22
   },
-  "alerts": [
-    "Muse listing is missing required fields; keeping the saved snapshot."
-  ]
+  "photos": {
+    "checkedAt": "2026-10-31T18:59:57.950Z",
+    "attempted": 45,
+    "collected": 5,
+    "retained": 111,
+    "archivedSkipped": 13,
+    "skippedExistingPhotos": 3,
+    "skippedRecentAttempt": 0,
+    "eligible": 108,
+    "deferred": 63,
+    "withPhotos": 8,
+    "withoutPhotos": 103,
+    "outcomes": {
+      "collected": 5,
+      "no_source": 2,
+      "no_photos": 6,
+      "inaccessible": 32
+    },
+    "deadlineReached": false,
+    "maxAttempts": 45,
+    "concurrency": 4,
+    "elapsedMs": 11682
+  },
+  "alerts": []
 }
