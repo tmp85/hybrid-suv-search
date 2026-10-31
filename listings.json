@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-10-31T18:50:20.017493Z",
+  "generated_at": "2026-10-31T18:55:02.053496Z",
   "search_date": "2026-10-31",
   "source": "Hybrid SUV Search daily research",
   "counts": {
@@ -14,6 +14,7 @@
   "listings": [
     {
       "id": "vin-KNDRH4LG3P5132781",
+      "listing_id": "vin-KNDRH4LG3P5132781",
       "vin": "KNDRH4LG3P5132781",
       "year": 2023,
       "make": "Kia",
@@ -52,10 +53,13 @@
       "verified_active": true,
       "history": "0 accidents, 1 owner, personal use, clean title",
       "concerns": "Online-only seller; 91,936 mi near/above preference line; fees not disclosed; $109 price drop noted",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: still $21,199 / 91,936 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; online-only seller; fees not disclosed",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRHDLGXP5187891",
+      "listing_id": "vin-KNDRHDLGXP5187891",
       "vin": "KNDRHDLGXP5187891",
       "year": 2023,
       "make": "Kia",
@@ -90,10 +94,13 @@
       "verified_active": true,
       "history": "History details not shown on Edmunds summary; Fair Price $165 below market",
       "concerns": "NEW Oct 27 \u2014 114,930 mi OVER the 100k preference \u2014 consider only if condition/value justify; history/accidents/owners/fees not shown; confirm before travel",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: still $21,500 / 114,930 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; 114,930 mi OVER the 100k preference; not dealer-verified; fees not disclosed",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRH4LG0P5173658",
+      "listing_id": "vin-KNDRH4LG0P5173658",
       "vin": "KNDRH4LG0P5173658",
       "year": 2023,
       "make": "Kia",
@@ -132,10 +139,13 @@
       "verified_active": true,
       "history": "0 accidents, 1 owner, corporate fleet vehicle, clean title; $1,000 price drop; 9 days on Edmunds",
       "concerns": "Corporate fleet history; FWD only (AWD is bonus, acceptable); online-only seller; $0 dealer fees; taxes/registration/government fees excluded; 83,528 mi",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: still $22,590 / 83,528 mi, unchanged; 0 accidents, 1 owner, corporate fleet, clean title; $0 dealer fees",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-a4bb11042e06",
+      "listing_id": "url-a4bb11042e06",
       "vin": null,
       "year": 2018,
       "make": "Lexus",
@@ -170,10 +180,13 @@
       "verified_active": true,
       "history": "Clean title per CarGurus; 0 accidents; 1 previous owner",
       "concerns": "NEW Oct 31 - CarGurus detail-verified; 114,653 mi OVER the 100k preference - consider only if condition/value justify; 2018 MY hybrid battery warranty largely/fully expired - budget for eventual replacement; fees not disclosed",
+      "new_vs_prior": "NEW Oct 31 - CarGurus detail-verified (Van Nuys, Keyes Lexus)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Lexus hybrid battery 8yr/100k for 2018 model year - factory coverage largely or fully expired (estimate)."
     },
     {
       "id": "vin-KNDRMDLHXP5169878",
+      "listing_id": "vin-KNDRMDLHXP5169878",
       "vin": "KNDRMDLHXP5169878",
       "year": 2023,
       "make": "Kia",
@@ -216,10 +229,13 @@
       "verified_active": true,
       "history": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Great Price $2,686 below market",
       "concerns": "Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price; CarGurus SRP crawls showed higher conflicting prices ($26,485-$26,835) \u2014 do not treat those as a price drop; vs Oct 23 iSeeCars record $23,494, essentially unchanged (+$28)",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: PRICE DROP $23,404 -> $22,844 (-$560) / 79,151 mi unchanged; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; fees not disclosed; confirm charging cable and EV range/charge health",
+      "price_vs_prior": -560,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRHDLG6P5204248",
+      "listing_id": "vin-KNDRHDLG6P5204248",
       "vin": "KNDRHDLG6P5204248",
       "year": 2023,
       "make": "Kia",
@@ -262,10 +278,13 @@
       "verified_active": true,
       "history": "CARFAX One-Owner, Clean CARFAX per dealer; GM CarBravo Certified",
       "concerns": "72,550 mi is high side; confirm CarBravo certification coverage in writing; price excludes government taxes/fees (includes $85 doc + $37 e-filing)",
+      "new_vs_prior": "Verified active Oct 31 via CarGurus: PRICE DROP $23,874 -> $23,391 (-$483) / 72,550 mi unchanged; CARFAX One-Owner, Clean CARFAX; GM CarBravo Certified; price includes fees",
+      "price_vs_prior": -483,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRGDLG3N5107069",
+      "listing_id": "vin-KNDRGDLG3N5107069",
       "vin": "KNDRGDLG3N5107069",
       "year": 2022,
       "make": "Kia",
@@ -304,10 +323,13 @@
       "verified_active": true,
       "history": "0 accidents, 1 owner, personal use, clean title",
       "concerns": "$23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: PRICE DROP $24,293 -> $23,793 (-$500) / 51,445 mi unchanged; $22,994 + $799 dealer services fee; 0 accidents, 1 owner, personal use, clean title",
+      "price_vs_prior": -500,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KM8S6DA22NU035178",
+      "listing_id": "vin-KM8S6DA22NU035178",
       "vin": "KM8S6DA22NU035178",
       "year": 2022,
       "make": "Hyundai",
@@ -346,10 +368,13 @@
       "verified_active": true,
       "history": "1 owner, 0 accidents, clean title; Hyundai Certified Pre-Owned; advertised price includes fees",
       "concerns": "POSSIBLE SOLD SIGNAL: Dick's own inventory crawl no longer shows this 2022 unit; dealer now lists a 2023 SEL Conv CPO instead \u2014 confirm availability directly before travel; confirm charging cable included; confirm EV range/charge health",
+      "new_vs_prior": "Verified active Oct 31 via CarGurus: still $24,094 / 46,655 mi, unchanged; Hyundai CPO; price includes fees; confirm availability before travel (dealer inventory crawl previously did not show this unit)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
     {
       "id": "vin-KNDRH4LG7P5142231",
+      "listing_id": "vin-KNDRH4LG7P5142231",
       "vin": "KNDRH4LG7P5142231",
       "year": 2023,
       "make": "Kia",
@@ -384,10 +409,13 @@
       "verified_active": true,
       "history": "History details not shown on Edmunds summary (8 days on Edmunds; $135 price increase shown; Fair Price $522 above market)",
       "concerns": "NEW Oct 27 \u2014 history/accidents/owners/fees not shown; confirm history and out-the-door price before travel; $135 price increase shown",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: still $24,585 total / 79,839 mi, unchanged; $23,986 + $599 doc fee; 0 accidents, 1 owner, personal use, clean title",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRH4LG4P5223087",
+      "listing_id": "vin-KNDRH4LG4P5223087",
       "vin": "KNDRH4LG4P5223087",
       "year": 2023,
       "make": "Kia",
@@ -422,10 +450,13 @@
       "verified_active": true,
       "history": "0 accidents, 1 owner, LEASE vehicle, clean title",
       "concerns": "Edmunds: listing not dealer-verified \u2014 confirm details/fees with dealer before travel; Good Price $1,428 below market",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: still $24,592 / 61,753 mi, unchanged; 0 accidents, 1 owner, LEASE vehicle, clean title; not dealer-verified; fees not disclosed",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRH4LG2M5040086",
+      "listing_id": "vin-KNDRH4LG2M5040086",
       "vin": "KNDRH4LG2M5040086",
       "year": 2021,
       "make": "Kia",
@@ -460,10 +491,13 @@
       "verified_active": true,
       "history": "0 accidents, 1 owner, personal use, clean title",
       "concerns": "Edmunds: listing not dealer-verified \u2014 confirm details/fees; no photos on page; Fair Price $34 above market",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: still $25,599 / 33,689 mi (mileage display refreshed 33,685 -> 33,689, listing-data refresh); 0 accidents, 1 owner, personal use, clean title; not dealer-verified; no photos on page; fees not disclosed",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-8a1123efd521",
+      "listing_id": "url-8a1123efd521",
       "vin": null,
       "year": 2023,
       "make": "Kia",
@@ -554,10 +588,13 @@
       "verified_active": true,
       "history": "Not shown (SRP-level only)",
       "concerns": "SRP-level only: seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
+      "new_vs_prior": "NEW Oct 24 \u2014 iSeeCars SRP-level only (price/city/mileage shown)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-6434e9c2683a",
+      "listing_id": "url-6434e9c2683a",
       "vin": null,
       "year": 2021,
       "make": "Toyota",
@@ -592,10 +629,13 @@
       "verified_active": true,
       "history": "Clean title per CarGurus; previous rental use; 3 previous owners",
       "concerns": "NEW Oct 31 - CarGurus detail-verified: 1 accident reported; previous rental use; 3 owners - track only, weakest of the new crop; fees and financing conditions not disclosed",
+      "new_vs_prior": "NEW Oct 31 - CarGurus detail-verified (Santa Monica, Kia Santa Monica)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable - verify in-service date by VIN (estimate)."
     },
     {
       "id": "url-0c4156ae8bed",
+      "listing_id": "url-0c4156ae8bed",
       "vin": null,
       "year": 2018,
       "make": "Lexus",
@@ -630,10 +670,13 @@
       "verified_active": true,
       "history": "Clean title per CarGurus; 0 accidents; 2 previous owners",
       "concerns": "NEW Oct 31 - CarGurus detail-verified; 95,194 mi near the 100k preference; 2018 MY hybrid battery warranty largely/fully expired - budget for eventual replacement; fees not disclosed",
+      "new_vs_prior": "NEW Oct 31 - CarGurus detail-verified (El Monte, NEW PBB AUTO)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Lexus hybrid battery 8yr/100k for 2018 model year - factory coverage largely or fully expired (estimate)."
     },
     {
       "id": "vin-KNDRJDLH3N5122875",
+      "listing_id": "vin-KNDRJDLH3N5122875",
       "vin": "KNDRJDLH3N5122875",
       "year": 2022,
       "make": "Kia",
@@ -676,10 +719,13 @@
       "verified_active": true,
       "history": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020",
       "concerns": "Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: PRICE DROP $27,422 -> $27,000 (-$422) / 35,609 mi unchanged; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; fees not disclosed",
+      "price_vs_prior": -422,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRJDLH9N5109810",
+      "listing_id": "vin-KNDRJDLH9N5109810",
       "vin": "KNDRJDLH9N5109810",
       "year": 2022,
       "make": "Kia",
@@ -714,10 +760,13 @@
       "verified_active": true,
       "history": "AutoCheck: 0 accidents, 1 owner, LEASE vehicle, clean title; Edmunds Fair Price $430 below market; stock 260920A",
       "concerns": "LEASE vehicle history; listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: still $27,117 / 37,177 mi, unchanged; 0 accidents, 1 owner, LEASE vehicle, clean title; not dealer-verified; fees not disclosed",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-JM3KKDHA8R1150573",
+      "listing_id": "vin-JM3KKDHA8R1150573",
       "vin": "JM3KKDHA8R1150573",
       "year": 2024,
       "make": "Mazda",
@@ -760,10 +809,13 @@
       "verified_active": true,
       "history": "CARFAX 1-Owner Good Value badge; dealer notes reduced from $30,988; battery warranty 96 mo / 100k mi per listing",
       "concerns": "MODEL-SPECIFIC: 2024 CX-90 PHEV subject to NHTSA recalls \u2014 verify all remedies completed by VIN before pursuit; LoJack $99 optional, confirm removable; accident/clean-title outcome not stated on page itself (see linked CARFAX report)",
+      "new_vs_prior": "Verified active Oct 31 via dealer page: still $28,109 total / 41,677 mi, unchanged; retail $27,888 + $122 doc/ERF + $99 LoJack (LoJack optional, removable); CARFAX 1-Owner Good Value; verify CX-90 PHEV recalls by VIN",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Battery warranty 96 months / 100,000 miles shown on dealer page (estimate, confirm by VIN)"
     },
     {
       "id": "vin-KNDRKDLG6P5200279",
+      "listing_id": "vin-KNDRKDLG6P5200279",
       "vin": "KNDRKDLG6P5200279",
       "year": 2023,
       "make": "Kia",
@@ -798,10 +850,13 @@
       "verified_active": true,
       "history": "0 accidents, 1 owner, personal use, clean title; 18 days on Edmunds",
       "concerns": "PRICE DROP: $29,072 -> $28,772 total (-$300; base $28,073 + $699 doc fee); near price ceiling; top trim; confirm no financing condition on price",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: still $28,772 total / 58,687 mi (mileage display refreshed 58,670 -> 58,687, listing-data refresh); $28,073 + $699 doc fee; 0 accidents, 1 owner, personal use, clean title",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-edf3b72230e0",
+      "listing_id": "url-edf3b72230e0",
       "vin": null,
       "year": 2019,
       "make": "Toyota",
@@ -836,10 +891,13 @@
       "verified_active": true,
       "history": "Clean title per CarGurus; 0 accidents; 1 previous owner; distinct from the ledger's 2020 Highlander LE at Huntington Beach",
       "concerns": "NEW Oct 31 - CarGurus detail-verified; near price ceiling; 2019 MY hybrid battery warranty (8yr/100k) largely/fully expired - budget for eventual replacement; fees not disclosed",
+      "new_vs_prior": "NEW Oct 31 - CarGurus detail-verified (Huntington Beach, Huntington Beach Hyundai)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Toyota HV battery 8yr/100k for 2019 model year - factory coverage largely or fully expired (estimate)."
     },
     {
       "id": "vin-KNDRH4LG7P5193809",
+      "listing_id": "vin-KNDRH4LG7P5193809",
       "vin": "KNDRH4LG7P5193809",
       "year": 2023,
       "make": "Kia",
@@ -886,10 +944,13 @@
       "verified_active": true,
       "history": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees",
       "concerns": "FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)",
+      "new_vs_prior": "Verified active Oct 31 via CarGurus: still $29,102 / 31,584 mi, unchanged; Kia CPO; Clean CARFAX, CARFAX One-Owner; price includes fees",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility with dealer (estimate)."
     },
     {
       "id": "url-dc39f5a3c407",
+      "listing_id": "url-dc39f5a3c407",
       "vin": null,
       "year": 2021,
       "make": "Toyota",
@@ -924,10 +985,13 @@
       "verified_active": true,
       "history": "Clean title per CarGurus; 0 accidents; 1 previous owner",
       "concerns": "NEW Oct 31 - CarGurus detail-verified; near price ceiling; fees and financing conditions not disclosed",
+      "new_vs_prior": "NEW Oct 31 - CarGurus detail-verified (Covina, Future Walker Cars)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable - verify in-service date by VIN (estimate)."
     },
     {
       "id": "vin-KNDRH4LG0P5224396",
+      "listing_id": "vin-KNDRH4LG0P5224396",
       "vin": "KNDRH4LG0P5224396",
       "year": 2023,
       "make": "Kia",
@@ -966,10 +1030,13 @@
       "verified_active": true,
       "history": "0 accidents, 1 owner, LEASE vehicle, clean title",
       "concerns": "NEW Oct 26 \u2014 history/accidents/owners/fees not shown; near price ceiling; confirm all history and out-the-door price before travel",
+      "new_vs_prior": "Verified active Oct 31 via Edmunds: still $29,896 / 21,389 mi, unchanged; 0 accidents, 1 owner, LEASE vehicle, clean title; not dealer-verified; fees not disclosed",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-1FM5K7FWXMNA13511",
+      "listing_id": "vin-1FM5K7FWXMNA13511",
       "vin": "1FM5K7FWXMNA13511",
       "year": 2021,
       "make": "Ford",
@@ -1004,10 +1071,13 @@
       "verified_active": null,
       "history": "Not shown on iSeeCars (title/accidents/owners unknown)",
       "concerns": "BELOW $20,000 price floor ($18,195) \u2014 budget-only exception; 107,220 mi over 100k preference; Explorer Hybrid mid-pack reliability; dealer not named; confirm drivetrain (RWD per spec table)",
+      "new_vs_prior": "NEW Oct 19 \u2014 SRP/index-level only; below $20k price floor; not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "Ford hybrid components 8yr/100k \u2014 NOT verified for this VIN; confirm with a Ford dealer."
     },
     {
       "id": "vin-KNDRHDLG1P5158604",
+      "listing_id": "vin-KNDRHDLG1P5158604",
       "vin": "KNDRHDLG1P5158604",
       "year": 2023,
       "make": "Kia",
@@ -1050,10 +1120,13 @@
       "verified_active": false,
       "history": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; $5,366 below market; $7,800 cumulative drop; $200 doc fee included; Kia CPO badge now confirmed by Edmunds (10yr/100k powertrain, 165-pt inspection)",
       "concerns": "Kia CPO badge now shown by Edmunds (Oct 21) \u2014 still confirm coverage in writing; 94,650 mi near the 100k preference line",
+      "new_vs_prior": "GONE Oct 27 \u2014 Edmunds: \"sold or removed by the dealer\" (was $19,938 / 94,650 mi, Kiefer Kia Eugene OR)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-1C4RJYB67P8791515",
+      "listing_id": "vin-1C4RJYB67P8791515",
       "vin": "1C4RJYB67P8791515",
       "year": 2023,
       "make": "Jeep",
@@ -1096,10 +1169,13 @@
       "verified_active": false,
       "history": "0 accidents, 1 owner, LEASE vehicle, clean title; $3,757 below market",
       "concerns": "SELLER DISCREPANCY Oct 27: Edmunds page now shows Tuttle-Click's Capistrano Ford, San Juan Capistrano CA (photo watermark still BP Ford of Long Beach) \u2014 confirm seller/location before travel; price now shown as \"Not Priced\" on Edmunds (was $19,997); LEASE vehicle history; MODEL-SPECIFIC: verify 4xe HV-battery recall remedies by VIN; listing \"not dealer-verified\"",
+      "new_vs_prior": "GONE Oct 29 \u2014 Edmunds: 'sold or removed by the dealer' (was $19,997 / Not Priced, 39,541 mi, Tuttle-Click's Capistrano Ford)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
     {
       "id": "vin-KNDRHDLG5N5094340",
+      "listing_id": "vin-KNDRHDLG5N5094340",
       "vin": "KNDRHDLG5N5094340",
       "year": 2022,
       "make": "Kia",
@@ -1134,10 +1210,13 @@
       "verified_active": null,
       "history": "Not shown (SRP-level only); CarGurus Good Deal; New arrival",
       "concerns": "NEW today \u2014 seen on CarGurus SRP only; detail page not opened; 113,432 mi OVER the 100k preference \u2014 consider only if condition/value justify; fees/history not shown",
+      "new_vs_prior": "NEW today \u2014 SRP-level only, not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-4dfd2c88eda6",
+      "listing_id": "url-4dfd2c88eda6",
       "vin": null,
       "year": 2015,
       "make": "Toyota",
@@ -1172,10 +1251,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): No accidents reported (Autotrader); Great Price, $2,594 below market",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; 2015 model year \u2014 oldest in set; hybrid battery factory coverage long expired; budget option only",
+      "new_vs_prior": "Not re-verified Oct 13 (was $20,276 Oct 12)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Factory hybrid battery coverage expired \u2014 budget for eventual replacement (estimate)."
     },
     {
       "id": "vin-5TDJGRFH0KS063827",
+      "listing_id": "vin-5TDJGRFH0KS063827",
       "vin": "5TDJGRFH0KS063827",
       "year": 2019,
       "make": "Toyota",
@@ -1214,10 +1296,13 @@
       "verified_active": null,
       "history": "Not shown on iSeeCars (title/accidents/owners unknown)",
       "concerns": "118,000 mi is OVER the 100k preference \u2014 consider only if condition/value justify; dealer not named; title/accident/owner history not shown; confirm actual local availability and condition",
+      "new_vs_prior": "PROBABLE PRICE DROP Oct 23: $22,650 -> $20,399 (-$2,251); iSeeCars SRP card matches year/trim/118,000 mi/Mesa AZ exactly; VIN match unconfirmed at SRP level \u2014 treat as probable",
+      "price_vs_prior": -2251,
       "battery_warranty_note": "Toyota HV battery 8yr/100k for 2019 model year \u2014 factory coverage largely or fully expired at 118k mi; budget for eventual replacement (estimate)."
     },
     {
       "id": "vin-5NMS3DA16PH010024",
+      "listing_id": "vin-5NMS3DA16PH010024",
       "vin": "5NMS3DA16PH010024",
       "year": 2023,
       "make": "Hyundai",
@@ -1252,10 +1337,13 @@
       "verified_active": false,
       "history": "Was: AutoCheck 0 accidents, 2 owners (corporate fleet), clean title",
       "concerns": "Edmunds: 'Page Not Found / vehicle has been sold or removed'",
+      "new_vs_prior": "GONE \u2014 inactive Oct 13 (was active Oct 12 at $20,619)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k original owner; subsequent owners 5yr/60k from in-service date \u2014 verify by VIN (estimate)."
     },
     {
       "id": "vin-KNDRG4LG4N5110224",
+      "listing_id": "vin-KNDRG4LG4N5110224",
       "vin": "KNDRG4LG4N5110224",
       "year": 2022,
       "make": "Kia",
@@ -1294,10 +1382,13 @@
       "verified_active": false,
       "history": "SRP-level only (dealer inventory page shows vehicle card with VIN and cash price)",
       "concerns": "SRP-LEVEL only: mileage, title, accidents, owners not shown on inventory page; distinct VIN from Sands Kia Surprise 2022 Sorento S; cash price $23,992 incl $998 doc fee",
+      "new_vs_prior": "EXCLUDED Oct 31: dealer page still shows $20,693 ($19,695 + $998 doc fee) / 53,490 mi, but now displays a BuyBack badge noting the vehicle was previously bought back by the manufacturer; manufacturer buyback is excluded by the search criteria, so it is no longer counted as verified active",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDPVCAG6P7033972",
+      "listing_id": "vin-KNDPVCAG6P7033972",
       "vin": "KNDPVCAG6P7033972",
       "year": 2023,
       "make": "Kia",
@@ -1332,10 +1423,13 @@
       "verified_active": false,
       "history": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; $3,019 below market; $4,011 price drop; $499 doc fee included ($20,984 + $499)",
       "concerns": "SMALLER than midsize \u2014 included only as exceptional value per brief; verify it meets size needs",
+      "new_vs_prior": "GONE \u2014 inactive Oct 17; Edmunds page 'vehicle no longer available \u2014 sold or removed' (was $21,483, exceptional-value smaller crossover, Oct 14)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRHDLG4P5191306",
+      "listing_id": "vin-KNDRHDLG4P5191306",
       "vin": "KNDRHDLG4P5191306",
       "year": 2023,
       "make": "Kia",
@@ -1378,10 +1472,13 @@
       "verified_active": false,
       "history": "AutoCheck: 0 accidents, 2 owners, personal use, clean title; $4,412 below market",
       "concerns": "2 owners; $699 doc fee included in total; Edmunds price history showed a $299 increase at some point; confirm no financing condition",
+      "new_vs_prior": "GONE Oct 27 \u2014 Edmunds: \"sold or removed by the dealer\" (was $21,672 / 65,563 mi, Bill Luke Phoenix AZ)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRG4LG8N5081732",
+      "listing_id": "vin-KNDRG4LG8N5081732",
       "vin": "KNDRG4LG8N5081732",
       "year": 2022,
       "make": "Kia",
@@ -1428,10 +1525,13 @@
       "verified_active": false,
       "history": "0 accidents, 1 owner, clean title, personal use; $1,538 below Edmunds market",
       "concerns": "FWD only (AWD is bonus, acceptable); confirm CPO/certification terms; net sale price $22,588 ($21,700 + $289 protection package + $599 doc fee)",
+      "new_vs_prior": "NOT FOUND Oct 28 \u2014 dealer site returns \"No vehicles found\" for stock 75880A and VIN KNDRG4LG8N5081732; iSeeCars SRP still shows $21,700 / 51,337 mi, so status is unconfirmed rather than confirmed sold; do not treat as verified active",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KM8S2DA13NU053322",
+      "listing_id": "vin-KM8S2DA13NU053322",
       "vin": "KM8S2DA13NU053322",
       "year": 2022,
       "make": "Hyundai",
@@ -1470,10 +1570,13 @@
       "verified_active": true,
       "history": "Certified Pre-Owned (implies inspection; details not in listing text)",
       "concerns": "NEW Oct 18 \u2014 detail-verified. Higher mileage; no accident/recall info in listing text; dealer fees not shown",
+      "new_vs_prior": "Verified active Oct 23: unchanged $22,204 (Capital One VDP); Hyundai CPO",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
     {
       "id": "vin-7FART6H90ME012343",
+      "listing_id": "vin-7FART6H90ME012343",
       "vin": "7FART6H90ME012343",
       "year": 2021,
       "make": "Honda",
@@ -1508,10 +1611,13 @@
       "verified_active": true,
       "history": "iSeeCars GREAT deal, $2,632 below market value; clean history noted; 10 price drops in ~58 days; listed ~57 days",
       "concerns": "SMALLER crossover \u2014 flagged as exceptional value only; 86,377 mi; dealer fees and financing conditions not disclosed \u2014 confirm out-the-door price before travel; maintenance records not shown",
+      "new_vs_prior": "Verified active Oct 23: still $22,999 / 86,377 mi (iSeeCars SRP); SMALLER crossover \u2014 exceptional value only",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Honda hybrid battery 8yr/100k; 10yr/150k in CA-emissions states \u2014 verify by VIN (estimate)."
     },
     {
       "id": "url-b44686ff4646",
+      "listing_id": "url-b44686ff4646",
       "vin": null,
       "year": 2022,
       "make": "Kia",
@@ -1550,10 +1656,13 @@
       "verified_active": null,
       "history": "Single owner, no accidents reported (Autotrader); Great Price, $800 below market",
       "concerns": "Base S trim; fees included in total; confirm history report before traveling",
+      "new_vs_prior": "retry Oct 23 \u2014 still blocked (Akamai); VIN fallback search found nothing; status unknown, not confirmed gone",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-JA4T5VA98RZ065741",
+      "listing_id": "vin-JA4T5VA98RZ065741",
       "vin": "JA4T5VA98RZ065741",
       "year": 2024,
       "make": "Mitsubishi",
@@ -1588,10 +1697,13 @@
       "verified_active": false,
       "history": "0 accidents, 1 owner, RENTAL vehicle, clean title; $2,870 below market; 13 days on market",
       "concerns": "GONE Oct 15 (was: RENTAL vehicle history; dealer transfer may require payment)",
+      "new_vs_prior": "GONE \u2014 inactive Oct 15; Edmunds page 'vehicle no longer available \u2014 sold or removed' (was $23,497 incl fees Oct 14)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "vin-KNDRHDLG0P5189018",
+      "listing_id": "vin-KNDRHDLG0P5189018",
       "vin": "KNDRHDLG0P5189018",
       "year": 2023,
       "make": "Kia",
@@ -1634,10 +1746,13 @@
       "verified_active": false,
       "history": "CARFAX 1-Owner badge on listing page; owner count/accidents/title outcome not fully stated in observed excerpt",
       "concerns": "History unverified from page \u2014 request CARFAX/AutoCheck; 'Lifetime Powertrain Warranty' is a dealer offer, not manufacturer CPO; confirm fees",
+      "new_vs_prior": "GONE Oct 31: dealer inventory URL redirects to Hello Subaru of Temecula homepage (twice), no vehicle listing displayed; no longer counted as verified active",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRH4LG5P5138372",
+      "listing_id": "vin-KNDRH4LG5P5138372",
       "vin": "KNDRH4LG5P5138372",
       "year": 2022,
       "make": "Kia",
@@ -1672,10 +1787,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): CarGurus Great Deal; title/accidents/owners not shown",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; FWD only; fees unknown",
+      "new_vs_prior": "UNVERIFIED Oct 19 \u2014 quoted-VIN searches returned no current detail pages (Ontario/Bellingham/Irvine SRP-only carryovers)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRHDLGXP5185400",
+      "listing_id": "vin-KNDRHDLGXP5185400",
       "vin": "KNDRHDLGXP5185400",
       "year": 2023,
       "make": "Kia",
@@ -1710,10 +1828,13 @@
       "verified_active": false,
       "history": "0 accidents, 3 owners, personal use, clean title; $3,000 price drop; 45 days on Edmunds",
       "concerns": "3 owners \u2014 main caveat; online-only seller (no in-person lot); $0 dealer fees; taxes/registration/government fees excluded; confirm condition via inspection",
+      "new_vs_prior": "GONE Oct 31: Edmunds states 'Vehicle no longer available' / 'sold or removed by the dealer'; no longer counted as verified active",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-5NMS2DA15PH001205",
+      "listing_id": "vin-5NMS2DA15PH001205",
       "vin": "5NMS2DA15PH001205",
       "year": 2023,
       "make": "Hyundai",
@@ -1748,10 +1869,13 @@
       "verified_active": null,
       "history": "Title: Clean (Cars.com AutoCheck)",
       "concerns": "Owner/accident counts not legible on Cars.com page; fees unknown beyond total breakdown ($23,990 + $85 doc + $37 EVR)",
+      "new_vs_prior": "UNVERIFIED Oct 18 \u2014 cars.com blocked by fetch policy; no workaround (was $24,112, Costa Mesa CA)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k original owner; subsequent owners 5yr/60k from in-service date \u2014 verify by VIN (estimate)."
     },
     {
       "id": "vin-1C4RJYB68R8521339",
+      "listing_id": "vin-1C4RJYB68R8521339",
       "vin": "1C4RJYB68R8521339",
       "year": 2024,
       "make": "Jeep",
@@ -1786,10 +1910,13 @@
       "verified_active": true,
       "history": "None disclosed",
       "concerns": "NEW Oct 18 \u2014 sparse aggregator listing: no trim, no condition/service/accident info, seller identity unclear; verify seller, history, trim before pursuit",
+      "new_vs_prior": "Verified active Oct 23: page live, still $24,367 / 52,367 mi, InStock; sparse aggregator listing \u2014 verify seller/history/4xe recalls",
+      "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
     {
       "id": "vin-5NMP2DG18SH058651",
+      "listing_id": "vin-5NMP2DG18SH058651",
       "vin": "5NMP2DG18SH058651",
       "year": 2025,
       "make": "Hyundai",
@@ -1828,10 +1955,13 @@
       "verified_active": true,
       "history": "No history/accident info in listing text",
       "concerns": "NEW Oct 18 \u2014 detail-verified via Capital One Auto Navigator. Same VIN appeared in an older crawl at $29,514 (58,853 mi) \u2014 possible ~$3,694 drop (unverified); high miles for a 2025; dealer fees/pricing conditions not shown",
+      "new_vs_prior": "PRICE DROP Oct 23: $25,820 -> $24,505 (-$1,315); Capital One VDP live, 58,960 mi unchanged",
+      "price_vs_prior": -1315,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
     {
       "id": "vin-KNDRMDLHXP5187149",
+      "listing_id": "vin-KNDRMDLHXP5187149",
       "vin": "KNDRMDLHXP5187149",
       "year": 2022,
       "make": "Kia",
@@ -1866,10 +1996,13 @@
       "verified_active": null,
       "history": "Not shown; Edmunds good price $743 below market; price drop shown",
       "concerns": "NEW today \u2014 from Edmunds search page (3-day-old crawl); detail page NOT opened; higher miles (73,314); fees/history not shown",
+      "new_vs_prior": "NEW today \u2014 search-page level only, not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-1FM5K7FW2NNA11236",
+      "listing_id": "vin-1FM5K7FW2NNA11236",
       "vin": "1FM5K7FW2NNA11236",
       "year": 2022,
       "make": "Ford",
@@ -1904,10 +2037,13 @@
       "verified_active": null,
       "history": "Not shown on iSeeCars (title/accidents/owners unknown)",
       "concerns": "Dealer not named; iSeeCars shows RWD vs listing-header AWD \u2014 drivetrain discrepancy to confirm; 59 days on market; Explorer Hybrid mid-pack on hybrid-SUV reliability; request CARFAX before travel",
+      "new_vs_prior": "NEW Oct 19 \u2014 SRP/index-level only (iSeeCars live SRP, detail page not opened); not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "Ford hybrid components 8yr/100k \u2014 NOT verified for this VIN; confirm with a Ford dealer."
     },
     {
       "id": "vin-KNDRH4LG2P5156490",
+      "listing_id": "vin-KNDRH4LG2P5156490",
       "vin": "KNDRH4LG2P5156490",
       "year": 2023,
       "make": "Kia",
@@ -1946,10 +2082,13 @@
       "verified_active": false,
       "history": "CARFAX One-Owner per listing",
       "concerns": "62,836 mi; FWD; history details beyond one-owner not shown \u2014 confirm title/accidents; home-delivery listing format, confirm local availability",
+      "new_vs_prior": "GONE Oct 19 \u2014 CarGurus page 404s, no VIN trace (was $24,815, 2023 Sorento EX FWD, Fontana Hyundai)",
+      "price_vs_prior": -100,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-1C4RJYD68P8775319",
+      "listing_id": "vin-1C4RJYD68P8775319",
       "vin": "1C4RJYD68P8775319",
       "year": 2023,
       "make": "Jeep",
@@ -1984,10 +2123,13 @@
       "verified_active": true,
       "history": "iSeeCars GREAT deal $2,942 below market; 1 owner; low annual miles; listed 21 days (per SRP)",
       "concerns": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending; MODEL-SPECIFIC: verify 4xe HV-battery recall remedies (24V-720, 23V-412, 25V-766) by VIN before any consideration",
+      "new_vs_prior": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
     {
       "id": "url-d44059367553",
+      "listing_id": "url-d44059367553",
       "vin": null,
       "year": 2022,
       "make": "Kia",
@@ -2022,10 +2164,13 @@
       "verified_active": false,
       "history": "Was: clean title, Good Deal",
       "concerns": "Listing now gone per CarGurus ('Looks like that one got away')",
+      "new_vs_prior": "GONE \u2014 inactive Oct 13 (was active Oct 12 at $24,995)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KM8S2DA12NU026385",
+      "listing_id": "vin-KM8S2DA12NU026385",
       "vin": "KM8S2DA12NU026385",
       "year": 2022,
       "make": "Hyundai",
@@ -2060,10 +2205,13 @@
       "verified_active": true,
       "history": "Dealer claims Clean CARFAX, one-owner; mileage well below market average",
       "concerns": "NEW Oct 18 \u2014 detail-verified. Dealer states vehicle 'may be subject to open safety recalls' \u2014 verify via NHTSA with VIN before purchase",
+      "new_vs_prior": "Verified active Oct 23: $25,075 unchanged (Capital One VDP, 32,669 mi confirmed via live browser); mileage display refreshed 32,293 -> 32,669 (listing-data refresh, not driving); CARFAX one-owner",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
     {
       "id": "url-1eabd40227e0",
+      "listing_id": "url-1eabd40227e0",
       "vin": null,
       "year": 2020,
       "make": "Toyota",
@@ -2126,10 +2274,13 @@
       "verified_active": true,
       "history": "Distinct from ledger's 2019 XLE at Huntington Beach Hyundai",
       "concerns": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
+      "new_vs_prior": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
+      "price_vs_prior": null,
       "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable to subsequent owners \u2014 verify in-service date by VIN (estimate)."
     },
     {
       "id": "vin-JA4T5VA99RZ014961",
+      "listing_id": "vin-JA4T5VA99RZ014961",
       "vin": "JA4T5VA99RZ014961",
       "year": 2024,
       "make": "Mitsubishi",
@@ -2168,10 +2319,13 @@
       "verified_active": null,
       "history": "SRP-level only; title/accident unknown",
       "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Tagged 'New arrival' on CarGurus; home delivery, $175 shipping incl.",
+      "new_vs_prior": "POSSIBLE PRICE DROP Oct 22: $25,373 -> $25,198 (-$175) seen on iSeeCars SRP (same 40,357 mi, Kennewick WA; VIN match unconfirmed at SRP level)",
+      "price_vs_prior": -175,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "vin-1FM5K8FW5MNA08450",
+      "listing_id": "vin-1FM5K8FW5MNA08450",
       "vin": "1FM5K8FW5MNA08450",
       "year": 2021,
       "make": "Ford",
@@ -2206,10 +2360,13 @@
       "verified_active": true,
       "history": "No accidents reported, 1 owner reported, title no issues, personal use (AutoCheck Oct 20, 2026); iSeeCars Fair Deal ($430 above market); listed 2 days ago on iSeeCars",
       "concerns": "PRICE DROP $25,395 -> $25,273 (-$122); 81,040 mi \u2014 condition must justify; 13,892 mi/yr usage above average; 2 recall records \u2014 verify remedies by VIN; low info-transparency score (2.8) \u2014 request full history/photos; dealer score 3.2 stars; Explorer Hybrid mid-pack reliability",
+      "new_vs_prior": "NEW Oct 20 \u2014 detail-page-verified via fresh sweep (iSeeCars); Gray/Black; weakest of the new crop \u2014 track only",
+      "price_vs_prior": -122,
       "battery_warranty_note": "Ford hybrid components 8yr/100k \u2014 NOT verified for this VIN; confirm with a Ford dealer."
     },
     {
       "id": "url-8aaeff73aa51",
+      "listing_id": "url-8aaeff73aa51",
       "vin": null,
       "year": 2024,
       "make": "Mitsubishi",
@@ -2248,10 +2405,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Clean title (AutoCheck); Cars.com Great Deal ($1,609 below original); all-in price",
       "concerns": "UNVERIFIED TODAY: Cars.com returned a hard Cloudflare block; could not confirm active status or current price",
+      "new_vs_prior": "UNVERIFIED Oct 18 \u2014 cars.com blocked; no matching Dalton Subaru listing in fallback search (was $25,351, National City CA)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "vin-KNDRHDLG1P5133699",
+      "listing_id": "vin-KNDRHDLG1P5133699",
       "vin": "KNDRHDLG1P5133699",
       "year": 2023,
       "make": "Kia",
@@ -2286,10 +2446,13 @@
       "verified_active": false,
       "history": "Clean title; 1 accident reported, no damage reported; 1 previous owner (CarGurus); CarGurus Fair Deal ($286 below market); 2 days at dealership; price includes fees",
       "concerns": "NEW today per sweep \u2014 COMING SOON placeholder photo (no actual photos yet); dealer description now says \"Certified\"; CarGurus Fair Deal ($3 below market); 3 days on CarGurus; PRICE DROP $26,396 -> $25,502 (-$894); verify price/location with dealer before travel",
+      "new_vs_prior": "GONE Oct 23 \u2014 cargurus.com/details/461979665 returns 404 (page removed); was $25,502, 2023 Sorento Hybrid EX AWD, Kia of Cerritos",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-JM3KKEHA4R1122775",
+      "listing_id": "vin-JM3KKEHA4R1122775",
       "vin": "JM3KKEHA4R1122775",
       "year": 2024,
       "make": "Mazda",
@@ -2328,10 +2491,13 @@
       "verified_active": null,
       "history": "0 accidents, 1 owner, clean title, personal use; $3,998 below market",
       "concerns": "Model-specific: verify CX-90 PHEV recall status by VIN; listing says 'not dealer-verified'",
+      "new_vs_prior": "retry Oct 23 \u2014 still blocked (Edmunds 403); VIN fallback search found nothing; status unknown, not confirmed gone",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Seller claim on listing: battery warranty 6 yr / 62,694 mi remaining \u2014 NOT independently verified; confirm with a Mazda dealer by VIN."
     },
     {
       "id": "vin-KNDRH4LG9P5169625",
+      "listing_id": "vin-KNDRH4LG9P5169625",
       "vin": "KNDRH4LG9P5169625",
       "year": 2023,
       "make": "Kia",
@@ -2366,10 +2532,13 @@
       "verified_active": false,
       "history": "0 accidents, 1 owner, personal use, clean title; Certified Pre-Owned",
       "concerns": "Edmunds: listing not dealer-verified \u2014 confirm CPO coverage and fees in writing; Fair Price $516 below market",
+      "new_vs_prior": "GONE Oct 31: Edmunds states 'Vehicle no longer available' / 'sold or removed by the dealer'; no longer counted as verified active",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility with dealer (estimate)."
     },
     {
       "id": "vin-KNDRKDLG6P5170183",
+      "listing_id": "vin-KNDRKDLG6P5170183",
       "vin": "KNDRKDLG6P5170183",
       "year": 2023,
       "make": "Kia",
@@ -2408,10 +2577,13 @@
       "verified_active": null,
       "history": "No accident, single owner",
       "concerns": "Fees: total includes $250 EVR fee ($25,911 + $250); Autotrader notes a $1,006 price drop from an earlier asking price; confirm history report",
+      "new_vs_prior": "retry Oct 23 \u2014 still blocked (Akamai); VIN fallback search found nothing; status unknown, not confirmed gone",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-76eb62831dfd",
+      "listing_id": "url-76eb62831dfd",
       "vin": null,
       "year": 2024,
       "make": "Mitsubishi",
@@ -2450,10 +2622,13 @@
       "verified_active": false,
       "history": "Clean title, 0 accidents, 1 owner; 'Great Deal' $2,262 below market; 15 days on market",
       "concerns": "Confirm battery warranty by VIN; confirm no financing/trade-in conditions; slower Level 2 charging (~6.5 hr per listing) vs competitors",
+      "new_vs_prior": "GONE Oct 19 \u2014 CarGurus page 404s, no fallback trace (was $25,915, 2024 Outlander PHEV SEL, Mercedes-Benz of Laguna Niguel)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "vin-5TDBBRCH7LS504894",
+      "listing_id": "vin-5TDBBRCH7LS504894",
       "vin": "5TDBBRCH7LS504894",
       "year": 2020,
       "make": "Toyota",
@@ -2500,10 +2675,13 @@
       "verified_active": null,
       "history": "1 owner, 0 accidents, clean title, personal use",
       "concerns": "Near 100k miles; confirm maintenance records; no CPO",
+      "new_vs_prior": "retry Oct 23 \u2014 still blocked (Edmunds 403); VIN fallback search found nothing; status unknown, not confirmed gone",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Toyota HV battery warranty 10yr/150k miles from in-service date, transferable to subsequent owners (per Toyota warranty guide \u2014 general term, VIN eligibility to confirm)."
     },
     {
       "id": "vin-KM8S5DA19NU037634",
+      "listing_id": "vin-KM8S5DA19NU037634",
       "vin": "KM8S5DA19NU037634",
       "year": 2022,
       "make": "Hyundai",
@@ -2550,10 +2728,13 @@
       "verified_active": false,
       "history": "CarFax One Owner badge; Certified pre-owned per listing",
       "concerns": "Dealer page shows confusing breakdown ($29,777 \u2212 $2,778 = $26,999 + doc fee) vs $27,698 headline \u2014 use headline and confirm doc fee amount; accident/title details not fully shown",
+      "new_vs_prior": "GONE Oct 23 \u2014 dealer VDP URL 404s (page removed); was $25,999, 2022 Santa Fe Hybrid Limited CPO, Earnhardt Hyundai Avondale AZ",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k original owner; subsequent owners 5yr/60k from in-service date \u2014 verify by VIN (estimate)."
     },
     {
       "id": "url-9703d05bb269",
+      "listing_id": "url-9703d05bb269",
       "vin": null,
       "year": 2023,
       "make": "Honda",
@@ -2588,10 +2769,13 @@
       "verified_active": null,
       "history": "Seller claims clean title; no history report",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; Facebook Marketplace private listing; title claim is seller-stated only",
+      "new_vs_prior": "Not re-verified Oct 13 (was $26,000 Oct 12)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Honda hybrid battery 8yr/100k; 10yr/150k in CA-emissions states \u2014 verify by VIN (estimate)."
     },
     {
       "id": "vin-KNDRJDLH8N5115968",
+      "listing_id": "vin-KNDRJDLH8N5115968",
       "vin": "KNDRJDLH8N5115968",
       "year": 2022,
       "make": "Kia",
@@ -2626,10 +2810,13 @@
       "verified_active": true,
       "history": "iSeeCars GOOD deal, $1,240 below market; low annual miles; listed ~24 days",
       "concerns": "Dealer name not shown at iSeeCars SRP level; fees and charging equipment not disclosed; history not verified; PHEV battery health unconfirmed",
+      "new_vs_prior": "Verified active Oct 23: still $26,111 / 43,084 mi (iSeeCars SRP)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-JA4T5VA90RZ067435",
+      "listing_id": "vin-JA4T5VA90RZ067435",
       "vin": "JA4T5VA90RZ067435",
       "year": 2024,
       "make": "Mitsubishi",
@@ -2664,10 +2851,13 @@
       "verified_active": true,
       "history": "iSeeCars GOOD deal, $782 below market; 2 price drops in 19 days (was $27,161); listed 18 days; accident/title history not shown on card",
       "concerns": "Dealer fees and financing conditions not disclosed on SRP card \u2014 confirm out-the-door price before travel; charging cable and EV-battery health unconfirmed; history not verified",
+      "new_vs_prior": "Verified active Oct 23: still $26,161 / 40,964 mi (iSeeCars SRP); GOOD deal $782 below market",
+      "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified \u2014 confirm with a Mitsubishi dealer by VIN."
     },
     {
       "id": "url-0586cacd619f",
+      "listing_id": "url-0586cacd619f",
       "vin": null,
       "year": 2022,
       "make": "Kia",
@@ -2702,10 +2892,13 @@
       "verified_active": false,
       "history": "Was: single owner, no accidents, Kia CPO",
       "concerns": "Listing now expired/sold per Autotrader ('already found a new home')",
+      "new_vs_prior": "GONE \u2014 inactive Oct 13 (was active Oct 12 at $26,172)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRH4LG1P5169540",
+      "listing_id": "vin-KNDRH4LG1P5169540",
       "vin": "KNDRH4LG1P5169540",
       "year": 2023,
       "make": "Kia",
@@ -2740,10 +2933,13 @@
       "verified_active": null,
       "history": "Kia Certified Pre-Owned (165-pt inspection; 12mo/12k Platinum coverage; 120mo/100k powertrain from original in-service date; roadside assistance)",
       "concerns": "FWD only; confirm CPO warranty transfers in writing; confirm price needs no financing",
+      "new_vs_prior": "UNVERIFIED Oct 18 \u2014 CarGurus 403; fallback search found no Premier Kia Carlsbad listing for VIN KNDRH4LG1P5169540 (was $26,176 CPO)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility with dealer (estimate)."
     },
     {
       "id": "url-63f4e29ffc68",
+      "listing_id": "url-63f4e29ffc68",
       "vin": null,
       "year": 2023,
       "make": "Hyundai",
@@ -2778,10 +2974,13 @@
       "verified_active": null,
       "history": "Not shown at SRP level (title/accidents/owners unknown)",
       "concerns": "Aggregator SRP-level only (Capital One Auto Navigator crawl ~37 days old) \u2014 detail page not opened; fees, title/accident history, pricing conditions unknown; verify before pursuit",
+      "new_vs_prior": "NEW Oct 19 \u2014 SRP/index-level only (~37-day-old crawl); not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k original owner; subsequent owners 5yr/60k from in-service date \u2014 NOT verified for this VIN; confirm with a Hyundai dealer."
     },
     {
       "id": "url-34f98128b2e6",
+      "listing_id": "url-34f98128b2e6",
       "vin": null,
       "year": 2023,
       "make": "Kia",
@@ -2816,10 +3015,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Clean title but accidents reported on AutoCheck; Good Deal",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; AutoCheck reports accidents \u2014 pre-purchase inspection essential",
+      "new_vs_prior": "Not re-verified Oct 14",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRHDLG0P5204259",
+      "listing_id": "vin-KNDRHDLG0P5204259",
       "vin": "KNDRHDLG0P5204259",
       "year": 2023,
       "make": "Kia",
@@ -2854,10 +3056,13 @@
       "verified_active": null,
       "history": "History/accidents/owners not shown on detail page",
       "concerns": "NEW today \u2014 detail page opened via aggregator Oct 16, still listed; fees unknown; request full history report before travel",
+      "new_vs_prior": "Not re-verified Oct 17 \u2014 capitalone.com navigation declined in browser; status unknown (was active Oct 16 at $26,396, 22,456 mi)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRMDLGXP5144003",
+      "listing_id": "vin-KNDRMDLGXP5144003",
       "vin": "KNDRMDLGXP5144003",
       "year": 2023,
       "make": "Kia",
@@ -2892,10 +3097,13 @@
       "verified_active": null,
       "history": "Not shown (SRP-level only); CarGurus Great Deal",
       "concerns": "NEW today \u2014 seen on CarGurus SRP only; detail page not opened; top-trim SX Prestige at $26,462 Great Deal; fees/history not shown",
+      "new_vs_prior": "NEW today \u2014 SRP-level only, not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRHDLGXP5185557",
+      "listing_id": "vin-KNDRHDLGXP5185557",
       "vin": "KNDRHDLGXP5185557",
       "year": 2023,
       "make": "Kia",
@@ -2930,10 +3138,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): CarGurus Great Deal",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; fees unknown; accident/title history not shown",
+      "new_vs_prior": "UNVERIFIED Oct 19 \u2014 quoted-VIN searches returned no current detail pages (Ontario/Bellingham/Irvine SRP-only carryovers)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-625729835191",
+      "listing_id": "url-625729835191",
       "vin": null,
       "year": 2021,
       "make": "Volvo",
@@ -2968,10 +3179,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Clean title per AutoCheck; multiple owners",
       "concerns": "Private-party sale (no dealer recourse); multiple prior owners; fees/taxes not disclosed; accident details not shown",
+      "new_vs_prior": "UNVERIFIED Oct 18 \u2014 cars.com blocked; Portland private-party (Tyler) listing not found in search (was $26,499)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Volvo dealer; high-voltage battery terms vary."
     },
     {
       "id": "vin-KNDRHDLGXP5175577",
+      "listing_id": "vin-KNDRHDLGXP5175577",
       "vin": "KNDRHDLGXP5175577",
       "year": 2023,
       "make": "Kia",
@@ -3006,10 +3220,13 @@
       "verified_active": null,
       "history": "1 owner, no accidents reported, 'Great Price' $2,115 below market (Autotrader)",
       "concerns": "Autotrader says \"Dealer Fees Included\" but disclosure says optional $250 doc fee is NOT included \u2014 confirm out-the-door price; \"Lifetime Powertrain Warranty\" is a dealer offer, not manufacturer CPO; confirm price does not require financing; maintenance records not shown",
+      "new_vs_prior": "retry Oct 23 \u2014 still blocked (Akamai); VIN fallback search found nothing; status unknown, not confirmed gone",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k unless CPO \u2014 confirm VIN eligibility (estimate, not yet verified)."
     },
     {
       "id": "url-6788fee1c1f9",
+      "listing_id": "url-6788fee1c1f9",
       "vin": null,
       "year": 2024,
       "make": "Honda",
@@ -3044,10 +3261,13 @@
       "verified_active": null,
       "history": "Ad only; no history report",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; Facebook Marketplace ad (dealer MGK AUTO GROUP); title/accident history not independently shown",
+      "new_vs_prior": "Not re-verified Oct 13 (was $26,500 Oct 12)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Honda hybrid battery 8yr/100k; 10yr/150k in CA-emissions states \u2014 verify by VIN (estimate)."
     },
     {
       "id": "url-eb5ae9d936a6",
+      "listing_id": "url-eb5ae9d936a6",
       "vin": null,
       "year": 2024,
       "make": "Mazda",
@@ -3082,16 +3302,19 @@
       "verified_active": false,
       "history": "Clean title per listing history report; Good Deal",
       "concerns": "Model-specific: 2024 CX-90 has multiple NHTSA recalls incl. dash ESU (affects PHEV HV battery cooling), PCM/BECM software, inverter EV-mode power loss, plus early-build HV insulation TSB. Must confirm all recalls completed by VIN before pursuing. Accident/owner history not shown on CarGurus summary.",
+      "new_vs_prior": "GONE \u2014 inactive Oct 18; CarGurus page \"Looks like that one got away\" (was $26,586, EchoPark Henderson NV)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Mazda hybrid coverage NOT verified \u2014 confirm with a Mazda dealer by VIN."
     },
     {
       "id": "url-3ba4eed5e071",
+      "listing_id": "url-3ba4eed5e071",
       "vin": null,
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander PHEV SEL AWD",
       "trim": "Mitsubishi Outlander PHEV SEL AWD",
-      "hybrid_type": "PHEV",
+      "hybrid_type": "Plug-in hybrid",
       "drivetrain": "AWD",
       "price": 26617,
       "mileage": 44248,
@@ -3280,10 +3503,13 @@
       "verified_active": null,
       "history": "CARFAX One-Owner + Clean CARFAX per listing; Edmunds price-drop flag; VIN JA4T5VA94RZ065256, stock D4105R",
       "concerns": "NOT DETAIL-VERIFIED: SRP-level lead only; do not treat as available until a listing page is opened",
+      "new_vs_prior": "NEW Oct 15 \u2014 Edmunds SRP live Oct 15; listed since 09-02-2026; detail page not opened",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified \u2014 confirm with a dealer by VIN."
     },
     {
       "id": "url-5dd60e351551",
+      "listing_id": "url-5dd60e351551",
       "vin": null,
       "year": 2022,
       "make": "Kia",
@@ -3318,10 +3544,13 @@
       "verified_active": null,
       "history": "Clean title, 0 accidents, 2 previous owners (per dealer text; CarGurus history box shows 1 \u2014 verify with report)",
       "concerns": "OWNER-COUNT DISCREPANCY: dealer description says 'two previous owners', AutoCheck shows 1 previous owner \u2014 verify with full history report",
+      "new_vs_prior": "UNVERIFIED Oct 19 \u2014 CarGurus 403 bot block today; no fallback confirmation (was $26,646, Honda of Kirkland, 2022 Sorento PHEV SX Prestige)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRH4LG1P5228604",
+      "listing_id": "vin-KNDRH4LG1P5228604",
       "vin": "KNDRH4LG1P5228604",
       "year": 2023,
       "make": "Kia",
@@ -3360,10 +3589,13 @@
       "verified_active": false,
       "history": "Clean title, 1 previous owner, 0 accidents (CarGurus history)",
       "concerns": "FWD only; 57 days on market; advertised price excludes taxes/fees \u2014 confirm out-the-door price",
+      "new_vs_prior": "GONE Oct 25 \u2014 CarGurus page \"This car already left the lot / SOLD\" (was $26,672, Encinitas Ford CA)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-a13b64d70308",
+      "listing_id": "url-a13b64d70308",
       "vin": null,
       "year": 2023,
       "make": "Kia",
@@ -3398,10 +3630,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Clean title BUT accidents reported, multiple owners; Cars.com Great Deal ($688 drop); all-in price",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; accidents + multiple owners; FWD only \u2014 weak vs other Sorento picks",
+      "new_vs_prior": "Not re-verified Oct 13 (was $26,970 Oct 12)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-JA4T5UA90PZ020221",
+      "listing_id": "vin-JA4T5UA90PZ020221",
       "vin": "JA4T5UA90PZ020221",
       "year": 2023,
       "make": "Mitsubishi",
@@ -3436,10 +3671,13 @@
       "verified_active": null,
       "history": "SRP-level only; title/accident unknown",
       "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Store transfer, $1,999 shipping incl.; SRP-level only.",
+      "new_vs_prior": "NEW Oct 18 \u2014 SRP-level only, not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "vin-KNDRMDLG5P5130610",
+      "listing_id": "vin-KNDRMDLG5P5130610",
       "vin": "KNDRMDLG5P5130610",
       "year": 2023,
       "make": "Kia",
@@ -3474,10 +3712,13 @@
       "verified_active": null,
       "history": "Kia Certified Pre-Owned (top trim)",
       "concerns": "NEW today \u2014 detail page opened via aggregator Oct 16, still listed; higher miles (67.6k); history/accidents/owners not shown; CPO coverage to confirm in writing",
+      "new_vs_prior": "Not re-verified Oct 17 \u2014 capitalone.com navigation declined in browser; status unknown (was active Oct 16 at $26,999, CPO, 67,635 mi)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility with dealer (estimate)."
     },
     {
       "id": "vin-JA4T5VA94PZ037710",
+      "listing_id": "vin-JA4T5VA94PZ037710",
       "vin": "JA4T5VA94PZ037710",
       "year": 2023,
       "make": "Mitsubishi",
@@ -3512,10 +3753,13 @@
       "verified_active": true,
       "history": "iSeeCars GOOD deal $2,502 below market; low annual miles; listed 4 days ago (per SRP)",
       "concerns": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending; confirm battery health + charging cable by VIN",
+      "new_vs_prior": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "url-7ef502464ca2",
+      "listing_id": "url-7ef502464ca2",
       "vin": null,
       "year": 2023,
       "make": "Hyundai",
@@ -3558,10 +3802,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Clean title (AutoCheck); Cars.com Good Deal ($192 drop); all-in price",
       "concerns": "Accident details not shown on page (title Clean); fees known: $85 doc + $37 e-filing + $50 smog included in all-in price; confirm certified terms in writing",
+      "new_vs_prior": "UNVERIFIED Oct 18 \u2014 cars.com blocked; no matching Capitol Hyundai listing found (was $27,120, San Jose CA)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k original owner; subsequent owners 5yr/60k from in-service date \u2014 verify by VIN (estimate)."
     },
     {
       "id": "vin-KNDRMDLH5P5165625",
+      "listing_id": "vin-KNDRMDLH5P5165625",
       "vin": "KNDRMDLH5P5165625",
       "year": 2023,
       "make": "Kia",
@@ -3596,10 +3843,13 @@
       "verified_active": false,
       "history": "Not shown (SRP-level only)",
       "concerns": "GONE Oct 28 \u2014 Edmunds: sold or removed by the dealer (was CarGurus SRP $27,172 / 75,821 mi; never detail-verified)",
+      "new_vs_prior": "SRP lead Oct 28, failed verification \u2014 Edmunds sold/removed",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-5fee5842f263",
+      "listing_id": "url-5fee5842f263",
       "vin": null,
       "year": 2025,
       "make": "Hyundai",
@@ -3634,10 +3884,13 @@
       "verified_active": true,
       "history": "2025 MY under $30k is notable",
       "concerns": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
+      "new_vs_prior": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
+      "price_vs_prior": null,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k original owner; subsequent owners 5yr/60k from in-service date \u2014 verify by VIN (estimate)."
     },
     {
       "id": "vin-JA4T5WA96RZ065940",
+      "listing_id": "vin-JA4T5WA96RZ065940",
       "vin": "JA4T5WA96RZ065940",
       "year": 2024,
       "make": "Mitsubishi",
@@ -3672,10 +3925,13 @@
       "verified_active": null,
       "history": "SRP-level only; title/accident unknown",
       "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Dick Hannah Kia; CarGurus SRP-level only.",
+      "new_vs_prior": "NEW Oct 18 \u2014 SRP-level only, not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "vin-KNDRH4LG2P5169174",
+      "listing_id": "vin-KNDRH4LG2P5169174",
       "vin": "KNDRH4LG2P5169174",
       "year": 2023,
       "make": "Kia",
@@ -3710,10 +3966,13 @@
       "verified_active": null,
       "history": "Clean title, 1 previous owner, 0 accidents (CarGurus); CarBravo Certified; 7 days on market",
       "concerns": "Dealer rating 2.3/6 reviews \u2014 read reviews before traveling; FWD; price includes dealer-required fees, excludes government taxes/fees",
+      "new_vs_prior": "UNVERIFIED Oct 19 \u2014 CarGurus 403 bot block today; no fallback confirmation (was $27,472, Quality Chevrolet, Escondido CA, 2023 Sorento EX FWD)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-5bed2a4bd200",
+      "listing_id": "url-5bed2a4bd200",
       "vin": null,
       "year": 2023,
       "make": "Kia",
@@ -3748,10 +4007,13 @@
       "verified_active": null,
       "history": "No accident reported; multiple owners",
       "concerns": "Multiple owners \u2014 main caveat; 'No additional dealer fees' per listing; confirm maintenance records",
+      "new_vs_prior": "UNVERIFIED Oct 19 \u2014 Autotrader Akamai block; spot-check found no fresh listing (was $27,484, California Motor Trade, Norco CA)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-1C4RJYD62P8802109",
+      "listing_id": "vin-1C4RJYD62P8802109",
       "vin": "1C4RJYD62P8802109",
       "year": 2023,
       "make": "Jeep",
@@ -3786,10 +4048,13 @@
       "verified_active": null,
       "history": "No accidents, 1 owner, personal use, service history; $5,107 below CARFAX value; total price incl. fees; Jeep CPO Gold (125-pt inspection, 12mo/12k warranty)",
       "concerns": "MODEL-SPECIFIC: 4xe subject to NHTSA HV-battery fire-risk recall (24V-720, expanded), sudden power-loss recall (23V-412), engine-failure recall (25V-766) \u2014 verify all remedies completed by VIN before any consideration; Jeep dropped the 4xe program after 2025",
+      "new_vs_prior": "retry Oct 23 \u2014 still blocked (Carfax 403); VIN fallback search found nothing; status unknown, not confirmed gone",
+      "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
     {
       "id": "vin-KNDRHDJG9S5385017",
+      "listing_id": "vin-KNDRHDJG9S5385017",
       "vin": "KNDRHDJG9S5385017",
       "year": 2025,
       "make": "Kia",
@@ -3824,10 +4089,13 @@
       "verified_active": false,
       "history": "AutoCheck: 0 accidents, 1 owner, lease vehicle \u2014 BUT lemon reported; dealer description says BUYBACK / RE-PURCHASED BY THE MANUFACTURER",
       "concerns": "EXCLUDED \u2014 manufacturer buyback / lemon reported; fails clean-title criterion; do not pursue",
+      "new_vs_prior": "EXCLUDED Oct 25 \u2014 manufacturer buyback/lemon reported; fails clean-title criterion; never a recommendation",
+      "price_vs_prior": null,
       "battery_warranty_note": "Not applicable \u2014 excluded vehicle."
     },
     {
       "id": "url-4d41bc0a4c2b",
+      "listing_id": "url-4d41bc0a4c2b",
       "vin": null,
       "year": 2023,
       "make": "Kia",
@@ -3866,10 +4134,13 @@
       "verified_active": null,
       "history": "Accident or damage reported; single owner; no additional dealer fees",
       "concerns": "ACCIDENT OR DAMAGE REPORTED \u2014 verify repair details; top-trim PHEV but accident history makes it a weaker pick; PRICE DROP: $28,284 -> $27,784 (-$500)",
+      "new_vs_prior": "UNVERIFIED Oct 19 \u2014 Autotrader Akamai block; spot-check found no fresh listing (was $27,784, Fontana Motors Direct, PHEV)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-2HKRS6H53PH811745",
+      "listing_id": "vin-2HKRS6H53PH811745",
       "vin": "2HKRS6H53PH811745",
       "year": 2023,
       "make": "Honda",
@@ -3904,10 +4175,13 @@
       "verified_active": false,
       "history": "Was: AutoCheck 0 accidents, 1 owner, personal use, clean title; HondaTrue Certified",
       "concerns": "Edmunds: 'Page Not Found / vehicle has been sold or removed'",
+      "new_vs_prior": "GONE \u2014 inactive Oct 13 (was active Oct 12 at $27,949)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Honda hybrid battery 8yr/100k; 10yr/150k in CA-emissions states \u2014 verify by VIN (estimate)."
     },
     {
       "id": "vin-KNDRMDLG5P5137671",
+      "listing_id": "vin-KNDRMDLG5P5137671",
       "vin": "KNDRMDLG5P5137671",
       "year": 2023,
       "make": "Kia",
@@ -3942,10 +4216,13 @@
       "verified_active": false,
       "history": "1 accident, 1 owner, personal use, clean title",
       "concerns": "NEW Oct 26 \u2014 history/accidents/owners not shown; online-only seller; confirm condition via inspection; $0 dealer fees typical of Carvana, taxes/gov fees excluded",
+      "new_vs_prior": "GONE Oct 30 \u2014 Edmunds: 'sold or removed by the dealer' (was $27,990 / 66,168 mi, Carvana - Fresno, CA, 1 accident flagged)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRKDLG8P5170640",
+      "listing_id": "vin-KNDRKDLG8P5170640",
       "vin": "KNDRKDLG8P5170640",
       "year": 2023,
       "make": "Kia",
@@ -3980,10 +4257,13 @@
       "verified_active": false,
       "history": "Clean title; 1 accident reported, no damage reported; 1 previous owner (CarGurus); CarGurus Good Deal ($574 below market); 4 days at dealership; no additional dealer fees (CarMax Zero Fees)",
       "concerns": "1 accident on record (no damage reported) \u2014 verify repair details; FLAG: results card showed $28,147 / Inglewood-store-transfer variant vs detail page $27,998 (Modesto CA) \u2014 verify location/price with dealer before travel",
+      "new_vs_prior": "GONE Oct 21 \u2014 SOLD: CarGurus page shows \"This car already left the lot\" with SOLD badge (was $27,998, CarMax Duarte)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRHDLG1P5213732",
+      "listing_id": "vin-KNDRHDLG1P5213732",
       "vin": "KNDRHDLG1P5213732",
       "year": 2023,
       "make": "Kia",
@@ -4022,10 +4302,13 @@
       "verified_active": false,
       "history": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 13, 2026); 7 days at dealership; no additional dealer fees (CarMax Zero Fees)",
       "concerns": "CarGurus Fair Deal ($86 below market); Gray/Cream; near price ceiling",
+      "new_vs_prior": "GONE Oct 25 \u2014 CarGurus page \"This car already left the lot / SOLD\" (was $27,998, CarMax Duarte CA)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRMDLGXP5137388",
+      "listing_id": "vin-KNDRMDLGXP5137388",
       "vin": "KNDRMDLGXP5137388",
       "year": 2023,
       "make": "Kia",
@@ -4060,10 +4343,13 @@
       "verified_active": false,
       "history": "iSeeCars: 1 owner, certified used (SRP-level)",
       "concerns": "GONE Oct 28 \u2014 Edmunds: sold or removed by the dealer (was SRP $27,998 / 52,585 mi; never detail-verified)",
+      "new_vs_prior": "SRP lead Oct 28, failed verification \u2014 Edmunds sold/removed",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-1C4RJYD62P8785778",
+      "listing_id": "vin-1C4RJYD62P8785778",
       "vin": "1C4RJYD62P8785778",
       "year": 2023,
       "make": "Jeep",
@@ -4102,10 +4388,13 @@
       "verified_active": false,
       "history": "No accident/history info on page",
       "concerns": "NEW Oct 18 \u2014 detail-verified. One-price dealer, $85 doc fee, no add-ons claimed; 4xe recall remedies must be verified by VIN",
+      "new_vs_prior": "GONE Oct 22 \u2014 VDP URL renders generic inventory landing page, second consecutive day (was $28,087, 2023 GC 4xe Overland)",
+      "price_vs_prior": -1000,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
     {
       "id": "url-c7c219e44e5b",
+      "listing_id": "url-c7c219e44e5b",
       "vin": null,
       "year": 2024,
       "make": "Mazda",
@@ -4140,10 +4429,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Accident or damage reported; multiple owners (Autotrader)",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; accident/damage history + multiple owners; subject to 2024 CX-90 NHTSA recalls \u2014 confirm completion by VIN",
+      "new_vs_prior": "Not re-verified Oct 13 (was $28,176 Oct 12)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Mazda hybrid coverage NOT verified \u2014 confirm with a Mazda dealer by VIN."
     },
     {
       "id": "vin-KNDRMDLH9N5095950",
+      "listing_id": "vin-KNDRMDLH9N5095950",
       "vin": "KNDRMDLH9N5095950",
       "year": 2022,
       "make": "Kia",
@@ -4178,10 +4470,13 @@
       "verified_active": false,
       "history": "Manufacturer certified (SRP-level)",
       "concerns": "GONE Oct 28 \u2014 Edmunds: sold or removed by the dealer (was CarGurus SRP $28,197 / 57,416 mi; never detail-verified)",
+      "new_vs_prior": "SRP lead Oct 28, failed verification \u2014 Edmunds sold/removed",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRHDLG0P5187947",
+      "listing_id": "vin-KNDRHDLG0P5187947",
       "vin": "KNDRHDLG0P5187947",
       "year": 2023,
       "make": "Kia",
@@ -4216,10 +4511,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Manufacturer certified (CPO); price drop -$700; CarGurus Good Deal",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; confirm CPO in writing",
+      "new_vs_prior": "UNVERIFIED Oct 19 \u2014 quoted-VIN searches returned no current detail pages (Ontario/Bellingham/Irvine SRP-only carryovers)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-390739644b58",
+      "listing_id": "url-390739644b58",
       "vin": null,
       "year": 2019,
       "make": "Toyota",
@@ -4254,10 +4552,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Single owner, no accidents reported (Autotrader); Great Price, $725 below market",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; 2019 HV battery warranty 8yr/100k \u2014 little factory coverage left; fees unknown",
+      "new_vs_prior": "Not re-verified Oct 13 (was $28,395 Oct 12)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Toyota HV battery 8yr/100k for 2019 model year \u2014 minimal coverage likely remains; verify in-service date by VIN."
     },
     {
       "id": "url-8bca6e6bc2ba",
+      "listing_id": "url-8bca6e6bc2ba",
       "vin": null,
       "year": 2019,
       "make": "Acura",
@@ -4292,10 +4593,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Clean title BUT accidents reported; Cars.com Great Deal ($907 below original); all-in price",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; accidents reported \u2014 pre-purchase inspection essential; 2019 hybrid battery coverage largely expired",
+      "new_vs_prior": "Not re-verified Oct 13 (was $28,993 Oct 12)",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with an Acura dealer."
     },
     {
       "id": "url-1c6ff95aebce",
+      "listing_id": "url-1c6ff95aebce",
       "vin": null,
       "year": 2019,
       "make": "Toyota",
@@ -4330,10 +4634,13 @@
       "verified_active": false,
       "history": "Was (Oct 12): Clean title per listing history report; Great Deal (below KBB fair purchase price)",
       "concerns": "UNVERIFIED TODAY: Cars.com Cloudflare-blocked; near end of hybrid battery factory coverage",
+      "new_vs_prior": "GONE \u2014 inactive Oct 14; Cars.com page shows \"no longer listed\" (was $28,998 Oct 13)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Toyota HV battery 8yr/100k for 2019 model year (pre-2020 10yr/150k upgrade) \u2014 roughly 19k miles of factory battery coverage may remain; verify in-service date by VIN."
     },
     {
       "id": "vin-KNDRKDLG8P5170542",
+      "listing_id": "vin-KNDRKDLG8P5170542",
       "vin": "KNDRKDLG8P5170542",
       "year": 2023,
       "make": "Kia",
@@ -4368,10 +4675,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Manufacturer certified (CPO); title/accidents/owners not shown",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; fees unknown; confirm CPO in writing",
+      "new_vs_prior": "UNVERIFIED Oct 19 \u2014 quoted-VIN searches returned no current detail pages (Glendale/Ontario/Bellingham/Irvine SRP-only carryovers)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-a28eac57b9dc",
+      "listing_id": "url-a28eac57b9dc",
       "vin": null,
       "year": 2023,
       "make": "Hyundai",
@@ -4450,10 +4760,13 @@
       "verified_active": true,
       "history": "SRP-level only",
       "concerns": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
+      "new_vs_prior": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
+      "price_vs_prior": null,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k original owner; subsequent owners 5yr/60k from in-service date \u2014 verify by VIN (estimate)."
     },
     {
       "id": "vin-KNDRHDLG7R5248469",
+      "listing_id": "vin-KNDRHDLG7R5248469",
       "vin": "KNDRHDLG7R5248469",
       "year": 2024,
       "make": "Kia",
@@ -4492,10 +4805,13 @@
       "verified_active": null,
       "history": "1 owner, 0 accidents, clean title per listing history report; Kia Certified Pre-Owned",
       "concerns": "Confirm CPO coverage in writing; Cars.com total $29,060 vs Autotrader $28,950 vehicle price \u2014 total incl $85 doc + $25 e-filing is $29,060; confirm whether price requires dealer financing",
+      "new_vs_prior": "retry Oct 23 \u2014 still blocked (cars.com policy domain block); VIN fallback search found nothing; status unknown, not confirmed gone",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k. Second-owner powertrain coverage normally drops to 5yr/60k; CPO restores 10yr/100k \u2014 confirm VIN-specific eligibility with Tustin Kia (estimate, not yet verified)."
     },
     {
       "id": "vin-KM8S7DA23PU075463",
+      "listing_id": "vin-KM8S7DA23PU075463",
       "vin": "KM8S7DA23PU075463",
       "year": 2023,
       "make": "Hyundai",
@@ -4530,10 +4846,13 @@
       "verified_active": true,
       "history": "Dealer description states CARFAX 1-Owner; Hyundai Certified (173-point inspection cited); accident count not stated",
       "concerns": "$499 doc fee not in price; pricing disclaimer excludes tax/title/tags/finance charges/emissions/other fees \u2014 confirm out-the-door; certified terms should be confirmed in writing; mileage 51,776 mi is higher than ideal",
+      "new_vs_prior": "Verified active Oct 23: SRP still lists the Santa Fe PHEV Limited Certified at $29,449",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 NOT verified for this VIN; confirm with a Hyundai dealer."
     },
     {
       "id": "url-2de6eeb92f17",
+      "listing_id": "url-2de6eeb92f17",
       "vin": null,
       "year": 2025,
       "make": "Kia",
@@ -4568,10 +4887,13 @@
       "verified_active": false,
       "history": "No accidents reported (Autotrader); Great Price, $2,034 below market; Kia Certified Pre-Owned",
       "concerns": "Dealer disclosure says 'prices include the listed rebates and incentives' \u2014 possible conditional pricing, verify; disclosure cites $499 doc fee while price breakdown shows $599 \u2014 use $599 / confirm OTD; EV range ~30 mi when new",
+      "new_vs_prior": "GONE \u2014 inactive Oct 16; Autotrader page redirected (redirectExpiredPage=1) to search results: 'already found a new home' (was $29,586 Oct 14)",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility with dealer (estimate)."
     },
     {
       "id": "vin-JA4T5UA98PZ054147",
+      "listing_id": "vin-JA4T5UA98PZ054147",
       "vin": "JA4T5UA98PZ054147",
       "year": 2023,
       "make": "Mitsubishi",
@@ -4606,10 +4928,13 @@
       "verified_active": null,
       "history": "SRP-level only; title/accident unknown",
       "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Store transfer, $1,999 shipping incl.; SRP-level only.",
+      "new_vs_prior": "NEW Oct 18 \u2014 SRP-level only, not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "vin-KNDRHDLGXR5235876",
+      "listing_id": "vin-KNDRHDLGXR5235876",
       "vin": "KNDRHDLGXR5235876",
       "year": 2024,
       "make": "Kia",
@@ -4644,10 +4969,13 @@
       "verified_active": null,
       "history": "Was (Oct 12): Manufacturer certified (CPO); CarGurus Good Deal",
       "concerns": "NOT RE-VERIFIED Oct 13 \u2014 status unknown; confirm CPO in writing",
+      "new_vs_prior": "Not re-verified Oct 13 (was $29,780 Oct 12)",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-KNDRMDLHXP5165541",
+      "listing_id": "vin-KNDRMDLHXP5165541",
       "vin": "KNDRMDLHXP5165541",
       "year": 2023,
       "make": "Kia",
@@ -4682,10 +5010,13 @@
       "verified_active": false,
       "history": "Not shown (SRP-level only)",
       "concerns": "GONE Oct 28 \u2014 Edmunds: sold or removed by the dealer (was CarGurus SRP $29,787 / 46,815 mi, stock 6HY3484A; never detail-verified)",
+      "new_vs_prior": "SRP lead Oct 28, failed verification \u2014 Edmunds sold/removed",
+      "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "url-d543456b17e4",
+      "listing_id": "url-d543456b17e4",
       "vin": null,
       "year": 2024,
       "make": "Mazda",
@@ -4720,16 +5051,19 @@
       "verified_active": true,
       "history": "Clean CARFAX, 1 owner; Mazda Certified Pre-Owned (12-mo/12k limited + 84-mo/100k powertrain per dealer text)",
       "concerns": "Model-specific: verify open 2024 CX-90 PHEV recalls by VIN; 'Fair Deal' $634 above market; 56 days on market (possible price flexibility)",
+      "new_vs_prior": "Verified active Oct 19: 2024 Mazda CX-90 PHEV Preferred, $29,792, Browning Mazda Cerritos \u2014 live dealer page, price unchanged; Mazda CPO",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Mazda hybrid coverage NOT verified \u2014 confirm with a Mazda dealer by VIN."
     },
     {
       "id": "url-e0f21eda239f",
+      "listing_id": "url-e0f21eda239f",
       "vin": null,
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid SEL Premium",
       "trim": "Hyundai Santa Fe Hybrid SEL Premium",
-      "hybrid_type": "full",
+      "hybrid_type": "Full hybrid",
       "drivetrain": "AWD",
       "price": 29938,
       "mileage": 14157,
@@ -4758,16 +5092,19 @@
       "verified_active": null,
       "history": "Dealer claims clean CARFAX + certified (Hyundai franchise); title stated clean per dealer, not independently verified",
       "concerns": "NOT DETAIL-VERIFIED: SRP-level lead only; do not treat as available until a listing page is opened",
+      "new_vs_prior": "NEW Oct 15 \u2014 SRP/carweek-level only, detail page timed out; certified claim strongest history signal in this round",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified \u2014 confirm with a dealer by VIN."
     },
     {
       "id": "url-4c4dee2efae6",
+      "listing_id": "url-4c4dee2efae6",
       "vin": null,
       "year": 2022,
       "make": "Toyota",
       "model": "Highlander Hybrid LE",
       "trim": "Toyota Highlander Hybrid LE",
-      "hybrid_type": "full",
+      "hybrid_type": "Full hybrid",
       "drivetrain": "FWD",
       "price": 29988,
       "mileage": 78139,
@@ -4796,10 +5133,13 @@
       "verified_active": null,
       "history": "Dealer claims 'damage free', free CARFAX; carweek header showed 2 open recalls (details unknown); near 100k miles",
       "concerns": "NOT DETAIL-VERIFIED: SRP-level lead only; do not treat as available until a listing page is opened",
+      "new_vs_prior": "NEW Oct 15 \u2014 SRP/carweek-level only; verify open recalls by VIN before pursuit",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified \u2014 confirm with a dealer by VIN."
     },
     {
       "id": "vin-JA4T5VA96PZ030886",
+      "listing_id": "vin-JA4T5VA96PZ030886",
       "vin": "JA4T5VA96PZ030886",
       "year": 2023,
       "make": "Mitsubishi",
@@ -4834,10 +5174,13 @@
       "verified_active": null,
       "history": "SRP-level only; title/accident unknown",
       "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Tagged 'New arrival'; store transfer, $1,999 shipping incl.; SRP-level only.",
+      "new_vs_prior": "NEW Oct 18 \u2014 SRP-level only, not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "vin-JA4T5WA9XRZ042483",
+      "listing_id": "vin-JA4T5WA9XRZ042483",
       "vin": "JA4T5WA9XRZ042483",
       "year": 2024,
       "make": "Mitsubishi",
@@ -4872,6 +5215,8 @@
       "verified_active": null,
       "history": "SRP-level only; title/accident unknown",
       "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Store transfer, $1,999 shipping incl.; SRP-level only.",
+      "new_vs_prior": "NEW Oct 18 \u2014 SRP-level only, not detail-verified",
+      "price_vs_prior": null,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     }
   ]
