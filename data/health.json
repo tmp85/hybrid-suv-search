@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T19:08:51.171Z",
+  "generatedAt": "2026-10-31T21:52:51.673Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T19:08:51.171Z",
+      "lastAttemptAt": "2026-10-31T21:52:51.673Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T19:08:51.171Z",
+      "lastSuccessAt": "2026-10-31T21:52:51.673Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 108,
@@ -13,18 +13,18 @@
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
         "mode": "repository_checkout",
         "originSha256": "fbf197bbbf3e63daf14d517e4771771cfa335fe37949d765e66fb6b4f570729d",
-        "pagesSha256": "ad3f3776b519f8cbb91def435102e45bb94476480ef037d3bb041d18f3e78b61",
-        "pagesMatchesOrigin": false,
+        "pagesSha256": "fbf197bbbf3e63daf14d517e4771771cfa335fe37949d765e66fb6b4f570729d",
+        "pagesMatchesOrigin": true,
         "sourceRecordCount": 108,
         "supplementRecordCount": 0
       }
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T19:08:51.171Z",
+      "lastSuccessAt": "2026-10-31T21:52:51.673Z",
       "reportDate": "2026-10-31",
       "error": null,
-      "lastAttemptAt": "2026-10-31T19:08:51.171Z",
+      "lastAttemptAt": "2026-10-31T21:52:51.673Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "13fd9085935e0bb678d625d2373dfe6e5f0ab4f4"
+        "triggerRevision": "0546aeff677f77357f55ee62b026fb50b8972689"
       },
       "lastExportAt": "2026-10-31T18:30:26.007Z",
       "imported": 9,
@@ -59,7 +59,7 @@
     "qualifyingActive": 22
   },
   "photos": {
-    "checkedAt": "2026-10-31T19:08:51.171Z",
+    "checkedAt": "2026-10-31T21:52:51.673Z",
     "attempted": 0,
     "collected": 0,
     "retained": 111,
@@ -79,7 +79,7 @@
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 3
+    "elapsedMs": 2
   },
   "alerts": []
 }
