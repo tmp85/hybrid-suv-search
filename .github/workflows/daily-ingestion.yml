@@ -6,7 +6,7 @@ on:
     - cron: '47 18 * * *' # 11:47 later retry
   push:
     branches: [main]
-    paths: ['listings.json', 'index.html', 'independent/**', 'scripts/**', 'tests/pipeline.test.mjs', 'tests/independent.test.mjs', 'dist/*.js', 'data/verification-overrides.json', '.github/workflows/daily-ingestion.yml']
+    paths: ['listings.json', 'index.html', 'independent/**', 'scripts/**', 'tests/*.test.mjs', 'audit/muse-format-2026-10-31.json', 'dist/*.js', 'data/verification-overrides.json', '.github/workflows/daily-ingestion.yml']
   workflow_dispatch:
     inputs:
       test_update:
@@ -31,7 +31,7 @@ jobs:
         with:
           node-version: '22'
       - name: Test ingestion and safety rules
-        run: node --test tests/pipeline.test.mjs tests/independent.test.mjs
+        run: node --test tests/pipeline.test.mjs tests/independent.test.mjs tests/muse-format.test.mjs tests/muse-integration.test.mjs tests/photo-collector.test.mjs tests/photo-refresh.test.mjs
       - name: Ingest current origin and preserve last known good data
         id: ingest
         env:

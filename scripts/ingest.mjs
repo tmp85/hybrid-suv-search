@@ -1,4 +1,5 @@
 import {checkSeller} from './check-seller.mjs';
+import {refreshPhotos} from './refresh-photos.mjs';
 import {readFile,writeFile,mkdir,rename,copyFile,access} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {resolve,dirname} from 'node:path';
@@ -39,11 +40,13 @@ try{
  if(fixture){muse=await json(resolve(fixture));provenance={mode:'fixture',path:fixture};}
  else{
   const origin='https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/';
-  const [raw,page]=await Promise.allSettled([fetchText(origin+'listings.json'),fetchText('https://tmp85.github.io/hybrid-suv-search/listings.json')]);
+  const checkout=process.env.GITHUB_ACTIONS==='true'&&await exists(resolve(root,'listings.json'));
+  const [raw,page]=await Promise.allSettled([checkout?readFile(resolve(root,'listings.json'),'utf8'):fetchText(origin+'listings.json'),fetchText('https://tmp85.github.io/hybrid-suv-search/listings.json')]);
   if(raw.status==='rejected')throw raw.reason;
   muse=JSON.parse(raw.value);normalizeMuse(muse);
-  provenance={origin:origin+'listings.json',originSha256:digest(raw.value),pagesSha256:page.status==='fulfilled'?digest(page.value):null,pagesMatchesOrigin:page.status==='fulfilled'&&digest(page.value)===digest(raw.value),sourceRecordCount:muse.listings.length};
-  try{
+  provenance={origin:origin+'listings.json',mode:checkout?'repository_checkout':'remote_fetch',originSha256:digest(raw.value),pagesSha256:page.status==='fulfilled'?digest(page.value):null,pagesMatchesOrigin:page.status==='fulfilled'&&digest(page.value)===digest(raw.value),sourceRecordCount:muse.listings.length};
+  if(muse.schema_version==='2.0')provenance.supplementRecordCount=0;
+  else try{
    const html=await fetchText(origin+'index.html'),rows=parseMuseSupplement(html,muse.search_date);
    const supplement=rows.filter(r=>!muse.listings.some(v=>(r.vin&&r.vin===v.vin)||listingIdentity(r.url)===listingIdentity(v.url)));
    provenance.htmlSha256=digest(html);provenance.supplementRecordCount=supplement.length;
@@ -86,6 +89,7 @@ if(!args.includes('--skip-checks')&&!option('--fixture')){
  }));}
  dataset.vehicles=rankVehicles(dataset.vehicles,now);dataset.counts=countInventory(dataset.vehicles,now);
 }
+if(!args.includes('--skip-photos')&&!option('--fixture'))await refreshPhotos(dataset,{now});
 const dropAlert='Active inventory dropped by more than 35%; review verification changes and retained history.';
 if(previous?.counts?.active>=5&&dataset.counts.active<previous.counts.active*0.65&&!dataset.alerts.includes(dropAlert))dataset.alerts.push(dropAlert);
 if(args.includes('--test-update')){
@@ -104,7 +108,7 @@ validateDataset(dataset);
 if(previous){await atomicWrite(resolve(dirname(output),'inventory.previous.json'),previous);}
 await atomicWrite(output,dataset);
 if(!args.includes('--no-site-copy'))await atomicWrite(resolve(root,'dist/inventory.json'),dataset);
-await atomicWrite(resolve(dirname(output),'health.json'),{generatedAt:now,sources:dataset.sources,counts:dataset.counts,alerts:dataset.alerts});
+await atomicWrite(resolve(dirname(output),'health.json'),{generatedAt:now,sources:dataset.sources,counts:dataset.counts,photos:dataset.photos,alerts:dataset.alerts});
 const summary=`Hybrid Search: ${dataset.counts.imported} retained, ${dataset.counts.active} active/new (${dataset.counts.qualifyingActive} qualifying), ${dataset.counts.stale} stale, ${dataset.counts.archived} archived. Muse ${dataset.sources.muse.status}, report ${dataset.sources.muse.reportDate||'unknown'}. Independent research ${dataset.sources.independent.status} (${dataset.sources.independent.exporterMode}); report ${dataset.sources.independent.reportDate||'unknown'}.`;
 console.log(summary);
 for(const alert of dataset.alerts)console.log('::warning::'+alert.replace(/[\r\n]/g,' '));

@@ -2,6 +2,7 @@
 import {parseMuseJson, listingIdentity} from './sources.js';
 import {validVin,safeUrl} from './core.js';
 import {directListingUrl} from './listings.js';
+import {adaptMuseFeed} from './muse-format.js';
 
 export const LISTING_STATES=['verified_active','awaiting_verification','stale','confirmed_unavailable','excluded'];
 const DAY=86400000;
@@ -22,7 +23,7 @@ export function qualifies(v){
 }
 export function listingState(v,now=new Date().toISOString()){
  if(['excluded','confirmed_unavailable'].includes(v.listingState)&&v.evidence?.reason)return v.listingState;
- if(v.missingFromFeed||v.verification?.result==='inaccessible'||v.verification?.result==='not_found'||v.verification?.result==='redirected'||age(v.lastVerified||v.checked,now)>7)return 'stale';
+ if(v.listingState==='stale'||v.missingFromFeed||v.verification?.result==='inaccessible'||v.verification?.result==='not_found'||v.verification?.result==='redirected'||age(v.lastVerified||v.checked,now)>7)return 'stale';
  if(v.listingState==='awaiting_verification'||!direct(v)||!v.lastVerified)return 'awaiting_verification';
  return v.listingState==='verified_active'?'verified_active':'awaiting_verification';
 }
@@ -58,12 +59,14 @@ export function rankVehicles(vehicles,now=new Date().toISOString()){
 }
 
 function explicitState(row){
+ if(row.museV2?.status==='excluded'&&/buyback|buy.back|lemon|salvage|branded/i.test(row.title_history||''))return {state:'excluded',reason:'Muse reports exclusion: '+row.title_history};
  const evidence=[row.new_vs_prior,row.concerns].filter(Boolean).join(' ');
  if(/EXCLUDED[^.]{0,100}(?:buyback|buy.back|lemon|salvage|branded)|manufacturer buyback.*(?:reported|badge)/i.test(evidence))return {state:'excluded',reason:evidence};
  if(row.verified_active===false&&/(?:page.{0,30}(?:sold or removed|no longer available|already left the lot)|SOLD badge|vehicle has been sold or removed)/i.test(evidence))return {state:'confirmed_unavailable',reason:evidence};
  return null;
 }
 export function normalizeMuse(feed){
+ feed=adaptMuseFeed(feed);
  if(!feed||!Array.isArray(feed.listings)||feed.listings.length>2000)throw Error('Invalid Muse listing array');
  for(const row of feed.listings){
   if(!row||!['Full hybrid','Plug-in hybrid'].includes(row.hybrid_type)||!Number.isInteger(row.year)||row.year<1990||row.year>2100||!Number.isFinite(row.price)||row.price<=0||!Number.isFinite(row.mileage)||row.mileage<0||typeof row.model!=='string'||!row.model.trim())throw Error('Invalid Muse vehicle fields');
@@ -91,6 +94,20 @@ export function normalizeMuse(feed){
   v.sourcePresence={muse:{present:true,observedAt:date,mode:'snapshot'}};
   v.reportedPriceChange=Number.isFinite(row.price_vs_prior)?row.price_vs_prior:null;
   v.events=union(v.events,[{date:feed.search_date,text:row.new_vs_prior||'Imported from Muse JSON feed.'}]);
+  if(row.museV2){
+   v.name=row.model;v.trim=row.trim||'';v.city=row.city||'Unknown';v.state=row.state||'Unknown';
+   if(row.city&&row.state)v.unknowns=v.unknowns.filter(x=>x!=='Vehicle location');
+   v.museReport={...row.museV2,checkedAt:date,firstDiscovered:row.date_first_discovered||null,titleHistory:row.title_history||null,accidentHistory:row.accident_history||null,historyBasis:row.history_basis||null,maintenanceHistory:row.maintenance_history||null,priceHistory:row.price_history||[],photos:row.photos||[]};
+   if(!reported&&['unavailable','stale'].includes(row.museV2.status)){
+    v.listingState='stale';v.availability='Muse reports '+row.museV2.status+'; current seller availability unconfirmed';
+   }
+   if(row.museV2.originalUrlMissing){
+    v.sources=[];v.priceHistory=v.priceHistory.map(p=>({...p,url:null}));v.currentObservation.url=null;
+    v.unknowns=union(v.unknowns,['Original vehicle listing URL']);
+   }
+   v.observations=v.observations.map(o=>({...o,url:row.museV2.originalUrl,availability:v.availability}));
+   v.events=union(v.events,[{date,text:'Muse source status: '+row.museV2.status+'.'}]);
+  }
   return v;
  });
 }
