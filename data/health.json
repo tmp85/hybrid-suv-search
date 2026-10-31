@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T18:38:00.151Z",
+  "generatedAt": "2026-10-31T18:49:03.353Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T18:38:00.151Z",
-      "status": "connected",
+      "lastAttemptAt": "2026-10-31T18:49:03.353Z",
+      "status": "error",
       "lastSuccessAt": "2026-10-31T18:38:00.151Z",
       "reportDate": "2026-10-31",
-      "error": null,
+      "error": "Invalid Muse vehicle fields",
       "imported": 32,
       "feedUrl": "https://tmp85.github.io/hybrid-suv-search/listings.json",
       "provenance": {
@@ -22,10 +22,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:38:00.151Z",
+      "lastSuccessAt": "2026-10-31T18:49:03.353Z",
       "reportDate": "2026-10-31",
       "error": null,
-      "lastAttemptAt": "2026-10-31T18:38:00.151Z",
+      "lastAttemptAt": "2026-10-31T18:49:03.353Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -33,7 +33,7 @@
         "originSha256": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "8c12e67ea9a8f99adabfe0c8c397a7ccbad997c3"
+        "triggerRevision": "046f1c5af294718ef84aa40846a516fdaa0ab80d"
       },
       "lastExportAt": "2026-10-31T18:30:26.007Z",
       "imported": 9,
@@ -59,5 +59,7 @@
     "outsideCriteria": 10,
     "qualifyingActive": 22
   },
-  "alerts": []
+  "alerts": [
+    "Invalid Muse vehicle fields"
+  ]
 }
