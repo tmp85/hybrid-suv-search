@@ -1,0 +1,352 @@
+{
+  "checkedAt": "2026-10-31T18:04:03.758Z",
+  "websiteExportedAt": "2026-10-31T18:02:30.164Z",
+  "websiteRecords": 81,
+  "latestCounts": {
+    "imported": 81,
+    "active": 21,
+    "stale": 48,
+    "archived": 12,
+    "verified": 21,
+    "awaitingVerification": 0,
+    "outsideCriteria": 10,
+    "qualifyingActive": 21
+  },
+  "feedJsonRecords": 27,
+  "htmlSupplementRecords": 5,
+  "missingFromWebsite": [],
+  "defaultBoard": 59,
+  "defaultShortlist": 19,
+  "sourceRowsInDefaultBoard": 27,
+  "sourceRowsInDefaultShortlist": 18,
+  "agentNeutralRanking": true,
+  "archivedExcludedFromBoard": true,
+  "testUpdate": {
+    "passed": true,
+    "at": "2026-10-31T18:00:03.194Z",
+    "vin": "KM8S6DA22NU035178",
+    "mode": "isolated +$1 fixture merged and validated; live public price unchanged"
+  },
+  "reconciliation": [
+    {
+      "sourceId": "muse:KM8S6DA22NU035178",
+      "vehicleId": "KM8S6DA22NU035178",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:KNDRHDLG6P5204248",
+      "vehicleId": "KNDRHDLG6P5204248",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:5NMP2DG18SH058651",
+      "vehicleId": "5NMP2DG18SH058651",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": false,
+      "visibilityReason": "stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:KM8S2DA12NU026385",
+      "vehicleId": "KM8S2DA12NU026385",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": false,
+      "visibilityReason": "stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:KM8S2DA13NU053322",
+      "vehicleId": "KM8S2DA13NU053322",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": false,
+      "visibilityReason": "stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:1C4RJYB68R8521339",
+      "vehicleId": "1C4RJYB68R8521339",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": false,
+      "visibilityReason": "stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:KM8S7DA23PU075463",
+      "vehicleId": "KM8S7DA23PU075463",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": false,
+      "visibilityReason": "stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:KNDRH4LG7P5193809",
+      "vehicleId": "KNDRH4LG7P5193809",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:1FM5K8FW5MNA08450",
+      "vehicleId": "1FM5K8FW5MNA08450",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": false,
+      "visibilityReason": "stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:JM3KKDHA8R1150573",
+      "vehicleId": "JM3KKDHA8R1150573",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": false,
+      "visibilityReason": "stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:JA4T5VA90RZ067435",
+      "vehicleId": "JA4T5VA90RZ067435",
+      "disposition": "outside_criteria",
+      "reason": "Outside price, location, midsize or hybrid criteria; retained for audit.",
+      "inWebsite": true,
+      "inDefaultBoard": false,
+      "inDefaultShortlist": false,
+      "visibilityReason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit.; stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:7FART6H90ME012343",
+      "vehicleId": "7FART6H90ME012343",
+      "disposition": "outside_criteria",
+      "reason": "Outside price, location, midsize or hybrid criteria; retained for audit.",
+      "inWebsite": true,
+      "inDefaultBoard": false,
+      "inDefaultShortlist": false,
+      "visibilityReason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit.; stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:KNDRJDLH8N5115968",
+      "vehicleId": "KNDRJDLH8N5115968",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": false,
+      "visibilityReason": "stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:JA4T5VA94PZ037710",
+      "vehicleId": "JA4T5VA94PZ037710",
+      "disposition": "outside_criteria",
+      "reason": "Outside price, location, midsize or hybrid criteria; retained for audit.",
+      "inWebsite": true,
+      "inDefaultBoard": false,
+      "inDefaultShortlist": false,
+      "visibilityReason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit.; stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:KNDRMDLHXP5169878",
+      "vehicleId": "KNDRMDLHXP5169878",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:1C4RJYD68P8775319",
+      "vehicleId": "1C4RJYD68P8775319",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": false,
+      "visibilityReason": "stale; available in needs-recheck or all qualifying inventory"
+    },
+    {
+      "sourceId": "muse:KNDRKDLG6P5200279",
+      "vehicleId": "KNDRKDLG6P5200279",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:KNDRH4LG0P5173658",
+      "vehicleId": "KNDRH4LG0P5173658",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:KNDRH4LG0P5224396",
+      "vehicleId": "KNDRH4LG0P5224396",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:KNDRH4LG7P5142231",
+      "vehicleId": "KNDRH4LG7P5142231",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:KNDRHDLGXP5187891",
+      "vehicleId": "KNDRHDLGXP5187891",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": false,
+      "inDefaultShortlist": false,
+      "visibilityReason": "Default 100,000-mile preference; raise mileage limit to view"
+    },
+    {
+      "sourceId": "muse:KNDRJDLH3N5122875",
+      "vehicleId": "KNDRJDLH3N5122875",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:KNDRJDLH9N5109810",
+      "vehicleId": "KNDRJDLH9N5109810",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:KNDRH4LG3P5132781",
+      "vehicleId": "KNDRH4LG3P5132781",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:KNDRGDLG3N5107069",
+      "vehicleId": "KNDRGDLG3N5107069",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:KNDRH4LG4P5223087",
+      "vehicleId": "KNDRH4LG4P5223087",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:KNDRH4LG2M5040086",
+      "vehicleId": "KNDRH4LG2M5040086",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:https://www.cargurus.com/details/461421102",
+      "vehicleId": "muse-76a7ur",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": false,
+      "inDefaultShortlist": false,
+      "visibilityReason": "Default 100,000-mile preference; raise mileage limit to view"
+    },
+    {
+      "sourceId": "muse:https://www.cargurus.com/details/454350256",
+      "vehicleId": "muse-scwm4k",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:https://www.cargurus.com/details/461261274",
+      "vehicleId": "muse-3jtoeh",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:https://www.cargurus.com/details/458376264",
+      "vehicleId": "muse-trddgp",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    },
+    {
+      "sourceId": "muse:https://www.cargurus.com/details/458285167",
+      "vehicleId": "muse-q06fgq",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL.",
+      "inWebsite": true,
+      "inDefaultBoard": true,
+      "inDefaultShortlist": true,
+      "visibilityReason": "Visible"
+    }
+  ]
+}

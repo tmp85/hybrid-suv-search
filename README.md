@@ -73,19 +73,10 @@ Recovery options, in order:
 
 After recovery, rerun ingestion, review its alerts and reconciliation, and open the public dashboard in a fresh browser session. Existing open sessions refresh within five minutes. For a UI regression, restore a previous saved Sites version; that is separate from restoring GitHub inventory data. Export browser notes before resetting browser storage.
 
-## Acceptance record
+## Acceptance record — October 31, 2026
 
-Baseline evidence and historical counts are in [audit/BASELINE.md](audit/BASELINE.md). They must not be quoted as today's available inventory.
+Muse ingestion and public data refresh are deployed and demonstrated. Two GitHub Actions runs succeeded, including the isolated test update. The public site loaded all 27 current JSON records plus five valid HTML-only records. Its exported inventory reconciles all 32 with zero missing. All 45 local tests passed.
 
-The release owner must record the following against actual public URLs and workflow run IDs before declaring the production integration complete:
+The full two-agent integration remains incomplete: independent ChatGPT reports have no verified export feed. Some seller pages restrict live checks, and a new browser tab was tested rather than a separate storage-isolated browser profile. These limits are explicit in the release record.
 
-- [ ] Current Muse origin records appear in the deployed dashboard; every source ID has a reconciliation disposition.
-- [ ] Shared ranking handles equivalent Muse and independent records identically.
-- [ ] Confirmed unavailable/excluded records disappear from active results; stale and inaccessible records are not called sold.
-- [ ] Original-listing buttons resolve to the intended vehicle advertisements or accurately disclose unavailable/inaccessible evidence.
-- [ ] Two end-to-end workflow runs succeed, including `test_update`, and published data changes are observed on the public Site.
-- [ ] A fresh browser session verifies the deployed interface, counts, health, source filters, and links.
-- [ ] The workflow is enabled on `main`, both scheduled times are present, and the next expected run is reported with GitHub's scheduling limitation.
-- [ ] The handoff identifies ChatGPT independent research as unconnected and lists any remaining access or verification blockers.
-
-Unchecked items are pending verification, not implied successes.
+See [RELEASE.md](RELEASE.md) for run links, counts, source status, browser verification, next schedule, and remaining blockers. Per-record source reconciliation is in the [published inventory](https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/data/inventory.json).
