@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "verified": true,
+  "automationId": "6acc0c049d908191bdd620f519aee69c",
+  "verifiedRunId": "dff15bb6-e128-8325-b70e-460eb29674a5",
+  "verificationUrl": "https://github.com/tmp85/hybrid-suv-search/commit/8dd1c1bc741847e87e8c5409fe5f4b3b237e9973",
+  "schedulerEvidenceUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
+  "workflowUrl": "https://github.com/tmp85/hybrid-suv-search/actions/runs/41229777526",
+  "verifiedAt": "2026-10-31T18:36:36.023Z",
+  "publicUrl": "https://hybrid-suv-search.tmp85.chatgpt.site/",
+  "publicAcceptanceUrl": "https://github.com/tmp85/hybrid-suv-search/blob/main/audit/independent-acceptance.json",
+  "schedule": "Daily 07:00 America/Phoenix"
+}

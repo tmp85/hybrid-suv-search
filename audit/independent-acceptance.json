@@ -1,0 +1,159 @@
+{
+  "checkedAt": "2026-10-31T18:36:36.023Z",
+  "publicUrl": "https://hybrid-suv-search.tmp85.chatgpt.site/",
+  "websiteExportedAt": "2026-10-31T18:36:27.049Z",
+  "records": 84,
+  "revision": "b7897470a26a21ebb58e137b36291fb15d74ad45",
+  "generatedAt": "2026-10-31T18:32:21.960Z",
+  "feedRunId": "chatgpt-scheduled-dff15bb6-e128-8325-b70e-460eb29674a5",
+  "sourceHealth": {
+    "status": "connected",
+    "lastSuccessAt": "2026-10-31T18:32:21.960Z",
+    "reportDate": "2026-10-31",
+    "error": null,
+    "lastAttemptAt": "2026-10-31T18:32:21.960Z",
+    "exporterMode": "scheduled_unverified",
+    "automationVerified": false,
+    "provenance": {
+      "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
+      "originSha256": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
+      "mode": "repository_checkout",
+      "path": "independent/listings.json",
+      "triggerRevision": "b7897470a26a21ebb58e137b36291fb15d74ad45"
+    },
+    "lastExportAt": "2026-10-31T18:30:26.007Z",
+    "imported": 9,
+    "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
+    "runId": "chatgpt-scheduled-dff15bb6-e128-8325-b70e-460eb29674a5",
+    "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
+    "contentHash": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
+    "automationId": "6acc0c049d908191bdd620f519aee69c",
+    "writer": {
+      "mode": "scheduled",
+      "automationId": "6acc0c049d908191bdd620f519aee69c",
+      "runUrl": null
+    }
+  },
+  "counts": {
+    "imported": 84,
+    "active": 22,
+    "stale": 49,
+    "archived": 13,
+    "verified": 18,
+    "awaitingVerification": 4,
+    "outsideCriteria": 10,
+    "qualifyingActive": 22
+  },
+  "results": [
+    {
+      "id": "5TDJGRFH0JS041065",
+      "sourceId": "independent:5TDJGRFH0JS041065",
+      "name": "2018 Toyota Highlander Hybrid",
+      "price": 27998,
+      "state": "verified_active",
+      "observedAt": "2026-10-31",
+      "inPublicWebsite": true,
+      "archived": false,
+      "hasQualifiedDirectUrl": true
+    },
+    {
+      "id": "KNDRJDLH3N5122875",
+      "sourceId": "independent:KNDRJDLH3N5122875",
+      "name": "2022 Kia Sorento PHEV",
+      "price": 27422,
+      "state": "awaiting_verification",
+      "observedAt": "2026-10-31",
+      "inPublicWebsite": true,
+      "archived": false,
+      "hasQualifiedDirectUrl": true
+    },
+    {
+      "id": "KNDRH4LG7P5193809",
+      "sourceId": "independent:KNDRH4LG7P5193809",
+      "name": "2023 Kia Sorento Hybrid",
+      "price": 29102,
+      "state": "stale",
+      "observedAt": "2026-10-31",
+      "inPublicWebsite": true,
+      "archived": false,
+      "hasQualifiedDirectUrl": true
+    },
+    {
+      "id": "KNDRGDLG3N5107069",
+      "sourceId": "independent:KNDRGDLG3N5107069",
+      "name": "2022 Kia Sorento Hybrid",
+      "price": 23793,
+      "state": "verified_active",
+      "observedAt": "2026-10-31",
+      "inPublicWebsite": true,
+      "archived": false,
+      "hasQualifiedDirectUrl": true
+    },
+    {
+      "id": "5NMP24G17SH062657",
+      "sourceId": "independent:5NMP24G17SH062657",
+      "name": "2025 Hyundai Santa Fe Hybrid",
+      "price": 29350,
+      "state": "awaiting_verification",
+      "observedAt": "2026-10-31",
+      "inPublicWebsite": true,
+      "archived": false,
+      "hasQualifiedDirectUrl": false
+    },
+    {
+      "id": "KM8S2DA12NU026385",
+      "sourceId": "independent:KM8S2DA12NU026385",
+      "name": "2022 Hyundai Santa Fe Hybrid",
+      "price": 25075,
+      "state": "awaiting_verification",
+      "observedAt": "2026-10-31",
+      "inPublicWebsite": true,
+      "archived": false,
+      "hasQualifiedDirectUrl": true
+    },
+    {
+      "id": "KNDRH4LG0P5224396",
+      "sourceId": "independent:KNDRH4LG0P5224396",
+      "name": "2023 Kia Sorento Hybrid",
+      "price": 29450,
+      "state": "awaiting_verification",
+      "observedAt": "2026-10-31",
+      "inPublicWebsite": true,
+      "archived": false,
+      "hasQualifiedDirectUrl": true
+    },
+    {
+      "id": "KNDRHDLG6P5204248",
+      "sourceId": "independent:KNDRHDLG6P5204248",
+      "name": "2023 Kia Sorento",
+      "price": 23391,
+      "state": "stale",
+      "observedAt": "2026-10-31",
+      "inPublicWebsite": true,
+      "archived": false,
+      "hasQualifiedDirectUrl": true
+    },
+    {
+      "id": "5TDGARAH2NS511637",
+      "sourceId": "independent:5TDGARAH2NS511637",
+      "name": "2022 Toyota Highlander Hybrid",
+      "price": 29497,
+      "state": "excluded",
+      "observedAt": "2026-10-31",
+      "inPublicWebsite": true,
+      "archived": true,
+      "hasQualifiedDirectUrl": true
+    }
+  ],
+  "scheduler": {
+    "automationId": "6acc0c049d908191bdd620f519aee69c",
+    "runId": "dff15bb6-e128-8325-b70e-460eb29674a5",
+    "schedule": "Daily 07:00 America/Phoenix",
+    "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
+    "exportCommit": "https://github.com/tmp85/hybrid-suv-search/commit/8dd1c1bc741847e87e8c5409fe5f4b3b237e9973",
+    "workflow": "https://github.com/tmp85/hybrid-suv-search/actions/runs/41229777526",
+    "testUpdateWorkflow": "https://github.com/tmp85/hybrid-suv-search/actions/runs/41229893218"
+  },
+  "openPageRefreshedAutomatically": true,
+  "siteDeployedBeforeFeedCommit": true
+}
