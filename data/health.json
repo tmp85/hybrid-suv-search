@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T18:27:42.509Z",
+  "generatedAt": "2026-10-31T18:30:59.932Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T18:27:42.509Z",
+      "lastAttemptAt": "2026-10-31T18:30:59.932Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:27:42.509Z",
+      "lastSuccessAt": "2026-10-31T18:30:59.932Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 32,
@@ -22,40 +22,40 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:27:42.509Z",
+      "lastSuccessAt": "2026-10-31T18:30:59.932Z",
       "reportDate": "2026-10-31",
       "error": null,
-      "lastAttemptAt": "2026-10-31T18:27:42.509Z",
-      "exporterMode": "one_time",
+      "lastAttemptAt": "2026-10-31T18:30:59.932Z",
+      "exporterMode": "scheduled_unverified",
       "automationVerified": false,
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-        "originSha256": "fc30eac687bfd168275dc9bf8a1018ece26147712a82a3862939886cdd9d7593",
+        "originSha256": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "052118ea51174a4b115146fb272c46611c8eb712"
+        "triggerRevision": "8dd1c1bc741847e87e8c5409fe5f4b3b237e9973"
       },
-      "lastExportAt": "2026-10-31T18:27:03.845Z",
-      "imported": 5,
+      "lastExportAt": "2026-10-31T18:30:26.007Z",
+      "imported": 9,
       "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-      "runId": "chatgpt-one-time-2026-10-31T18-27-03-845Z",
+      "runId": "chatgpt-scheduled-dff15bb6-e128-8325-b70e-460eb29674a5",
       "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
-      "contentHash": "fc30eac687bfd168275dc9bf8a1018ece26147712a82a3862939886cdd9d7593",
+      "contentHash": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
       "automationId": "6acc0c049d908191bdd620f519aee69c",
       "writer": {
-        "mode": "one_time",
+        "mode": "scheduled",
         "automationId": "6acc0c049d908191bdd620f519aee69c",
         "runUrl": null
       }
     }
   },
   "counts": {
-    "imported": 83,
+    "imported": 84,
     "active": 22,
     "stale": 49,
-    "archived": 12,
-    "verified": 20,
-    "awaitingVerification": 2,
+    "archived": 13,
+    "verified": 18,
+    "awaitingVerification": 4,
     "outsideCriteria": 10,
     "qualifyingActive": 22
   },
