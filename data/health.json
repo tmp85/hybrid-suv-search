@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-10-31T17:58:28.835Z",
+  "sources": {
+    "muse": {
+      "lastAttemptAt": "2026-10-31T17:58:28.835Z",
+      "status": "connected",
+      "lastSuccessAt": "2026-10-31T17:58:28.835Z",
+      "reportDate": "2026-10-31",
+      "error": null,
+      "imported": 32,
+      "feedUrl": "https://tmp85.github.io/hybrid-suv-search/listings.json",
+      "provenance": {
+        "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
+        "originSha256": "c518865644a5870ef564fb20356df9e8cd89ec2be286c0dc34988504133a7631",
+        "pagesSha256": "c518865644a5870ef564fb20356df9e8cd89ec2be286c0dc34988504133a7631",
+        "pagesMatchesOrigin": true,
+        "sourceRecordCount": 27,
+        "htmlSha256": "42bd982c6544a3abab94fef0652eeac0c85b5ee09916c9794fe03c9a48d15b38",
+        "supplementRecordCount": 5,
+        "supplementSource": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/index.html"
+      }
+    },
+    "independent": {
+      "status": "not_connected",
+      "lastSuccessAt": null,
+      "reportDate": null,
+      "error": "Daily ChatGPT research has no verified machine-readable export. Retained October 15 research is historical only."
+    }
+  },
+  "counts": {
+    "imported": 81,
+    "active": 21,
+    "stale": 48,
+    "archived": 12,
+    "verified": 21,
+    "awaitingVerification": 0,
+    "outsideCriteria": 10,
+    "qualifyingActive": 21
+  },
+  "alerts": []
+}
