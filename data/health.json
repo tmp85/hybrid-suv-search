@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T18:32:21.960Z",
+  "generatedAt": "2026-10-31T18:38:00.151Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T18:32:21.960Z",
+      "lastAttemptAt": "2026-10-31T18:38:00.151Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:32:21.960Z",
+      "lastSuccessAt": "2026-10-31T18:38:00.151Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 32,
@@ -22,18 +22,18 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:32:21.960Z",
+      "lastSuccessAt": "2026-10-31T18:38:00.151Z",
       "reportDate": "2026-10-31",
       "error": null,
-      "lastAttemptAt": "2026-10-31T18:32:21.960Z",
-      "exporterMode": "scheduled_unverified",
-      "automationVerified": false,
+      "lastAttemptAt": "2026-10-31T18:38:00.151Z",
+      "exporterMode": "scheduled_verified",
+      "automationVerified": true,
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
         "originSha256": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "b7897470a26a21ebb58e137b36291fb15d74ad45"
+        "triggerRevision": "8c12e67ea9a8f99adabfe0c8c397a7ccbad997c3"
       },
       "lastExportAt": "2026-10-31T18:30:26.007Z",
       "imported": 9,
