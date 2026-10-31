@@ -16,7 +16,9 @@ The workflow validates and merges the data, retains original links, discovery ag
 
 The GitHub workflow is configured for **8:17 AM America/Phoenix daily**, with a later **11:47 AM retry**. Arizona is UTC−7 year-round; the corresponding UTC times are 15:17 and 18:47. Eligible source/code commits and manual dispatch also trigger it. GitHub schedules run from the default branch and can be delayed or skipped during service load; these times are targets, not delivery guarantees. The workflow must be installed and enabled on `main` for scheduling to take effect.
 
-**Muse ingestion is automated once the workflow is enabled. ChatGPT's independent daily narrative research is not connected to a verified export feed.** Historical independent observations remain attributed and dated. Neither ingestion nor a scheduled narrative implies an automated Facebook search, seller confirmation, or fresh title verification.
+Muse ingestion is automated. The independent feed is [`independent/listings.json`](independent/listings.json), validated against the [export contract](independent/README.md). A commit to this feed automatically triggers ingestion; Actions reads its checked-out copy to avoid CDN lag. Independent reports are partial observations: omitted vehicles retain their earlier evidence and age normally. Malformed or stale exports are flagged without dropping the last known good records.
+
+The initial October 31 independent feed is a **one-time export** of two genuine discoveries from the 7 AM report. Scheduled publication is not verified merely by having a feed or changing the task prompt. The health panel separately reports the feed's import status and the writer's automation status. [Prepared task instructions](independent/task-prompt.txt) preserve the existing 7 AM America/Phoenix research schedule and request a real scheduler-run test. Neither ingestion nor a scheduled narrative implies seller confirmation or fresh title verification.
 
 ## Status and ranking
 
@@ -77,6 +79,6 @@ After recovery, rerun ingestion, review its alerts and reconciliation, and open 
 
 Muse ingestion and public data refresh are deployed and demonstrated. Two GitHub Actions runs succeeded, including the isolated test update. The public site loaded all 27 current JSON records plus five valid HTML-only records. Its exported inventory reconciles all 32 with zero missing. All 45 local tests passed.
 
-The full two-agent integration remains incomplete: independent ChatGPT reports have no verified export feed. Some seller pages restrict live checks, and a new browser tab was tested rather than a separate storage-isolated browser profile. These limits are explicit in the release record.
+The independent feed and its automatic downstream ingestion are being connected. The 7 AM writer must pass an actual scheduled-run test before it can be called fully automatic. Some seller pages restrict live checks, and a new browser tab was tested rather than a separate storage-isolated browser profile. These limits are explicit in the release record.
 
 See [RELEASE.md](RELEASE.md) for run links, counts, source status, browser verification, next schedule, and remaining blockers. Per-record source reconciliation is in the [published inventory](https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/data/inventory.json).

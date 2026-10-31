@@ -3,6 +3,8 @@ import {validVin, safeUrl, canonicalListingUrl, vehicleKey} from './core.js';
 export const MUSE_URL='https://tmp85.github.io/hybrid-suv-search/';
 export function marketplace(url){
  let host;try{host=new URL(url).hostname.replace(/^www\./,'');}catch{return 'Unknown source';}
+ if(['chatgpt.com','github.com','tmp85.github.io'].includes(host))return 'Unknown source';
+ if(host==='craigslist.org'||host.endsWith('.craigslist.org'))return 'Craigslist';
  return ({'autotrader.com':'AutoTrader','cars.com':'Cars.com','edmunds.com':'Edmunds','iseecars.com':'iSeeCars','capitalone.com':'Capital One','cargurus.com':'CarGurus','truecar.com':'TrueCar','facebook.com':'Facebook Marketplace','carfax.com':'CARFAX','cartruckbuysell.com':'CarTruckBuySell'})[host]||'Dealer';
 }
 export const marketplaces=v=>[...new Set([...(v.sources||[]),...(v.observations||[])].map(s=>marketplace(s.url)).filter(s=>s!=='Unknown source'))].sort();

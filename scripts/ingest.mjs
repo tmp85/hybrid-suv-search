@@ -7,7 +7,7 @@ import {seed} from '../dist/data.js';
 import {museRows,museDate} from '../dist/muse-snapshot.js';
 import {museVehicles,listingIdentity} from '../dist/sources.js';
 import {directListingUrl} from '../dist/listings.js';
-import {buildInventory,normalizeMuse,parseMuseSupplement,validateDataset,rankVehicles,countInventory,isArchived} from '../dist/inventory.js';
+import {buildInventory,normalizeMuse,normalizeIndependent,parseMuseSupplement,validateDataset,rankVehicles,countInventory,isArchived} from '../dist/inventory.js';
 
 const root=resolve(dirname(fileURLToPath(import.meta.url)),'..');
 const args=process.argv.slice(2),option=name=>{const i=args.indexOf(name);return i<0?null:args[i+1];};
@@ -52,9 +52,25 @@ try{
  }
  normalizeMuse(muse);
 }catch(e){muse=null;sourceError=e.message;}
-let dataset=buildInventory({previous,seedVehicles,muse,now,revision:process.env.GITHUB_SHA||'local',sourceError,overrides});
+let independent=null,independentError=null,independentProvenance={},independentAutomation=null,independentAttempted=false;
+const independentConfigPath=resolve(root,'independent/automation.json');
+try{if(await exists(independentConfigPath))independentAutomation=await json(independentConfigPath);}catch{independentAutomation=null;}
+try{
+ const fixture=option('--independent-fixture');
+ if(fixture){independentAttempted=true;const raw=await readFile(resolve(fixture),'utf8');independent=JSON.parse(raw);independentProvenance={mode:'fixture',originSha256:digest(raw)};}
+ else if(!option('--fixture')){
+  const url='https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json',path=resolve(root,'independent/listings.json');
+  // Actions must consume the new source commit, not a lagging raw-GitHub CDN copy.
+  const local=await exists(path);independentAttempted=local;
+  const raw=local?await readFile(path,'utf8'):await fetchText(url);independentAttempted=true;
+  independent=JSON.parse(raw);independentProvenance={origin:url,originSha256:digest(raw),mode:local?(process.env.GITHUB_ACTIONS==='true'?'repository_checkout':'workspace_file'):'remote_fetch',...(local?{path:'independent/listings.json',triggerRevision:process.env.GITHUB_SHA||null}:{})};
+ }
+ if(independent)normalizeIndependent(independent,now);
+}catch(error){independent=null;independentError=error.message;}
+let dataset=buildInventory({previous,seedVehicles,muse,independent,now,revision:process.env.GITHUB_SHA||'local',sourceError,independentError,independentConfigured:independentAttempted||independentAutomation?.enabled===true,independentAutomation,independentContentHash:independentProvenance.originSha256,overrides});
+dataset.sources.independent.provenance=independent&&dataset.sources.independent.status!=='error'?independentProvenance:previous?.sources?.independent?.provenance||independentProvenance;
 dataset.sources.muse.provenance=muse?provenance:previous?.sources?.muse?.provenance||provenance;
-if(supplementError){dataset.sources.muse.supplementError=supplementError;dataset.alerts.push('Muse HTML supplement unavailable: '+supplementError);}
+if(supplementError){dataset.sources.muse.supplementError=supplementError;if(dataset.sources.muse.status==='connected')dataset.sources.muse.status='warning';dataset.alerts.push('Muse HTML supplement unavailable: '+supplementError);}
 
 // Bounded respectful checks of direct dealer links only. HTTP status, a missing
 // VIN or a redirect never proves a car was sold. No CAPTCHA or access bypasses.
@@ -72,12 +88,13 @@ if(!args.includes('--skip-checks')&&!option('--fixture')){
 }
 const dropAlert='Active inventory dropped by more than 35%; review verification changes and retained history.';
 if(previous?.counts?.active>=5&&dataset.counts.active<previous.counts.active*0.65&&!dataset.alerts.includes(dropAlert))dataset.alerts.push(dropAlert);
-if(dataset.alerts.length&&dataset.sources.muse.status==='connected')dataset.sources.muse.status='warning';
 if(args.includes('--test-update')){
- // Exercise a real price change through the merger without publishing fabricated prices.
- const sample=structuredClone(muse);if(!sample)throw Error('Test update requires live source');
- const target=sample.listings.find(v=>v.vin);target.price+=1;
- const changed=buildInventory({previous:dataset,muse:sample,now,revision:'test-update'});
+ // An isolated Muse observation exercises updates independently of newer quotes
+ // from other sources. Neither this fixture nor its changed price is published.
+ if(!muse)throw Error('Test update requires live source');
+ const target=structuredClone(muse.listings.find(v=>v.vin));if(!target)throw Error('Test update requires a VIN');
+ const sample={...muse,listings:[target]},baseline=buildInventory({muse:structuredClone(sample),now,revision:'test-baseline'});target.price+=1;
+ const changed=buildInventory({previous:baseline,muse:sample,now,revision:'test-update'});
  const changedVehicle=changed.vehicles.find(v=>v.vin===target.vin);
  if(changedVehicle.price!==target.price||!changedVehicle.priceHistory.some(o=>o.price===target.price))throw Error('Test price update failed');
  dataset.testUpdate={passed:true,at:now,vin:target.vin,mode:'isolated +$1 fixture merged and validated; live public price unchanged'};
@@ -88,7 +105,7 @@ if(previous){await atomicWrite(resolve(dirname(output),'inventory.previous.json'
 await atomicWrite(output,dataset);
 if(!args.includes('--no-site-copy'))await atomicWrite(resolve(root,'dist/inventory.json'),dataset);
 await atomicWrite(resolve(dirname(output),'health.json'),{generatedAt:now,sources:dataset.sources,counts:dataset.counts,alerts:dataset.alerts});
-const summary=`Hybrid Search: ${dataset.counts.imported} retained, ${dataset.counts.active} active/new (${dataset.counts.qualifyingActive} qualifying), ${dataset.counts.stale} stale, ${dataset.counts.archived} archived. Muse ${dataset.sources.muse.status}, report ${dataset.sources.muse.reportDate||'unknown'}. Independent research export not connected.`;
+const summary=`Hybrid Search: ${dataset.counts.imported} retained, ${dataset.counts.active} active/new (${dataset.counts.qualifyingActive} qualifying), ${dataset.counts.stale} stale, ${dataset.counts.archived} archived. Muse ${dataset.sources.muse.status}, report ${dataset.sources.muse.reportDate||'unknown'}. Independent research ${dataset.sources.independent.status} (${dataset.sources.independent.exporterMode}); report ${dataset.sources.independent.reportDate||'unknown'}.`;
 console.log(summary);
 for(const alert of dataset.alerts)console.log('::warning::'+alert.replace(/[\r\n]/g,' '));
 if(process.env.GITHUB_STEP_SUMMARY)await writeFile(process.env.GITHUB_STEP_SUMMARY,summary+'\n\n'+dataset.alerts.map(a=>'- '+a).join('\n')+'\n',{flag:'a'});

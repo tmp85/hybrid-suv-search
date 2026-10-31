@@ -1,0 +1,275 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/schema.json",
+  "title": "ChatGPT independent hybrid research observations",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "source",
+    "runId",
+    "generatedAt",
+    "reportDate",
+    "reportUrl",
+    "mode",
+    "writer",
+    "listings"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "source": {
+      "const": "chatgpt-independent"
+    },
+    "runId": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,199}$"
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "reportDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "reportUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://"
+    },
+    "mode": {
+      "const": "observations"
+    },
+    "writer": {
+      "type": "object",
+      "required": [
+        "mode"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "mode": {
+          "enum": [
+            "one_time",
+            "scheduled"
+          ]
+        },
+        "automationId": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "runUrl": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        }
+      }
+    },
+    "listings": {
+      "type": "array",
+      "maxItems": 500,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "year",
+          "name",
+          "type",
+          "price",
+          "mileage",
+          "city",
+          "state",
+          "url",
+          "observedAt",
+          "verification",
+          "priceBasis"
+        ],
+        "properties": {
+          "vin": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "pattern": "^[A-HJ-NPR-Z0-9]{17}$"
+          },
+          "listingId": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200
+          },
+          "year": {
+            "type": "integer",
+            "minimum": 1990,
+            "maximum": 2100
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 150
+          },
+          "trim": {
+            "type": "string",
+            "maxLength": 150
+          },
+          "type": {
+            "enum": [
+              "HEV",
+              "PHEV"
+            ]
+          },
+          "price": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          },
+          "mileage": {
+            "type": "number",
+            "minimum": 0
+          },
+          "city": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 100
+          },
+          "state": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 30
+          },
+          "drive": {
+            "enum": [
+              "AWD",
+              "4WD",
+              "FWD",
+              "RWD",
+              "Unknown"
+            ]
+          },
+          "rows": {
+            "enum": [
+              null,
+              2,
+              3
+            ]
+          },
+          "seller": {
+            "type": "string",
+            "maxLength": 150
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "observedAt": {
+            "type": "string",
+            "oneOf": [
+              {
+                "format": "date",
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+              },
+              {
+                "format": "date-time",
+                "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d+)?(?:Z|[+-]\\d{2}:\\d{2})$"
+              }
+            ]
+          },
+          "fees": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "priceBasis": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 3000
+          },
+          "notes": {
+            "type": "string",
+            "maxLength": 3000
+          },
+          "verification": {
+            "type": "object",
+            "required": [
+              "status",
+              "note"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "status": {
+                "enum": [
+                  "ad_observed",
+                  "awaiting_verification",
+                  "inaccessible",
+                  "not_found",
+                  "confirmed_unavailable",
+                  "excluded"
+                ]
+              },
+              "note": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 3000
+              },
+              "evidenceUrl": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://"
+              }
+            }
+          },
+          "history": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "title": {
+                "enum": [
+                  "reported_clean",
+                  "seller_claimed_clean",
+                  "unknown",
+                  "branded"
+                ]
+              },
+              "accidents": {
+                "enum": [
+                  "none_reported",
+                  "reported",
+                  "unknown"
+                ]
+              },
+              "owners": {
+                "type": [
+                  "integer",
+                  "null"
+                ],
+                "minimum": 1,
+                "maximum": 50
+              },
+              "use": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 3000
+              },
+              "maintenance": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 3000
+              },
+              "evidenceUrl": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
