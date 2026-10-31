@@ -1,16 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-10-31T18:55:02.053496Z",
+  "generated_at": "2026-10-31T18:57:29.641223Z",
   "search_date": "2026-10-31",
   "source": "Hybrid SUV Search daily research",
   "counts": {
     "active": 22,
-    "unverified": 47,
+    "unverified": 40,
     "unavailable": 29,
     "excluded": 2,
     "stale": 15
   },
-  "listing_count": 115,
+  "listing_count": 108,
   "listings": [
     {
       "id": "vin-KNDRH4LG3P5132781",
@@ -2279,51 +2279,6 @@
       "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable to subsequent owners \u2014 verify in-service date by VIN (estimate)."
     },
     {
-      "id": "vin-JA4T5VA99RZ014961",
-      "listing_id": "vin-JA4T5VA99RZ014961",
-      "vin": "JA4T5VA99RZ014961",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "trim": "SE S-AWC",
-      "hybrid_type": "Plug-in hybrid",
-      "drivetrain": "AWD (S-AWC)",
-      "price": 25198,
-      "mileage": 40357,
-      "city": "Kennewick",
-      "state": "WA",
-      "url": null,
-      "marketplace": null,
-      "seller": "Not identified (SRP-level)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
-      "date_last_checked": "2026-10-18",
-      "status": "unverified",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-10-19",
-          "price": 25373
-        },
-        {
-          "date": "2026-10-23",
-          "price": 25198
-        }
-      ],
-      "photos": [],
-      "location": "Kennewick, WA",
-      "verification_date": "2026-10-18",
-      "verified_active": null,
-      "history": "SRP-level only; title/accident unknown",
-      "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Tagged 'New arrival' on CarGurus; home delivery, $175 shipping incl.",
-      "new_vs_prior": "POSSIBLE PRICE DROP Oct 22: $25,373 -> $25,198 (-$175) seen on iSeeCars SRP (same 40,357 mi, Kennewick WA; VIN match unconfirmed at SRP level)",
-      "price_vs_prior": -175,
-      "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
-    },
-    {
       "id": "vin-1FM5K8FW5MNA08450",
       "listing_id": "vin-1FM5K8FW5MNA08450",
       "vin": "1FM5K8FW5MNA08450",
@@ -3307,207 +3262,6 @@
       "battery_warranty_note": "Mazda hybrid coverage NOT verified \u2014 confirm with a Mazda dealer by VIN."
     },
     {
-      "id": "url-3ba4eed5e071",
-      "listing_id": "url-3ba4eed5e071",
-      "vin": null,
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV SEL AWD",
-      "trim": "Mitsubishi Outlander PHEV SEL AWD",
-      "hybrid_type": "Plug-in hybrid",
-      "drivetrain": "AWD",
-      "price": 26617,
-      "mileage": 44248,
-      "city": "Sherman Oaks",
-      "state": "CA",
-      "url": null,
-      "marketplace": "Edmunds",
-      "seller": "Sherman Oaks dealer (Edmunds SRP)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-16",
-      "date_last_checked": "2026-10-15",
-      "status": "unverified",
-      "title_history": null,
-      "accident_history": null,
-      "history_basis": "verified",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-10-16",
-          "price": 26617
-        },
-        {
-          "date": "2026-10-16",
-          "price": 27011
-        },
-        {
-          "date": "2026-10-16",
-          "price": 28007
-        },
-        {
-          "date": "2026-10-16",
-          "price": 26999
-        },
-        {
-          "date": "2026-10-18",
-          "price": 26617
-        },
-        {
-          "date": "2026-10-18",
-          "price": 27011
-        },
-        {
-          "date": "2026-10-18",
-          "price": 28007
-        },
-        {
-          "date": "2026-10-18",
-          "price": 26999
-        },
-        {
-          "date": "2026-10-19",
-          "price": 26617
-        },
-        {
-          "date": "2026-10-19",
-          "price": 27011
-        },
-        {
-          "date": "2026-10-19",
-          "price": 28007
-        },
-        {
-          "date": "2026-10-19",
-          "price": 26999
-        },
-        {
-          "date": "2026-10-20",
-          "price": 26617
-        },
-        {
-          "date": "2026-10-20",
-          "price": 27011
-        },
-        {
-          "date": "2026-10-20",
-          "price": 28007
-        },
-        {
-          "date": "2026-10-20",
-          "price": 26999
-        },
-        {
-          "date": "2026-10-22",
-          "price": 26617
-        },
-        {
-          "date": "2026-10-22",
-          "price": 27011
-        },
-        {
-          "date": "2026-10-22",
-          "price": 28007
-        },
-        {
-          "date": "2026-10-22",
-          "price": 26999
-        },
-        {
-          "date": "2026-10-23",
-          "price": 26617
-        },
-        {
-          "date": "2026-10-23",
-          "price": 27011
-        },
-        {
-          "date": "2026-10-23",
-          "price": 28007
-        },
-        {
-          "date": "2026-10-23",
-          "price": 26999
-        },
-        {
-          "date": "2026-10-25",
-          "price": 26617
-        },
-        {
-          "date": "2026-10-25",
-          "price": 27011
-        },
-        {
-          "date": "2026-10-25",
-          "price": 28007
-        },
-        {
-          "date": "2026-10-25",
-          "price": 26999
-        },
-        {
-          "date": "2026-10-28",
-          "price": 26617
-        },
-        {
-          "date": "2026-10-28",
-          "price": 27011
-        },
-        {
-          "date": "2026-10-28",
-          "price": 28007
-        },
-        {
-          "date": "2026-10-28",
-          "price": 26999
-        },
-        {
-          "date": "2026-10-29",
-          "price": 26617
-        },
-        {
-          "date": "2026-10-29",
-          "price": 27011
-        },
-        {
-          "date": "2026-10-29",
-          "price": 28007
-        },
-        {
-          "date": "2026-10-29",
-          "price": 26999
-        },
-        {
-          "date": "2026-10-30",
-          "price": 26617
-        },
-        {
-          "date": "2026-10-30",
-          "price": 27011
-        },
-        {
-          "date": "2026-10-30",
-          "price": 28007
-        },
-        {
-          "date": "2026-10-30",
-          "price": 26999
-        },
-        {
-          "date": "2026-10-31",
-          "price": 26617
-        }
-      ],
-      "photos": [],
-      "location": "Sherman Oaks, CA",
-      "verification_date": "2026-10-15",
-      "verified_active": null,
-      "history": "CARFAX One-Owner + Clean CARFAX per listing; Edmunds price-drop flag; VIN JA4T5VA94RZ065256, stock D4105R",
-      "concerns": "NOT DETAIL-VERIFIED: SRP-level lead only; do not treat as available until a listing page is opened",
-      "new_vs_prior": "NEW Oct 15 \u2014 Edmunds SRP live Oct 15; listed since 09-02-2026; detail page not opened",
-      "price_vs_prior": null,
-      "battery_warranty_note": "NOT verified \u2014 confirm with a dealer by VIN."
-    },
-    {
       "id": "url-5dd60e351551",
       "listing_id": "url-5dd60e351551",
       "vin": null,
@@ -3633,47 +3387,6 @@
       "new_vs_prior": "Not re-verified Oct 13 (was $26,970 Oct 12)",
       "price_vs_prior": null,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
-    },
-    {
-      "id": "vin-JA4T5UA90PZ020221",
-      "listing_id": "vin-JA4T5UA90PZ020221",
-      "vin": "JA4T5UA90PZ020221",
-      "year": 2023,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "trim": "SE S-AWC",
-      "hybrid_type": "Plug-in hybrid",
-      "drivetrain": "AWD (S-AWC)",
-      "price": 26997,
-      "mileage": 58200,
-      "city": "Beaverton",
-      "state": "OR",
-      "url": null,
-      "marketplace": null,
-      "seller": "Not identified (SRP-level)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
-      "date_last_checked": "2026-10-18",
-      "status": "unverified",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-10-19",
-          "price": 26997
-        }
-      ],
-      "photos": [],
-      "location": "Beaverton, OR",
-      "verification_date": "2026-10-18",
-      "verified_active": null,
-      "history": "SRP-level only; title/accident unknown",
-      "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Store transfer, $1,999 shipping incl.; SRP-level only.",
-      "new_vs_prior": "NEW Oct 18 \u2014 SRP-level only, not detail-verified",
-      "price_vs_prior": null,
-      "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "vin-KNDRMDLG5P5130610",
@@ -3887,47 +3600,6 @@
       "new_vs_prior": "NEW Oct 23 \u2014 iSeeCars SRP-level only (price/city/mileage shown); seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
       "price_vs_prior": null,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k original owner; subsequent owners 5yr/60k from in-service date \u2014 verify by VIN (estimate)."
-    },
-    {
-      "id": "vin-JA4T5WA96RZ065940",
-      "listing_id": "vin-JA4T5WA96RZ065940",
-      "vin": "JA4T5WA96RZ065940",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "trim": "SEL S-AWC",
-      "hybrid_type": "Plug-in hybrid",
-      "drivetrain": "AWD (S-AWC)",
-      "price": 27325,
-      "mileage": 42668,
-      "city": "Vancouver",
-      "state": "WA",
-      "url": null,
-      "marketplace": null,
-      "seller": "Not identified (SRP-level)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
-      "date_last_checked": "2026-10-18",
-      "status": "unverified",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-10-19",
-          "price": 27325
-        }
-      ],
-      "photos": [],
-      "location": "Vancouver, WA",
-      "verification_date": "2026-10-18",
-      "verified_active": null,
-      "history": "SRP-level only; title/accident unknown",
-      "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Dick Hannah Kia; CarGurus SRP-level only.",
-      "new_vs_prior": "NEW Oct 18 \u2014 SRP-level only, not detail-verified",
-      "price_vs_prior": null,
-      "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     },
     {
       "id": "vin-KNDRH4LG2P5169174",
@@ -4892,47 +4564,6 @@
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility with dealer (estimate)."
     },
     {
-      "id": "vin-JA4T5UA98PZ054147",
-      "listing_id": "vin-JA4T5UA98PZ054147",
-      "vin": "JA4T5UA98PZ054147",
-      "year": 2023,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "trim": "SE S-AWC",
-      "hybrid_type": "Plug-in hybrid",
-      "drivetrain": "AWD (S-AWC)",
-      "price": 29697,
-      "mileage": 26684,
-      "city": "Beaverton",
-      "state": "OR",
-      "url": null,
-      "marketplace": null,
-      "seller": "Not identified (SRP-level)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
-      "date_last_checked": "2026-10-18",
-      "status": "unverified",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-10-19",
-          "price": 29697
-        }
-      ],
-      "photos": [],
-      "location": "Beaverton, OR",
-      "verification_date": "2026-10-18",
-      "verified_active": null,
-      "history": "SRP-level only; title/accident unknown",
-      "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Store transfer, $1,999 shipping incl.; SRP-level only.",
-      "new_vs_prior": "NEW Oct 18 \u2014 SRP-level only, not detail-verified",
-      "price_vs_prior": null,
-      "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
-    },
-    {
       "id": "vin-KNDRHDLGXR5235876",
       "listing_id": "vin-KNDRHDLGXR5235876",
       "vin": "KNDRHDLGXR5235876",
@@ -5136,88 +4767,6 @@
       "new_vs_prior": "NEW Oct 15 \u2014 SRP/carweek-level only; verify open recalls by VIN before pursuit",
       "price_vs_prior": null,
       "battery_warranty_note": "NOT verified \u2014 confirm with a dealer by VIN."
-    },
-    {
-      "id": "vin-JA4T5VA96PZ030886",
-      "listing_id": "vin-JA4T5VA96PZ030886",
-      "vin": "JA4T5VA96PZ030886",
-      "year": 2023,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "trim": "40th Anniversary S-AWC",
-      "hybrid_type": "Plug-in hybrid",
-      "drivetrain": "AWD (S-AWC)",
-      "price": 29997,
-      "mileage": 45754,
-      "city": "Beaverton",
-      "state": "OR",
-      "url": null,
-      "marketplace": null,
-      "seller": "Not identified (SRP-level)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
-      "date_last_checked": "2026-10-18",
-      "status": "unverified",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-10-19",
-          "price": 29997
-        }
-      ],
-      "photos": [],
-      "location": "Beaverton, OR",
-      "verification_date": "2026-10-18",
-      "verified_active": null,
-      "history": "SRP-level only; title/accident unknown",
-      "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Tagged 'New arrival'; store transfer, $1,999 shipping incl.; SRP-level only.",
-      "new_vs_prior": "NEW Oct 18 \u2014 SRP-level only, not detail-verified",
-      "price_vs_prior": null,
-      "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
-    },
-    {
-      "id": "vin-JA4T5WA9XRZ042483",
-      "listing_id": "vin-JA4T5WA9XRZ042483",
-      "vin": "JA4T5WA9XRZ042483",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "trim": "SEL S-AWC",
-      "hybrid_type": "Plug-in hybrid",
-      "drivetrain": "AWD (S-AWC)",
-      "price": 29997,
-      "mileage": 24283,
-      "city": "Beaverton",
-      "state": "OR",
-      "url": null,
-      "marketplace": null,
-      "seller": "Not identified (SRP-level)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
-      "date_last_checked": "2026-10-18",
-      "status": "unverified",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-10-19",
-          "price": 29997
-        }
-      ],
-      "photos": [],
-      "location": "Beaverton, OR",
-      "verification_date": "2026-10-18",
-      "verified_active": null,
-      "history": "SRP-level only; title/accident unknown",
-      "concerns": "NEW Oct 18 \u2014 SRP-level only, not detail-verified (CarGurus detail pages 403); Store transfer, $1,999 shipping incl.; SRP-level only.",
-      "new_vs_prior": "NEW Oct 18 \u2014 SRP-level only, not detail-verified",
-      "price_vs_prior": null,
-      "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Mitsubishi dealer."
     }
   ]
 }
