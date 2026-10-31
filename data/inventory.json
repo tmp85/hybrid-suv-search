@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T18:30:59.932Z",
-  "revision": "8dd1c1bc741847e87e8c5409fe5f4b3b237e9973",
+  "generatedAt": "2026-10-31T18:32:21.960Z",
+  "revision": "b7897470a26a21ebb58e137b36291fb15d74ad45",
   "vehicles": [
     {
       "id": "KM8S6DA22NU035178",
@@ -410,7 +410,7 @@
       "missingFromFeed": false,
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "finalUrl": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -841,7 +841,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -1442,7 +1442,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.cars.com/vehicledetail/c9a03e10-3fa4-401e-8597-15aceec95590/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -1458,7 +1458,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -1586,7 +1586,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.sandskia.com/used-Phoenix-2022-Kia-Sorento%2BHybrid-S-KNDRG4LG8N5081732",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -1602,7 +1602,7 @@
           "present": false,
           "observedAt": "2026-10-26",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -1719,7 +1719,7 @@
           "present": false,
           "observedAt": "2026-10-26",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -1984,7 +1984,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.lithia.com/used/Hyundai/2022-Hyundai-Santa-Fe-Hybrid-a3f0ac38ac1811a5b94575c6b5faa03d.htm",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -2326,7 +2326,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -2562,7 +2562,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -3134,7 +3134,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -3150,7 +3150,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -3451,12 +3451,19 @@
           "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
           "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
           "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
+        },
+        {
+          "result": "observed",
+          "checkedAt": "2026-10-31T18:30:59.932Z",
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
         }
       ],
       "missingFromFeed": false,
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
         "finalUrl": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -3836,7 +3843,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -3961,24 +3968,6 @@
           "basis": "Capital One cached $25,075 says dealer fees included; fee amount unknown. J.D. Power cached $24,990 conflicts, not a confirmed price drop; its disclosure references possible rebates/credit qualifications."
         }
       ],
-      "reportedPriceChange": 0,
-      "verificationHistory": [],
-      "missingFromFeed": false,
-      "score": 40.9,
-      "rankReasons": [
-        "Mileage / remaining-life proxy 19.5/22",
-        "Price value 10.2/18",
-        "Age proxy 5.2/10",
-        "History evidence 0/21",
-        "Verified service documentation 0/12",
-        "AWD bonus 4/4",
-        "Availability evidence 2/8"
-      ],
-      "priceDrop": 0,
-      "eligibility": {
-        "qualifies": true,
-        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      },
       "currentObservation": {
         "source": "ChatGPT independent",
         "observedAt": "2026-10-31",
@@ -3997,6 +3986,24 @@
           "mode": "observations",
           "runId": "chatgpt-scheduled-dff15bb6-e128-8325-b70e-460eb29674a5"
         }
+      },
+      "reportedPriceChange": 0,
+      "verificationHistory": [],
+      "missingFromFeed": false,
+      "score": 40.9,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 19.5/22",
+        "Price value 10.2/18",
+        "Age proxy 5.2/10",
+        "History evidence 0/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 4/4",
+        "Availability evidence 2/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": true,
+        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
       "priceConflicts": [],
       "historyDate": "2026-10-31"
@@ -4114,7 +4121,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -4222,7 +4229,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.earnhardthyundai.com/used-city-2022-Hyundai-Santa%20Fe%20Hybrid-vehicle-KM8S5DA19NU037634",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -4238,7 +4245,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -4383,7 +4390,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.hellosubarutemecula.com/inventory/used-2023-kia-sorento-hybrid-ex-awd-4d-sport-utility-kndrhdlg0p5189018/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -4399,7 +4406,7 @@
           "present": false,
           "observedAt": "2026-10-30",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -4516,7 +4523,7 @@
           "present": false,
           "observedAt": "2026-10-17",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -4952,6 +4959,13 @@
           "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
           "httpStatus": 403,
           "reason": "Access restricted; availability unknown."
+        },
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-10-31T18:30:59.932Z",
+          "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
         }
       ],
       "missingFromFeed": false,
@@ -4972,7 +4986,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -5222,7 +5236,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.cars.com/vehicledetail/30c01ad9-b72a-4d72-9f2d-c6dee8d04c00/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -5238,7 +5252,7 @@
           "present": false,
           "observedAt": "2026-10-18",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -6049,7 +6063,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -6283,7 +6297,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.onetoyota.com/inventory/used-2023-jeep-grand-cherokee-overland-4xe-4wd-4d-sport-utility-1c4rjyd62p8785778/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -6299,7 +6313,7 @@
           "present": false,
           "observedAt": "2026-10-22",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -6540,7 +6554,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -6657,7 +6671,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -6694,8 +6708,7 @@
         "Seller-confirmed unsold status",
         "Complete title/history evidence",
         "Maintenance invoices",
-        "Battery condition",
-        "Conflicting contemporaneous quotes; obtain a current written price."
+        "Battery condition"
       ],
       "color": "blue",
       "origin": "ChatGPT independent",
@@ -6829,24 +6842,6 @@
           "basis": "Cached Newman $29,450; Cars.com $29,750/21,389 miles; CarGurus $30,196 including fees; Muse $29,896/21,389. Conditions and mandatory fees unresolved."
         }
       ],
-      "reportedPriceChange": 0,
-      "verificationHistory": [],
-      "missingFromFeed": false,
-      "score": 33.6,
-      "rankReasons": [
-        "Mileage / remaining-life proxy 21.7/22",
-        "Price value 3.5/18",
-        "Age proxy 6.4/10",
-        "History evidence 0/21",
-        "Verified service documentation 0/12",
-        "AWD bonus 0/4",
-        "Availability evidence 2/8"
-      ],
-      "priceDrop": 0,
-      "eligibility": {
-        "qualifies": true,
-        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      },
       "currentObservation": {
         "source": "ChatGPT independent",
         "observedAt": "2026-10-31",
@@ -6865,6 +6860,24 @@
           "mode": "observations",
           "runId": "chatgpt-scheduled-dff15bb6-e128-8325-b70e-460eb29674a5"
         }
+      },
+      "reportedPriceChange": 0,
+      "verificationHistory": [],
+      "missingFromFeed": false,
+      "score": 33.6,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 21.7/22",
+        "Price value 3.5/18",
+        "Age proxy 6.4/10",
+        "History evidence 0/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 0/4",
+        "Availability evidence 2/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": true,
+        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
       "priceConflicts": [
         {
@@ -7123,7 +7136,7 @@
           "present": false,
           "observedAt": "2026-10-14",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -7231,7 +7244,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -7247,7 +7260,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -7364,7 +7377,7 @@
           "present": false,
           "observedAt": "2026-10-12",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -7481,7 +7494,7 @@
           "present": false,
           "observedAt": "2026-10-14",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -7598,7 +7611,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -7715,7 +7728,7 @@
           "present": false,
           "observedAt": "2026-10-14",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -7832,7 +7845,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -8040,6 +8053,13 @@
           "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
           "httpStatus": 403,
           "reason": "Access restricted; availability unknown."
+        },
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-10-31T18:30:59.932Z",
+          "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
         }
       ],
       "missingFromFeed": false,
@@ -8061,7 +8081,7 @@
       "priceConflicts": [],
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -8181,7 +8201,7 @@
           "present": false,
           "observedAt": "2026-10-17",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -8298,7 +8318,7 @@
           "present": false,
           "observedAt": "2026-10-26",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -8415,7 +8435,7 @@
           "present": false,
           "observedAt": "2026-10-18",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -8656,7 +8676,7 @@
           "present": false,
           "observedAt": "2026-10-23",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -8747,7 +8767,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-10-31T18:30:59.932Z",
+        "checkedAt": "2026-10-31T18:32:21.960Z",
         "url": "https://www.echopark.com/car/2T2BGMCA5JC027777",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -8958,7 +8978,7 @@
           "present": false,
           "observedAt": "2026-10-26",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -9075,7 +9095,7 @@
           "present": false,
           "observedAt": "2026-10-26",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -9570,7 +9590,7 @@
           "present": false,
           "observedAt": "2026-10-19",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-10-31T18:30:59.932Z"
+          "lastCheckedAt": "2026-10-31T18:32:21.960Z"
         }
       }
     },
@@ -10733,7 +10753,9 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 80
+      "rank": 80,
+      "verificationHistory": [],
+      "priceConflicts": []
     },
     {
       "id": "KNDPVCAG6P7033972",
@@ -11255,9 +11277,9 @@
   ],
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T18:30:59.932Z",
+      "lastAttemptAt": "2026-10-31T18:32:21.960Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:30:59.932Z",
+      "lastSuccessAt": "2026-10-31T18:32:21.960Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 32,
@@ -11275,10 +11297,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:30:59.932Z",
+      "lastSuccessAt": "2026-10-31T18:32:21.960Z",
       "reportDate": "2026-10-31",
       "error": null,
-      "lastAttemptAt": "2026-10-31T18:30:59.932Z",
+      "lastAttemptAt": "2026-10-31T18:32:21.960Z",
       "exporterMode": "scheduled_unverified",
       "automationVerified": false,
       "provenance": {
@@ -11286,7 +11308,7 @@
         "originSha256": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "8dd1c1bc741847e87e8c5409fe5f4b3b237e9973"
+        "triggerRevision": "b7897470a26a21ebb58e137b36291fb15d74ad45"
       },
       "lastExportAt": "2026-10-31T18:30:26.007Z",
       "imported": 9,
@@ -11601,5 +11623,11 @@
       "reason": "Dealer explicitly itemizes $30,196 before government fees; price-based exclusion, not sold."
     }
   ],
-  "alerts": []
+  "alerts": [],
+  "testUpdate": {
+    "passed": true,
+    "at": "2026-10-31T18:32:21.960Z",
+    "vin": "KM8S6DA22NU035178",
+    "mode": "isolated +$1 fixture merged and validated; live public price unchanged"
+  }
 }

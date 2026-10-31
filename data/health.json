@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T18:30:59.932Z",
+  "generatedAt": "2026-10-31T18:32:21.960Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-10-31T18:30:59.932Z",
+      "lastAttemptAt": "2026-10-31T18:32:21.960Z",
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:30:59.932Z",
+      "lastSuccessAt": "2026-10-31T18:32:21.960Z",
       "reportDate": "2026-10-31",
       "error": null,
       "imported": 32,
@@ -22,10 +22,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-10-31T18:30:59.932Z",
+      "lastSuccessAt": "2026-10-31T18:32:21.960Z",
       "reportDate": "2026-10-31",
       "error": null,
-      "lastAttemptAt": "2026-10-31T18:30:59.932Z",
+      "lastAttemptAt": "2026-10-31T18:32:21.960Z",
       "exporterMode": "scheduled_unverified",
       "automationVerified": false,
       "provenance": {
@@ -33,7 +33,7 @@
         "originSha256": "f83a16d22aa717bebb98b20f9640b0e3c5c2abad866814e67669b3b6b49d29dc",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "8dd1c1bc741847e87e8c5409fe5f4b3b237e9973"
+        "triggerRevision": "b7897470a26a21ebb58e137b36291fb15d74ad45"
       },
       "lastExportAt": "2026-10-31T18:30:26.007Z",
       "imported": 9,
