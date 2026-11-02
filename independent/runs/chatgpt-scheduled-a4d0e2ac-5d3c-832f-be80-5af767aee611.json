@@ -1,0 +1,415 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-independent",
+  "mode": "observations",
+  "runId": "chatgpt-scheduled-a4d0e2ac-5d3c-832f-be80-5af767aee611",
+  "generatedAt": "2026-11-02T14:21:04.620Z",
+  "reportDate": "2026-11-02",
+  "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
+  "writer": {
+    "mode": "scheduled",
+    "automationId": "6acc0c049d908191bdd620f519aee69c",
+    "runUrl": null
+  },
+  "listings": [
+    {
+      "observedAt": "2026-11-02",
+      "fees": 799,
+      "history": {
+        "title": "unknown",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "vin": "KNDRGDLG3N5107069",
+      "year": 2022,
+      "name": "Kia Sorento Hybrid",
+      "trim": "S",
+      "type": "HEV",
+      "price": 23793,
+      "mileage": 51445,
+      "city": "Peoria",
+      "state": "AZ",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "AutoNation Chevrolet Arrowhead",
+      "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+      "priceBasis": "Dealer $23,793 AutoNation 1Price includes $799 dealer services fee ($22,994 vehicle + $799); do not add fee again. Government charges/travel excluded. Financing/trade-in/rebate conditions not established.",
+      "notes": "November 2 dealer $23,793 including $799 unchanged versus November 1. Muse November 2 reports clean title/one owner/personal use/no accidents; full history, service and battery evidence unverified.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "Original dealer ad retrieved November 2 with price/VIN/miles; no seller-confirmed unsold status."
+      }
+    },
+    {
+      "observedAt": "2026-11-02",
+      "fees": 200,
+      "history": {
+        "title": "unknown",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "vin": "KNDRHDLGXP5160609",
+      "year": 2023,
+      "name": "Kia Sorento Hybrid",
+      "trim": "EX",
+      "type": "HEV",
+      "price": 28990,
+      "mileage": 41084,
+      "city": "Kirkland",
+      "state": "WA",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "Lee Johnson Mazda of Kirkland",
+      "url": "https://www.leejohnsonkia.com/auto/preowned-2023-kia-sorento-hybrid-ex/126732762/",
+      "priceBasis": "Dealer $28,790 + $200 negotiable documentary fee = $28,990. Dealer boilerplate may add up to $200; obtain written total to prevent double charge. Government/finance/other closing charges extra; no proven financing/trade price condition. Offering may require negotiated implied-warranty waiver if AS IS.",
+      "notes": "Independent lead reconfirmed at sibling Kia dealer; Mazda page cache November 1. Seller CPO/well-maintained claims; prior sibling Clean CARFAX/One-Owner not full title documentation. No price change.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "Kia original dealer page retrieved November 2, crawler today, reconfirms $28,990/41,084 miles/AWD/CPO. Unsold status unconfirmed."
+      }
+    },
+    {
+      "observedAt": "2026-11-01",
+      "fees": null,
+      "history": {
+        "title": "unknown",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "vin": "KNDRJDLH3N5122875",
+      "year": 2022,
+      "name": "Kia Sorento PHEV",
+      "trim": "SX",
+      "type": "PHEV",
+      "price": 27422,
+      "mileage": 35609,
+      "city": "Cathedral City",
+      "state": "CA",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "Palm Springs Kia",
+      "url": "https://www.autostoday.com/cars-for-sale/used-cars/listing/KNDRJDLH3N5122875/2022-kia-sorento-phev-sx-cathedral-city-ca",
+      "priceBasis": "AutosToday advertised $27,422. Estimated out-the-door $29,795 is an estimate, not a binding itemized fee total. Mandatory fees and financing/trade-in conditions unknown. Earlier morning CARFAX quote $27,122 conflicts; no confirmed comparable dealer price cut.",
+      "notes": "November 1 cached AutosToday $27,422/35,609 versus Muse November 2 $27,000 same VIN. Not a confirmed dealer price drop; battery/cable/fees unknown. Muse clean title/one owner/personal/no accidents claims attributed only.",
+      "verification": {
+        "status": "awaiting_verification",
+        "note": "November 2 retrieval returned cache crawled November 1; retain November 1 observation date rather than refresh availability."
+      }
+    },
+    {
+      "observedAt": "2026-11-01",
+      "fees": null,
+      "history": {
+        "title": "unknown",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "vin": "5TDJGRFH0JS041065",
+      "year": 2018,
+      "name": "Toyota Highlander Hybrid",
+      "trim": "XLE",
+      "type": "HEV",
+      "price": 27998,
+      "mileage": 82247,
+      "city": "Milwaukie",
+      "state": "OR",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "CarMax Portland Clackamas",
+      "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065",
+      "priceBasis": "Capital One advertised $27,998, includes dealer fees. Seller text says no document/processing fees; excludes government charges and optional products. Price assumes Oregon purchase; transfer fees separate if applicable. Financing/trade-in conditions not established.",
+      "notes": "Acceptance VIN retained unchanged $27,998/82,247; no new full history, service or battery evidence.",
+      "verification": {
+        "status": "awaiting_verification",
+        "note": "November 2 retrieval returned November 1 cached Capital One ad. Preserve November 1 actual previous observation, not new verification."
+      }
+    },
+    {
+      "observedAt": "2026-11-02",
+      "fees": null,
+      "history": {
+        "title": "unknown",
+        "accidents": "none_reported",
+        "owners": 1,
+        "use": "CARFAX cached excerpt reports personal use",
+        "maintenance": "CARFAX cached excerpt: 8 service records, last serviced April 3, 2026 at 29,088 miles",
+        "evidenceUrl": "https://www.carfax.com/Used-2021-Kia-Sorento-EX_x48561"
+      },
+      "vin": "KNDRH4LG2M5040086",
+      "year": 2021,
+      "name": "Kia Sorento Hybrid",
+      "trim": "EX",
+      "type": "HEV",
+      "price": 25000,
+      "mileage": 33689,
+      "city": "Tempe",
+      "state": "AZ",
+      "drive": "FWD",
+      "rows": 3,
+      "seller": "Tempe Dodge Chrysler Jeep RAM",
+      "url": "https://www.capitalone.com/cars/vehicle-details/2021/Kia/Sorento%2BHybrid/EX/KNDRH4LG2M5040086",
+      "priceBasis": "Capital One $25,000 including dealer fees; Muse/other ads $25,599 conflict. Fee amount/conditional financing/trade/rebate requirements not established; not a confirmed price cut.",
+      "notes": "Muse lead cross-checked. Capital One crawled today 33,689 miles. Older CARFAX excerpt for same VIN: no accident/damage, one owner, personal use, eight service records, last service April 3 at 29,088 miles; not full title/battery documentation. Original Edmunds page blocked.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "November 2 VIN-specific Capital One ad retrieved; seller confirmation of unsold status unknown; reported history is cached attributed evidence."
+      }
+    },
+    {
+      "observedAt": "2026-11-02",
+      "fees": null,
+      "history": {
+        "title": "unknown",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "vin": "5TDHBRCH9MS043483",
+      "year": 2021,
+      "name": "Toyota Highlander Hybrid",
+      "trim": "XLE",
+      "type": "HEV",
+      "price": 29500,
+      "mileage": 83952,
+      "city": "Covina",
+      "state": "CA",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "Future Walker Cars",
+      "url": "https://www.jdpower.com/inventory/2021/toyota/highlander/covina-ca/5tdhbrch9ms043483?dealercode=28663066",
+      "priceBasis": "J.D. Power/Edmunds $29,500; mandatory fees undisclosed. Financing advertised; qualifications/rebates unknown, little budget headroom.",
+      "notes": "Muse lead. November 2 marketplace page retrieved; Edmunds listing excerpt supports miles/price/AWD. Muse clean title/no accidents/one owner claims not independently confirmed; original CarGurus inaccessible. Service/battery unknown.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "November 2 vehicle-specific J.D. Power ad retrieved. Marketplace evidence only; not seller-confirmed unsold."
+      }
+    },
+    {
+      "observedAt": "2026-11-02",
+      "fees": null,
+      "history": {
+        "title": "branded",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "vin": null,
+      "listingId": "iNghiuctkrBvjkzGrVpd5z",
+      "year": 2019,
+      "name": "Toyota Highlander Hybrid",
+      "trim": "XLE",
+      "type": "HEV",
+      "price": 24500,
+      "mileage": 59000,
+      "city": "Tucson",
+      "state": "AZ",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "Private-party classified seller",
+      "url": "https://www.craigslist.org/view/d/tucson-2019-toyota-highlander-xle/iNghiuctkrBvjkzGrVpd5z",
+      "priceBasis": "$24,500 OBO seller asking; fees unknown.",
+      "notes": "Seller explicitly discloses Rebuilt/Restored salvage title; claimed excellent condition/no airbags deployed/service record do not cure exclusion. VIN not disclosed.",
+      "verification": {
+        "status": "excluded",
+        "evidenceUrl": "https://www.craigslist.org/view/d/tucson-2019-toyota-highlander-xle/iNghiuctkrBvjkzGrVpd5z",
+        "note": "Original November 2 ad explicitly states rebuilt/restored salvage title; prohibited title."
+      }
+    },
+    {
+      "observedAt": "2026-11-02",
+      "fees": null,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h"
+      },
+      "vin": "2T2BGMCA1HC013675",
+      "year": 2017,
+      "name": "Lexus RX 450h",
+      "type": "HEV",
+      "price": 26951,
+      "mileage": 92878,
+      "city": "Cerritos",
+      "state": "CA",
+      "seller": "Lexus of Cerritos",
+      "drive": "AWD",
+      "rows": 2,
+      "url": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+      "priceBasis": "TrueCar search card quote; says dealer fees/add-ons included or CarMax no extra dealer fees. Itemization/conditions unknown. No price-drop claim.",
+      "notes": "Independent public marketplace card observation November 2; exact VIN retained. SRP is evidence, not a fabricated vehicle-detail URL. Clean title/no-accident labels are marketplace reports; full reports/service/battery unavailable. Older hybrid battery/condition require review; not shortlisted.",
+      "verification": {
+        "status": "awaiting_verification",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+        "note": "Search-card evidence only; no current seller-confirmed availability or original detail-page verification."
+      }
+    },
+    {
+      "observedAt": "2026-11-02",
+      "fees": null,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h"
+      },
+      "vin": "2T2BGMCAXJC023286",
+      "year": 2018,
+      "name": "Lexus RX 450h",
+      "type": "HEV",
+      "price": 27998,
+      "mileage": 83748,
+      "city": "Torrance",
+      "state": "CA",
+      "seller": "CarMax Torrance",
+      "drive": "AWD",
+      "rows": 2,
+      "url": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+      "priceBasis": "TrueCar search card quote; says dealer fees/add-ons included or CarMax no extra dealer fees. Itemization/conditions unknown. No price-drop claim.",
+      "notes": "Independent public marketplace card observation November 2; exact VIN retained. SRP is evidence, not a fabricated vehicle-detail URL. Clean title/no-accident labels are marketplace reports; full reports/service/battery unavailable. Older hybrid battery/condition require review; not shortlisted.",
+      "verification": {
+        "status": "awaiting_verification",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+        "note": "Search-card evidence only; no current seller-confirmed availability or original detail-page verification."
+      }
+    },
+    {
+      "observedAt": "2026-11-02",
+      "fees": null,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h"
+      },
+      "vin": "2T2BGMCA1GC002156",
+      "year": 2016,
+      "name": "Lexus RX 450h",
+      "type": "HEV",
+      "price": 23998,
+      "mileage": 105858,
+      "city": "Beaverton",
+      "state": "OR",
+      "seller": "CarMax Beaverton",
+      "drive": "AWD",
+      "rows": 2,
+      "url": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+      "priceBasis": "TrueCar search card quote; says dealer fees/add-ons included or CarMax no extra dealer fees. Itemization/conditions unknown. No price-drop claim.",
+      "notes": "Independent public marketplace card observation November 2; exact VIN retained. SRP is evidence, not a fabricated vehicle-detail URL. Clean title/no-accident labels are marketplace reports; full reports/service/battery unavailable. Above preferred mileage; not recommended.",
+      "verification": {
+        "status": "awaiting_verification",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+        "note": "Search-card evidence only; no current seller-confirmed availability or original detail-page verification."
+      }
+    },
+    {
+      "observedAt": "2026-11-02",
+      "fees": null,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h"
+      },
+      "vin": "2T2ZB1BA1FC003416",
+      "year": 2015,
+      "name": "Lexus RX 450h",
+      "type": "HEV",
+      "price": 14010,
+      "mileage": 152167,
+      "city": "City of Industry",
+      "state": "CA",
+      "seller": "Puente Hills Toyota",
+      "drive": "FWD",
+      "rows": 2,
+      "url": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+      "priceBasis": "TrueCar search card quote; says dealer fees/add-ons included or CarMax no extra dealer fees. Itemization/conditions unknown. No price-drop claim.",
+      "notes": "Independent public marketplace card observation November 2; exact VIN retained. SRP is evidence, not a fabricated vehicle-detail URL. Clean title/no-accident labels are marketplace reports; full reports/service/battery unavailable. Below minimum price; excluded.",
+      "verification": {
+        "status": "excluded",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+        "note": "Advertised asking price below required $20,000 minimum."
+      }
+    },
+    {
+      "observedAt": "2026-11-02",
+      "fees": null,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h"
+      },
+      "vin": "JTJZB1BA9E2413749",
+      "year": 2014,
+      "name": "Lexus RX 450h",
+      "type": "HEV",
+      "price": 14444,
+      "mileage": 100245,
+      "city": "Pacoima",
+      "state": "CA",
+      "seller": "Karplus Warehouse",
+      "drive": "FWD",
+      "rows": 2,
+      "url": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+      "priceBasis": "TrueCar search card quote; says dealer fees/add-ons included or CarMax no extra dealer fees. Itemization/conditions unknown. No price-drop claim.",
+      "notes": "Independent public marketplace card observation November 2; exact VIN retained. SRP is evidence, not a fabricated vehicle-detail URL. Clean title/no-accident labels are marketplace reports; full reports/service/battery unavailable. Below minimum price; excluded.",
+      "verification": {
+        "status": "excluded",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+        "note": "Advertised asking price below required $20,000 minimum."
+      }
+    },
+    {
+      "observedAt": "2026-11-02",
+      "fees": null,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h"
+      },
+      "vin": "JTJBC1BA8D2066315",
+      "year": 2013,
+      "name": "Lexus RX 450h",
+      "type": "HEV",
+      "price": 21206,
+      "mileage": 116869,
+      "city": "Anaheim",
+      "state": "CA",
+      "seller": "Lithia Anaheim Hyundai",
+      "drive": "AWD",
+      "rows": 2,
+      "url": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+      "priceBasis": "TrueCar search card quote; says dealer fees/add-ons included or CarMax no extra dealer fees. Itemization/conditions unknown. No price-drop claim.",
+      "notes": "Independent public marketplace card observation November 2; exact VIN retained. SRP is evidence, not a fabricated vehicle-detail URL. Clean title/no-accident labels are marketplace reports; full reports/service/battery unavailable. Above preferred mileage; not recommended.",
+      "verification": {
+        "status": "awaiting_verification",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/lexus/rx/price-below-30000/fuel-all-hybrids/location-los-angeles-ca/?trim=rx-450h",
+        "note": "Search-card evidence only; no current seller-confirmed availability or original detail-page verification."
+      }
+    }
+  ]
+}
