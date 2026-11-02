@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-11-01T22:26:42.599Z",
+  "generatedAt": "2026-11-02T14:03:27.564Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-01T22:26:42.599Z",
+      "lastAttemptAt": "2026-11-02T14:03:27.564Z",
       "status": "connected",
-      "lastSuccessAt": "2026-11-01T22:26:42.599Z",
-      "reportDate": "2026-11-01",
+      "lastSuccessAt": "2026-11-02T14:03:27.564Z",
+      "reportDate": "2026-11-02",
       "error": null,
       "imported": 108,
       "feedUrl": "https://tmp85.github.io/hybrid-suv-search/listings.json",
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
         "mode": "repository_checkout",
-        "originSha256": "049cddef59d5569774a42dbf8781d253a1b54ad0fbea4e2f639a31aa3abb7b0d",
+        "originSha256": "953c28dcedae66e983a595a3f4be79c23c61934bc8fe3e76933c1ffd936da151",
         "pagesSha256": "049cddef59d5569774a42dbf8781d253a1b54ad0fbea4e2f639a31aa3abb7b0d",
-        "pagesMatchesOrigin": true,
+        "pagesMatchesOrigin": false,
         "sourceRecordCount": 108,
         "supplementRecordCount": 0
       }
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-01T22:26:42.599Z",
+      "lastSuccessAt": "2026-11-02T14:03:27.564Z",
       "reportDate": "2026-11-01",
       "error": null,
-      "lastAttemptAt": "2026-11-01T22:26:42.599Z",
+      "lastAttemptAt": "2026-11-02T14:03:27.564Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "20320b301a1930d1e7144c99d6ca685410309f2335e6521fc3a01f50f934fad7",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "85468664d0f519416f8868d766339f4cacafd33c"
+        "triggerRevision": "416bceb3a50bc4ece611580e63b932a9fd8ce31d"
       },
       "lastExportAt": "2026-11-01T14:01:37.591Z",
       "imported": 8,
@@ -53,33 +53,33 @@
     "active": 26,
     "stale": 87,
     "archived": 14,
-    "verified": 19,
-    "awaitingVerification": 7,
+    "verified": 20,
+    "awaitingVerification": 6,
     "outsideCriteria": 22,
     "qualifyingActive": 26
   },
   "photos": {
-    "checkedAt": "2026-11-01T22:26:42.599Z",
-    "attempted": 45,
+    "checkedAt": "2026-11-02T14:03:27.564Z",
+    "attempted": 11,
     "collected": 0,
     "retained": 113,
     "archivedSkipped": 14,
     "skippedExistingPhotos": 12,
-    "skippedRecentAttempt": 47,
-    "eligible": 54,
-    "deferred": 9,
+    "skippedRecentAttempt": 90,
+    "eligible": 11,
+    "deferred": 0,
     "withPhotos": 12,
     "withoutPhotos": 101,
     "outcomes": {
       "collected": 0,
-      "no_source": 20,
-      "no_photos": 8,
-      "inaccessible": 17
+      "no_source": 10,
+      "no_photos": 0,
+      "inaccessible": 1
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 18437
+    "elapsedMs": 779
   },
   "alerts": []
 }
