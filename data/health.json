@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T14:03:27.564Z",
+  "generatedAt": "2026-11-02T14:21:39.221Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-02T14:03:27.564Z",
+      "lastAttemptAt": "2026-11-02T14:21:39.221Z",
       "status": "connected",
-      "lastSuccessAt": "2026-11-02T14:03:27.564Z",
+      "lastSuccessAt": "2026-11-02T14:21:39.221Z",
       "reportDate": "2026-11-02",
       "error": null,
       "imported": 108,
@@ -13,33 +13,33 @@
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
         "mode": "repository_checkout",
         "originSha256": "953c28dcedae66e983a595a3f4be79c23c61934bc8fe3e76933c1ffd936da151",
-        "pagesSha256": "049cddef59d5569774a42dbf8781d253a1b54ad0fbea4e2f639a31aa3abb7b0d",
-        "pagesMatchesOrigin": false,
+        "pagesSha256": "953c28dcedae66e983a595a3f4be79c23c61934bc8fe3e76933c1ffd936da151",
+        "pagesMatchesOrigin": true,
         "sourceRecordCount": 108,
         "supplementRecordCount": 0
       }
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-02T14:03:27.564Z",
-      "reportDate": "2026-11-01",
+      "lastSuccessAt": "2026-11-02T14:21:39.221Z",
+      "reportDate": "2026-11-02",
       "error": null,
-      "lastAttemptAt": "2026-11-02T14:03:27.564Z",
+      "lastAttemptAt": "2026-11-02T14:21:39.221Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-        "originSha256": "20320b301a1930d1e7144c99d6ca685410309f2335e6521fc3a01f50f934fad7",
+        "originSha256": "99a29bf9f42f8370aed634793018f420bd1b6258796213b7aecc57e219b17ca3",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "416bceb3a50bc4ece611580e63b932a9fd8ce31d"
+        "triggerRevision": "a9a1b86d3adbcf1455bf53eebf6cdc959e0fb282"
       },
-      "lastExportAt": "2026-11-01T14:01:37.591Z",
-      "imported": 8,
+      "lastExportAt": "2026-11-02T14:21:04.620Z",
+      "imported": 13,
       "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-      "runId": "chatgpt-scheduled-b9060574-1798-8329-be79-e0d7ccdb5008",
+      "runId": "chatgpt-scheduled-a4d0e2ac-5d3c-832f-be80-5af767aee611",
       "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
-      "contentHash": "20320b301a1930d1e7144c99d6ca685410309f2335e6521fc3a01f50f934fad7",
+      "contentHash": "99a29bf9f42f8370aed634793018f420bd1b6258796213b7aecc57e219b17ca3",
       "automationId": "6acc0c049d908191bdd620f519aee69c",
       "writer": {
         "mode": "scheduled",
@@ -49,37 +49,37 @@
     }
   },
   "counts": {
-    "imported": 127,
-    "active": 26,
+    "imported": 134,
+    "active": 30,
     "stale": 87,
-    "archived": 14,
-    "verified": 20,
-    "awaitingVerification": 6,
-    "outsideCriteria": 22,
-    "qualifyingActive": 26
+    "archived": 17,
+    "verified": 18,
+    "awaitingVerification": 12,
+    "outsideCriteria": 24,
+    "qualifyingActive": 30
   },
   "photos": {
-    "checkedAt": "2026-11-02T14:03:27.564Z",
-    "attempted": 11,
+    "checkedAt": "2026-11-02T14:21:39.221Z",
+    "attempted": 4,
     "collected": 0,
-    "retained": 113,
-    "archivedSkipped": 14,
+    "retained": 117,
+    "archivedSkipped": 17,
     "skippedExistingPhotos": 12,
-    "skippedRecentAttempt": 90,
-    "eligible": 11,
+    "skippedRecentAttempt": 101,
+    "eligible": 4,
     "deferred": 0,
     "withPhotos": 12,
-    "withoutPhotos": 101,
+    "withoutPhotos": 105,
     "outcomes": {
       "collected": 0,
-      "no_source": 10,
+      "no_source": 4,
       "no_photos": 0,
-      "inaccessible": 1
+      "inaccessible": 0
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 779
+    "elapsedMs": 3
   },
   "alerts": []
 }
