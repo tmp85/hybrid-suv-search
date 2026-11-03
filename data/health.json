@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T20:57:57.591Z",
+  "generatedAt": "2026-11-03T23:42:47.051Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-03T20:57:57.591Z",
+      "lastAttemptAt": "2026-11-03T23:42:47.051Z",
       "status": "connected",
-      "lastSuccessAt": "2026-11-03T20:57:57.591Z",
+      "lastSuccessAt": "2026-11-03T23:42:47.051Z",
       "reportDate": "2026-11-03",
       "error": null,
       "imported": 110,
@@ -21,10 +21,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-03T20:57:57.591Z",
+      "lastSuccessAt": "2026-11-03T23:42:47.051Z",
       "reportDate": "2026-11-03",
       "error": null,
-      "lastAttemptAt": "2026-11-03T20:57:57.591Z",
+      "lastAttemptAt": "2026-11-03T23:42:47.051Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "39e173e9b274b8d6f8fcdd7e7de35a3c5edc53a3f09df132f780053b3e10a061",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "47cea9d794dc4d997adbaeb614c56fd08b78ee0c"
+        "triggerRevision": "69b1b44b7e487746bc0dbe6872a35fdb0fff2080"
       },
       "lastExportAt": "2026-11-03T14:01:10.409Z",
       "imported": 8,
@@ -59,27 +59,27 @@
     "qualifyingActive": 32
   },
   "photos": {
-    "checkedAt": "2026-11-03T20:57:57.591Z",
-    "attempted": 43,
+    "checkedAt": "2026-11-03T23:42:47.051Z",
+    "attempted": 45,
     "collected": 0,
     "retained": 120,
     "archivedSkipped": 18,
     "skippedExistingPhotos": 14,
-    "skippedRecentAttempt": 63,
-    "eligible": 43,
+    "skippedRecentAttempt": 61,
+    "eligible": 45,
     "deferred": 0,
     "withPhotos": 14,
     "withoutPhotos": 106,
     "outcomes": {
       "collected": 0,
-      "no_source": 2,
-      "no_photos": 7,
-      "inaccessible": 34
+      "no_source": 20,
+      "no_photos": 8,
+      "inaccessible": 17
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 1629
+    "elapsedMs": 14109
   },
   "alerts": []
 }
