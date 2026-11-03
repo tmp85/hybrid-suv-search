@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T01:17:27.766Z",
+  "generatedAt": "2026-11-03T14:01:39.169Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-03T01:17:27.766Z",
+      "lastAttemptAt": "2026-11-03T14:01:39.169Z",
       "status": "connected",
-      "lastSuccessAt": "2026-11-03T01:17:27.766Z",
+      "lastSuccessAt": "2026-11-03T14:01:39.169Z",
       "reportDate": "2026-11-02",
       "error": null,
       "imported": 108,
@@ -21,25 +21,25 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-03T01:17:27.766Z",
-      "reportDate": "2026-11-02",
+      "lastSuccessAt": "2026-11-03T14:01:39.169Z",
+      "reportDate": "2026-11-03",
       "error": null,
-      "lastAttemptAt": "2026-11-03T01:17:27.766Z",
+      "lastAttemptAt": "2026-11-03T14:01:39.169Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-        "originSha256": "99a29bf9f42f8370aed634793018f420bd1b6258796213b7aecc57e219b17ca3",
+        "originSha256": "39e173e9b274b8d6f8fcdd7e7de35a3c5edc53a3f09df132f780053b3e10a061",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "af8625df44435db9258025a6bcc96b44485912e4"
+        "triggerRevision": "0b84aee934ef8ef3d8da7c66ba6d85d76f31a074"
       },
-      "lastExportAt": "2026-11-02T14:21:04.620Z",
-      "imported": 13,
+      "lastExportAt": "2026-11-03T14:01:10.409Z",
+      "imported": 8,
       "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-      "runId": "chatgpt-scheduled-a4d0e2ac-5d3c-832f-be80-5af767aee611",
+      "runId": "chatgpt-scheduled-cf3e9db0-8a78-8321-a407-5ab282f2a885",
       "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
-      "contentHash": "99a29bf9f42f8370aed634793018f420bd1b6258796213b7aecc57e219b17ca3",
+      "contentHash": "39e173e9b274b8d6f8fcdd7e7de35a3c5edc53a3f09df132f780053b3e10a061",
       "automationId": "6acc0c049d908191bdd620f519aee69c",
       "writer": {
         "mode": "scheduled",
@@ -49,37 +49,37 @@
     }
   },
   "counts": {
-    "imported": 134,
-    "active": 31,
-    "stale": 86,
-    "archived": 17,
+    "imported": 136,
+    "active": 30,
+    "stale": 88,
+    "archived": 18,
     "verified": 19,
-    "awaitingVerification": 12,
-    "outsideCriteria": 24,
-    "qualifyingActive": 31
+    "awaitingVerification": 11,
+    "outsideCriteria": 25,
+    "qualifyingActive": 30
   },
   "photos": {
-    "checkedAt": "2026-11-03T01:17:27.766Z",
-    "attempted": 45,
+    "checkedAt": "2026-11-03T14:01:39.169Z",
+    "attempted": 16,
     "collected": 0,
-    "retained": 117,
-    "archivedSkipped": 17,
+    "retained": 118,
+    "archivedSkipped": 18,
     "skippedExistingPhotos": 14,
-    "skippedRecentAttempt": 58,
-    "eligible": 45,
+    "skippedRecentAttempt": 88,
+    "eligible": 16,
     "deferred": 0,
     "withPhotos": 14,
-    "withoutPhotos": 103,
+    "withoutPhotos": 104,
     "outcomes": {
       "collected": 0,
-      "no_source": 20,
-      "no_photos": 8,
-      "inaccessible": 17
+      "no_source": 14,
+      "no_photos": 1,
+      "inaccessible": 1
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 12033
+    "elapsedMs": 585
   },
   "alerts": []
 }
