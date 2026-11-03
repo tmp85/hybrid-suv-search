@@ -1,17 +1,58 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-11-02T14:01:34.567071Z",
-  "search_date": "2026-11-02",
+  "generated_at": "2026-11-03T14:03:49.423248Z",
+  "search_date": "2026-11-03",
   "source": "Hybrid SUV Search daily research",
   "counts": {
-    "active": 21,
+    "active": 23,
     "unverified": 40,
     "unavailable": 29,
     "excluded": 2,
     "stale": 16
   },
-  "listing_count": 108,
+  "listing_count": 110,
   "listings": [
+    {
+      "id": "vin-KNDRH4LG0P5132205",
+      "listing_id": "vin-KNDRH4LG0P5132205",
+      "vin": "KNDRH4LG0P5132205",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sorento Hybrid",
+      "trim": "EX FWD",
+      "hybrid_type": "Full hybrid",
+      "drivetrain": "FWD",
+      "price": 21002,
+      "mileage": 125885,
+      "city": "Cerritos",
+      "state": "CA",
+      "url": "https://www.cargurus.com/details/463222615",
+      "marketplace": "CarGurus",
+      "seller": "Kia of Cerritos (dealer)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-03",
+      "date_last_checked": "2026-11-03",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "Accident history mentioned, count unclear",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-03",
+          "price": 21002
+        }
+      ],
+      "photos": [],
+      "location": "Cerritos, CA",
+      "verification_date": "2026-11-03",
+      "verified_active": true,
+      "history": "History/accident/owner/title details not shown in Nov 3 detail-page summary",
+      "concerns": "NEW Nov 3 - CarGurus detail-verified, listed as new arrival (on CarGurus less than 48 hours); 125,885 mi well OVER the 100k preference - consider only if condition/value justify; only photo is a 'COMING SOON!' placeholder - confirm actual condition, photos, history, title, and fees before any travel; FWD only",
+      "new_vs_prior": "NEW Nov 3 - CarGurus detail-verified: $21,002 / 125,885 mi, VIN KNDRH4LG0P5132205, stock 5N3393A, new arrival; placeholder photo only; history not shown",
+      "price_vs_prior": null,
+      "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k - at 125,885 mi the mileage limit is exceeded (estimate)."
+    },
     {
       "id": "vin-KNDRH4LG3P5132781",
       "listing_id": "vin-KNDRH4LG3P5132781",
@@ -30,7 +71,7 @@
       "marketplace": "Edmunds",
       "seller": "Driveway (dealer, online only)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-16",
+      "date_first_discovered": "2026-10-15",
       "date_last_checked": "2026-10-31",
       "status": "active",
       "title_history": "Clean title",
@@ -39,7 +80,15 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
+          "price": 21489
+        },
+        {
+          "date": "2026-10-29",
+          "price": 21199
+        },
+        {
+          "date": "2026-10-30",
           "price": 21489
         },
         {
@@ -75,7 +124,7 @@
       "marketplace": "Edmunds",
       "seller": "Arizona Elite Auto Sales (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-28",
+      "date_first_discovered": "2026-10-27",
       "date_last_checked": "2026-10-31",
       "status": "active",
       "title_history": "Clean title",
@@ -84,7 +133,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
           "price": 21500
         }
       ],
@@ -109,15 +158,15 @@
       "hybrid_type": "Full hybrid",
       "drivetrain": "AWD",
       "price": 22343,
-      "mileage": 114653,
+      "mileage": 114666,
       "city": "Van Nuys",
       "state": "CA",
       "url": "https://www.cargurus.com/details/461421102",
       "marketplace": "CarGurus",
       "seller": "Keyes Lexus (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-02",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-31",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -125,17 +174,21 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-02",
+          "date": "2026-10-31",
+          "price": 22641
+        },
+        {
+          "date": "2026-11-01",
           "price": 22343
         }
       ],
       "photos": [],
       "location": "Van Nuys, CA",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "Clean title per CarGurus; 0 accidents; 1 previous owner",
       "concerns": "NEW Oct 31 - CarGurus detail-verified; 114,653 mi OVER the 100k preference - consider only if condition/value justify; 2018 MY hybrid battery warranty largely/fully expired - budget for eventual replacement; fees not disclosed",
-      "new_vs_prior": "Verified active Nov 2 via CarGurus: still $22,343 / 114,653 mi, unchanged; clean title, 0 accidents, 1 owner; 114,653 mi OVER the 100k preference; 2018 MY hybrid battery warranty largely/fully expired; prices include $85 doc + $58.25 emissions + $37 e-filing, optional accessories excluded",
+      "new_vs_prior": "Verified active Nov 3 via CarGurus: still $22,343, mileage 114,666 mi (+13); struck-through $22,641 shown",
       "price_vs_prior": 0,
       "battery_warranty_note": "Lexus hybrid battery 8yr/100k for 2018 model year - factory coverage largely or fully expired (estimate)."
     },
@@ -157,7 +210,7 @@
       "marketplace": "Edmunds",
       "seller": "Carvana - Phoenix (dealer, online only)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-28",
+      "date_first_discovered": "2026-10-27",
       "date_last_checked": "2026-10-31",
       "status": "active",
       "title_history": "Clean title",
@@ -166,11 +219,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
           "price": 22990
         },
         {
-          "date": "2026-10-30",
+          "date": "2026-10-29",
           "price": 22590
         }
       ],
@@ -202,8 +255,8 @@
       "marketplace": "Edmunds",
       "seller": "Freeway Toyota (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-29",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-28",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -211,25 +264,25 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-29",
+          "date": "2026-10-28",
           "price": 23522
         },
         {
-          "date": "2026-10-30",
+          "date": "2026-10-29",
           "price": 23404
         },
         {
-          "date": "2026-11-02",
+          "date": "2026-10-31",
           "price": 22844
         }
       ],
       "photos": [],
       "location": "Hanford, CA",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Great Price $2,686 below market",
       "concerns": "Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price; CarGurus SRP crawls showed higher conflicting prices ($26,485-$26,835) \u2014 do not treat those as a price drop; vs Oct 23 iSeeCars record $23,494, essentially unchanged (+$28)",
-      "new_vs_prior": "Verified active Nov 2 via Edmunds live browser: still $22,844 / 79,151 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; Edmunds Great Price $3,320 below market; not dealer-verified; fees not disclosed; confirm charging cable and EV range/charge health",
+      "new_vs_prior": "Verified active Nov 3 via Edmunds: still $22,844 / 79,151 mi, unchanged",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
@@ -251,8 +304,8 @@
       "marketplace": "CarGurus",
       "seller": "Cumming Chevrolet (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-18",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-17",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": null,
       "accident_history": null,
@@ -260,25 +313,25 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 23928
         },
         {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
           "price": 23874
         },
         {
-          "date": "2026-11-02",
+          "date": "2026-10-31",
           "price": 23391
         }
       ],
       "photos": [],
       "location": "National City, CA",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "CARFAX One-Owner, Clean CARFAX per dealer; GM CarBravo Certified",
       "concerns": "72,550 mi is high side; confirm CarBravo certification coverage in writing; price excludes government taxes/fees (includes $85 doc + $37 e-filing)",
-      "new_vs_prior": "Verified active Nov 2 via CarGurus: still $23,391 / 72,550 mi, unchanged; CARFAX One-Owner, Clean CARFAX; GM CarBravo Certified; price includes $85 doc + $37 e-filing, plus government fees/taxes",
+      "new_vs_prior": "Verified active Nov 3 via CarGurus: still $23,391 / 72,550 mi, unchanged; struck-through $23,874 shown",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
@@ -300,8 +353,8 @@
       "marketplace": "Edmunds",
       "seller": "AutoNation Chevrolet Arrowhead (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-30",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-29",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -309,21 +362,21 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-30",
+          "date": "2026-10-29",
           "price": 24293
         },
         {
-          "date": "2026-11-02",
+          "date": "2026-10-31",
           "price": 23793
         }
       ],
       "photos": [],
       "location": "Peoria, AZ",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "0 accidents, 1 owner, personal use, clean title",
       "concerns": "$23,494 + $799 dealer services fee = $24,293 total; $1,297 price drop noted; 59 days on Edmunds",
-      "new_vs_prior": "Verified active Nov 2 via Edmunds live browser: still $23,793 total / 51,445 mi, unchanged; $22,994 + $799 dealer services fee; 0 accidents, 1 owner, personal use, clean title; 63 days listed, selling slowly per Edmunds",
+      "new_vs_prior": "Verified active Nov 3 via Edmunds: still $23,793 / 51,445 mi, unchanged",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
@@ -345,8 +398,8 @@
       "marketplace": "CarGurus",
       "seller": "Dick's Hillsboro Hyundai (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-18",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -354,21 +407,21 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-19",
+          "date": "2026-10-18",
           "price": 24134
         },
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "price": 24094
         }
       ],
       "photos": [],
       "location": "Hillsboro, OR",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "1 owner, 0 accidents, clean title; Hyundai Certified Pre-Owned; advertised price includes fees",
       "concerns": "POSSIBLE SOLD SIGNAL: Dick's own inventory crawl no longer shows this 2022 unit; dealer now lists a 2023 SEL Conv CPO instead \u2014 confirm availability directly before travel; confirm charging cable included; confirm EV range/charge health",
-      "new_vs_prior": "Verified active Nov 2 via CarGurus: still $24,094 / 46,655 mi, unchanged; Hyundai CPO; price includes fees; confirm availability before travel (dealer inventory crawl previously did not show this unit)",
+      "new_vs_prior": "Verified active Nov 3 via CarGurus: still $24,094 / 46,655 mi, unchanged; VIN KM8S6DA22NU035178",
       "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
@@ -382,7 +435,7 @@
       "trim": "EX",
       "hybrid_type": "Full hybrid",
       "drivetrain": "AWD",
-      "price": 24585,
+      "price": 24279,
       "mileage": 79839,
       "city": "Phoenix",
       "state": "AZ",
@@ -390,27 +443,31 @@
       "marketplace": "Edmunds",
       "seller": "Camelback Toyota (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-28",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-27",
+      "date_last_checked": "2026-11-03",
       "status": "active",
-      "title_history": "Clean title",
-      "accident_history": "0 accidents reported",
+      "title_history": null,
+      "accident_history": null,
       "history_basis": "unknown",
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
           "price": 24585
+        },
+        {
+          "date": "2026-11-03",
+          "price": 24279
         }
       ],
       "photos": [],
       "location": "Phoenix, AZ",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "History details not shown on Edmunds summary (8 days on Edmunds; $135 price increase shown; Fair Price $522 above market)",
       "concerns": "NEW Oct 27 \u2014 history/accidents/owners/fees not shown; confirm history and out-the-door price before travel; $135 price increase shown",
-      "new_vs_prior": "Verified active Nov 2 via Edmunds live browser: still $24,585 total / 79,839 mi, unchanged; $23,986 + $599 doc fee; 0 accidents, 1 owner, personal use, clean title; Edmunds notes likely to sell in 13 days",
-      "price_vs_prior": 0,
+      "new_vs_prior": "Verified active Nov 3 via Edmunds: PRICE DROP $24,585 -> $24,279 total (-$306); $23,680 base + $599 doc fee = $24,279 total; mileage 79,839 mi unchanged",
+      "price_vs_prior": -306,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
@@ -431,7 +488,7 @@
       "marketplace": "Edmunds",
       "seller": "Mark Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-30",
+      "date_first_discovered": "2026-10-29",
       "date_last_checked": "2026-10-31",
       "status": "active",
       "title_history": "Clean title",
@@ -440,7 +497,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-30",
+          "date": "2026-10-29",
           "price": 24592
         }
       ],
@@ -472,8 +529,8 @@
       "marketplace": "Edmunds",
       "seller": "Tempe Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-30",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-29",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -481,17 +538,17 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-30",
+          "date": "2026-10-29",
           "price": 25599
         }
       ],
       "photos": [],
       "location": "Tempe, AZ",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "0 accidents, 1 owner, personal use, clean title",
       "concerns": "Edmunds: listing not dealer-verified \u2014 confirm details/fees; no photos on page; Fair Price $34 above market",
-      "new_vs_prior": "Verified active Nov 2 via Edmunds live browser: still $25,599 / 33,689 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; not dealer-verified; no photos on page; fees not disclosed",
+      "new_vs_prior": "Verified active Nov 3 via Edmunds: still $25,599 / 33,689 mi, unchanged",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
@@ -513,26 +570,26 @@
       "marketplace": "CarGurus",
       "seller": "Kia Santa Monica (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-02",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-31",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "1 accident(s) reported",
-      "history_basis": "seller_claim",
+      "history_basis": "unknown",
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-02",
+          "date": "2026-10-31",
           "price": 26161
         }
       ],
       "photos": [],
       "location": "Santa Monica, CA",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "Clean title per CarGurus; previous rental use; 3 previous owners",
       "concerns": "NEW Oct 31 - CarGurus detail-verified: 1 accident reported; previous rental use; 3 owners - track only, weakest of the new crop; fees and financing conditions not disclosed",
-      "new_vs_prior": "Verified active Nov 2 via CarGurus: still $26,161 / 82,372 mi, unchanged; clean title, 1 accident, previous rental use, 3 owners - track only; dealer notes possible open safety recall - verify by VIN",
+      "new_vs_prior": "Verified active Nov 3 via CarGurus: still $26,161 / 82,372 mi, unchanged",
       "price_vs_prior": 0,
       "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable - verify in-service date by VIN (estimate)."
     },
@@ -554,8 +611,8 @@
       "marketplace": "CarGurus",
       "seller": "NEW PBB AUTO (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-02",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-11-01",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -563,17 +620,17 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-02",
+          "date": "2026-11-01",
           "price": 26499
         }
       ],
       "photos": [],
       "location": "El Monte, CA",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "Clean title per CarGurus; 0 accidents; 2 previous owners",
       "concerns": "NEW Oct 31 - CarGurus detail-verified; 95,194 mi near the 100k preference; 2018 MY hybrid battery warranty largely/fully expired - budget for eventual replacement; fees not disclosed",
-      "new_vs_prior": "Verified active Nov 2 via CarGurus: still $26,499 / 95,194 mi, unchanged; clean title, 0 accidents, 2 owners; Fair Deal $285 below market",
+      "new_vs_prior": "Verified active Nov 3 via CarGurus: still $26,499 / 95,194 mi, unchanged",
       "price_vs_prior": 0,
       "battery_warranty_note": "Lexus hybrid battery 8yr/100k for 2018 model year - factory coverage largely or fully expired (estimate)."
     },
@@ -595,8 +652,8 @@
       "marketplace": "Edmunds",
       "seller": "Palm Springs Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-29",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-28",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -604,25 +661,25 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-29",
+          "date": "2026-10-28",
           "price": 27544
         },
         {
-          "date": "2026-10-30",
+          "date": "2026-10-29",
           "price": 27422
         },
         {
-          "date": "2026-11-02",
+          "date": "2026-10-31",
           "price": 27000
         }
       ],
       "photos": [],
       "location": "Cathedral City, CA",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "AutoCheck: 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,035 below market; stock J3020",
       "concerns": "Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
-      "new_vs_prior": "Verified active Nov 2 via Edmunds live browser: still $27,000 / 35,609 mi, unchanged; 0 accidents, 1 owner, personal use, clean title; Edmunds Good Price $1,378 below market; not dealer-verified; fees not disclosed",
+      "new_vs_prior": "Verified active Nov 3 via Edmunds: still $27,000 / 35,609 mi, unchanged",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
@@ -644,7 +701,7 @@
       "marketplace": "Edmunds",
       "seller": "Caposio Buick GMC (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-29",
+      "date_first_discovered": "2026-10-28",
       "date_last_checked": "2026-10-31",
       "status": "active",
       "title_history": "Clean title",
@@ -653,7 +710,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-29",
+          "date": "2026-10-28",
           "price": 27117
         }
       ],
@@ -685,8 +742,8 @@
       "marketplace": "dealer",
       "seller": "Tuttle-Click Mazda (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-22",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-21",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -694,11 +751,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "price": 29888
         },
         {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
           "price": 29720
         },
         {
@@ -708,11 +765,11 @@
       ],
       "photos": [],
       "location": "Irvine, CA",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "CARFAX 1-Owner Good Value badge; dealer notes reduced from $30,988; battery warranty 96 mo / 100k mi per listing",
       "concerns": "MODEL-SPECIFIC: 2024 CX-90 PHEV subject to NHTSA recalls \u2014 verify all remedies completed by VIN before pursuit; LoJack $99 optional, confirm removable; accident/clean-title outcome not stated on page itself (see linked CARFAX report)",
-      "new_vs_prior": "Verified active Nov 2 via dealer page: still $28,109 total / 41,677 mi, unchanged; retail $27,888 + $122 doc/ERF + $99 LoJack (LoJack optional, removable); CARFAX 1-Owner Good Value; battery warranty 96 mo/100k per listing; verify CX-90 PHEV recalls by VIN",
+      "new_vs_prior": "Verified active Nov 3 via dealer page: still $28,109 total / 41,677 mi, unchanged; $27,888 retail + $122 doc/ERF + $99 LoJack; stock ZP107603",
       "price_vs_prior": 0,
       "battery_warranty_note": "Battery warranty 96 months / 100,000 miles shown on dealer page (estimate, confirm by VIN)"
     },
@@ -726,7 +783,7 @@
       "trim": "SX Prestige",
       "hybrid_type": "Full hybrid",
       "drivetrain": "AWD",
-      "price": 28772,
+      "price": 28372,
       "mileage": 58687,
       "city": "Phoenix",
       "state": "AZ",
@@ -734,8 +791,8 @@
       "marketplace": "Edmunds",
       "seller": "Bill Luke Chrysler Dodge Jeep Ram (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-28",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-27",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -743,19 +800,121 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
           "price": 28772
+        },
+        {
+          "date": "2026-11-03",
+          "price": 28372
         }
       ],
       "photos": [],
       "location": "Phoenix, AZ",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "0 accidents, 1 owner, personal use, clean title; 18 days on Edmunds",
       "concerns": "PRICE DROP: $29,072 -> $28,772 total (-$300; base $28,073 + $699 doc fee); near price ceiling; top trim; confirm no financing condition on price",
-      "new_vs_prior": "Verified active Nov 2 via Edmunds live browser: still $28,772 total / 58,687 mi, unchanged; $28,073 + $699 doc fee; 0 accidents, 1 owner, personal use, clean title; Edmunds notes likely to sell in 1 day",
-      "price_vs_prior": 0,
+      "new_vs_prior": "Verified active Nov 3 via Edmunds: PRICE DROP $28,772 -> $28,372 total (-$400); $27,673 base + $699 doc fee = $28,372 total",
+      "price_vs_prior": -400,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
+    },
+    {
+      "id": "vin-KNDRH4LG8P5199165",
+      "listing_id": "vin-KNDRH4LG8P5199165",
+      "vin": "KNDRH4LG8P5199165",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sorento Hybrid",
+      "trim": "EX FWD (Kia Certified Pre-Owned)",
+      "hybrid_type": "Full hybrid",
+      "drivetrain": "FWD",
+      "price": 28901,
+      "mileage": 33259,
+      "city": "Cerritos",
+      "state": "CA",
+      "url": "https://www.cargurus.com/details/458202488",
+      "marketplace": "CarGurus",
+      "seller": "Kia of Cerritos (dealer)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-03",
+      "date_last_checked": "2026-11-03",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "Accident history mentioned, count unclear",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-03",
+          "price": 28901
+        }
+      ],
+      "photos": [],
+      "location": "Cerritos, CA",
+      "verification_date": "2026-11-03",
+      "verified_active": true,
+      "history": "Kia Certified Pre-Owned; accident/owner/title details not shown in Nov 3 detail-page summary",
+      "concerns": "NEW Nov 3 - CarGurus detail-verified; history/accidents/owners not shown on summary - confirm history, title, and CPO coverage in writing before travel; FWD only (AWD is bonus, acceptable); near price ceiling; struck-through $28,902 shown ($1 difference, not a material drop)",
+      "new_vs_prior": "NEW Nov 3 - CarGurus detail-verified: $28,901 / 33,259 mi, Kia CPO, VIN KNDRH4LG8P5199165, stock 5P573; history details not shown - confirm before travel",
+      "price_vs_prior": null,
+      "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO may restore 10yr/100k powertrain coverage - confirm VIN eligibility with dealer (estimate)."
+    },
+    {
+      "id": "vin-KNDRH4LG7P5193809",
+      "listing_id": "vin-KNDRH4LG7P5193809",
+      "vin": "KNDRH4LG7P5193809",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sorento Hybrid",
+      "trim": "EX FWD (Kia Certified Pre-Owned)",
+      "hybrid_type": "Full hybrid",
+      "drivetrain": "FWD",
+      "price": 28942,
+      "mileage": 31585,
+      "city": "Cerritos",
+      "state": "CA",
+      "url": "https://www.cargurus.com/details/460851868",
+      "marketplace": "CarGurus",
+      "seller": "Kia of Cerritos (dealer)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-10-21",
+      "date_last_checked": "2026-11-03",
+      "status": "active",
+      "title_history": "Clean title",
+      "accident_history": "0 accidents reported",
+      "history_basis": "verified",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-10-21",
+          "price": 29112
+        },
+        {
+          "date": "2026-10-24",
+          "price": 29110
+        },
+        {
+          "date": "2026-10-27",
+          "price": 29107
+        },
+        {
+          "date": "2026-10-30",
+          "price": 29102
+        },
+        {
+          "date": "2026-11-03",
+          "price": 28942
+        }
+      ],
+      "photos": [],
+      "location": "Cerritos, CA",
+      "verification_date": "2026-11-03",
+      "verified_active": true,
+      "history": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees",
+      "concerns": "FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)",
+      "new_vs_prior": "Verified active Nov 3 via CarGurus: PRICE DROP $29,102 -> $28,942 (-$160; $29,102 shown struck through), mileage 31,585 mi (+1)",
+      "price_vs_prior": -160,
+      "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility with dealer (estimate)."
     },
     {
       "id": "url-edf3b72230e0",
@@ -768,15 +927,15 @@
       "hybrid_type": "Full hybrid",
       "drivetrain": "AWD",
       "price": 28944,
-      "mileage": 79525,
+      "mileage": 79627,
       "city": "Huntington Beach",
       "state": "CA",
       "url": "https://www.cargurus.com/details/458376264",
       "marketplace": "CarGurus",
       "seller": "Huntington Beach Hyundai (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-02",
-      "date_last_checked": "2026-11-02",
+      "date_first_discovered": "2026-10-31",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -784,72 +943,19 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-02",
+          "date": "2026-10-31",
           "price": 28944
         }
       ],
       "photos": [],
       "location": "Huntington Beach, CA",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "Clean title per CarGurus; 0 accidents; 1 previous owner; distinct from the ledger's 2020 Highlander LE at Huntington Beach",
       "concerns": "NEW Oct 31 - CarGurus detail-verified; near price ceiling; 2019 MY hybrid battery warranty (8yr/100k) largely/fully expired - budget for eventual replacement; fees not disclosed",
-      "new_vs_prior": "Verified active Nov 2 via CarGurus: still $28,944 / 79,525 mi, unchanged; clean title, 0 accidents, 1 owner; near price ceiling; 2019 MY hybrid battery warranty (8yr/100k) largely/fully expired - budget for eventual replacement; prices include $85 doc fee, optional accessories excluded",
+      "new_vs_prior": "Verified active Nov 3 via CarGurus: still $28,944, mileage 79,627 mi (+102)",
       "price_vs_prior": 0,
       "battery_warranty_note": "Toyota HV battery 8yr/100k for 2019 model year - factory coverage largely or fully expired (estimate)."
-    },
-    {
-      "id": "vin-KNDRH4LG7P5193809",
-      "listing_id": "vin-KNDRH4LG7P5193809",
-      "vin": "KNDRH4LG7P5193809",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sorento Hybrid",
-      "trim": "EX FWD (Kia Certified Pre-Owned)",
-      "hybrid_type": "Full hybrid",
-      "drivetrain": "FWD",
-      "price": 29102,
-      "mileage": 31584,
-      "city": "Cerritos",
-      "state": "CA",
-      "url": "https://www.cargurus.com/details/460851868",
-      "marketplace": "CarGurus",
-      "seller": "Kia of Cerritos (dealer)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-22",
-      "date_last_checked": "2026-11-02",
-      "status": "active",
-      "title_history": "Clean title",
-      "accident_history": "0 accidents reported",
-      "history_basis": "verified",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-10-22",
-          "price": 29112
-        },
-        {
-          "date": "2026-10-25",
-          "price": 29110
-        },
-        {
-          "date": "2026-10-28",
-          "price": 29107
-        },
-        {
-          "date": "2026-10-30",
-          "price": 29102
-        }
-      ],
-      "photos": [],
-      "location": "Cerritos, CA",
-      "verification_date": "2026-11-02",
-      "verified_active": true,
-      "history": "Clean title; 0 accidents reported, no damage reported; 1 previous owner (AutoCheck Oct 6, 2026); Kia Certified Pre-Owned; 14 days at dealership; price includes fees",
-      "concerns": "FWD only (AWD is bonus, acceptable); confirm CPO coverage in writing; PRICE: $29,107 (was $29,110, -$3)",
-      "new_vs_prior": "Verified active Nov 2 via CarGurus: still $29,102 / 31,584 mi, unchanged; Kia CPO; Clean CARFAX, CARFAX One-Owner; price includes fees",
-      "price_vs_prior": 0,
-      "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO restores 10yr/100k powertrain coverage \u2014 confirm VIN eligibility with dealer (estimate)."
     },
     {
       "id": "vin-5TDHBRCH9MS043483",
@@ -870,7 +976,7 @@
       "seller": "Future Walker Cars (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-11-02",
-      "date_last_checked": "2026-11-02",
+      "date_last_checked": "2026-11-03",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -884,11 +990,11 @@
       ],
       "photos": [],
       "location": "Covina, CA",
-      "verification_date": "2026-11-02",
+      "verification_date": "2026-11-03",
       "verified_active": true,
       "history": "Clean title per CarGurus; 0 accidents; 1 previous owner",
       "concerns": "NEW Oct 31 - CarGurus detail-verified; near price ceiling; fees and financing conditions not disclosed",
-      "new_vs_prior": "Verified active Nov 2 via CarGurus: still $29,500 / 83,952 mi, unchanged; clean title, 0 accidents, 1 owner; Great Deal $1,878 below market; near price ceiling; VIN now shown on page: 5TDHBRCH9MS043483",
+      "new_vs_prior": "Verified active Nov 3 via CarGurus: still $29,500 / 83,952 mi, unchanged",
       "price_vs_prior": 0,
       "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable - verify in-service date by VIN (estimate)."
     },
@@ -910,7 +1016,7 @@
       "marketplace": "Edmunds",
       "seller": "Centennial Leasing & Sales (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-28",
+      "date_first_discovered": "2026-10-27",
       "date_last_checked": "2026-10-31",
       "status": "active",
       "title_history": "Clean title",
@@ -919,11 +1025,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
           "price": 29450
         },
         {
-          "date": "2026-10-30",
+          "date": "2026-10-29",
           "price": 29896
         }
       ],
@@ -955,7 +1061,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-20",
+      "date_first_discovered": "2026-10-19",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": null,
@@ -964,7 +1070,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-20",
+          "date": "2026-10-19",
           "price": 18195
         }
       ],
@@ -996,7 +1102,7 @@
       "marketplace": "Edmunds",
       "seller": "Kiefer Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-27",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -1005,15 +1111,15 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 22238
         },
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 21938
         },
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 19938
         }
       ],
@@ -1045,7 +1151,7 @@
       "marketplace": "Edmunds",
       "seller": "Tuttle-Click's Capistrano Ford (per Edmunds page Oct 27; previously BP Ford of Long Beach \u2014 discrepancy, confirm)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-29",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -1054,15 +1160,15 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 21525
         },
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 20955
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 19997
         }
       ],
@@ -1094,7 +1200,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer, Moses Lake WA (name not shown)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-16",
+      "date_first_discovered": "2026-10-15",
       "date_last_checked": "2026-10-14",
       "status": "unverified",
       "title_history": null,
@@ -1103,7 +1209,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 20199
         }
       ],
@@ -1135,7 +1241,7 @@
       "marketplace": "AutoTrader",
       "seller": "Findlay Toyota Henderson (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-12",
       "status": "unverified",
       "title_history": null,
@@ -1144,7 +1250,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 20276
         }
       ],
@@ -1176,7 +1282,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-20",
+      "date_first_discovered": "2026-10-19",
       "date_last_checked": "2026-10-23",
       "status": "unverified",
       "title_history": null,
@@ -1185,11 +1291,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-20",
+          "date": "2026-10-19",
           "price": 22650
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 20399
         }
       ],
@@ -1221,7 +1327,7 @@
       "marketplace": "Edmunds",
       "seller": "Larry H. Miller Hyundai Peoria (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-13",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -1230,7 +1336,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 20619
         }
       ],
@@ -1262,7 +1368,7 @@
       "marketplace": "dealer",
       "seller": "Mark Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-22",
+      "date_first_discovered": "2026-10-21",
       "date_last_checked": "2026-10-31",
       "status": "excluded",
       "title_history": "Manufacturer buyback",
@@ -1271,11 +1377,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "price": 23992
         },
         {
-          "date": "2026-10-29",
+          "date": "2026-10-28",
           "price": 20693
         }
       ],
@@ -1307,7 +1413,7 @@
       "marketplace": "Edmunds",
       "seller": "Findlay Honda Henderson (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-17",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -1316,7 +1422,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 21483
         }
       ],
@@ -1348,7 +1454,7 @@
       "marketplace": "Edmunds",
       "seller": "Bill Luke Chrysler Dodge Jeep Ram (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-27",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -1357,15 +1463,15 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 22672
         },
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 22072
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 21672
         }
       ],
@@ -1397,7 +1503,7 @@
       "marketplace": "dealer",
       "seller": "Sands Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-28",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -1406,19 +1512,19 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 22888
         },
         {
-          "date": "2026-10-19",
+          "date": "2026-10-18",
           "price": 21700
         },
         {
-          "date": "2026-10-20",
+          "date": "2026-10-19",
           "price": 22588
         },
         {
-          "date": "2026-10-23",
+          "date": "2026-10-22",
           "price": 21700
         }
       ],
@@ -1450,7 +1556,7 @@
       "marketplace": "Capital One",
       "seller": "Pedder Hyundai of Moreno Valley (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
+      "date_first_discovered": "2026-10-18",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -1459,11 +1565,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-19",
+          "date": "2026-10-18",
           "price": 22382
         },
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "price": 22204
         }
       ],
@@ -1495,7 +1601,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-23",
+      "date_first_discovered": "2026-10-22",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -1504,7 +1610,7 @@
       "maintenance_history": "maintenance records not shown Verified active Oct 23: still $22,999 / 86,377 mi (iSeeCars SRP)",
       "price_history": [
         {
-          "date": "2026-10-23",
+          "date": "2026-10-22",
           "price": 22999
         }
       ],
@@ -1536,7 +1642,7 @@
       "marketplace": "AutoTrader",
       "seller": "Fletcher Jones Toyota of Carson (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-23",
       "status": "unverified",
       "title_history": null,
@@ -1545,11 +1651,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 23616
         },
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 23116
         }
       ],
@@ -1581,7 +1687,7 @@
       "marketplace": "Edmunds",
       "seller": "Enterprise Car Sales (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-15",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -1590,7 +1696,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 23497
         }
       ],
@@ -1622,7 +1728,7 @@
       "marketplace": "dealer",
       "seller": "Hello Subaru of Temecula (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-18",
+      "date_first_discovered": "2026-10-17",
       "date_last_checked": "2026-10-31",
       "status": "unavailable",
       "title_history": null,
@@ -1631,15 +1737,15 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 25113
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 24013
         },
         {
-          "date": "2026-10-29",
+          "date": "2026-10-28",
           "price": 23647
         }
       ],
@@ -1671,7 +1777,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer, Ontario CA (name not shown)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": null,
@@ -1680,7 +1786,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 23725
         }
       ],
@@ -1712,7 +1818,7 @@
       "marketplace": "Edmunds",
       "seller": "Carvana - Birmingham (dealer, online only)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-28",
+      "date_first_discovered": "2026-10-27",
       "date_last_checked": "2026-10-31",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -1721,7 +1827,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
           "price": 23990
         }
       ],
@@ -1753,7 +1859,7 @@
       "marketplace": "Cars.com",
       "seller": "Nissan of Costa Mesa (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-18",
       "status": "unverified",
       "title_history": null,
@@ -1762,7 +1868,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 24112
         }
       ],
@@ -1794,7 +1900,7 @@
       "marketplace": "CarTruckBuySell",
       "seller": "unknown (aggregator listing; stock #P15897 suggests a dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
+      "date_first_discovered": "2026-10-18",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -1803,7 +1909,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-19",
+          "date": "2026-10-18",
           "price": 24367
         }
       ],
@@ -1835,7 +1941,7 @@
       "marketplace": "Capital One",
       "seller": "Knight Claremont Chrysler Dodge Jeep Ram (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
+      "date_first_discovered": "2026-10-18",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -1844,11 +1950,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-19",
+          "date": "2026-10-18",
           "price": 25820
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 24505
         }
       ],
@@ -1880,7 +1986,7 @@
       "marketplace": "Edmunds",
       "seller": "Dealer, Moreno Valley CA (name not shown)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-16",
+      "date_first_discovered": "2026-10-15",
       "date_last_checked": "2026-10-14",
       "status": "unverified",
       "title_history": null,
@@ -1889,7 +1995,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 24623
         }
       ],
@@ -1921,7 +2027,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-20",
+      "date_first_discovered": "2026-10-19",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": null,
@@ -1930,7 +2036,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-20",
+          "date": "2026-10-19",
           "price": 24670
         }
       ],
@@ -1962,7 +2068,7 @@
       "marketplace": "CarGurus",
       "seller": "Fontana Hyundai (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-18",
+      "date_first_discovered": "2026-10-17",
       "date_last_checked": "2026-10-19",
       "status": "unavailable",
       "title_history": null,
@@ -1971,11 +2077,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 24915
         },
         {
-          "date": "2026-10-19",
+          "date": "2026-10-18",
           "price": 24815
         }
       ],
@@ -2007,7 +2113,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-25",
+      "date_first_discovered": "2026-10-24",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -2016,7 +2122,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 24961
         }
       ],
@@ -2048,7 +2154,7 @@
       "marketplace": "CarGurus",
       "seller": "Dodge Chrysler Jeep of Kirkland (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-13",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -2057,7 +2163,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 24995
         }
       ],
@@ -2089,7 +2195,7 @@
       "marketplace": "Capital One",
       "seller": "Hyundai Santa Monica (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
+      "date_first_discovered": "2026-10-18",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -2098,7 +2204,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-19",
+          "date": "2026-10-18",
           "price": 25075
         }
       ],
@@ -2130,7 +2236,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-25",
+      "date_first_discovered": "2026-10-24",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -2139,11 +2245,19 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 29973
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
+          "price": 25162
+        },
+        {
+          "date": "2026-10-27",
+          "price": 29973
+        },
+        {
+          "date": "2026-10-27",
           "price": 25162
         },
         {
@@ -2168,6 +2282,38 @@
         },
         {
           "date": "2026-10-30",
+          "price": 25162
+        },
+        {
+          "date": "2026-10-30",
+          "price": 29973
+        },
+        {
+          "date": "2026-10-30",
+          "price": 25162
+        },
+        {
+          "date": "2026-10-31",
+          "price": 29973
+        },
+        {
+          "date": "2026-10-31",
+          "price": 25162
+        },
+        {
+          "date": "2026-11-01",
+          "price": 29973
+        },
+        {
+          "date": "2026-11-01",
+          "price": 25162
+        },
+        {
+          "date": "2026-11-02",
+          "price": 29973
+        },
+        {
+          "date": "2026-11-02",
           "price": 25162
         }
       ],
@@ -2199,7 +2345,7 @@
       "marketplace": "Cars.com",
       "seller": "Big Valley Ford (dealer), 3282 Auto Center Circle, Stockton CA 95212",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-22",
+      "date_first_discovered": "2026-10-21",
       "date_last_checked": "2026-10-20",
       "status": "stale",
       "title_history": null,
@@ -2208,7 +2354,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "price": 25273
         }
       ],
@@ -2240,7 +2386,7 @@
       "marketplace": "Cars.com",
       "seller": "Dalton Subaru of National City (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-18",
       "status": "unverified",
       "title_history": "Clean title",
@@ -2249,11 +2395,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 25371
         },
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 25351
         }
       ],
@@ -2285,7 +2431,7 @@
       "marketplace": "CarGurus",
       "seller": "Kia of Cerritos (dealer), 18201 Studebaker Rd",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-22",
+      "date_first_discovered": "2026-10-21",
       "date_last_checked": "2026-10-23",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -2294,7 +2440,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "price": 25502
         }
       ],
@@ -2326,7 +2472,7 @@
       "marketplace": "Edmunds",
       "seller": "Desert Sleds Auto Group (dealer), stock #B0095",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-23",
       "status": "unverified",
       "title_history": "Clean title",
@@ -2335,11 +2481,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26074
         },
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 25574
         }
       ],
@@ -2371,7 +2517,7 @@
       "marketplace": "Edmunds",
       "seller": "Camelback Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-30",
+      "date_first_discovered": "2026-10-29",
       "date_last_checked": "2026-10-31",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -2380,7 +2526,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-30",
+          "date": "2026-10-29",
           "price": 25586
         }
       ],
@@ -2412,7 +2558,7 @@
       "marketplace": "AutoTrader",
       "seller": "Ron Tonkin Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-23",
       "status": "unverified",
       "title_history": null,
@@ -2421,11 +2567,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26161
         },
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 25911
         }
       ],
@@ -2457,7 +2603,7 @@
       "marketplace": "CarGurus",
       "seller": "Mercedes-Benz of Laguna Niguel (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-19",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -2466,11 +2612,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26376
         },
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 25915
         }
       ],
@@ -2502,7 +2648,7 @@
       "marketplace": "Edmunds",
       "seller": "PDX Motors (dealer), stock #14900",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-23",
       "status": "unverified",
       "title_history": "Clean title",
@@ -2511,19 +2657,19 @@
       "maintenance_history": "confirm maintenance records",
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26500
         },
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 25500
         },
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 25100
         },
         {
-          "date": "2026-10-19",
+          "date": "2026-10-18",
           "price": 25985
         }
       ],
@@ -2555,7 +2701,7 @@
       "marketplace": "dealer",
       "seller": "Earnhardt Hyundai (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-23",
       "status": "unavailable",
       "title_history": null,
@@ -2564,19 +2710,19 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 27698
         },
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 27399
         },
         {
-          "date": "2026-10-20",
+          "date": "2026-10-19",
           "price": 26321
         },
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "price": 25999
         }
       ],
@@ -2608,7 +2754,7 @@
       "marketplace": "Facebook",
       "seller": "Private party (Facebook Marketplace)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-12",
       "status": "unverified",
       "title_history": "Clean title",
@@ -2617,7 +2763,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26000
         }
       ],
@@ -2649,7 +2795,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-25",
+      "date_first_discovered": "2026-10-24",
       "date_last_checked": "2026-10-24",
       "status": "stale",
       "title_history": null,
@@ -2658,15 +2804,27 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 25875
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 28191
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
+          "price": 26105
+        },
+        {
+          "date": "2026-10-27",
+          "price": 25875
+        },
+        {
+          "date": "2026-10-27",
+          "price": 28191
+        },
+        {
+          "date": "2026-10-27",
           "price": 26105
         },
         {
@@ -2680,6 +2838,10 @@
         {
           "date": "2026-10-28",
           "price": 26105
+        },
+        {
+          "date": "2026-10-28",
+          "price": 28677
         },
         {
           "date": "2026-10-29",
@@ -2712,6 +2874,34 @@
         {
           "date": "2026-10-30",
           "price": 28677
+        },
+        {
+          "date": "2026-10-30",
+          "price": 28191
+        },
+        {
+          "date": "2026-10-30",
+          "price": 26105
+        },
+        {
+          "date": "2026-10-31",
+          "price": 28191
+        },
+        {
+          "date": "2026-10-31",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-01",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-01",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-02",
+          "price": 28191
         },
         {
           "date": "2026-11-02",
@@ -2746,7 +2936,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-23",
+      "date_first_discovered": "2026-10-22",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -2755,7 +2945,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-23",
+          "date": "2026-10-22",
           "price": 26111
         }
       ],
@@ -2787,7 +2977,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-23",
+      "date_first_discovered": "2026-10-22",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -2796,7 +2986,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-23",
+          "date": "2026-10-22",
           "price": 26161
         }
       ],
@@ -2828,7 +3018,7 @@
       "marketplace": "AutoTrader",
       "seller": "DCH Kia of Temecula (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-13",
       "status": "unavailable",
       "title_history": null,
@@ -2837,7 +3027,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26172
         }
       ],
@@ -2869,7 +3059,7 @@
       "marketplace": "CarGurus",
       "seller": "Premier Kia of Carlsbad (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-18",
+      "date_first_discovered": "2026-10-17",
       "date_last_checked": "2026-10-18",
       "status": "unverified",
       "title_history": null,
@@ -2878,7 +3068,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 26176
         }
       ],
@@ -2910,7 +3100,7 @@
       "marketplace": "Capital One",
       "seller": "Genesis of Chandler (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-20",
+      "date_first_discovered": "2026-10-19",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": null,
@@ -2919,7 +3109,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-20",
+          "date": "2026-10-19",
           "price": 26197
         }
       ],
@@ -2951,7 +3141,7 @@
       "marketplace": "Cars.com",
       "seller": "Price Ford of Yakima Valley (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-14",
       "status": "unverified",
       "title_history": "Clean title",
@@ -2960,7 +3150,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26390
         }
       ],
@@ -2992,7 +3182,7 @@
       "marketplace": "Capital One",
       "seller": "EchoPark Automotive (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-18",
+      "date_first_discovered": "2026-10-17",
       "date_last_checked": "2026-10-17",
       "status": "unverified",
       "title_history": null,
@@ -3001,7 +3191,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 26396
         }
       ],
@@ -3033,7 +3223,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer, Vancouver WA (name not shown)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-16",
+      "date_first_discovered": "2026-10-15",
       "date_last_checked": "2026-10-14",
       "status": "unverified",
       "title_history": null,
@@ -3042,7 +3232,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 26462
         }
       ],
@@ -3074,7 +3264,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer, Bellingham WA (name not shown)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": null,
@@ -3083,7 +3273,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26497
         }
       ],
@@ -3115,7 +3305,7 @@
       "marketplace": "Cars.com",
       "seller": "Private party (Tyler)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-18",
       "status": "unverified",
       "title_history": "Clean title",
@@ -3124,7 +3314,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26499
         }
       ],
@@ -3156,7 +3346,7 @@
       "marketplace": "AutoTrader",
       "seller": "Royal Moore Auto Center (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-23",
       "status": "unverified",
       "title_history": null,
@@ -3165,7 +3355,7 @@
       "maintenance_history": "maintenance records not shown retry Oct 23 \u2014 still blocked (Akamai)",
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26500
         }
       ],
@@ -3197,7 +3387,7 @@
       "marketplace": "Facebook",
       "seller": "MGK AUTO GROUP (dealer ad via Facebook Marketplace)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-12",
       "status": "unverified",
       "title_history": null,
@@ -3206,7 +3396,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26500
         }
       ],
@@ -3238,7 +3428,7 @@
       "marketplace": "CarGurus",
       "seller": "EchoPark Automotive - Las Vegas (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-18",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -3247,7 +3437,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26586
         }
       ],
@@ -3279,7 +3469,7 @@
       "marketplace": "CarGurus",
       "seller": "Honda of Kirkland (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": "Clean title",
@@ -3288,7 +3478,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26646
         }
       ],
@@ -3320,7 +3510,7 @@
       "marketplace": "CarGurus",
       "seller": "Encinitas Ford (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-18",
+      "date_first_discovered": "2026-10-17",
       "date_last_checked": "2026-10-25",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -3329,11 +3519,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 24402
         },
         {
-          "date": "2026-10-19",
+          "date": "2026-10-18",
           "price": 26672
         }
       ],
@@ -3365,7 +3555,7 @@
       "marketplace": "Cars.com",
       "seller": "Valencia BMW (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-12",
       "status": "unverified",
       "title_history": "Clean title",
@@ -3374,7 +3564,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 26970
         }
       ],
@@ -3406,7 +3596,7 @@
       "marketplace": "Capital One",
       "seller": "Findlay Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-18",
+      "date_first_discovered": "2026-10-17",
       "date_last_checked": "2026-10-17",
       "status": "unverified",
       "title_history": null,
@@ -3415,7 +3605,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 26999
         }
       ],
@@ -3447,7 +3637,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-25",
+      "date_first_discovered": "2026-10-24",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -3456,7 +3646,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 27080
         }
       ],
@@ -3488,7 +3678,7 @@
       "marketplace": "Cars.com",
       "seller": "Capitol Hyundai (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-18",
       "status": "unverified",
       "title_history": "Clean title",
@@ -3497,15 +3687,15 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 27671
         },
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 27621
         },
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 27120
         }
       ],
@@ -3537,7 +3727,7 @@
       "marketplace": "Edmunds",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-29",
+      "date_first_discovered": "2026-10-28",
       "date_last_checked": "2026-10-28",
       "status": "unavailable",
       "title_history": null,
@@ -3546,7 +3736,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-29",
+          "date": "2026-10-28",
           "price": 27172
         }
       ],
@@ -3578,7 +3768,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-25",
+      "date_first_discovered": "2026-10-24",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -3587,7 +3777,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 27185
         }
       ],
@@ -3619,7 +3809,7 @@
       "marketplace": "CarGurus",
       "seller": "Quality Chevrolet (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-18",
+      "date_first_discovered": "2026-10-17",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": "Clean title",
@@ -3628,7 +3818,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 27472
         }
       ],
@@ -3660,7 +3850,7 @@
       "marketplace": "AutoTrader",
       "seller": "California Motor Trade (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": null,
@@ -3669,7 +3859,7 @@
       "maintenance_history": "confirm maintenance records UNVERIFIED Oct 19 \u2014 Autotrader Akamai block",
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 27484
         }
       ],
@@ -3701,7 +3891,7 @@
       "marketplace": "dealer",
       "seller": "West Covina Chrysler Dodge Jeep Ram (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-23",
       "status": "unverified",
       "title_history": null,
@@ -3710,7 +3900,7 @@
       "maintenance_history": "No accidents, 1 owner, personal use, service history",
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 27573
         }
       ],
@@ -3742,7 +3932,7 @@
       "marketplace": "Edmunds",
       "seller": "Bill Luke Chrysler Dodge Jeep Ram (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-28",
+      "date_first_discovered": "2026-10-27",
       "date_last_checked": "2026-10-25",
       "status": "excluded",
       "title_history": "Manufacturer buyback",
@@ -3751,7 +3941,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
           "price": 27674
         }
       ],
@@ -3783,7 +3973,7 @@
       "marketplace": "AutoTrader",
       "seller": "Fontana Motors Direct (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": null,
@@ -3792,11 +3982,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 28284
         },
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 27784
         }
       ],
@@ -3828,7 +4018,7 @@
       "marketplace": "Edmunds",
       "seller": "West Hills Honda (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-13",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -3837,7 +4027,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 27949
         }
       ],
@@ -3869,7 +4059,7 @@
       "marketplace": "Edmunds",
       "seller": "Carvana - Fresno (dealer, online only)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-28",
+      "date_first_discovered": "2026-10-27",
       "date_last_checked": "2026-10-30",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -3878,7 +4068,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-28",
+          "date": "2026-10-27",
           "price": 27990
         }
       ],
@@ -3910,7 +4100,7 @@
       "marketplace": "CarGurus",
       "seller": "CarMax San Gabriel Valley/Duarte (dealer), 1131 Central Ave, Duarte CA 91010",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-22",
+      "date_first_discovered": "2026-10-21",
       "date_last_checked": "2026-10-21",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -3919,7 +4109,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "price": 27998
         }
       ],
@@ -3951,7 +4141,7 @@
       "marketplace": "CarGurus",
       "seller": "CarMax San Gabriel Valley/Duarte (dealer), 1131 Central Ave, Duarte CA 91010",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-22",
+      "date_first_discovered": "2026-10-21",
       "date_last_checked": "2026-10-25",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -3960,11 +4150,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "price": 28998
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 27998
         }
       ],
@@ -3996,7 +4186,7 @@
       "marketplace": "Edmunds",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-29",
+      "date_first_discovered": "2026-10-28",
       "date_last_checked": "2026-10-28",
       "status": "unavailable",
       "title_history": null,
@@ -4005,7 +4195,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-29",
+          "date": "2026-10-28",
           "price": 27998
         }
       ],
@@ -4037,7 +4227,7 @@
       "marketplace": "dealer",
       "seller": "One Toyota of Oakland (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-19",
+      "date_first_discovered": "2026-10-18",
       "date_last_checked": "2026-10-22",
       "status": "unavailable",
       "title_history": null,
@@ -4046,11 +4236,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-19",
+          "date": "2026-10-18",
           "price": 29087
         },
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "price": 28087
         }
       ],
@@ -4082,7 +4272,7 @@
       "marketplace": "AutoTrader",
       "seller": "Keyes Hyundai of Van Nuys (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-12",
       "status": "unverified",
       "title_history": null,
@@ -4091,7 +4281,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 28176
         }
       ],
@@ -4123,7 +4313,7 @@
       "marketplace": "Edmunds",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-29",
+      "date_first_discovered": "2026-10-28",
       "date_last_checked": "2026-10-28",
       "status": "unavailable",
       "title_history": null,
@@ -4132,7 +4322,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-29",
+          "date": "2026-10-28",
           "price": 28197
         }
       ],
@@ -4164,7 +4354,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer, Irvine CA (name not shown)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": null,
@@ -4173,7 +4363,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 28372
         }
       ],
@@ -4205,7 +4395,7 @@
       "marketplace": "AutoTrader",
       "seller": "Huntington Beach Hyundai (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-12",
       "status": "unverified",
       "title_history": null,
@@ -4214,7 +4404,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 28395
         }
       ],
@@ -4246,7 +4436,7 @@
       "marketplace": "Cars.com",
       "seller": "House of Imports (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-12",
       "status": "unverified",
       "title_history": "Clean title",
@@ -4255,7 +4445,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 28993
         }
       ],
@@ -4287,7 +4477,7 @@
       "marketplace": "Cars.com",
       "seller": "Carizona (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-14",
       "status": "unavailable",
       "title_history": "Clean title",
@@ -4296,7 +4486,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 28998
         }
       ],
@@ -4328,7 +4518,7 @@
       "marketplace": "CarGurus",
       "seller": "Car Pros Kia Glendale (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-19",
       "status": "unverified",
       "title_history": null,
@@ -4337,7 +4527,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 28998
         }
       ],
@@ -4369,7 +4559,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-25",
+      "date_first_discovered": "2026-10-24",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -4378,15 +4568,27 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 26167
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "price": 28122
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
+          "price": 28998
+        },
+        {
+          "date": "2026-10-27",
+          "price": 26167
+        },
+        {
+          "date": "2026-10-27",
+          "price": 28122
+        },
+        {
+          "date": "2026-10-27",
           "price": 28998
         },
         {
@@ -4423,6 +4625,54 @@
         },
         {
           "date": "2026-10-30",
+          "price": 28998
+        },
+        {
+          "date": "2026-10-30",
+          "price": 26167
+        },
+        {
+          "date": "2026-10-30",
+          "price": 28122
+        },
+        {
+          "date": "2026-10-30",
+          "price": 28998
+        },
+        {
+          "date": "2026-10-31",
+          "price": 26167
+        },
+        {
+          "date": "2026-10-31",
+          "price": 28122
+        },
+        {
+          "date": "2026-10-31",
+          "price": 28998
+        },
+        {
+          "date": "2026-11-01",
+          "price": 26167
+        },
+        {
+          "date": "2026-11-01",
+          "price": 28122
+        },
+        {
+          "date": "2026-11-01",
+          "price": 28998
+        },
+        {
+          "date": "2026-11-02",
+          "price": 26167
+        },
+        {
+          "date": "2026-11-02",
+          "price": 28122
+        },
+        {
+          "date": "2026-11-02",
           "price": 28998
         }
       ],
@@ -4454,7 +4704,7 @@
       "marketplace": "Cars.com",
       "seller": "Tustin Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-23",
       "status": "unverified",
       "title_history": "Clean title",
@@ -4463,11 +4713,11 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 29060
         },
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "price": 29057
         }
       ],
@@ -4499,7 +4749,7 @@
       "marketplace": "dealer",
       "seller": "Carson City Hyundai (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-20",
+      "date_first_discovered": "2026-10-19",
       "date_last_checked": "2026-10-23",
       "status": "stale",
       "title_history": null,
@@ -4508,7 +4758,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-20",
+          "date": "2026-10-19",
           "price": 29449
         }
       ],
@@ -4540,7 +4790,7 @@
       "marketplace": "AutoTrader",
       "seller": "Camelback Kia (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-16",
       "status": "unavailable",
       "title_history": null,
@@ -4549,7 +4799,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 29586
         }
       ],
@@ -4581,7 +4831,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer, Everett WA (name not shown)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-12",
       "status": "unverified",
       "title_history": null,
@@ -4590,7 +4840,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 29780
         }
       ],
@@ -4622,7 +4872,7 @@
       "marketplace": "Edmunds",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-29",
+      "date_first_discovered": "2026-10-28",
       "date_last_checked": "2026-10-28",
       "status": "unavailable",
       "title_history": null,
@@ -4631,7 +4881,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-29",
+          "date": "2026-10-28",
           "price": 29787
         }
       ],
@@ -4663,7 +4913,7 @@
       "marketplace": "CarGurus",
       "seller": "Browning Mazda (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-14",
+      "date_first_discovered": "2026-10-13",
       "date_last_checked": "2026-10-19",
       "status": "stale",
       "title_history": null,
@@ -4672,7 +4922,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-14",
+          "date": "2026-10-13",
           "price": 29792
         }
       ],
@@ -4704,7 +4954,7 @@
       "marketplace": "dealer",
       "seller": "Hyundai of Downtown Los Angeles",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-16",
+      "date_first_discovered": "2026-10-15",
       "date_last_checked": "2026-10-15",
       "status": "unverified",
       "title_history": null,
@@ -4713,7 +4963,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 29938
         }
       ],
@@ -4745,7 +4995,7 @@
       "marketplace": "dealer",
       "seller": "Claremont Toyota",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-16",
+      "date_first_discovered": "2026-10-15",
       "date_last_checked": "2026-10-15",
       "status": "unverified",
       "title_history": null,
@@ -4754,7 +5004,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-10-16",
+          "date": "2026-10-15",
           "price": 29988
         }
       ],
