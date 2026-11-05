@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T15:36:00.938Z",
+  "generatedAt": "2026-11-05T21:28:04.004Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-05T15:36:00.938Z",
+      "lastAttemptAt": "2026-11-05T21:28:04.004Z",
       "status": "connected",
-      "lastSuccessAt": "2026-11-05T15:36:00.938Z",
+      "lastSuccessAt": "2026-11-05T21:28:04.004Z",
       "reportDate": "2026-11-05",
       "error": null,
       "imported": 115,
@@ -13,18 +13,18 @@
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
         "mode": "repository_checkout",
         "originSha256": "9a794f4ecace6cef5bbda09de634275f1f4019f30654caa704aeda2ee4d1eee9",
-        "pagesSha256": "98c2b3c36f91bdad42155631551e37df92608e1d96a7e10c20b7a9697202229d",
-        "pagesMatchesOrigin": false,
+        "pagesSha256": "9a794f4ecace6cef5bbda09de634275f1f4019f30654caa704aeda2ee4d1eee9",
+        "pagesMatchesOrigin": true,
         "sourceRecordCount": 115,
         "supplementRecordCount": 0
       }
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-05T15:36:00.938Z",
+      "lastSuccessAt": "2026-11-05T21:28:04.004Z",
       "reportDate": "2026-11-05",
       "error": null,
-      "lastAttemptAt": "2026-11-05T15:36:00.938Z",
+      "lastAttemptAt": "2026-11-05T21:28:04.004Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "15846d0e54e0a4e84845dc9123f6393d60c9cfec16fb4cb206eeb0fa27e4aa05",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "f37a820eed079f1001d3172d82bfc6f732c961f5"
+        "triggerRevision": "c327f8750ecca619ec31f45ea3438ac4b31968ec"
       },
       "lastExportAt": "2026-11-05T14:07:54.091Z",
       "imported": 11,
@@ -59,27 +59,27 @@
     "qualifyingActive": 43
   },
   "photos": {
-    "checkedAt": "2026-11-05T15:36:00.938Z",
-    "attempted": 5,
+    "checkedAt": "2026-11-05T21:28:04.004Z",
+    "attempted": 45,
     "collected": 0,
     "retained": 134,
     "archivedSkipped": 18,
     "skippedExistingPhotos": 15,
-    "skippedRecentAttempt": 114,
-    "eligible": 5,
-    "deferred": 0,
+    "skippedRecentAttempt": 31,
+    "eligible": 88,
+    "deferred": 43,
     "withPhotos": 15,
     "withoutPhotos": 119,
     "outcomes": {
       "collected": 0,
-      "no_source": 0,
-      "no_photos": 3,
-      "inaccessible": 2
+      "no_source": 2,
+      "no_photos": 7,
+      "inaccessible": 36
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 221
+    "elapsedMs": 1784
   },
   "alerts": []
 }
