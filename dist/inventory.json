@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T21:28:04.004Z",
-  "revision": "c327f8750ecca619ec31f45ea3438ac4b31968ec",
+  "generatedAt": "2026-11-05T23:50:58.361Z",
+  "revision": "a06d758320600a995052d0c0b941a7c53cae74dd",
   "vehicles": [
     {
       "id": "KM8S6DA22NU035178",
@@ -1123,7 +1123,7 @@
       "missingFromFeed": false,
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "finalUrl": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -1670,7 +1670,7 @@
       "evidence": null,
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.tonkinwilsonvillenissan.com/vehicle/used-2023-Hyundai-SantaFeHybrid-SELPremium-SUV-Gladstone-OR-5NMS3DA12PH006164/",
         "finalUrl": "https://www.tonkinwilsonvillenissan.com/vehicle/used-2023-Hyundai-SantaFeHybrid-SELPremium-SUV-Gladstone-OR-5NMS3DA12PH006164/",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -1778,6 +1778,13 @@
         {
           "result": "observed",
           "checkedAt": "2026-11-05T15:36:00.938Z",
+          "url": "https://www.tonkinwilsonvillenissan.com/vehicle/used-2023-Hyundai-SantaFeHybrid-SELPremium-SUV-Gladstone-OR-5NMS3DA12PH006164/",
+          "finalUrl": "https://www.tonkinwilsonvillenissan.com/vehicle/used-2023-Hyundai-SantaFeHybrid-SELPremium-SUV-Gladstone-OR-5NMS3DA12PH006164/",
+          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
+        },
+        {
+          "result": "observed",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
           "url": "https://www.tonkinwilsonvillenissan.com/vehicle/used-2023-Hyundai-SantaFeHybrid-SELPremium-SUV-Gladstone-OR-5NMS3DA12PH006164/",
           "finalUrl": "https://www.tonkinwilsonvillenissan.com/vehicle/used-2023-Hyundai-SantaFeHybrid-SELPremium-SUV-Gladstone-OR-5NMS3DA12PH006164/",
           "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -3536,7 +3543,7 @@
       "evidence": null,
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -4216,6 +4223,13 @@
           "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
           "httpStatus": 404,
           "reason": "Request failed; availability unknown."
+        },
+        {
+          "result": "not_found",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
+          "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
+          "httpStatus": 404,
+          "reason": "Request failed; availability unknown."
         }
       ],
       "missingFromFeed": false,
@@ -4384,7 +4398,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/793760440",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/793760440",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -4405,6 +4419,13 @@
         {
           "result": "not_found",
           "checkedAt": "2026-11-05T15:36:00.938Z",
+          "url": "https://www.autotrader.com/cars-for-sale/vehicle/793760440",
+          "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/793760440",
+          "reason": "Vehicle identity not confirmed; requires recheck."
+        },
+        {
+          "result": "not_found",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
           "url": "https://www.autotrader.com/cars-for-sale/vehicle/793760440",
           "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/793760440",
           "reason": "Vehicle identity not confirmed; requires recheck."
@@ -4540,7 +4561,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.cars.com/vehicledetail/c9a03e10-3fa4-401e-8597-15aceec95590/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -4743,6 +4764,13 @@
         {
           "result": "inaccessible",
           "checkedAt": "2026-11-05T15:36:00.938Z",
+          "url": "https://www.cars.com/vehicledetail/c9a03e10-3fa4-401e-8597-15aceec95590/",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
+        },
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
           "url": "https://www.cars.com/vehicledetail/c9a03e10-3fa4-401e-8597-15aceec95590/",
           "httpStatus": 403,
           "reason": "Access restricted; availability unknown."
@@ -5079,6 +5107,13 @@
           "url": "https://www.sandskia.com/used-Phoenix-2022-Kia-Sorento%2BHybrid-S-KNDRG4LG8N5081732",
           "httpStatus": 404,
           "reason": "Request failed; availability unknown."
+        },
+        {
+          "result": "not_found",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
+          "url": "https://www.sandskia.com/used-Phoenix-2022-Kia-Sorento%2BHybrid-S-KNDRG4LG8N5081732",
+          "httpStatus": 404,
+          "reason": "Request failed; availability unknown."
         }
       ],
       "missingFromFeed": false,
@@ -5099,7 +5134,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.sandskia.com/used-Phoenix-2022-Kia-Sorento%2BHybrid-S-KNDRG4LG8N5081732",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -6579,7 +6614,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.lithia.com/used/Hyundai/2022-Hyundai-Santa-Fe-Hybrid-a3f0ac38ac1811a5b94575c6b5faa03d.htm",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -7058,7 +7093,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/792742134",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/792742134",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -7079,6 +7114,13 @@
         {
           "result": "not_found",
           "checkedAt": "2026-11-05T15:36:00.938Z",
+          "url": "https://www.autotrader.com/cars-for-sale/vehicle/792742134",
+          "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/792742134",
+          "reason": "Vehicle identity not confirmed; requires recheck."
+        },
+        {
+          "result": "not_found",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
           "url": "https://www.autotrader.com/cars-for-sale/vehicle/792742134",
           "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/792742134",
           "reason": "Vehicle identity not confirmed; requires recheck."
@@ -7597,7 +7639,7 @@
       "evidence": null,
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -8123,6 +8165,13 @@
         {
           "result": "inaccessible",
           "checkedAt": "2026-11-05T15:36:00.938Z",
+          "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
+        },
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
           "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
           "httpStatus": 403,
           "reason": "Access restricted; availability unknown."
@@ -9954,7 +10003,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -10153,6 +10202,13 @@
         {
           "result": "not_found",
           "checkedAt": "2026-11-05T15:36:00.938Z",
+          "url": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
+          "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
+          "reason": "Vehicle identity not confirmed; requires recheck."
+        },
+        {
+          "result": "not_found",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
           "url": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
           "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
           "reason": "Vehicle identity not confirmed; requires recheck."
@@ -11606,7 +11662,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/793893458",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/793893458",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -11627,6 +11683,13 @@
         {
           "result": "not_found",
           "checkedAt": "2026-11-05T15:36:00.938Z",
+          "url": "https://www.autotrader.com/cars-for-sale/vehicle/793893458",
+          "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/793893458",
+          "reason": "Vehicle identity not confirmed; requires recheck."
+        },
+        {
+          "result": "not_found",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
           "url": "https://www.autotrader.com/cars-for-sale/vehicle/793893458",
           "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/793893458",
           "reason": "Vehicle identity not confirmed; requires recheck."
@@ -13594,7 +13657,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.earnhardthyundai.com/used-city-2022-Hyundai-Santa%20Fe%20Hybrid-vehicle-KM8S5DA19NU037634",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -13805,6 +13868,13 @@
         {
           "result": "not_found",
           "checkedAt": "2026-11-05T15:36:00.938Z",
+          "url": "https://www.earnhardthyundai.com/used-city-2022-Hyundai-Santa%20Fe%20Hybrid-vehicle-KM8S5DA19NU037634",
+          "httpStatus": 404,
+          "reason": "Request failed; availability unknown."
+        },
+        {
+          "result": "not_found",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
           "url": "https://www.earnhardthyundai.com/used-city-2022-Hyundai-Santa%20Fe%20Hybrid-vehicle-KM8S5DA19NU037634",
           "httpStatus": 404,
           "reason": "Request failed; availability unknown."
@@ -14339,6 +14409,13 @@
           "url": "https://www.hellosubarutemecula.com/inventory/used-2023-kia-sorento-hybrid-ex-awd-4d-sport-utility-kndrhdlg0p5189018/",
           "httpStatus": 403,
           "reason": "Access restricted; availability unknown."
+        },
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
+          "url": "https://www.hellosubarutemecula.com/inventory/used-2023-kia-sorento-hybrid-ex-awd-4d-sport-utility-kndrhdlg0p5189018/",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
         }
       ],
       "missingFromFeed": true,
@@ -14359,7 +14436,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.hellosubarutemecula.com/inventory/used-2023-kia-sorento-hybrid-ex-awd-4d-sport-utility-kndrhdlg0p5189018/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -15541,6 +15618,13 @@
           "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
           "httpStatus": 403,
           "reason": "Access restricted; availability unknown."
+        },
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
+          "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
         }
       ],
       "missingFromFeed": false,
@@ -15618,7 +15702,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -16252,7 +16336,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.cars.com/vehicledetail/30c01ad9-b72a-4d72-9f2d-c6dee8d04c00/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -16451,6 +16535,13 @@
         {
           "result": "inaccessible",
           "checkedAt": "2026-11-05T15:36:00.938Z",
+          "url": "https://www.cars.com/vehicledetail/30c01ad9-b72a-4d72-9f2d-c6dee8d04c00/",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
+        },
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
           "url": "https://www.cars.com/vehicledetail/30c01ad9-b72a-4d72-9f2d-c6dee8d04c00/",
           "httpStatus": 403,
           "reason": "Access restricted; availability unknown."
@@ -17266,7 +17357,7 @@
       },
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T21:20:01.787Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRHDLGXP5187891/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -17477,7 +17568,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.capitalone.com/cars/vehicle-details/2023/Kia/Sorento%2BHybrid/EX/KNDRHDLG0P5204259",
         "reason": "Source returned HTTP 410; access restrictions are not bypassed.",
         "stats": {
@@ -17809,13 +17900,13 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.autotrader.com/cars-for-sale/vehicle/790886342",
         "reason": "The primary page title does not match the vehicle year and model.",
         "stats": {
           "sources": 1,
           "requests": 1,
-          "htmlBytes": 3762,
+          "htmlBytes": 3761,
           "imageBytes": 0
         }
       }
@@ -17983,7 +18074,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.cars.com/vehicledetail/af4208ff-8374-4741-b96c-e6bb918e4c75/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -18087,7 +18178,7 @@
       "missingFromFeed": false,
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.capitalone.com/cars/vehicle-details/2023/Kia/Sorento%2BHybrid/EX/KNDRHDLG5P5175812",
         "reason": "Source returned HTTP 410; access restrictions are not bypassed.",
         "stats": {
@@ -18264,7 +18355,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -18437,7 +18528,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRMDLGXP5137388/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -18611,7 +18702,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -18785,7 +18876,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.autotrader.com/cars-for-sale/vehicle/786691696",
         "reason": "The primary page title does not match the vehicle year and model.",
         "stats": {
@@ -18936,7 +19027,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.onetoyota.com/inventory/used-2023-jeep-grand-cherokee-overland-4xe-4wd-4d-sport-utility-1c4rjyd62p8785778/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -19142,12 +19233,19 @@
           "url": "https://www.onetoyota.com/inventory/used-2023-jeep-grand-cherokee-overland-4xe-4wd-4d-sport-utility-1c4rjyd62p8785778/",
           "httpStatus": 403,
           "reason": "Access restricted; availability unknown."
+        },
+        {
+          "result": "inaccessible",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
+          "url": "https://www.onetoyota.com/inventory/used-2023-jeep-grand-cherokee-overland-4xe-4wd-4d-sport-utility-1c4rjyd62p8785778/",
+          "httpStatus": 403,
+          "reason": "Access restricted; availability unknown."
         }
       ],
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.onetoyota.com/inventory/used-2023-jeep-grand-cherokee-overland-4xe-4wd-4d-sport-utility-1c4rjyd62p8785778/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -19607,7 +19705,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -19800,7 +19898,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.cargurus.com/details/458462346",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -20103,7 +20201,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -20281,7 +20379,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.autotrader.com/cars-for-sale/vehicle/785624395",
         "reason": "The primary page title does not match the vehicle year and model.",
         "stats": {
@@ -20768,7 +20866,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -20942,7 +21040,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -21119,7 +21217,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -21258,7 +21356,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-05T21:28:04.004Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -21464,18 +21562,25 @@
           "url": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
           "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
           "reason": "Vehicle identity not confirmed; requires recheck."
+        },
+        {
+          "result": "not_found",
+          "checkedAt": "2026-11-05T21:28:04.004Z",
+          "url": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
+          "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
+          "reason": "Vehicle identity not confirmed; requires recheck."
         }
       ],
       "priceConflicts": [],
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "reason": "The primary page title does not match the vehicle year and model.",
         "stats": {
           "sources": 1,
           "requests": 1,
-          "htmlBytes": 3762,
+          "htmlBytes": 3761,
           "imageBytes": 0
         }
       }
@@ -21897,7 +22002,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -22074,7 +22179,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -22251,7 +22356,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -22554,7 +22659,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -22731,7 +22836,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -22908,7 +23013,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -23085,7 +23190,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.capitalone.com/cars/vehicle-details/2023/Kia/Sorento+Hybrid/SX+Prestige/KNDRMDLG5P5130610",
         "reason": "Source returned HTTP 410; access restrictions are not bypassed.",
         "stats": {
@@ -23258,7 +23363,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2023/vin/KNDRMDLHXP5165541/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -23432,7 +23537,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -23605,7 +23710,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRMDLH9N5095950/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -23782,7 +23887,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.cargurus.com/details/460093469",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -23955,7 +24060,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2023/vin/KNDRMDLH5P5165625/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -24129,7 +24234,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.autotrader.com/cars-for-sale/vehicle/790468329",
         "reason": "The primary page title does not match the vehicle year and model.",
         "stats": {
@@ -24387,7 +24492,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -24694,7 +24799,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -25345,14 +25450,14 @@
       "verificationHistory": [],
       "priceConflicts": [],
       "photoImport": {
-        "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "status": "no_photos",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.carweek.com/vehicle/5TDZARAH4NS512376/2022-toyota-highlander-hybrid",
-        "reason": "Temporary network or timeout failure; saved photos remain unchanged.",
+        "reason": "The listing cover did not return a supported photograph.",
         "stats": {
           "sources": 1,
-          "requests": 1,
-          "htmlBytes": 0,
+          "requests": 2,
+          "htmlBytes": 158501,
           "imageBytes": 0
         }
       }
@@ -25442,7 +25547,7 @@
       "missingFromFeed": false,
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -25650,7 +25755,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.edmunds.com/jeep/grand-cherokee-4xe/2023/vin/1C4RJYB67P8791515/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -25828,7 +25933,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.cargurus.com/details/460154570",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -26036,7 +26141,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.edmunds.com/kia/sorento-hybrid/2023/vin/KNDRHDLG1P5158604/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -26144,7 +26249,7 @@
           "present": false,
           "observedAt": "2026-10-15",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-11-05T21:28:04.004Z"
+          "lastCheckedAt": "2026-11-05T23:50:58.361Z"
         }
       },
       "reportedPriceChange": null,
@@ -26351,7 +26456,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -26529,7 +26634,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.cars.com/vehicledetail/abd4d6b7-b1f8-4588-bb38-1fa8bf12a53a/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -26702,13 +26807,13 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.facebook.com/marketplace/item/28819727847687108",
         "reason": "The source redirected away from the original vehicle listing.",
         "stats": {
           "sources": 1,
           "requests": 2,
-          "htmlBytes": 361123,
+          "htmlBytes": 363574,
           "imageBytes": 0
         }
       }
@@ -26876,13 +26981,13 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": "https://www.facebook.com/marketplace/item/1547917777373609",
         "reason": "The source redirected away from the original vehicle listing.",
         "stats": {
           "sources": 1,
           "requests": 2,
-          "htmlBytes": 361191,
+          "htmlBytes": 363572,
           "imageBytes": 0
         }
       }
@@ -27109,7 +27214,7 @@
           "present": false,
           "observedAt": "2026-10-18",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-11-05T21:28:04.004Z"
+          "lastCheckedAt": "2026-11-05T23:50:58.361Z"
         }
       },
       "reportedPriceChange": -175,
@@ -27160,7 +27265,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-04T23:56:23.617Z",
+        "checkedAt": "2026-11-05T23:50:58.361Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -27653,7 +27758,7 @@
           "present": false,
           "observedAt": "2026-10-18",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-11-05T21:28:04.004Z"
+          "lastCheckedAt": "2026-11-05T23:50:58.361Z"
         }
       },
       "reportedPriceChange": null,
@@ -27807,7 +27912,7 @@
           "present": false,
           "observedAt": "2026-10-18",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-11-05T21:28:04.004Z"
+          "lastCheckedAt": "2026-11-05T23:50:58.361Z"
         }
       },
       "reportedPriceChange": null,
@@ -27961,7 +28066,7 @@
           "present": false,
           "observedAt": "2026-10-18",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-11-05T21:28:04.004Z"
+          "lastCheckedAt": "2026-11-05T23:50:58.361Z"
         }
       },
       "reportedPriceChange": null,
@@ -28115,7 +28220,7 @@
           "present": false,
           "observedAt": "2026-10-18",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-11-05T21:28:04.004Z"
+          "lastCheckedAt": "2026-11-05T23:50:58.361Z"
         }
       },
       "reportedPriceChange": null,
@@ -28462,7 +28567,7 @@
           "present": false,
           "observedAt": "2026-10-18",
           "mode": "snapshot",
-          "lastCheckedAt": "2026-11-05T21:28:04.004Z"
+          "lastCheckedAt": "2026-11-05T23:50:58.361Z"
         }
       },
       "reportedPriceChange": null,
@@ -31858,9 +31963,9 @@
   ],
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-05T21:28:04.004Z",
+      "lastAttemptAt": "2026-11-05T23:50:58.361Z",
       "status": "connected",
-      "lastSuccessAt": "2026-11-05T21:28:04.004Z",
+      "lastSuccessAt": "2026-11-05T23:50:58.361Z",
       "reportDate": "2026-11-05",
       "error": null,
       "imported": 115,
@@ -31877,10 +31982,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-05T21:28:04.004Z",
+      "lastSuccessAt": "2026-11-05T23:50:58.361Z",
       "reportDate": "2026-11-05",
       "error": null,
-      "lastAttemptAt": "2026-11-05T21:28:04.004Z",
+      "lastAttemptAt": "2026-11-05T23:50:58.361Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -31888,7 +31993,7 @@
         "originSha256": "15846d0e54e0a4e84845dc9123f6393d60c9cfec16fb4cb206eeb0fa27e4aa05",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "c327f8750ecca619ec31f45ea3438ac4b31968ec"
+        "triggerRevision": "a06d758320600a995052d0c0b941a7c53cae74dd"
       },
       "lastExportAt": "2026-11-05T14:07:54.091Z",
       "imported": 11,
@@ -32800,26 +32905,26 @@
   ],
   "alerts": [],
   "photos": {
-    "checkedAt": "2026-11-05T21:28:04.004Z",
-    "attempted": 45,
+    "checkedAt": "2026-11-05T23:50:58.361Z",
+    "attempted": 43,
     "collected": 0,
     "retained": 134,
     "archivedSkipped": 18,
     "skippedExistingPhotos": 15,
-    "skippedRecentAttempt": 31,
-    "eligible": 88,
-    "deferred": 43,
+    "skippedRecentAttempt": 76,
+    "eligible": 43,
+    "deferred": 0,
     "withPhotos": 15,
     "withoutPhotos": 119,
     "outcomes": {
       "collected": 0,
-      "no_source": 2,
-      "no_photos": 7,
-      "inaccessible": 36
+      "no_source": 19,
+      "no_photos": 8,
+      "inaccessible": 16
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 1784
+    "elapsedMs": 17902
   }
 }
