@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T13:58:18.901Z",
+  "generatedAt": "2026-11-07T19:24:57.618Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-07T13:58:18.901Z",
+      "lastAttemptAt": "2026-11-07T19:24:57.618Z",
       "status": "warning",
-      "lastSuccessAt": "2026-11-07T13:58:18.901Z",
+      "lastSuccessAt": "2026-11-07T19:24:57.618Z",
       "reportDate": "2026-11-05",
       "error": null,
       "imported": 115,
@@ -21,10 +21,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-07T13:58:18.901Z",
+      "lastSuccessAt": "2026-11-07T19:24:57.618Z",
       "reportDate": "2026-11-07",
       "error": null,
-      "lastAttemptAt": "2026-11-07T13:58:18.901Z",
+      "lastAttemptAt": "2026-11-07T19:24:57.618Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "1cb9e053240128df1207c10799adc3bc630bf52d6c3014fd065330acd2e1e3bf",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "1b7051103e899662efd8a409826a5b6baa4edb77"
+        "triggerRevision": "85941461a59366b66ac35936e7e78bcbccbc0d70"
       },
       "lastExportAt": "2026-11-07T13:57:39.877Z",
       "imported": 6,
@@ -59,27 +59,27 @@
     "qualifyingActive": 35
   },
   "photos": {
-    "checkedAt": "2026-11-07T13:58:18.901Z",
-    "attempted": 32,
-    "collected": 0,
+    "checkedAt": "2026-11-07T19:24:57.618Z",
+    "attempted": 45,
+    "collected": 4,
     "retained": 135,
     "archivedSkipped": 18,
-    "skippedExistingPhotos": 15,
-    "skippedRecentAttempt": 88,
-    "eligible": 32,
-    "deferred": 0,
+    "skippedExistingPhotos": 6,
+    "skippedRecentAttempt": 75,
+    "eligible": 54,
+    "deferred": 9,
     "withPhotos": 15,
     "withoutPhotos": 120,
     "outcomes": {
-      "collected": 0,
-      "no_source": 17,
+      "collected": 4,
+      "no_source": 2,
       "no_photos": 8,
-      "inaccessible": 7
+      "inaccessible": 31
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 1645
+    "elapsedMs": 5943
   },
   "alerts": [
     "Muse feed is more than 48 hours old."
