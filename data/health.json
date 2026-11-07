@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T23:31:52.853Z",
+  "generatedAt": "2026-11-07T13:58:18.901Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-06T23:31:52.853Z",
-      "status": "connected",
-      "lastSuccessAt": "2026-11-06T23:31:52.853Z",
+      "lastAttemptAt": "2026-11-07T13:58:18.901Z",
+      "status": "warning",
+      "lastSuccessAt": "2026-11-07T13:58:18.901Z",
       "reportDate": "2026-11-05",
       "error": null,
       "imported": 115,
@@ -21,25 +21,25 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-06T23:31:52.853Z",
-      "reportDate": "2026-11-06",
+      "lastSuccessAt": "2026-11-07T13:58:18.901Z",
+      "reportDate": "2026-11-07",
       "error": null,
-      "lastAttemptAt": "2026-11-06T23:31:52.853Z",
+      "lastAttemptAt": "2026-11-07T13:58:18.901Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-        "originSha256": "e598dc2d0a558562ed8cf6b986e1dbca02b2ae012251f07df8c85b6b46f55e6d",
+        "originSha256": "1cb9e053240128df1207c10799adc3bc630bf52d6c3014fd065330acd2e1e3bf",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "02951fbd7c8916988e9b45f2f048de47c3b0aa3c"
+        "triggerRevision": "1b7051103e899662efd8a409826a5b6baa4edb77"
       },
-      "lastExportAt": "2026-11-06T14:00:40.659Z",
-      "imported": 9,
+      "lastExportAt": "2026-11-07T13:57:39.877Z",
+      "imported": 6,
       "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-      "runId": "chatgpt-scheduled-453b8cac-b92c-8333-a534-c3f6bf204e1b",
+      "runId": "chatgpt-scheduled-8e146074-5ff4-8325-b6bb-70eff5aab810",
       "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
-      "contentHash": "e598dc2d0a558562ed8cf6b986e1dbca02b2ae012251f07df8c85b6b46f55e6d",
+      "contentHash": "1cb9e053240128df1207c10799adc3bc630bf52d6c3014fd065330acd2e1e3bf",
       "automationId": "6acc0c049d908191bdd620f519aee69c",
       "writer": {
         "mode": "scheduled",
@@ -49,37 +49,39 @@
     }
   },
   "counts": {
-    "imported": 152,
-    "active": 45,
-    "stale": 89,
+    "imported": 153,
+    "active": 37,
+    "stale": 98,
     "archived": 18,
-    "verified": 26,
-    "awaitingVerification": 19,
+    "verified": 22,
+    "awaitingVerification": 15,
     "outsideCriteria": 27,
-    "qualifyingActive": 43
+    "qualifyingActive": 35
   },
   "photos": {
-    "checkedAt": "2026-11-06T23:31:52.853Z",
-    "attempted": 43,
+    "checkedAt": "2026-11-07T13:58:18.901Z",
+    "attempted": 32,
     "collected": 0,
-    "retained": 134,
+    "retained": 135,
     "archivedSkipped": 18,
     "skippedExistingPhotos": 15,
-    "skippedRecentAttempt": 76,
-    "eligible": 43,
+    "skippedRecentAttempt": 88,
+    "eligible": 32,
     "deferred": 0,
     "withPhotos": 15,
-    "withoutPhotos": 119,
+    "withoutPhotos": 120,
     "outcomes": {
       "collected": 0,
-      "no_source": 19,
+      "no_source": 17,
       "no_photos": 8,
-      "inaccessible": 16
+      "inaccessible": 7
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 8911
+    "elapsedMs": 1645
   },
-  "alerts": []
+  "alerts": [
+    "Muse feed is more than 48 hours old."
+  ]
 }
