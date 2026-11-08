@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T14:15:40.303Z",
+  "generatedAt": "2026-11-08T19:40:16.643Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-08T14:15:40.303Z",
+      "lastAttemptAt": "2026-11-08T19:40:16.643Z",
       "status": "connected",
-      "lastSuccessAt": "2026-11-08T14:15:40.303Z",
+      "lastSuccessAt": "2026-11-08T19:40:16.643Z",
       "reportDate": "2026-11-08",
       "error": null,
       "imported": 121,
@@ -13,18 +13,18 @@
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
         "mode": "repository_checkout",
         "originSha256": "2883112e3d8cbef95f0e725aaded18cfca39e71a8438bf7aa5ef986a4cf026ae",
-        "pagesSha256": "220d82028e2e14a18a3016195ddeb26e55691dee65ed0c0d73a5aecb38e15c72",
-        "pagesMatchesOrigin": false,
+        "pagesSha256": "2883112e3d8cbef95f0e725aaded18cfca39e71a8438bf7aa5ef986a4cf026ae",
+        "pagesMatchesOrigin": true,
         "sourceRecordCount": 121,
         "supplementRecordCount": 0
       }
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-08T14:15:40.303Z",
+      "lastSuccessAt": "2026-11-08T19:40:16.643Z",
       "reportDate": "2026-11-08",
       "error": null,
-      "lastAttemptAt": "2026-11-08T14:15:40.303Z",
+      "lastAttemptAt": "2026-11-08T19:40:16.643Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "90001b37a639be97668ae620b6a991090b6f45a74efce97328b303cd36871ec4",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "47fee494b9ce074752038ac5bb6e92c49b7920aa"
+        "triggerRevision": "d53b026d1e3d0da4245232aa27af685b8c555ee5"
       },
       "lastExportAt": "2026-11-08T13:58:07.602Z",
       "imported": 8,
@@ -59,27 +59,27 @@
     "qualifyingActive": 38
   },
   "photos": {
-    "checkedAt": "2026-11-08T14:15:40.303Z",
-    "attempted": 0,
+    "checkedAt": "2026-11-08T19:40:16.643Z",
+    "attempted": 45,
     "collected": 0,
     "retained": 143,
     "archivedSkipped": 18,
     "skippedExistingPhotos": 13,
-    "skippedRecentAttempt": 130,
-    "eligible": 0,
-    "deferred": 0,
+    "skippedRecentAttempt": 47,
+    "eligible": 83,
+    "deferred": 38,
     "withPhotos": 15,
     "withoutPhotos": 128,
     "outcomes": {
       "collected": 0,
-      "no_source": 0,
-      "no_photos": 0,
-      "inaccessible": 0
+      "no_source": 2,
+      "no_photos": 9,
+      "inaccessible": 34
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 3
+    "elapsedMs": 1864
   },
   "alerts": []
 }
