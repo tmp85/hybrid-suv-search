@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-11-07T22:19:07.628Z",
+  "generatedAt": "2026-11-08T01:15:02.898Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-07T22:19:07.628Z",
-      "status": "warning",
-      "lastSuccessAt": "2026-11-07T22:19:07.628Z",
-      "reportDate": "2026-11-05",
+      "lastAttemptAt": "2026-11-08T01:15:02.898Z",
+      "status": "connected",
+      "lastSuccessAt": "2026-11-08T01:15:02.898Z",
+      "reportDate": "2026-11-07",
       "error": null,
-      "imported": 115,
+      "imported": 121,
       "feedUrl": "https://tmp85.github.io/hybrid-suv-search/listings.json",
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
         "mode": "repository_checkout",
-        "originSha256": "9a794f4ecace6cef5bbda09de634275f1f4019f30654caa704aeda2ee4d1eee9",
+        "originSha256": "220d82028e2e14a18a3016195ddeb26e55691dee65ed0c0d73a5aecb38e15c72",
         "pagesSha256": "9a794f4ecace6cef5bbda09de634275f1f4019f30654caa704aeda2ee4d1eee9",
-        "pagesMatchesOrigin": true,
-        "sourceRecordCount": 115,
+        "pagesMatchesOrigin": false,
+        "sourceRecordCount": 121,
         "supplementRecordCount": 0
       }
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-07T22:19:07.628Z",
+      "lastSuccessAt": "2026-11-08T01:15:02.898Z",
       "reportDate": "2026-11-07",
       "error": null,
-      "lastAttemptAt": "2026-11-07T22:19:07.628Z",
+      "lastAttemptAt": "2026-11-08T01:15:02.898Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "1cb9e053240128df1207c10799adc3bc630bf52d6c3014fd065330acd2e1e3bf",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "76f505a422c97c7f7a544c7fa4829ad70f62391f"
+        "triggerRevision": "5752298ebff41a552b6ad558472456d88b9f1afe"
       },
       "lastExportAt": "2026-11-07T13:57:39.877Z",
       "imported": 6,
@@ -49,39 +49,37 @@
     }
   },
   "counts": {
-    "imported": 153,
-    "active": 37,
-    "stale": 98,
+    "imported": 159,
+    "active": 40,
+    "stale": 101,
     "archived": 18,
-    "verified": 22,
+    "verified": 25,
     "awaitingVerification": 15,
     "outsideCriteria": 27,
-    "qualifyingActive": 35
+    "qualifyingActive": 38
   },
   "photos": {
-    "checkedAt": "2026-11-07T22:19:07.628Z",
-    "attempted": 45,
-    "collected": 3,
-    "retained": 135,
+    "checkedAt": "2026-11-08T01:15:02.898Z",
+    "attempted": 13,
+    "collected": 0,
+    "retained": 141,
     "archivedSkipped": 18,
-    "skippedExistingPhotos": 10,
-    "skippedRecentAttempt": 73,
-    "eligible": 52,
-    "deferred": 7,
+    "skippedExistingPhotos": 13,
+    "skippedRecentAttempt": 115,
+    "eligible": 13,
+    "deferred": 0,
     "withPhotos": 15,
-    "withoutPhotos": 120,
+    "withoutPhotos": 126,
     "outcomes": {
-      "collected": 3,
-      "no_source": 17,
-      "no_photos": 7,
-      "inaccessible": 18
+      "collected": 0,
+      "no_source": 6,
+      "no_photos": 2,
+      "inaccessible": 5
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 12872
+    "elapsedMs": 1059
   },
-  "alerts": [
-    "Muse feed is more than 48 hours old."
-  ]
+  "alerts": []
 }
