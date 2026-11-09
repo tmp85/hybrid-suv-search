@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T14:11:59.145Z",
+  "generatedAt": "2026-11-09T14:30:49.120Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-09T14:11:59.145Z",
+      "lastAttemptAt": "2026-11-09T14:30:49.120Z",
       "status": "connected",
-      "lastSuccessAt": "2026-11-09T14:11:59.145Z",
+      "lastSuccessAt": "2026-11-09T14:30:49.120Z",
       "reportDate": "2026-11-09",
       "error": null,
       "imported": 127,
@@ -13,33 +13,33 @@
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
         "mode": "repository_checkout",
         "originSha256": "ceeec3a96c20a6505efebac64dc9c6d47d55515cc54b01ed2a8ab59f5b140d34",
-        "pagesSha256": "2883112e3d8cbef95f0e725aaded18cfca39e71a8438bf7aa5ef986a4cf026ae",
-        "pagesMatchesOrigin": false,
+        "pagesSha256": "ceeec3a96c20a6505efebac64dc9c6d47d55515cc54b01ed2a8ab59f5b140d34",
+        "pagesMatchesOrigin": true,
         "sourceRecordCount": 127,
         "supplementRecordCount": 0
       }
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-09T14:11:59.145Z",
-      "reportDate": "2026-11-08",
+      "lastSuccessAt": "2026-11-09T14:30:49.120Z",
+      "reportDate": "2026-11-09",
       "error": null,
-      "lastAttemptAt": "2026-11-09T14:11:59.145Z",
+      "lastAttemptAt": "2026-11-09T14:30:49.120Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-        "originSha256": "90001b37a639be97668ae620b6a991090b6f45a74efce97328b303cd36871ec4",
+        "originSha256": "a1c424b2beb8f054daa14f9884c675ee9626b793de5ac3bd06a6a73c1f77f6d7",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "8e05071a61940ea253c79cb4547e423f0ec8a55f"
+        "triggerRevision": "42d9453a188543f15f82ad04e0a52ad605455c0f"
       },
-      "lastExportAt": "2026-11-08T13:58:07.602Z",
-      "imported": 8,
+      "lastExportAt": "2026-11-09T14:29:42.459Z",
+      "imported": 11,
       "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-      "runId": "chatgpt-scheduled-59301fdf-b788-832b-8057-cbac2b1eadcb",
+      "runId": "chatgpt-scheduled-867456c9-9398-8331-9f4b-22808d32ef09",
       "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
-      "contentHash": "90001b37a639be97668ae620b6a991090b6f45a74efce97328b303cd36871ec4",
+      "contentHash": "a1c424b2beb8f054daa14f9884c675ee9626b793de5ac3bd06a6a73c1f77f6d7",
       "automationId": "6acc0c049d908191bdd620f519aee69c",
       "writer": {
         "mode": "scheduled",
@@ -49,37 +49,37 @@
     }
   },
   "counts": {
-    "imported": 167,
-    "active": 42,
-    "stale": 107,
-    "archived": 18,
-    "verified": 22,
-    "awaitingVerification": 20,
+    "imported": 169,
+    "active": 41,
+    "stale": 109,
+    "archived": 19,
+    "verified": 23,
+    "awaitingVerification": 18,
     "outsideCriteria": 28,
-    "qualifyingActive": 39
+    "qualifyingActive": 38
   },
   "photos": {
-    "checkedAt": "2026-11-09T14:11:59.145Z",
-    "attempted": 45,
+    "checkedAt": "2026-11-09T14:30:49.120Z",
+    "attempted": 2,
     "collected": 0,
-    "retained": 149,
-    "archivedSkipped": 18,
+    "retained": 150,
+    "archivedSkipped": 19,
     "skippedExistingPhotos": 14,
-    "skippedRecentAttempt": 89,
-    "eligible": 46,
-    "deferred": 1,
+    "skippedRecentAttempt": 134,
+    "eligible": 2,
+    "deferred": 0,
     "withPhotos": 16,
-    "withoutPhotos": 133,
+    "withoutPhotos": 134,
     "outcomes": {
       "collected": 0,
-      "no_source": 25,
-      "no_photos": 9,
-      "inaccessible": 11
+      "no_source": 1,
+      "no_photos": 0,
+      "inaccessible": 1
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 2051
+    "elapsedMs": 199
   },
   "alerts": []
 }
