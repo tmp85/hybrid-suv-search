@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-11-08T22:29:59.069Z",
+  "generatedAt": "2026-11-09T14:11:59.145Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-08T22:29:59.069Z",
+      "lastAttemptAt": "2026-11-09T14:11:59.145Z",
       "status": "connected",
-      "lastSuccessAt": "2026-11-08T22:29:59.069Z",
-      "reportDate": "2026-11-08",
+      "lastSuccessAt": "2026-11-09T14:11:59.145Z",
+      "reportDate": "2026-11-09",
       "error": null,
-      "imported": 121,
+      "imported": 127,
       "feedUrl": "https://tmp85.github.io/hybrid-suv-search/listings.json",
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/listings.json",
         "mode": "repository_checkout",
-        "originSha256": "2883112e3d8cbef95f0e725aaded18cfca39e71a8438bf7aa5ef986a4cf026ae",
+        "originSha256": "ceeec3a96c20a6505efebac64dc9c6d47d55515cc54b01ed2a8ab59f5b140d34",
         "pagesSha256": "2883112e3d8cbef95f0e725aaded18cfca39e71a8438bf7aa5ef986a4cf026ae",
-        "pagesMatchesOrigin": true,
-        "sourceRecordCount": 121,
+        "pagesMatchesOrigin": false,
+        "sourceRecordCount": 127,
         "supplementRecordCount": 0
       }
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-08T22:29:59.069Z",
+      "lastSuccessAt": "2026-11-09T14:11:59.145Z",
       "reportDate": "2026-11-08",
       "error": null,
-      "lastAttemptAt": "2026-11-08T22:29:59.069Z",
+      "lastAttemptAt": "2026-11-09T14:11:59.145Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "90001b37a639be97668ae620b6a991090b6f45a74efce97328b303cd36871ec4",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "d68754e2a07023984fe689e22348979ee19f5c7f"
+        "triggerRevision": "8e05071a61940ea253c79cb4547e423f0ec8a55f"
       },
       "lastExportAt": "2026-11-08T13:58:07.602Z",
       "imported": 8,
@@ -49,37 +49,37 @@
     }
   },
   "counts": {
-    "imported": 161,
-    "active": 40,
-    "stale": 103,
+    "imported": 167,
+    "active": 42,
+    "stale": 107,
     "archived": 18,
-    "verified": 23,
-    "awaitingVerification": 17,
-    "outsideCriteria": 27,
-    "qualifyingActive": 38
+    "verified": 22,
+    "awaitingVerification": 20,
+    "outsideCriteria": 28,
+    "qualifyingActive": 39
   },
   "photos": {
-    "checkedAt": "2026-11-08T22:29:59.069Z",
+    "checkedAt": "2026-11-09T14:11:59.145Z",
     "attempted": 45,
-    "collected": 1,
-    "retained": 143,
+    "collected": 0,
+    "retained": 149,
     "archivedSkipped": 18,
-    "skippedExistingPhotos": 13,
-    "skippedRecentAttempt": 79,
-    "eligible": 51,
-    "deferred": 6,
+    "skippedExistingPhotos": 14,
+    "skippedRecentAttempt": 89,
+    "eligible": 46,
+    "deferred": 1,
     "withPhotos": 16,
-    "withoutPhotos": 127,
+    "withoutPhotos": 133,
     "outcomes": {
-      "collected": 1,
-      "no_source": 20,
-      "no_photos": 6,
-      "inaccessible": 18
+      "collected": 0,
+      "no_source": 25,
+      "no_photos": 9,
+      "inaccessible": 11
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 19304
+    "elapsedMs": 2051
   },
   "alerts": []
 }
