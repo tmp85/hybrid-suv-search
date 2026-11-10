@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T23:46:34.442Z",
+  "generatedAt": "2026-11-10T01:46:19.166Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-09T23:46:34.442Z",
+      "lastAttemptAt": "2026-11-10T01:46:19.166Z",
       "status": "connected",
-      "lastSuccessAt": "2026-11-09T23:46:34.442Z",
+      "lastSuccessAt": "2026-11-10T01:46:19.166Z",
       "reportDate": "2026-11-09",
       "error": null,
       "imported": 127,
@@ -21,10 +21,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-09T23:46:34.442Z",
+      "lastSuccessAt": "2026-11-10T01:46:19.166Z",
       "reportDate": "2026-11-09",
       "error": null,
-      "lastAttemptAt": "2026-11-09T23:46:34.442Z",
+      "lastAttemptAt": "2026-11-10T01:46:19.166Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "a1c424b2beb8f054daa14f9884c675ee9626b793de5ac3bd06a6a73c1f77f6d7",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "6e49ba4e6331b94aa64c0ad2ae7850fadc81f9eb"
+        "triggerRevision": "d8f6f569029bc8bf9772267e4a169c4a0401170b"
       },
       "lastExportAt": "2026-11-09T14:29:42.459Z",
       "imported": 11,
@@ -50,36 +50,36 @@
   },
   "counts": {
     "imported": 169,
-    "active": 41,
-    "stale": 109,
+    "active": 38,
+    "stale": 112,
     "archived": 19,
-    "verified": 23,
-    "awaitingVerification": 18,
+    "verified": 22,
+    "awaitingVerification": 16,
     "outsideCriteria": 28,
-    "qualifyingActive": 38
+    "qualifyingActive": 35
   },
   "photos": {
-    "checkedAt": "2026-11-09T23:46:34.442Z",
+    "checkedAt": "2026-11-10T01:46:19.166Z",
     "attempted": 45,
-    "collected": 1,
+    "collected": 0,
     "retained": 150,
     "archivedSkipped": 19,
-    "skippedExistingPhotos": 12,
-    "skippedRecentAttempt": 47,
-    "eligible": 91,
-    "deferred": 46,
+    "skippedExistingPhotos": 13,
+    "skippedRecentAttempt": 91,
+    "eligible": 46,
+    "deferred": 1,
     "withPhotos": 16,
     "withoutPhotos": 134,
     "outcomes": {
-      "collected": 1,
-      "no_source": 4,
-      "no_photos": 8,
-      "inaccessible": 32
+      "collected": 0,
+      "no_source": 18,
+      "no_photos": 7,
+      "inaccessible": 20
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 2124
+    "elapsedMs": 15739
   },
   "alerts": []
 }
