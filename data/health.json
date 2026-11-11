@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T13:59:36.965Z",
+  "generatedAt": "2026-11-11T16:11:54.063Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-11T13:59:36.965Z",
-      "status": "connected",
+      "lastAttemptAt": "2026-11-11T16:11:54.063Z",
+      "status": "error",
       "lastSuccessAt": "2026-11-11T13:59:36.965Z",
       "reportDate": "2026-11-10",
-      "error": null,
+      "error": "Invalid Muse v2 make",
       "imported": 137,
       "feedUrl": "https://tmp85.github.io/hybrid-suv-search/listings.json",
       "provenance": {
@@ -21,10 +21,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-11T13:59:36.965Z",
+      "lastSuccessAt": "2026-11-11T16:11:54.063Z",
       "reportDate": "2026-11-11",
       "error": null,
-      "lastAttemptAt": "2026-11-11T13:59:36.965Z",
+      "lastAttemptAt": "2026-11-11T16:11:54.063Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "9eef611c64ece09d1834029748889b0d12cef51b46922511e74348e039a35af0",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "b2231ffede0794edf7b8a435c4912b4ed76f0d96"
+        "triggerRevision": "58b26d6524487fc2525129a5dfdec0bd3f361d5b"
       },
       "lastExportAt": "2026-11-11T13:58:52.220Z",
       "imported": 12,
@@ -59,27 +59,29 @@
     "qualifyingActive": 50
   },
   "photos": {
-    "checkedAt": "2026-11-11T13:59:36.965Z",
-    "attempted": 45,
-    "collected": 0,
+    "checkedAt": "2026-11-11T16:11:54.063Z",
+    "attempted": 19,
+    "collected": 1,
     "retained": 169,
     "archivedSkipped": 19,
     "skippedExistingPhotos": 16,
-    "skippedRecentAttempt": 89,
-    "eligible": 64,
-    "deferred": 19,
-    "withPhotos": 19,
-    "withoutPhotos": 150,
+    "skippedRecentAttempt": 134,
+    "eligible": 19,
+    "deferred": 0,
+    "withPhotos": 20,
+    "withoutPhotos": 149,
     "outcomes": {
-      "collected": 0,
-      "no_source": 23,
-      "no_photos": 10,
-      "inaccessible": 12
+      "collected": 1,
+      "no_source": 13,
+      "no_photos": 3,
+      "inaccessible": 2
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 1711
+    "elapsedMs": 1279
   },
-  "alerts": []
+  "alerts": [
+    "Invalid Muse v2 make"
+  ]
 }
