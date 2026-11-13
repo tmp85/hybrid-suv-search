@@ -1,16 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-11-12T14:12:12.705226Z",
-  "search_date": "2026-11-12",
+  "generated_at": "2026-11-13T14:25:59.802549Z",
+  "search_date": "2026-11-13",
   "source": "Hybrid SUV Search daily research",
   "counts": {
-    "active": 83,
+    "active": 87,
     "unverified": 41,
     "unavailable": 44,
     "excluded": 1,
-    "stale": 14
+    "stale": 13
   },
-  "listing_count": 183,
+  "listing_count": 186,
   "listings": [
     {
       "id": "vin-KNDRH4LG0P5132205",
@@ -22,8 +22,8 @@
       "trim": "EX FWD",
       "hybrid_type": "Full hybrid",
       "drivetrain": "FWD",
-      "price": 18707,
-      "mileage": 125885,
+      "price": 18237,
+      "mileage": 126208,
       "city": "Cerritos",
       "state": "CA",
       "url": "https://www.cargurus.com/details/463222615",
@@ -31,10 +31,10 @@
       "seller": "Kia of Cerritos (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-11-03",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
-      "title_history": null,
-      "accident_history": null,
+      "title_history": "Clean title",
+      "accident_history": "0 accidents reported",
       "history_basis": "verified",
       "maintenance_history": null,
       "price_history": [
@@ -53,16 +53,20 @@
         {
           "date": "2026-11-10",
           "price": 18707
+        },
+        {
+          "date": "2026-11-13",
+          "price": 18237
         }
       ],
       "photos": [],
       "location": "Cerritos, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "Clean CARFAX, 1-owner",
       "concerns": "NEW Nov 3 - CarGurus detail-verified, listed as new arrival (on CarGurus less than 48 hours); 125,885 mi well OVER the 100k preference - consider only if condition/value justify; only photo is a 'COMING SOON!' placeholder - confirm actual condition, photos, history, title, and fees before any travel; FWD only",
-      "new_vs_prior": "Verified active Nov 12 via live browser (CarGurus detail): still $18,707 / 125,885 mi confirmed; struck $19,007, 'Price decreased $300'; Good Deal $796 below market; 10 days on CarGurus; no further cut today",
-      "price_vs_prior": 0,
+      "new_vs_prior": "PRICE DROP Nov 13 via live browser (CarGurus detail): now $18,237, down $470 from $18,707; mileage 125,885 -> 126,208 mi; Great Deal $1,266 below market; VIN KNDRH4LG0P5132205 now shown; Gravity Blue, 0 accidents, 1 owner, clean title, Kia Certified banner; 11 days at dealership; pool low; CarGurus page says 'No price changes' \u2014 conflicts with the Nov 12 ledger price, live price controls",
+      "price_vs_prior": -470,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k - at 125,885 mi the mileage limit is exceeded (estimate)."
     },
     {
@@ -84,7 +88,7 @@
       "seller": "S&R Motors (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-11-09",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": null,
@@ -96,18 +100,18 @@
           "price": 20569
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 20248
         }
       ],
       "photos": [],
       "location": "Hayward, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "Dealer page verified Nov 10; Quartz exterior; AWD standard; stock #6238",
       "concerns": "NEW Nov 10 \u2014 dealer page verified; history/accidents not stated on dealer page \u2014 needs history check; 73,428 mi is high side",
-      "new_vs_prior": "PRICE DROP Nov 12 via dealer-page re-crawl (6h ago): now $20,248, down $321 from $20,569; 73,428 mi unchanged; S&R Motors, Hayward; stock #6238; history/accidents not stated \u2014 needs history check",
-      "price_vs_prior": -321,
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus SF SRP: still $20,248 / 73,428 mi confirmed; S&R Motors, Hayward",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
     {
@@ -169,7 +173,7 @@
       "marketplace": "dealer",
       "seller": "Kendall Lexus of Eugene (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -178,7 +182,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 20457
         }
       ],
@@ -211,7 +215,7 @@
       "seller": "Driveway (dealer, online only)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-10-15",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -245,13 +249,58 @@
       ],
       "photos": [],
       "location": "Fresno, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "0 accidents, 1 owner, personal use, clean title",
       "concerns": "Online-only seller (Driveway); 91,936 mi near the 100k preference line; fees not disclosed; $416 cumulative price drop per Edmunds",
-      "new_vs_prior": "Verified active Nov 12 via live browser (Edmunds VIN): still $20,599 / 91,936 mi confirmed; 0 accidents, 1 owner; Good Price $930 below market; '$709 price drop' label; 37 days on Edmunds; offered as of 11/12/2026",
+      "new_vs_prior": "Verified active Nov 13 via live browser (Edmunds VIN): still $20,599 / 91,936 mi confirmed; 0 accidents, 1 owner; Good Price $894 below market; '$709 price drop' label; 38 days on Edmunds; offered as of 11/13/2026; Driveway online-only",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
+    },
+    {
+      "id": "url-69399a3d78e4",
+      "listing_id": "url-69399a3d78e4",
+      "vin": null,
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Santa Fe Plug-In Hybrid",
+      "trim": "SEL Convenience",
+      "hybrid_type": "Plug-in hybrid",
+      "drivetrain": "AWD",
+      "price": 20627,
+      "mileage": 84629,
+      "city": "Chico",
+      "state": "CA (delivery)",
+      "url": "https://www.cargurus.com/Cars/l-Used-Hyundai-Santa-Fe-Hybrid-Plug-In-San-Francisco-d3223_L2793",
+      "marketplace": "CarGurus",
+      "seller": "Dealer (name not shown on card)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-10",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "Accident history mentioned, count unclear",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-10",
+          "price": 22585
+        },
+        {
+          "date": "2026-11-13",
+          "price": 20627
+        }
+      ],
+      "photos": [],
+      "location": "Chico, CA (delivery)",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "Snippet-level; under 100k mi",
+      "concerns": "NEW Nov 13 \u2014 snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending; confirm charging cable + EV-battery health; Fair Deal; delivery from Chico CA, free delivery",
+      "new_vs_prior": "NEW Nov 13 \u2014 snippet-level (price/city/mileage shown, no VIN); Fair Deal; delivery from Chico CA, free delivery",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
     {
       "id": "vin-1C4RJYB66R8958854",
@@ -271,8 +320,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -280,17 +329,17 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 21094
         }
       ],
       "photos": [],
       "location": "City Of Industry, CA (home delivery)",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; Home delivery from City Of Industry",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies; Home delivery from City Of Industry",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown)",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus 4xe SRP: still $21,094 / 58,237 mi confirmed; home delivery from City of Industry, $1,422 shipping; Great Deal",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
@@ -395,7 +444,7 @@
       "seller": "Sands Kia (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-11-07",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "0 accidents reported",
@@ -409,103 +458,13 @@
       ],
       "photos": [],
       "location": "Surprise, AZ",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "Certified used; 0 accidents, 1 owner, title no issues, personal use (Experian AutoCheck Nov 7, 2026); GREAT DEAL $4,314 below market ($26,314); listed 11/03/26",
       "concerns": "Recall Check: 2 records found (details not shown) \u2014 confirm what they cover; drivetrain AWD per VIN pattern (HDLG = AWD, as confirmed on the Phoenix AWD unit) \u2014 confirm with dealer; no dealer fee stated",
-      "new_vs_prior": "Verified active Nov 12 via live browser (iSeeCars): still $22,000 / 70,303 mi confirmed; certified used, 0 accidents, 1 owner; GREAT DEAL $4,312 below market; 'NO PRICE CHANGES', price history 11/03/26 $22,000; listed 9 days; confirm recall details, dealer fees ($22,888 net sale price), certified terms, drivetrain before travel",
+      "new_vs_prior": "Verified active Nov 13 via live browser (iSeeCars): still $22,000 / 70,303 mi confirmed; certified used; GREAT DEAL $4,312 below market; listed 10 days (11/03/26), no price changes; 2 open recalls \u2014 confirm what they cover; history report delayed on page so accidents/owners not shown this check; confirm dealer fees ($22,888 net sale price), certified terms, drivetrain before travel",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
-    },
-    {
-      "id": "url-69399a3d78e4",
-      "listing_id": "url-69399a3d78e4",
-      "vin": null,
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Santa Fe Plug-In Hybrid",
-      "trim": "SEL Convenience",
-      "hybrid_type": "Plug-in hybrid",
-      "drivetrain": "AWD",
-      "price": 22585,
-      "mileage": 60389,
-      "city": "Hayward",
-      "state": "CA",
-      "url": "https://www.cargurus.com/Cars/l-Used-Hyundai-Santa-Fe-Hybrid-Plug-In-San-Francisco-d3223_L2793",
-      "marketplace": "CarGurus",
-      "seller": "Dealer (name not shown on CarGurus card)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-10",
-      "date_last_checked": "2026-11-12",
-      "status": "active",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-11-10",
-          "price": 22585
-        }
-      ],
-      "photos": [],
-      "location": "Hayward, CA",
-      "verification_date": "2026-11-12",
-      "verified_active": true,
-      "history": "CarGurus snippet; home delivery from Gilroy, CA; mileage now shown (was missing Nov 10, so the unit was not added then)",
-      "concerns": "NEW Nov 11 \u2014 CarGurus snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending",
-      "new_vs_prior": "Verified active Nov 12 via fresh CarGurus SF SRP: still $22,585 / 60,389 mi confirmed; VIN KM8S6DA27NU044135 now shown; home delivery from Gilroy, CA",
-      "price_vs_prior": 0,
-      "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
-    },
-    {
-      "id": "url-5e66532a62e6",
-      "listing_id": "url-5e66532a62e6",
-      "vin": null,
-      "year": 2020,
-      "make": "Toyota",
-      "model": "RAV4 Hybrid",
-      "trim": "XSE AWD",
-      "hybrid_type": "Full hybrid",
-      "drivetrain": "AWD",
-      "price": 22892,
-      "mileage": 116977,
-      "city": "Ontario",
-      "state": "CA",
-      "url": "https://www.cargurus.com/Cars/l-Used-Toyota-RAV4-Hybrid-Victorville-d2318_L2464",
-      "marketplace": "CarGurus",
-      "seller": "Dealer (name not shown on CarGurus card)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-10",
-      "date_last_checked": "2026-11-12",
-      "status": "active",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-11-10",
-          "price": 29685
-        },
-        {
-          "date": "2026-11-10",
-          "price": 23084
-        },
-        {
-          "date": "2026-11-12",
-          "price": 22892
-        }
-      ],
-      "photos": [],
-      "location": "Ontario, CA",
-      "verification_date": "2026-11-12",
-      "verified_active": true,
-      "history": "Snippet-level; over 100k mi",
-      "concerns": "NEW Nov 12 \u2014 COMPACT CROSSOVER, smaller than midsize \u2014 included as exceptional value; CarGurus snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; OVER 100k mi",
-      "new_vs_prior": "NEW Nov 12 \u2014 snippet-level (price/city/mileage shown, no VIN); compact crossover, exceptional value ; over 100k mi",
-      "price_vs_prior": 0,
-      "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable - verify in-service date by VIN (estimate)."
     },
     {
       "id": "vin-1C4RJYB6XRC106679",
@@ -525,26 +484,26 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
+      "accident_history": "0 accidents reported",
       "history_basis": "unknown",
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 22995
         }
       ],
       "photos": [],
       "location": "Spokane, WA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; Was $23,595 (-$800)",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies; Was $23,595 (-$800)",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown)",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus 4xe SRP: still $22,995 / 39,923 mi confirmed; Great Deal, 0 accidents, 1 owner",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
@@ -567,7 +526,7 @@
       "seller": "Bill Luke Chrysler Jeep Dodge RAM (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-11-04",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -583,18 +542,18 @@
           "price": 23272
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 23072
         }
       ],
       "photos": [],
       "location": "Phoenix, AZ",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "Single owner, factory certified; Accident or Damage Reported",
       "concerns": "Accident/damage reported on the listing \u2014 against the no-accident preference; $699 doc fee included in total",
-      "new_vs_prior": "PRICE DROP Nov 12 via live browser (AutoTrader detail): now $23,072 total ($22,373 + $699 doc fee), down $200 from $23,272 total; 25,511 mi unchanged; Bill Luke, Phoenix; Great Price $1,838 below market",
-      "price_vs_prior": -200,
+      "new_vs_prior": "Verified active Nov 13 via live browser (AutoTrader detail): still $23,072 total ($22,373 + $699 doc fee) / 25,511 mi confirmed; Bill Luke, Phoenix; Great Price $1,838 below market; history section collapsed on page view",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Jeep 4xe battery warranty: confirm by VIN with dealer (estimate, not verified)."
     },
     {
@@ -607,7 +566,7 @@
       "trim": "Limited AWD",
       "hybrid_type": "Full hybrid",
       "drivetrain": "AWD",
-      "price": 23381,
+      "price": 23176,
       "mileage": 96955,
       "city": "Los Angeles",
       "state": "CA",
@@ -615,8 +574,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -624,19 +583,64 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 23381
+        },
+        {
+          "date": "2026-11-13",
+          "price": 23176
         }
       ],
       "photos": [],
       "location": "Los Angeles, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; older model year but under 100k miles",
       "concerns": "NEW Nov 11 \u2014 CarGurus snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; 2017 model year \u2014 confirm hybrid battery health",
-      "new_vs_prior": "Verified active Nov 12 via fresh CarGurus LA SRP: still $23,381 / 96,955 mi confirmed; Los Angeles CA; VIN 5TDDGRFH4HS034241 now shown; 2017 model year \u2014 confirm hybrid battery health",
-      "price_vs_prior": 0,
+      "new_vs_prior": "PRICE DROP Nov 13 via fresh CarGurus LA SRP: now $23,176, down $205 from $23,381; 96,955 mi unchanged; 2017 Limited AWD, Keyes Mission Hills Hyundai; Good Deal; confirm hybrid battery health (2017 MY warranty expired)",
+      "price_vs_prior": -205,
       "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable - verify in-service date by VIN (estimate)."
+    },
+    {
+      "id": "vin-KM8S6DA20NU052058",
+      "listing_id": "vin-KM8S6DA20NU052058",
+      "vin": "KM8S6DA20NU052058",
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Santa Fe Plug-In Hybrid",
+      "trim": "SEL Convenience",
+      "hybrid_type": "Plug-in hybrid",
+      "drivetrain": "AWD",
+      "price": 23179,
+      "mileage": 34746,
+      "city": "Cerritos",
+      "state": "CA",
+      "url": "https://www.iseecars.com/used_cars-t5989-used-hyundai-santa-fe-plug-in-hybrid-for-sale",
+      "marketplace": "Cars.com",
+      "seller": "Norm Reeves Hyundai Superstore (dealer)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-13",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "Accident history mentioned, count unclear",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-13",
+          "price": 23179
+        }
+      ],
+      "photos": [],
+      "location": "Cerritos, CA",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "Snippet-level; under 100k mi",
+      "concerns": "NEW Nov 13 \u2014 snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending; confirm charging cable + EV-battery health; Dealer page confirmed live Nov 13: Certified, Quartz White/Black, stock SG012261PA; price includes doc/electronic-filing/dealer-installed-accessory fees, excludes government fees/taxes; iSeeCars lists the same car at $24,022 \u2014 aggregator prices span $23,179-$24,022, dealer price controls",
+      "new_vs_prior": "NEW Nov 13 \u2014 snippet-level (price/city/mileage shown, VIN shown); Dealer page confirmed live Nov 13: Certified, Quartz White/Black, stock SG012261PA; price includes doc/electronic-filing/dealer-installed-accessory fees, excludes government fees/taxes; iSeeCars lists the same car at $24,022 \u2014 aggregator prices span $23,179-$24,022, dealer price controls",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
     {
       "id": "vin-KNDRHDLG6P5204248",
@@ -657,10 +661,10 @@
       "seller": "Cumming Chevrolet (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-10-17",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
-      "accident_history": null,
+      "accident_history": "0 accidents reported",
       "history_basis": "verified",
       "maintenance_history": null,
       "price_history": [
@@ -679,11 +683,11 @@
       ],
       "photos": [],
       "location": "National City, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "Clean CARFAX, 1-owner, GM CARBRAVO certified",
       "concerns": "72,550 mi is high side; confirm CarBravo certification coverage in writing; price excludes government taxes/fees (includes $85 doc + $37 e-filing)",
-      "new_vs_prior": "Verified active Nov 12 via live browser (CarGurus detail): still $23,391 / 72,550 mi confirmed; 'No price changes'; Good Deal $932 below market; GM CARBRAVO certified, CARFAX One-Owner; 141 days on CarGurus",
+      "new_vs_prior": "Verified active Nov 13 via live browser (CarGurus detail): still $23,391 / 72,550 mi confirmed; Good Deal $932 below market; GM CARBRAVO certified; 142 days, selling slowly, no price changes; 0 accidents, 1 owner; price includes fees",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
@@ -705,8 +709,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -714,17 +718,17 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 23395
         }
       ],
       "photos": [],
       "location": "Spokane, WA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; Stale snippet had $24,995; fresh price is $1,600 lower",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies; Stale snippet had $24,995; fresh price is $1,600 lower",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown)",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus 4xe SRP: still $23,395 / 54,720 mi confirmed; Trailhawk, Great Deal, 0/1",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
@@ -747,7 +751,7 @@
       "seller": "Camelback Toyota (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-10-27",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -769,11 +773,11 @@
       ],
       "photos": [],
       "location": "Phoenix, AZ",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "0 accidents, 1 owner, clean title; Edmunds Fair Price note from prior record",
       "concerns": "$599 doc fee included in advertised price; prices exclude tax/title/license",
-      "new_vs_prior": "Verified active Nov 12 via live browser (Edmunds VIN): still $23,487 total ($22,888 + $599 doc fee) / 79,839 mi confirmed; Camelback Toyota, Phoenix; High Price; '$963 price drop' cumulative; 24 days on Edmunds; 'likely to sell in 3 days'",
+      "new_vs_prior": "Verified active Nov 13 via live browser (Edmunds VIN): still $23,487 total ($22,888 + $599 doc fee) / 79,839 mi confirmed; Camelback Toyota, Phoenix; High Price; '$963 price drop' cumulative; 25 days on Edmunds; 'likely to sell in 2 days'",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
@@ -795,8 +799,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -804,17 +808,17 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 23494
         }
       ],
       "photos": [],
       "location": "Folsom, CA (home delivery)",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; Home delivery from Folsom; stale snippet had $23,794",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies; Home delivery from Folsom; stale snippet had $23,794",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown)",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus 4xe SRP: still $23,494 / 62,886 mi confirmed; home delivery from Folsom, $976 shipping",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
@@ -837,7 +841,7 @@
       "seller": "Dick's Hillsboro Hyundai (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-10-18",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -863,54 +867,13 @@
       ],
       "photos": [],
       "location": "Hillsboro, OR",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "1 owner, 0 accidents, clean title; Hyundai Certified Pre-Owned; advertised price includes fees",
       "concerns": "POSSIBLE SOLD SIGNAL: Dick's own inventory crawl no longer shows this 2022 unit; dealer now lists a 2023 SEL Conv CPO instead \u2014 confirm availability directly before travel; confirm charging cable included; confirm EV range/charge health",
-      "new_vs_prior": "Verified active Nov 12 via live browser (CarGurus detail): still $23,727 / 46,655 mi confirmed; 'No price changes'; Fair Deal $64 below market; Certified Used; 42 days; possible-sold signal stands \u2014 dealer page says contact dealer to check availability; NOTE: a fresh iSeeCars SRP crawl showed $23,477 \u2014 unconfirmed conflict, live detail page controls; confirm charging cable and EV range",
+      "new_vs_prior": "Verified active Nov 13 via live browser (CarGurus detail): still $23,727 / 46,655 mi confirmed; Fair Deal; the fresh iSeeCars $23,477 figure from Nov 12 was NOT confirmed \u2014 live detail page controls; possible-sold signal stands \u2014 confirm availability directly before travel; confirm charging cable and EV range",
       "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
-    },
-    {
-      "id": "url-a505296717bd",
-      "listing_id": "url-a505296717bd",
-      "vin": null,
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Grand Cherokee 4xe",
-      "trim": "Trailhawk",
-      "hybrid_type": "Plug-in hybrid",
-      "drivetrain": "4WD",
-      "price": 23808,
-      "mileage": 26164,
-      "city": "Montclair",
-      "state": "CA",
-      "url": "https://www.westcoastauto.com/pre-owned-cars/Jeep",
-      "marketplace": "dealer",
-      "seller": "West Coast Auto (dealer)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
-      "status": "active",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-11-12",
-          "price": 23808
-        }
-      ],
-      "photos": [],
-      "location": "Montclair, CA",
-      "verification_date": "2026-11-12",
-      "verified_active": true,
-      "history": "CarGurus snippet; WCA price (list $24,156 - $483 + $85 doc + $50 smog); Quick Order Package 22B Altitude",
-      "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies; WCA price (list $24,156 - $483 + $85 doc + $50 smog); Quick Order Package 22B Altitude",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown)",
-      "price_vs_prior": 0,
-      "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
     {
       "id": "vin-1C4RJYB65R8958053",
@@ -930,8 +893,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -939,17 +902,17 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 23894
         }
       ],
       "photos": [],
       "location": "Folsom, CA (home delivery)",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; Home delivery from Folsom",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies; Home delivery from Folsom",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown)",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus 4xe SRP: still $23,894 / 56,201 mi confirmed; home delivery from Folsom, $976 shipping; new arrival",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
@@ -992,7 +955,7 @@
           "price": 24025
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 23901
         }
       ],
@@ -1066,7 +1029,7 @@
       "seller": "Mark Kia (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-10-29",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -1084,62 +1047,13 @@
       ],
       "photos": [],
       "location": "Scottsdale, AZ",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "0 accidents, 1 owner, LEASE vehicle, clean title",
       "concerns": "Edmunds: listing not dealer-verified \u2014 confirm details/fees with dealer before travel; Good Price $1,428 below market",
-      "new_vs_prior": "Verified active Nov 12 via live browser (Edmunds VIN): still $24,092 / 61,753 mi confirmed; Mark Kia, Scottsdale; Good Price $937 below market; 0 accidents, 1 owner, lease vehicle; not dealer-verified",
+      "new_vs_prior": "Verified active Nov 13 via live browser (Edmunds VIN): still $24,092 / 61,753 mi confirmed; Mark Kia, Scottsdale; Good Price $913 below market; 0 accidents, 1 owner, lease vehicle; not dealer-verified",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
-    },
-    {
-      "id": "url-8ca8f04a4748",
-      "listing_id": "url-8ca8f04a4748",
-      "vin": null,
-      "year": 2016,
-      "make": "Toyota",
-      "model": "Highlander Hybrid",
-      "trim": "Limited",
-      "hybrid_type": "Full hybrid",
-      "drivetrain": "Unknown",
-      "price": 24124,
-      "mileage": 104418,
-      "city": "Concord",
-      "state": "CA",
-      "url": "https://www.cargurus.com/Cars/l-Used-2016-Toyota-Highlander-Hybrid-Los-Angeles-c25378_L2163",
-      "marketplace": "CarGurus",
-      "seller": "Dealer (name not shown on card)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-10",
-      "date_last_checked": "2026-11-12",
-      "status": "active",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-11-10",
-          "price": 23381
-        },
-        {
-          "date": "2026-11-10",
-          "price": 29585
-        },
-        {
-          "date": "2026-11-12",
-          "price": 24124
-        }
-      ],
-      "photos": [],
-      "location": "Concord, CA",
-      "verification_date": "2026-11-12",
-      "verified_active": true,
-      "history": "Snippet-level; over 100k mi",
-      "concerns": "NEW Nov 12 \u2014 OVER 100k mi; iSeeCars/CarGurus snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending Home delivery from Concord.",
-      "new_vs_prior": "NEW Nov 12 \u2014 snippet-level (price/city/mileage shown, no VIN) ; over 100k mi",
-      "price_vs_prior": 0,
-      "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable - verify in-service date by VIN (estimate)."
     },
     {
       "id": "vin-1C4RJYB68R8521339",
@@ -1200,8 +1114,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -1209,17 +1123,103 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 24463
         }
       ],
       "photos": [],
       "location": "Sacramento, CA (home delivery)",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; Home delivery from Sacramento",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies; Home delivery from Sacramento",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown)",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus 4xe SRP: still $24,463 / 59,054 mi confirmed; home delivery from Sacramento, $668 shipping",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
+    },
+    {
+      "id": "url-a505296717bd",
+      "listing_id": "url-a505296717bd",
+      "vin": null,
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee 4xe",
+      "trim": "Overland 4WD",
+      "hybrid_type": "Plug-in hybrid",
+      "drivetrain": "4WD",
+      "price": 24464,
+      "mileage": 39807,
+      "city": "Montclair",
+      "state": "CA",
+      "url": "https://www.westcoastauto.com/pre-owned-cars/Jeep",
+      "marketplace": "dealer",
+      "seller": "Westcoast Auto Sales (dealer)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "Accident history mentioned, count unclear",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-11",
+          "price": 23808
+        },
+        {
+          "date": "2026-11-13",
+          "price": 24464
+        }
+      ],
+      "photos": [],
+      "location": "Montclair, CA",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "CarGurus snippet; Good Deal; price includes fees; Diamond Black Crystal Pearlcoat; NOTE: a conflicting dealer-site snippet shows the same car at $24,826 (with a -$497 dealer discount noted) \u2014 dealer price may differ from the CarGurus $24,464",
+      "concerns": "NEW Nov 13 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies; Good Deal; price includes fees; Diamond Black Crystal Pearlcoat; NOTE: a conflicting dealer-site snippet shows the same car at $24,826 (with a -$497 dealer discount noted) \u2014 dealer price may differ from the CarGurus $24,464",
+      "new_vs_prior": "NEW Nov 13 \u2014 CarGurus snippet-level (price/city/mileage shown, no VIN); Good Deal; price includes fees; Diamond Black Crystal Pearlcoat; NOTE: a conflicting dealer-site snippet shows the same car at $24,826 (with a -$497 dealer discount noted) \u2014 dealer price may differ from the CarGurus $24,464",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
+    },
+    {
+      "id": "url-024399adedd8",
+      "listing_id": "url-024399adedd8",
+      "vin": null,
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Grand Cherokee 4xe",
+      "trim": "4WD (trim not stated)",
+      "hybrid_type": "Plug-in hybrid",
+      "drivetrain": "4WD",
+      "price": 24694,
+      "mileage": 50177,
+      "city": "Folsom",
+      "state": "CA (home delivery)",
+      "url": "https://www.cargurus.com/Cars/l-Used-2025-Jeep-Grand-Cherokee-4xe-Spokane-c33629_L38238",
+      "marketplace": "CarGurus",
+      "seller": "Dealer (name not shown on CarGurus card)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-13",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "0 accidents reported",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-13",
+          "price": 24694
+        }
+      ],
+      "photos": [],
+      "location": "Folsom, CA (home delivery)",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "CarGurus snippet; Home delivery from Folsom, $976 shipping; Good Deal; 0 accidents, 1 owner",
+      "concerns": "NEW Nov 13 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies; Home delivery from Folsom, $976 shipping; Good Deal; 0 accidents, 1 owner",
+      "new_vs_prior": "NEW Nov 13 \u2014 CarGurus snippet-level (price/city/mileage shown, no VIN); Home delivery from Folsom, $976 shipping; Good Deal; 0 accidents, 1 owner",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
@@ -1241,7 +1241,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -1250,7 +1250,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 25121
         }
       ],
@@ -1282,8 +1282,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -1291,19 +1291,236 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 25200
         }
       ],
       "photos": [],
       "location": "Spokane Valley, WA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; 'New arrival'",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies; 'New arrival'",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown)",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus 4xe SRP: still $25,200 / 40,272 mi confirmed; new arrival, 1 owner",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
+    },
+    {
+      "id": "url-8a1123efd521",
+      "listing_id": "url-8a1123efd521",
+      "vin": null,
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sorento Hybrid",
+      "trim": "EX",
+      "hybrid_type": "Full hybrid",
+      "drivetrain": "AWD",
+      "price": 25471,
+      "mileage": 48226,
+      "city": "Van Nuys",
+      "state": "CA",
+      "url": "https://www.iseecars.com/used_cars-t5989-used-kia-sorento-hybrid-for-sale",
+      "marketplace": "Cars.com",
+      "seller": "Dealer (name not shown on iSeeCars card)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-10-24",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "Accident history mentioned, count unclear",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-10-24",
+          "price": 25875
+        },
+        {
+          "date": "2026-10-24",
+          "price": 28191
+        },
+        {
+          "date": "2026-10-24",
+          "price": 26105
+        },
+        {
+          "date": "2026-10-27",
+          "price": 25875
+        },
+        {
+          "date": "2026-10-27",
+          "price": 28191
+        },
+        {
+          "date": "2026-10-27",
+          "price": 26105
+        },
+        {
+          "date": "2026-10-28",
+          "price": 25875
+        },
+        {
+          "date": "2026-10-28",
+          "price": 28191
+        },
+        {
+          "date": "2026-10-28",
+          "price": 26105
+        },
+        {
+          "date": "2026-10-28",
+          "price": 28677
+        },
+        {
+          "date": "2026-10-29",
+          "price": 25875
+        },
+        {
+          "date": "2026-10-29",
+          "price": 28191
+        },
+        {
+          "date": "2026-10-29",
+          "price": 26105
+        },
+        {
+          "date": "2026-10-29",
+          "price": 28677
+        },
+        {
+          "date": "2026-10-30",
+          "price": 25875
+        },
+        {
+          "date": "2026-10-30",
+          "price": 28191
+        },
+        {
+          "date": "2026-10-30",
+          "price": 26105
+        },
+        {
+          "date": "2026-10-30",
+          "price": 28677
+        },
+        {
+          "date": "2026-10-30",
+          "price": 28191
+        },
+        {
+          "date": "2026-10-30",
+          "price": 26105
+        },
+        {
+          "date": "2026-10-31",
+          "price": 28191
+        },
+        {
+          "date": "2026-10-31",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-01",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-01",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-02",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-02",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-03",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-03",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-04",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-04",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-05",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-05",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-06",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-06",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-07",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-07",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-08",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-08",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-09",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-09",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-10",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-10",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-11",
+          "price": 28191
+        },
+        {
+          "date": "2026-11-11",
+          "price": 26105
+        },
+        {
+          "date": "2026-11-13",
+          "price": 25471
+        }
+      ],
+      "photos": [],
+      "location": "Van Nuys, CA",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "Snippet-level; under 100k mi",
+      "concerns": "NEW Nov 13 \u2014 iSeeCars/CarGurus snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending; GOOD $2,193 below market; 1 owner; 78 days",
+      "new_vs_prior": "NEW Nov 13 \u2014 snippet-level (price/city/mileage shown, no VIN); GOOD $2,193 below market; 1 owner; 78 days",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-4T3MWRFV3LU001862",
@@ -1323,7 +1540,7 @@
       "marketplace": "dealer",
       "seller": "Toyota of Tri-Cities (dealer)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -1332,7 +1549,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 25495
         }
       ],
@@ -1364,7 +1581,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -1373,7 +1590,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 25497
         }
       ],
@@ -1492,7 +1709,7 @@
       "seller": "CardinaleWay Mazda Mesa (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-11-05",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "No accidents reported",
@@ -1504,18 +1721,18 @@
           "price": 26284
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 25784
         }
       ],
       "photos": [],
       "location": "Mesa, AZ",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "Clean CARFAX, 1-owner, 120-point inspection",
       "concerns": "Price includes $999 documentation fee and $699 premium window tint",
-      "new_vs_prior": "PRICE DROP Nov 12 via live browser (CarGurus detail): now $25,784, down $500 from $26,284 (old price struck through, 'Price decreased $500'); 52,065 mi unchanged; CardinaleWay Mazda, Mesa; Great Deal $2,796 below market; 22 days; no accidents, 1 owner",
-      "price_vs_prior": -500,
+      "new_vs_prior": "Verified active Nov 13 via live browser (CarGurus detail): still $25,784 / 52,065 mi confirmed; Great Deal $2,796 below market; $500 price decrease (from $26,284); 23 days; no accidents, 1 owner; price includes fees",
+      "price_vs_prior": 0,
       "battery_warranty_note": null
     },
     {
@@ -1537,7 +1754,7 @@
       "seller": "West Coast Toyota (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-11-06",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "No accidents reported",
@@ -1549,18 +1766,18 @@
           "price": 26117
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 25917
         }
       ],
       "photos": [],
       "location": "Long Beach, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "No accident/title statement on fetched page - unconfirmed",
       "concerns": "No accident/title statement on the fetched page \u2014 confirm history before travel; price excludes tax, title, license and an $85 doc fee",
-      "new_vs_prior": "PRICE DROP Nov 12 via live browser (CarGurus detail): now $25,917, down $200 from $26,117 (old price struck through, 'Price decreased $200'); 66,107 mi unchanged; West Coast Toyota, Long Beach; Fair Deal $885 above market; 23 days; no accidents, 1 owner",
-      "price_vs_prior": -200,
+      "new_vs_prior": "Verified active Nov 13 via live browser (CarGurus detail): still $25,917 / 66,107 mi confirmed; Fair Deal $885 above market; 24 days; no accidents, 1 owner; page says 'Price includes fees' but disclaimer excludes tax/title/license/other fees",
+      "price_vs_prior": 0,
       "battery_warranty_note": null
     },
     {
@@ -1581,28 +1798,113 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
-      "accident_history": "No accidents reported",
+      "accident_history": "0 accidents reported",
       "history_basis": "unknown",
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 25961
         }
       ],
       "photos": [],
       "location": "Sherman Oaks, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; 'New arrival', no accidents, 1 owner",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; detail verification pending",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown); new arrival",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus Outlander SRP: still $25,961 / 46,114 mi confirmed; new arrival, 0 accidents, 1 owner",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified \u2014 confirm with a Mitsubishi dealer by VIN."
+    },
+    {
+      "id": "url-8ca8f04a4748",
+      "listing_id": "url-8ca8f04a4748",
+      "vin": null,
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Highlander Hybrid",
+      "trim": "Platinum AWD",
+      "hybrid_type": "Full hybrid",
+      "drivetrain": "AWD",
+      "price": 25970,
+      "mileage": 127742,
+      "city": "Woodinville",
+      "state": "WA (delivery)",
+      "url": "https://www.cargurus.com/Cars/l-Used-2016-Toyota-Highlander-Hybrid-Los-Angeles-c25378_L2163",
+      "marketplace": "CarGurus",
+      "seller": "Dealer (name not shown on card)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-10",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "Accident history mentioned, count unclear",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-10",
+          "price": 23381
+        },
+        {
+          "date": "2026-11-10",
+          "price": 29585
+        },
+        {
+          "date": "2026-11-11",
+          "price": 28959
+        },
+        {
+          "date": "2026-11-11",
+          "price": 25737
+        },
+        {
+          "date": "2026-11-11",
+          "price": 22250
+        },
+        {
+          "date": "2026-11-11",
+          "price": 24072
+        },
+        {
+          "date": "2026-11-11",
+          "price": 25900
+        },
+        {
+          "date": "2026-11-11",
+          "price": 21046
+        },
+        {
+          "date": "2026-11-11",
+          "price": 20082
+        },
+        {
+          "date": "2026-11-11",
+          "price": 20240
+        },
+        {
+          "date": "2026-11-11",
+          "price": 24124
+        },
+        {
+          "date": "2026-11-13",
+          "price": 25970
+        }
+      ],
+      "photos": [],
+      "location": "Woodinville, WA (delivery)",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "Snippet-level; over 100k mi",
+      "concerns": "NEW Nov 13 \u2014 snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending; OVER 100k mi; Overpriced per CarGurus; delivery from Woodinville +$975",
+      "new_vs_prior": "NEW Nov 13 \u2014 snippet-level (price/city/mileage shown, no VIN) ; over 100k mi ; Overpriced per CarGurus; delivery from Woodinville +$975",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "Toyota HV battery 8yr/100k for 2015-2019 model years \u2014 factory coverage largely or fully expired at this age/mileage; budget for eventual replacement (estimate)."
     },
     {
       "id": "vin-5TDHBRCH6LS511765",
@@ -1622,7 +1924,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -1631,7 +1933,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 25995
         }
       ],
@@ -1664,7 +1966,7 @@
       "seller": "Caposio Buick GMC (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-10-28",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -1688,18 +1990,18 @@
           "price": 26122
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 26000
         }
       ],
       "photos": [],
       "location": "Victorville, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "AutoCheck: 0 accidents, 1 owner, LEASE vehicle, clean title; Edmunds Fair Price $430 below market; stock 260920A",
       "concerns": "LEASE vehicle history; confirm charging cable, EV range/charge health, fees and out-the-door price",
-      "new_vs_prior": "PRICE DROP Nov 12 via live CarGurus SRP: now $26,000, down $122 from $26,122; 37,177 mi unchanged; Caposio Buick GMC, Victorville; CarGurus' own badge says -$1,080 from its $26,995 reference price; no accidents, 1 owner",
-      "price_vs_prior": -122,
+      "new_vs_prior": "Verified active Nov 13 via live browser (CarGurus detail): still $26,000 / 37,177 mi confirmed; Good Deal $1,892 below market; CarGurus now shows $995 total decrease (from $26,995) vs the $122 drop noted Nov 12 \u2014 headline price unchanged vs Nov 12; 69 days, selling slowly; 0 accidents, 1 owner",
+      "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
@@ -1742,6 +2044,22 @@
         },
         {
           "date": "2026-11-10",
+          "price": 26084
+        },
+        {
+          "date": "2026-11-11",
+          "price": 26580
+        },
+        {
+          "date": "2026-11-11",
+          "price": 25974
+        },
+        {
+          "date": "2026-11-11",
+          "price": 26080
+        },
+        {
+          "date": "2026-11-11",
           "price": 26084
         }
       ],
@@ -1786,7 +2104,11 @@
           "price": 29032
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
+          "price": 28998
+        },
+        {
+          "date": "2026-11-11",
           "price": 26385
         }
       ],
@@ -1983,7 +2305,7 @@
       "seller": "Toyota of Orange (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-11-10",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -2005,15 +2327,31 @@
         {
           "date": "2026-11-10",
           "price": 26599
+        },
+        {
+          "date": "2026-11-11",
+          "price": 22695
+        },
+        {
+          "date": "2026-11-11",
+          "price": 20484
+        },
+        {
+          "date": "2026-11-11",
+          "price": 23900
+        },
+        {
+          "date": "2026-11-11",
+          "price": 26599
         }
       ],
       "photos": [],
       "location": "Orange, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "Capital One snippet",
       "concerns": "NEW Nov 11 \u2014 Capital One snippet-level only; no VIN shown; title/accident/owner history, fees unknown; Capital One page NOT re-checked (decision pending)",
-      "new_vs_prior": "Verified active Nov 12 via fresh Capital One snippet: still $26,599 / 53,149 mi confirmed; Toyota of Orange",
+      "new_vs_prior": "Verified active Nov 13 via fresh iSeeCars SRP: still $26,599 / 53,149 mi confirmed; Toyota of Orange",
       "price_vs_prior": 0,
       "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
@@ -2035,7 +2373,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -2044,7 +2382,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 26617
         }
       ],
@@ -2076,7 +2414,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -2085,7 +2423,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 26782
         }
       ],
@@ -2117,7 +2455,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -2126,7 +2464,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 26797
         }
       ],
@@ -2139,6 +2477,67 @@
       "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/mileage/VIN shown); store transfer to Spokane, WA",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
+    },
+    {
+      "id": "url-68ceed32f020",
+      "listing_id": "url-68ceed32f020",
+      "vin": null,
+      "year": 2017,
+      "make": "Toyota",
+      "model": "Highlander Hybrid",
+      "trim": "Limited Platinum",
+      "hybrid_type": "Full hybrid",
+      "drivetrain": "AWD",
+      "price": 26879,
+      "mileage": 109679,
+      "city": "Escondido",
+      "state": "CA",
+      "url": "https://www.iseecars.com/used_cars-t10341-toyota-highlander-hybrid-san-diego-ca",
+      "marketplace": "Cars.com",
+      "seller": "Dealer (name not shown on card)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-10",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "Accident history mentioned, count unclear",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-10",
+          "price": 28337
+        },
+        {
+          "date": "2026-11-10",
+          "price": 26450
+        },
+        {
+          "date": "2026-11-11",
+          "price": 28327
+        },
+        {
+          "date": "2026-11-11",
+          "price": 26450
+        },
+        {
+          "date": "2026-11-11",
+          "price": 27035
+        },
+        {
+          "date": "2026-11-13",
+          "price": 26879
+        }
+      ],
+      "photos": [],
+      "location": "Escondido, CA",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "Snippet-level; over 100k mi",
+      "concerns": "NEW Nov 13 \u2014 snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending; OVER 100k mi; 57 days; market $24,543 (no deal badge)",
+      "new_vs_prior": "NEW Nov 13 \u2014 snippet-level (price/city/mileage shown, no VIN) ; over 100k mi ; 57 days; market $24,543 (no deal badge)",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "Toyota HV battery 8yr/100k for 2015-2019 model years \u2014 factory coverage largely or fully expired at this age/mileage; budget for eventual replacement (estimate)."
     },
     {
       "id": "vin-KNDRJDLH3N5122875",
@@ -2159,7 +2558,7 @@
       "seller": "Palm Springs Kia (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-10-28",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -2185,62 +2584,13 @@
       ],
       "photos": [],
       "location": "Cathedral City, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "AutoCheck: 0 accidents, 1 owner, personal use, clean title",
       "concerns": "Listing not dealer-verified (Edmunds: offered subject to prior sale); confirm charging cable, EV range/charge health, fees and out-the-door price",
-      "new_vs_prior": "Verified active Nov 12 via live browser (Edmunds VIN): still $26,898 / 35,609 mi confirmed; Palm Springs Kia, Cathedral City; Good Price $1,481 below market; 0 accidents, 1 owner; offered as of 11/12/2026; not dealer-verified",
+      "new_vs_prior": "Verified active Nov 13 via live browser (Edmunds VIN): still $26,898 / 35,609 mi confirmed; Palm Springs Kia, Cathedral City; Good Price $1,293 below market; 0 accidents, 1 owner; not dealer-verified",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
-    },
-    {
-      "id": "url-68ceed32f020",
-      "listing_id": "url-68ceed32f020",
-      "vin": null,
-      "year": 2017,
-      "make": "Toyota",
-      "model": "Highlander Hybrid",
-      "trim": "Limited",
-      "hybrid_type": "Full hybrid",
-      "drivetrain": "Unknown",
-      "price": 27035,
-      "mileage": 97246,
-      "city": "San Diego",
-      "state": "CA",
-      "url": "https://www.iseecars.com/used_cars-t10341-toyota-highlander-hybrid-san-diego-ca",
-      "marketplace": "Cars.com",
-      "seller": "Dealer (name not shown on card)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-10",
-      "date_last_checked": "2026-11-12",
-      "status": "active",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-11-10",
-          "price": 28337
-        },
-        {
-          "date": "2026-11-10",
-          "price": 26450
-        },
-        {
-          "date": "2026-11-12",
-          "price": 27035
-        }
-      ],
-      "photos": [],
-      "location": "San Diego, CA",
-      "verification_date": "2026-11-12",
-      "verified_active": true,
-      "history": "Snippet-level; under 100k mi",
-      "concerns": "NEW Nov 12 \u2014 iSeeCars/CarGurus snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending",
-      "new_vs_prior": "NEW Nov 12 \u2014 snippet-level (price/city/mileage shown, no VIN)",
-      "price_vs_prior": 0,
-      "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable - verify in-service date by VIN (estimate)."
     },
     {
       "id": "vin-KNDRMDLH3N5071823",
@@ -2277,7 +2627,7 @@
           "price": 26934
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 27106
         }
       ],
@@ -2367,7 +2717,7 @@
           "price": 24990
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 27117
         }
       ],
@@ -2440,7 +2790,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -2449,7 +2799,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 27347
         }
       ],
@@ -2481,7 +2831,7 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -2490,7 +2840,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 27488
         }
       ],
@@ -2563,7 +2913,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -2572,7 +2922,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 27697
         }
       ],
@@ -2604,26 +2954,26 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
-      "accident_history": "No accidents reported",
+      "accident_history": "0 accidents reported",
       "history_basis": "unknown",
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 27870
         }
       ],
       "photos": [],
       "location": "Sherman Oaks, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; no accidents, 1 owner (trim not stated on card; SE inferred from VIN prefix)",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; detail verification pending",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown)",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus Outlander SRP: still $27,870 / 44,657 mi confirmed; 0 accidents, 1 owner",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified \u2014 confirm with a Mitsubishi dealer by VIN."
     },
@@ -2646,7 +2996,7 @@
       "seller": "Bill Luke Chrysler Dodge Jeep Ram (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-10-27",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": "Clean title",
       "accident_history": "0 accidents reported",
@@ -2668,62 +3018,13 @@
       ],
       "photos": [],
       "location": "Phoenix, AZ",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "0 accidents, 1 owner, personal use, clean title; 18 days on Edmunds",
       "concerns": "Prices exclude tax/title/license",
-      "new_vs_prior": "Verified active Nov 12 via live browser (Edmunds VIN): still $27,972 total ($27,273 + $699 doc fee) / 58,687 mi confirmed; Bill Luke, Phoenix; Good Price $1,213 below market; '$1,001 price drop' cumulative; 36 days on Edmunds; 'likely to sell any day now'",
+      "new_vs_prior": "Verified active Nov 13 via live browser (Edmunds VIN): still $27,972 total ($27,273 + $699 doc fee) / 58,687 mi confirmed; Bill Luke, Phoenix; Good Price $1,161 below market; '$1,001 price drop' cumulative; 37 days on Edmunds; 0 accidents, 1 owner",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
-    },
-    {
-      "id": "url-d63eb81d82e4",
-      "listing_id": "url-d63eb81d82e4",
-      "vin": null,
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Santa Fe Plug-In Hybrid",
-      "trim": "Limited",
-      "hybrid_type": "Plug-in hybrid",
-      "drivetrain": "AWD",
-      "price": 27981,
-      "mileage": 37716,
-      "city": "La Quinta",
-      "state": "CA",
-      "url": "https://www.iseecars.com/used_cars-t5989-used-hyundai-santa-fe-plug-in-hybrid-for-sale",
-      "marketplace": "Cars.com",
-      "seller": "Dealer (name not shown on iSeeCars card)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-10",
-      "date_last_checked": "2026-11-12",
-      "status": "active",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-11-10",
-          "price": 25995
-        },
-        {
-          "date": "2026-11-10",
-          "price": 25703
-        },
-        {
-          "date": "2026-11-10",
-          "price": 27981
-        }
-      ],
-      "photos": [],
-      "location": "La Quinta, CA",
-      "verification_date": "2026-11-12",
-      "verified_active": true,
-      "history": "iSeeCars snippet",
-      "concerns": "NEW Nov 11 \u2014 iSeeCars snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending",
-      "new_vs_prior": "Verified active Nov 12 via fresh iSeeCars SRP: still $27,981 / 37,716 mi confirmed",
-      "price_vs_prior": 0,
-      "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
     {
       "id": "url-df90feebd337",
@@ -2784,8 +3085,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "No accidents reported",
@@ -2793,17 +3094,17 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 28035
         }
       ],
       "photos": [],
       "location": "Huntington Beach, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; manufacturer certified, no accidents, 1 owner; was $29,035 (-$1,000)",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; detail verification pending",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown); manufacturer certified",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus CX-90 SRP: still $28,035 / 20,107 mi confirmed; manufacturer certified, 0/1; its -$1,110 price-drop tag is already reflected in this price",
       "price_vs_prior": 0,
       "battery_warranty_note": "Mazda PHEV battery warranty 96 mo/100,000 mi per dealer page (Irvine unit) \u2014 NOT verified for this VIN; confirm with a Mazda dealer."
     },
@@ -2826,7 +3127,7 @@
       "seller": "Tuttle-Click Mazda (dealer)",
       "discovery_agent": "Muse",
       "date_first_discovered": "2026-10-21",
-      "date_last_checked": "2026-11-12",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": null,
@@ -2848,11 +3149,11 @@
       ],
       "photos": [],
       "location": "Irvine, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CARFAX 1-Owner; battery warranty 96 months / 100,000 miles",
       "concerns": "$85 doc processing + $37 electronic registration included in total price; $99 LoJack (1 yr service) pre-equipped; $50 smog fee if applicable; 26-mi electric range",
-      "new_vs_prior": "Verified active Nov 12 via fresh dealer detail page: still $28,109 total (retail $27,888 + $99 LoJack + $85 doc + $37 ERF) / 41,677 mi confirmed; Tuttle-Click Mazda, Irvine; Soul Red Crystal Metallic, CARFAX 1-owner, battery warranty 96 mo/100,000 mi; was $30,988",
+      "new_vs_prior": "Verified active Nov 13 via live browser (dealer detail page): still $28,109 total (retail $27,888 + $122 doc/ERF + $99 LoJack) / 41,677 mi confirmed; Tuttle-Click Mazda, Irvine; CARFAX 1-Owner; battery warranty 96 mo/100,000 mi; was $30,988",
       "price_vs_prior": 0,
       "battery_warranty_note": "Battery warranty 96 months / 100,000 miles shown on dealer page (estimate, confirm by VIN)"
     },
@@ -2997,7 +3298,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -3006,7 +3307,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 28597
         }
       ],
@@ -3066,55 +3367,6 @@
       "battery_warranty_note": "Jeep 4xe battery warranty: confirm by VIN with dealer (estimate, not verified)."
     },
     {
-      "id": "url-ec19df75d8ef",
-      "listing_id": "url-ec19df75d8ef",
-      "vin": null,
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sorento Hybrid",
-      "trim": "SX Prestige AWD",
-      "hybrid_type": "Full hybrid",
-      "drivetrain": "AWD",
-      "price": 28696,
-      "mileage": 61238,
-      "city": "Olympia",
-      "state": "WA",
-      "url": "https://www.cargurus.com/Cars/s-Used-Black-Kia-Sorento-Hybrid-d3106_spt335",
-      "marketplace": "CarGurus",
-      "seller": "Dealer (name not shown on CarGurus card)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-10",
-      "date_last_checked": "2026-11-11",
-      "status": "active",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-11-10",
-          "price": 28153
-        },
-        {
-          "date": "2026-11-10",
-          "price": 24750
-        },
-        {
-          "date": "2026-11-10",
-          "price": 28696
-        }
-      ],
-      "photos": [],
-      "location": "Olympia, WA",
-      "verification_date": "2026-11-11",
-      "verified_active": true,
-      "history": "CarGurus snippet; Good Deal; resolves the unconfirmed Olympia unit tracked since Nov 10 ($29,467/$28,696) at $28,696",
-      "concerns": "NEW Nov 11 \u2014 CarGurus snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending",
-      "new_vs_prior": "NEW Nov 11 \u2014 CarGurus snippet-level (price/city/mileage shown, no VIN); resolves unconfirmed Olympia signal at $28,696",
-      "price_vs_prior": 0,
-      "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
-    },
-    {
       "id": "vin-JA4T5VA93PZ035186",
       "listing_id": "vin-JA4T5VA93PZ035186",
       "vin": "JA4T5VA93PZ035186",
@@ -3132,7 +3384,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -3141,7 +3393,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 28697
         }
       ],
@@ -3154,6 +3406,59 @@
       "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/mileage/VIN shown); store transfer to Ontario, CA",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified \u2014 confirm with a Mitsubishi dealer by VIN."
+    },
+    {
+      "id": "vin-KNDRH4LG8P5199165",
+      "listing_id": "vin-KNDRH4LG8P5199165",
+      "vin": "KNDRH4LG8P5199165",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sorento Hybrid",
+      "trim": "EX FWD (Kia Certified Pre-Owned)",
+      "hybrid_type": "Full hybrid",
+      "drivetrain": "FWD",
+      "price": 28752,
+      "mileage": 33259,
+      "city": "Cerritos",
+      "state": "CA",
+      "url": "https://www.cargurus.com/details/458202488",
+      "marketplace": "CarGurus",
+      "seller": "Kia of Cerritos (dealer)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-03",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": "Clean title",
+      "accident_history": "0 accidents reported",
+      "history_basis": "verified",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-03",
+          "price": 28901
+        },
+        {
+          "date": "2026-11-06",
+          "price": 28900
+        },
+        {
+          "date": "2026-11-10",
+          "price": 28897
+        },
+        {
+          "date": "2026-11-13",
+          "price": 28752
+        }
+      ],
+      "photos": [],
+      "location": "Cerritos, CA",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "Kia Certified Pre-Owned; 1-owner, clean CARFAX",
+      "concerns": "NEW Nov 3 - CarGurus detail-verified; history/accidents/owners not shown on summary - confirm history, title, and CPO coverage in writing before travel; FWD only (AWD is bonus, acceptable); near price ceiling; struck-through $28,902 shown ($1 difference, not a material drop)",
+      "new_vs_prior": "PRICE DROP Nov 13 via live browser (CarGurus detail): now $28,752, down $145 from $28,897; 33,259 mi unchanged; Fair Deal $1,016 above market; 69 days, selling slowly; Kia of Cerritos CPO; 0 accidents, 1 owner, clean title",
+      "price_vs_prior": -145,
+      "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO may restore 10yr/100k powertrain coverage - confirm VIN eligibility with dealer (estimate)."
     },
     {
       "id": "vin-JM3KKDHA2R1152609",
@@ -3173,26 +3478,26 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
-      "accident_history": "No accidents reported",
+      "accident_history": "0 accidents reported",
       "history_basis": "unknown",
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 28766
         }
       ],
       "photos": [],
       "location": "Cerritos, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; manufacturer certified, no accidents, 1 owner",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; detail verification pending",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown); manufacturer certified",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus CX-90 SRP: still $28,766 / 40,333 mi confirmed; manufacturer certified, 0 accidents, 1 owner",
       "price_vs_prior": 0,
       "battery_warranty_note": "Mazda PHEV battery warranty 96 mo/100,000 mi per dealer page (Irvine unit) \u2014 NOT verified for this VIN; confirm with a Mazda dealer."
     },
@@ -3238,55 +3543,6 @@
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
-      "id": "vin-KNDRH4LG8P5199165",
-      "listing_id": "vin-KNDRH4LG8P5199165",
-      "vin": "KNDRH4LG8P5199165",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sorento Hybrid",
-      "trim": "EX FWD (Kia Certified Pre-Owned)",
-      "hybrid_type": "Full hybrid",
-      "drivetrain": "FWD",
-      "price": 28897,
-      "mileage": 33259,
-      "city": "Cerritos",
-      "state": "CA",
-      "url": "https://www.cargurus.com/details/458202488",
-      "marketplace": "CarGurus",
-      "seller": "Kia of Cerritos (dealer)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-03",
-      "date_last_checked": "2026-11-12",
-      "status": "active",
-      "title_history": null,
-      "accident_history": null,
-      "history_basis": "verified",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-11-03",
-          "price": 28901
-        },
-        {
-          "date": "2026-11-06",
-          "price": 28900
-        },
-        {
-          "date": "2026-11-10",
-          "price": 28897
-        }
-      ],
-      "photos": [],
-      "location": "Cerritos, CA",
-      "verification_date": "2026-11-12",
-      "verified_active": true,
-      "history": "Kia Certified Pre-Owned; 1-owner, clean CARFAX",
-      "concerns": "NEW Nov 3 - CarGurus detail-verified; history/accidents/owners not shown on summary - confirm history, title, and CPO coverage in writing before travel; FWD only (AWD is bonus, acceptable); near price ceiling; struck-through $28,902 shown ($1 difference, not a material drop)",
-      "new_vs_prior": "Verified active Nov 12 via live browser (CarGurus detail): still $28,897 / 33,259 mi confirmed; struck $28,900, 'Price decreased $3'; Kia of Cerritos CPO; High Priced $1,161 above market; 'Selling slowly', 68 days",
-      "price_vs_prior": 0,
-      "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; CPO may restore 10yr/100k powertrain coverage - confirm VIN eligibility with dealer (estimate)."
-    },
-    {
       "id": "vin-1C4RJYB63R8957760",
       "listing_id": "vin-1C4RJYB63R8957760",
       "vin": "1C4RJYB63R8957760",
@@ -3304,8 +3560,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -3313,17 +3569,17 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 28997
         }
       ],
       "photos": [],
       "location": "Spokane, WA (store transfer)",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; store-transfer unit, offered for transfer to Spokane, WA \u2014 origin not stated",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; store transfer, origin not stated; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/mileage/VIN shown); store transfer to Spokane, WA",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus 4xe SRP: still $28,997 / 27,254 mi confirmed; store transfer to Spokane, includes $1,999 shipping",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
     },
@@ -3345,8 +3601,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -3354,19 +3610,124 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 28997
         }
       ],
       "photos": [],
       "location": "Spokane, WA (store transfer)",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; store-transfer unit, offered for transfer to Spokane, WA \u2014 origin not stated",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; store transfer, origin not stated; seller identity, title/accident/owner history, fees unknown; confirm 4xe recall remedies",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/mileage/VIN shown); store transfer to Spokane, WA",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus 4xe SRP: still $28,997 / 29,876 mi confirmed; store transfer to Spokane, $1,999 shipping; 1 owner",
       "price_vs_prior": 0,
       "battery_warranty_note": "NOT verified for this VIN \u2014 confirm with a Jeep dealer; recall remedies must be verified first."
+    },
+    {
+      "id": "url-5e66532a62e6",
+      "listing_id": "url-5e66532a62e6",
+      "vin": null,
+      "year": 2022,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "trim": "XLE Premium AWD",
+      "hybrid_type": "Full hybrid",
+      "drivetrain": "AWD",
+      "price": 29080,
+      "mileage": 78505,
+      "city": "Orange",
+      "state": "CA",
+      "url": "https://www.cargurus.com/Cars/l-Used-Toyota-RAV4-Hybrid-Victorville-d2318_L2464",
+      "marketplace": "CarGurus",
+      "seller": "Dealer (name not shown on CarGurus card)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-10",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "0 accidents reported",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-10",
+          "price": 29685
+        },
+        {
+          "date": "2026-11-10",
+          "price": 23084
+        },
+        {
+          "date": "2026-11-11",
+          "price": 29685
+        },
+        {
+          "date": "2026-11-11",
+          "price": 23084
+        },
+        {
+          "date": "2026-11-11",
+          "price": 28185
+        },
+        {
+          "date": "2026-11-11",
+          "price": 29084
+        },
+        {
+          "date": "2026-11-11",
+          "price": 29043
+        },
+        {
+          "date": "2026-11-11",
+          "price": 27122
+        },
+        {
+          "date": "2026-11-11",
+          "price": 24147
+        },
+        {
+          "date": "2026-11-11",
+          "price": 25899
+        },
+        {
+          "date": "2026-11-11",
+          "price": 27080
+        },
+        {
+          "date": "2026-11-11",
+          "price": 26032
+        },
+        {
+          "date": "2026-11-11",
+          "price": 21880
+        },
+        {
+          "date": "2026-11-11",
+          "price": 27123
+        },
+        {
+          "date": "2026-11-11",
+          "price": 22076
+        },
+        {
+          "date": "2026-11-11",
+          "price": 22892
+        },
+        {
+          "date": "2026-11-13",
+          "price": 29080
+        }
+      ],
+      "photos": [],
+      "location": "Orange, CA",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "Snippet-level; under 100k mi",
+      "concerns": "NEW Nov 13 \u2014 COMPACT CROSSOVER, smaller than midsize \u2014 included as exceptional value; CarGurus snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; Good Deal; 0 accidents, 1 owner",
+      "new_vs_prior": "NEW Nov 13 \u2014 snippet-level (price/city/mileage shown, no VIN); compact crossover, exceptional value; Good Deal; 0 accidents, 1 owner",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "Toyota HV battery 10yr/150k from in-service date (2020+), transferable - verify in-service date by VIN (estimate)."
     },
     {
       "id": "vin-KNDRMDLH7N5119727",
@@ -3410,6 +3771,112 @@
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
+      "id": "url-ec19df75d8ef",
+      "listing_id": "url-ec19df75d8ef",
+      "vin": null,
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sorento Hybrid",
+      "trim": "EX FWD",
+      "hybrid_type": "Full hybrid",
+      "drivetrain": "AWD",
+      "price": 29297,
+      "mileage": 27500,
+      "city": "Tolleson",
+      "state": "AZ",
+      "url": "https://www.cargurus.com/Cars/s-Used-Black-Kia-Sorento-Hybrid-d3106_spt335",
+      "marketplace": "CarGurus",
+      "seller": "CarMax (dealer, transfer to Tolleson, AZ)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-10",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "Accident history mentioned, count unclear",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-10",
+          "price": 28153
+        },
+        {
+          "date": "2026-11-10",
+          "price": 24750
+        },
+        {
+          "date": "2026-11-10",
+          "price": 28696
+        },
+        {
+          "date": "2026-11-11",
+          "price": 28153
+        },
+        {
+          "date": "2026-11-11",
+          "price": 24750
+        },
+        {
+          "date": "2026-11-11",
+          "price": 28696
+        },
+        {
+          "date": "2026-11-13",
+          "price": 29297
+        }
+      ],
+      "photos": [],
+      "location": "Tolleson, AZ",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "Snippet-level; under 100k mi",
+      "concerns": "NEW Nov 13 \u2014 iSeeCars/CarGurus snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending; CarMax transfer listing to Tolleson AZ; confirm transfer fee and out-the-door price",
+      "new_vs_prior": "NEW Nov 13 \u2014 snippet-level (price/city/mileage shown, no VIN); CarMax transfer listing to Tolleson AZ; confirm transfer fee and out-the-door price",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
+    },
+    {
+      "id": "url-3bcb78ee8f0b",
+      "listing_id": "url-3bcb78ee8f0b",
+      "vin": null,
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Santa Fe Plug-In Hybrid",
+      "trim": "Limited",
+      "hybrid_type": "Plug-in hybrid",
+      "drivetrain": "AWD",
+      "price": 29349,
+      "mileage": 36108,
+      "city": "Carson City",
+      "state": "NV",
+      "url": "https://www.carsoncityhyundai.com/search/used-cars-hyundai-santa-fe-plug-in-hybrid/?md=11494&tp=used",
+      "marketplace": "dealer",
+      "seller": "Carson City Hyundai (dealer)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-13",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "0 accidents reported",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-13",
+          "price": 29349
+        }
+      ],
+      "photos": [],
+      "location": "Carson City, NV",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "Snippet-level; under 100k mi",
+      "concerns": "NEW Nov 13 \u2014 snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending; confirm charging cable + EV-battery health; Second Carson City Limited at same dealer; manufacturer certified, 0 accidents, 1 owner; Good Deal",
+      "new_vs_prior": "NEW Nov 13 \u2014 snippet-level (price/city/mileage shown, no VIN); Second Carson City Limited at same dealer; manufacturer certified, 0 accidents, 1 owner; Good Deal",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
+    },
+    {
       "id": "vin-JM3KKBHA8R1135673",
       "listing_id": "vin-JM3KKBHA8R1135673",
       "vin": "JM3KKBHA8R1135673",
@@ -3427,8 +3894,8 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "No accidents reported",
@@ -3436,17 +3903,17 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 29467
         }
       ],
       "photos": [],
       "location": "Westlake Village, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "CarGurus snippet; manufacturer certified, no accidents, 1 owner; was $31,117 (-$1,650)",
       "concerns": "NEW Nov 12 \u2014 CarGurus snippet-level only; seller identity, title/accident/owner history, fees unknown; detail verification pending",
-      "new_vs_prior": "NEW Nov 12 \u2014 CarGurus snippet-level (price/city/mileage/VIN shown); manufacturer certified",
+      "new_vs_prior": "Verified active Nov 13 via fresh CarGurus CX-90 SRP: still $29,467 / 20,137 mi confirmed; manufacturer certified, 0/1; its -$1,650 price-drop tag is already reflected in this price",
       "price_vs_prior": 0,
       "battery_warranty_note": "Mazda PHEV battery warranty 96 mo/100,000 mi per dealer page (Irvine unit) \u2014 NOT verified for this VIN; confirm with a Mazda dealer."
     },
@@ -3481,7 +3948,7 @@
           "price": 29997
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 29497
         }
       ],
@@ -3513,7 +3980,7 @@
       "marketplace": "CarGurus",
       "seller": "Dealer (name not shown on CarGurus card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
       "date_last_checked": "2026-11-12",
       "status": "active",
       "title_history": null,
@@ -3522,7 +3989,7 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 29539
         }
       ],
@@ -3554,8 +4021,8 @@
       "marketplace": "Cars.com",
       "seller": "Dealer (name not shown on iSeeCars card)",
       "discovery_agent": "Muse",
-      "date_first_discovered": "2026-11-12",
-      "date_last_checked": "2026-11-12",
+      "date_first_discovered": "2026-11-11",
+      "date_last_checked": "2026-11-13",
       "status": "active",
       "title_history": null,
       "accident_history": "Accident history mentioned, count unclear",
@@ -3563,17 +4030,17 @@
       "maintenance_history": null,
       "price_history": [
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 29693
         }
       ],
       "photos": [],
       "location": "Los Angeles, CA",
-      "verification_date": "2026-11-12",
+      "verification_date": "2026-11-13",
       "verified_active": true,
       "history": "Fresh iSeeCars crawl Nov 10; lowest-mileage SX Prestige in the pool",
       "concerns": "NEW Nov 10 \u2014 iSeeCars SRP-level only; seller, VIN, drivetrain, title/accident/owner history, fees unknown; detail verification pending",
-      "new_vs_prior": "Verified active Nov 12 via fresh iSeeCars SRP: still $29,693 / 11,459 mi confirmed; VIN KNDRMDLGXP5137679 now shown \u2014 KNDRMDLG prefix normally indicates PHEV, so confirm powertrain/VIN before presenting as a full hybrid",
+      "new_vs_prior": "Verified active Nov 13 via fresh iSeeCars SRP: still $29,693 / 11,459 mi confirmed; GREAT DEAL $7,066 below market; 1 owner, 58 days; VIN KNDRMDLGXP5137679 \u2014 KNDRMDLG prefix normally indicates PHEV, so confirm powertrain/VIN before presenting as a full hybrid",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
@@ -3612,7 +4079,7 @@
           "price": 29534
         },
         {
-          "date": "2026-11-12",
+          "date": "2026-11-11",
           "price": 29706
         }
       ],
@@ -3666,6 +4133,71 @@
       "new_vs_prior": "NEW Nov 10 \u2014 CarGurus snippet-level (price/city/mileage shown, no VIN)",
       "price_vs_prior": 0,
       "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
+    },
+    {
+      "id": "url-d63eb81d82e4",
+      "listing_id": "url-d63eb81d82e4",
+      "vin": null,
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Santa Fe Plug-In Hybrid",
+      "trim": "Limited",
+      "hybrid_type": "Plug-in hybrid",
+      "drivetrain": "AWD",
+      "price": 29917,
+      "mileage": 51843,
+      "city": "Long Beach",
+      "state": "CA",
+      "url": "https://www.iseecars.com/used_cars-t5989-used-hyundai-santa-fe-plug-in-hybrid-for-sale",
+      "marketplace": "Cars.com",
+      "seller": "Dealer (name not shown on card)",
+      "discovery_agent": "Muse",
+      "date_first_discovered": "2026-11-10",
+      "date_last_checked": "2026-11-13",
+      "status": "active",
+      "title_history": null,
+      "accident_history": "Accident history mentioned, count unclear",
+      "history_basis": "unknown",
+      "maintenance_history": null,
+      "price_history": [
+        {
+          "date": "2026-11-10",
+          "price": 25995
+        },
+        {
+          "date": "2026-11-10",
+          "price": 25703
+        },
+        {
+          "date": "2026-11-10",
+          "price": 27981
+        },
+        {
+          "date": "2026-11-11",
+          "price": 25995
+        },
+        {
+          "date": "2026-11-11",
+          "price": 25703
+        },
+        {
+          "date": "2026-11-11",
+          "price": 27981
+        },
+        {
+          "date": "2026-11-13",
+          "price": 29917
+        }
+      ],
+      "photos": [],
+      "location": "Long Beach, CA",
+      "verification_date": "2026-11-13",
+      "verified_active": true,
+      "history": "Snippet-level; under 100k mi",
+      "concerns": "NEW Nov 13 \u2014 snippet-level only; no VIN shown; seller identity, title/accident/owner history, fees unknown; detail verification pending; confirm charging cable + EV-battery health; 15 days",
+      "new_vs_prior": "NEW Nov 13 \u2014 snippet-level (price/city/mileage shown, no VIN); 15 days",
+      "price_vs_prior": 0,
+      "battery_warranty_note": "Hyundai hybrid components 10yr/100k for original owner; subsequent owners get balance of 5yr/60k from original in-service date \u2014 verify by VIN with a Hyundai dealer (estimate, not yet verified)."
     },
     {
       "id": "vin-1FM5K7FWXMNA13511",
@@ -5228,6 +5760,14 @@
         {
           "date": "2026-11-10",
           "price": 25162
+        },
+        {
+          "date": "2026-11-11",
+          "price": 29973
+        },
+        {
+          "date": "2026-11-11",
+          "price": 25162
         }
       ],
       "photos": [],
@@ -5865,211 +6405,6 @@
       "new_vs_prior": "GONE Nov 9: CarGurus page shows 'This car already left the lot' with SOLD badge (verified via live browser Nov 9); was $26,097 / 73,899 mi, Kirkland WA",
       "price_vs_prior": 0,
       "battery_warranty_note": null
-    },
-    {
-      "id": "url-8a1123efd521",
-      "listing_id": "url-8a1123efd521",
-      "vin": null,
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sorento Hybrid",
-      "trim": "EX",
-      "hybrid_type": "Full hybrid",
-      "drivetrain": "Unknown (SRP-level)",
-      "price": 26105,
-      "mileage": 32275,
-      "city": "Valencia",
-      "state": "CA",
-      "url": "https://www.iseecars.com/used_cars-t5989-used-kia-sorento-hybrid-for-sale",
-      "marketplace": "Cars.com",
-      "seller": "Dealer (name not shown on iSeeCars card)",
-      "discovery_agent": "Muse",
-      "date_first_discovered": "2026-10-24",
-      "date_last_checked": "2026-10-24",
-      "status": "stale",
-      "title_history": null,
-      "accident_history": "Accident history mentioned, count unclear",
-      "history_basis": "unknown",
-      "maintenance_history": null,
-      "price_history": [
-        {
-          "date": "2026-10-24",
-          "price": 25875
-        },
-        {
-          "date": "2026-10-24",
-          "price": 28191
-        },
-        {
-          "date": "2026-10-24",
-          "price": 26105
-        },
-        {
-          "date": "2026-10-27",
-          "price": 25875
-        },
-        {
-          "date": "2026-10-27",
-          "price": 28191
-        },
-        {
-          "date": "2026-10-27",
-          "price": 26105
-        },
-        {
-          "date": "2026-10-28",
-          "price": 25875
-        },
-        {
-          "date": "2026-10-28",
-          "price": 28191
-        },
-        {
-          "date": "2026-10-28",
-          "price": 26105
-        },
-        {
-          "date": "2026-10-28",
-          "price": 28677
-        },
-        {
-          "date": "2026-10-29",
-          "price": 25875
-        },
-        {
-          "date": "2026-10-29",
-          "price": 28191
-        },
-        {
-          "date": "2026-10-29",
-          "price": 26105
-        },
-        {
-          "date": "2026-10-29",
-          "price": 28677
-        },
-        {
-          "date": "2026-10-30",
-          "price": 25875
-        },
-        {
-          "date": "2026-10-30",
-          "price": 28191
-        },
-        {
-          "date": "2026-10-30",
-          "price": 26105
-        },
-        {
-          "date": "2026-10-30",
-          "price": 28677
-        },
-        {
-          "date": "2026-10-30",
-          "price": 28191
-        },
-        {
-          "date": "2026-10-30",
-          "price": 26105
-        },
-        {
-          "date": "2026-10-31",
-          "price": 28191
-        },
-        {
-          "date": "2026-10-31",
-          "price": 26105
-        },
-        {
-          "date": "2026-11-01",
-          "price": 28191
-        },
-        {
-          "date": "2026-11-01",
-          "price": 26105
-        },
-        {
-          "date": "2026-11-02",
-          "price": 28191
-        },
-        {
-          "date": "2026-11-02",
-          "price": 26105
-        },
-        {
-          "date": "2026-11-03",
-          "price": 28191
-        },
-        {
-          "date": "2026-11-03",
-          "price": 26105
-        },
-        {
-          "date": "2026-11-04",
-          "price": 28191
-        },
-        {
-          "date": "2026-11-04",
-          "price": 26105
-        },
-        {
-          "date": "2026-11-05",
-          "price": 28191
-        },
-        {
-          "date": "2026-11-05",
-          "price": 26105
-        },
-        {
-          "date": "2026-11-06",
-          "price": 28191
-        },
-        {
-          "date": "2026-11-06",
-          "price": 26105
-        },
-        {
-          "date": "2026-11-07",
-          "price": 28191
-        },
-        {
-          "date": "2026-11-07",
-          "price": 26105
-        },
-        {
-          "date": "2026-11-08",
-          "price": 28191
-        },
-        {
-          "date": "2026-11-08",
-          "price": 26105
-        },
-        {
-          "date": "2026-11-09",
-          "price": 28191
-        },
-        {
-          "date": "2026-11-09",
-          "price": 26105
-        },
-        {
-          "date": "2026-11-10",
-          "price": 28191
-        },
-        {
-          "date": "2026-11-10",
-          "price": 26105
-        }
-      ],
-      "photos": [],
-      "location": "Valencia, CA",
-      "verification_date": "2026-10-24",
-      "verified_active": true,
-      "history": "Not shown (SRP-level only)",
-      "concerns": "SRP-level only: seller identity, title/accident/owner history, fees, financing conditions unknown; detail verification pending",
-      "new_vs_prior": "NEW Oct 24 \u2014 iSeeCars SRP-level only (price/city/mileage shown)",
-      "price_vs_prior": null,
-      "battery_warranty_note": "Kia Hybrid System Warranty 10yr/100k; second-owner coverage normally reduced to 5yr/60k \u2014 confirm VIN eligibility (estimate)."
     },
     {
       "id": "vin-JA4T5VA90RZ067435",
@@ -8073,6 +8408,18 @@
         },
         {
           "date": "2026-11-10",
+          "price": 28998
+        },
+        {
+          "date": "2026-11-11",
+          "price": 26167
+        },
+        {
+          "date": "2026-11-11",
+          "price": 28122
+        },
+        {
+          "date": "2026-11-11",
           "price": 28998
         }
       ],
