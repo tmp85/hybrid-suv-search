@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "source": "chatgpt-independent",
+  "mode": "observations",
+  "runId": "chatgpt-scheduled-d27f3dd3-dd24-8328-a1b0-1d2939a66f39",
+  "generatedAt": "2026-11-14T14:00:49Z",
+  "reportDate": "2026-11-14",
+  "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
+  "writer": {
+    "mode": "scheduled",
+    "automationId": "6acc0c049d908191bdd620f519aee69c",
+    "runUrl": null
+  },
+  "listings": [
+    {
+      "observedAt": "2026-11-14",
+      "fees": 200,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": 1,
+        "use": "Unknown",
+        "maintenance": "Seller claims well-maintained; invoices not obtained",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/price-below-35000/fuel-hybrid/location-seattle-wa/?page=5"
+      },
+      "vin": "KNDRHDLGXP5160609",
+      "year": 2023,
+      "name": "Kia Sorento Hybrid",
+      "trim": "EX",
+      "type": "HEV",
+      "price": 28990,
+      "mileage": 41084,
+      "city": "Kirkland",
+      "state": "WA",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "Lee Johnson Mazda of Kirkland",
+      "url": "https://www.leejohnsonkia.com/auto/preowned-2023-kia-sorento-hybrid-ex/126732762/",
+      "priceBasis": "Dealer $28,790 + $200 negotiable documentary fee = $28,990. Dealer boilerplate may add up to $200; obtain written total to prevent double charge. Government/finance/other closing charges extra; no proven financing/trade price condition. Offering may require negotiated implied-warranty waiver if AS IS.",
+      "notes": "Independent continuing lead. Earlier cached TrueCar reports clean title/no accidents/one owner; original history dates are not refreshed. Complete service records, rental/fleet use, battery condition and CPO enrollment remain unknown. Dealer specifications contain a suspect 16-kWh battery field; do not use that generic field to reclassify this HEV as PHEV. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "November14 original dealer ad crawled today; quote/mileage unchanged. Older history retains original attribution; unsold availability not seller-confirmed."
+      }
+    },
+    {
+      "observedAt": "2026-11-10",
+      "fees": 0,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/toyota/year-2018/location-stayton-or/"
+      },
+      "vin": "5TDJGRFH0JS041065",
+      "year": 2018,
+      "name": "Toyota Highlander Hybrid",
+      "trim": "XLE",
+      "type": "HEV",
+      "price": 26998,
+      "mileage": 82247,
+      "city": "Milwaukie",
+      "state": "OR",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "CarMax Portland Clackamas",
+      "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065",
+      "priceBasis": "Capital One and TrueCar November 5 quote: $26,998. CarMax advertises no doc/processing fee. $1,000 below November 4 report quote of $27,998, but other cached pages already showed $26,998; exact change date unknown. Government, optional products and transfer extra; price assumes final purchase in OR. Financing, trade-in and rebate conditions not established.",
+      "notes": "Continuing hold for unresolved availability. Historical TrueCar reports clean title/no accidents; owners/use/maintenance/battery condition unknown. No fresh ad or price observation today.",
+      "verification": {
+        "status": "inaccessible",
+        "note": "November14 original lookup403. Last genuine ad observationNovember10 retained, October31 archive unchanged; do not infer sale.",
+        "evidenceUrl": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065"
+      }
+    },
+    {
+      "observedAt": "2026-11-14",
+      "fees": 1741,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": 1,
+        "use": "Unknown",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listings/fuel-all-hybrids/location-reno-nv/"
+      },
+      "vin": "5NMS2DA1XPH015293",
+      "year": 2023,
+      "name": "Hyundai Santa Fe Hybrid",
+      "trim": "Blue",
+      "type": "HEV",
+      "price": 23474,
+      "mileage": 43522,
+      "city": "Carson City",
+      "state": "NV",
+      "drive": "AWD",
+      "rows": 2,
+      "seller": "Capital Ford",
+      "url": "https://www.capitalfordonline.com/auto/used-2023-hyundai-santa-fe-hybrid-blue/125191260/",
+      "priceBasis": "November11 dealer$26,495+$499doc-$3,520discount=$23,474. Add$198ATP+$795Cilijet+$249Appearance=$1,242; total$24,716 before government/finance/emissions/travel. $499doc already included; do not double charge. $548 reduction versus November10 recorded$24,022/$25,264 using unchanged extra charges. Discount eligibility/package removability unknown; no specific mandatory finance/trade/downpayment/rebate condition established.",
+      "notes": "Independent continuing lead. Seller Clean CARFAX claim; earlier TrueCar reports clean title/no accidents/one owner, original attribution retained. Rental/fleet use, maintenance invoices, battery health and discount eligibility unresolved. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "November14 original dealer ad crawled today; quote/mileage unchanged. Older history retains original attribution; unsold availability not seller-confirmed."
+      }
+    },
+    {
+      "observedAt": "2026-11-14",
+      "fees": null,
+      "vin": "KNDRHDLG7P5191963",
+      "year": 2023,
+      "name": "Kia Sorento Hybrid",
+      "trim": "EX",
+      "type": "HEV",
+      "price": 22588,
+      "mileage": 70303,
+      "city": "Surprise",
+      "state": "AZ",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "Sands Kia",
+      "url": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
+      "priceBasis": "November14 CARFAX exactVIN quote$22,588 labeleddealerfeesincluded, $300 below November13 same-source/same-basis$22,888. Dealer page405; last original dealer total$22,888=$22,000+$289protection+$599doc, footer$599.50conflict/genericrebateeligibility. Applicable current unconditional dealer price/feeitemization unresolved. No proven required finance/trade/downpayment; government/financeextra.",
+      "notes": "Muse plus independent discovery/cross-check. November14 CARFAX summary retains no accident/damage,oneowner,personaluse,16service records,lastservice68,533mi September16. SellerCPOclaim; MuseNovember7 clean-title/noissues andtwo unspecified recall records. Fullhistory,invoices,battery/CPOeligibility andrecallcompletionunverified.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "November14 freshCARFAX exactVIN ad reports$22,588/70,303mi. Dealer405; fresh marketplace quote reduction not an independently confirmed dealer reduction. No seller-confirmed unsold availability.",
+        "evidenceUrl": "https://www.carfax.com/Used-2023-Kia-Sorento-EX_x51645"
+      },
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": 1,
+        "use": "November13 CARFAX summary reports personal use; MuseNovember7 AutoCheck also personal.",
+        "maintenance": "November13 CARFAX summary:16 service records; last service68,533mi September16,2026. Full invoices not obtained.",
+        "evidenceUrl": "https://www.carfax.com/Used-2023-Kia-Sorento-EX_x51645"
+      }
+    },
+    {
+      "type": "HEV",
+      "drive": "AWD",
+      "rows": 2,
+      "observedAt": "2026-11-14",
+      "fees": 250,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": 1,
+        "use": "TrueCar AutoCheck summary asofOctober22 personal use",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listing/JTEAAAAH5MJ085215/2021-toyota-venza/?position=1&returnTo=/used-cars-for-sale/listings/toyota/venza/year-2021/location-oregon-city-or/&sourceType=marketplace"
+      },
+      "vin": "JTEAAAAH5MJ085215",
+      "year": 2021,
+      "name": "Toyota Venza",
+      "trim": "LE",
+      "price": 26150,
+      "mileage": 58934,
+      "city": "Hillsboro",
+      "state": "OR",
+      "seller": "Royal Moore Toyota",
+      "url": "https://www.royalmoore.com/used-Hillsboro-2021-Toyota-Venza-LE-JTEAAAAH5MJ085215",
+      "priceBasis": "November11 dealer$25,900+$250doc=$26,150 TotalInternetPrice, corroborating November10 TrueCar quote. Dealer callsdoc optional/negotiable but itemizes it in total; avoid adding twice. Government/finance/optional installedaccessories extra. Generic offers qualification caveats; no specific required finance/trade/downpayment/rebate condition established. Dealer reports$1,000 reduction sinceNovember2, not claimed overnightcut. Older cacheddealer$27,150plus250 quote superseded.",
+      "notes": "Independent continuing lead. Seller Toyota Gold CPO/Clean CARFAX/one-owner claims; October22 AutoCheck clean title/no accidents/personal use. Full invoices, battery and CPO enrollment unresolved. Older conflicting search quote $26,900 excludingdoc is two-week-old cache, not a new price increase. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed.",
+      "verification": {
+        "status": "ad_observed",
+        "note": "November14 original dealer ad crawled today; quote/mileage unchanged. Older history retains original attribution; unsold availability not seller-confirmed."
+      }
+    },
+    {
+      "type": "HEV",
+      "drive": "AWD",
+      "rows": 2,
+      "observedAt": "2026-11-13",
+      "fees": 0,
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": 2,
+        "use": "TrueCar AutoCheck asofOctober31 personal use",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listing/JTEAAAAH7MJ068352/2021-toyota-venza/?position=6&returnTo=/used-cars-for-sale/listings/toyota/venza/year-2021/location-oregon-city-or/&sourceType=marketplace"
+      },
+      "vin": "JTEAAAAH7MJ068352",
+      "year": 2021,
+      "name": "Toyota Venza",
+      "trim": "LE",
+      "price": 27998,
+      "mileage": 37780,
+      "city": "Gilbert",
+      "state": "AZ",
+      "seller": "CarMax Phoenix Gilbert",
+      "url": "https://www.carmax.com/car/70240907",
+      "priceBasis": "Capital One and TrueCar November10 $27,998 with no doc/processing fees. Government/optional products/transfer extra. Assumes final purchase in AZ. No required finance/trade/downpayment/rebate condition established.",
+      "notes": "November14 CarMax original ad$27,998 but explicitly reserved. Localized$1,999shippingandHagerstownMD$2,050estimatedgovernmentcharges are reader-default estimates, not buyer travel/tax estimates. October31 attributed clean-title/noaccidents/twoowners/personalhistory retained; no seller contact.",
+      "verification": {
+        "status": "confirmed_unavailable",
+        "note": "November14 original CarMax exactVIN ad explicitly says On hold for someone / Reserved at Phoenix-Gilbert. Temporary reservation, not sold; remove from current shortlist. Prior November13 available-ad observation retained.",
+        "evidenceUrl": "https://www.carmax.com/car/70240907"
+      }
+    },
+    {
+      "observedAt": "2026-11-14",
+      "fees": null,
+      "history": {
+        "title": "seller_claimed_clean",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown",
+        "evidenceUrl": "https://www.craigslist.org/view/d/tempe-2023-toyota-venza/3k1hkaNkVz1tLLrYC3v63e"
+      },
+      "vin": null,
+      "listingId": "3k1hkaNkVz1tLLrYC3v63e",
+      "year": 2023,
+      "name": "Toyota Venza",
+      "trim": "LE",
+      "type": "HEV",
+      "price": 25900,
+      "mileage": 21000,
+      "city": "Tempe",
+      "state": "AZ",
+      "drive": "AWD",
+      "rows": 2,
+      "seller": "Private party, identity unknown",
+      "url": "https://www.craigslist.org/view/d/tempe-2023-toyota-venza/3k1hkaNkVz1tLLrYC3v63e",
+      "priceBasis": "Seller asking$25,900 in four-day-old cached ad inspected November12. Mandatory fees/finance/trade/downpayment/rebate conditions unknown.",
+      "notes": "Independent private-party lead, not newly listed. Seller claims excellent condition/no issues/clean title in hand. Numeric postID7983550458 recorded in page; opaque listingId retains exact published URL segment. No VIN, ownership/accident/service evidence; not recommended pending documentation.",
+      "verification": {
+        "status": "awaiting_verification",
+        "note": "November14 Craigslist ad crawledtoday; price/milesunchanged. Sellerclaims cleantitleinhand; no VIN/owners/accidentrecords. Unsoldavailabilityunconfirmed."
+      }
+    },
+    {
+      "vin": "KM8S6DA20NU052058",
+      "year": 2022,
+      "name": "Hyundai Santa Fe Plug-In Hybrid",
+      "trim": "SEL Convenience",
+      "type": "PHEV",
+      "price": 23179,
+      "mileage": 34746,
+      "city": "Cerritos",
+      "state": "CA",
+      "drive": "AWD",
+      "rows": 2,
+      "seller": "Norm Reeves Hyundai Superstore Cerritos",
+      "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
+      "observedAt": "2026-11-14",
+      "fees": 180,
+      "priceBasis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated.",
+      "notes": "Muse discovery independently verified. CARFAX readNovember14 reports15service records/regularoilchanges,2personalCaliforniaowners,noaccident/damage,no reported salvage/junk/rebuilt/fire/flood/hail/lemon brands,no openrecalls reported. Report latestodometer34,767 versus dealer34,746:21mi discrepancy; confirmcurrentodometer. SellerHyundaiCPO; actualbattery/chargingcable,CPOenrollment/warrantyeligibilityandmanufacturerrecallstatusunknown. Do notapply genericnonhybridDCTrecallaggregatorclaims to this6speedPHEV.",
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": 2,
+        "use": "CARFAX November14:two personal California owners",
+        "maintenance": "CARFAX November14:15service records and regularoilchanges; fullinvoicesnotobtained",
+        "evidenceUrl": "https://www.carfax.com/vehiclehistory/ar20/CmcukjAqvUuVaNBWq1-q_f7SZLGlqKwi57WYFuHI-P2tr-n7N1nZfGjRWzkrbxyWLl48w_FxhrQbCqq85mQxINcAu67gDWx-RyU"
+      },
+      "verification": {
+        "status": "ad_observed",
+        "note": "November14 original dealer ad and linkedfullCARFAX crawledtoday; exactVIN/price/specs confirmed asadvertised. No seller-confirmed unsoldavailability."
+      }
+    },
+    {
+      "vin": "KM8S7DA24PU078114",
+      "year": 2023,
+      "name": "Hyundai Santa Fe Plug-In Hybrid",
+      "trim": "Limited",
+      "type": "PHEV",
+      "price": 29349,
+      "mileage": 36108,
+      "city": "Carson City",
+      "state": "NV",
+      "drive": "AWD",
+      "rows": 2,
+      "seller": "Carson City Hyundai",
+      "url": "https://www.carsoncityhyundai.com/auto/used-2023-hyundai-santafeplug-inhybrid-limited/126166290/",
+      "observedAt": "2026-11-14",
+      "fees": 499,
+      "priceBasis": "November14 dealersearch excerpt$33,999-$5,149discount+$499doc=$29,349. Othermandatoryfees/accessories/discounteligibilityunknown; finance/trade/downpayment/rebateconditionsunverified.",
+      "notes": "MuseNovember13 discovery independently resolvedVIN/stockCC2394 fromoriginaldealersearch excerpt. SellerCPO/oneowner claims; Muse0accidentsclaimnotfullreport. Title/use/service/battery/charging/recallstatusunknown. Notshortlistedpendingtitle/total/availability.",
+      "history": {
+        "title": "unknown",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Unknown",
+        "maintenance": "Unknown"
+      },
+      "verification": {
+        "status": "awaiting_verification",
+        "note": "November14 dealersearch result crawledtoday confirmsVIN,36,108mi,$29,349; directfetch DisabledError/inaccessible. Not seller-confirmedavailability."
+      }
+    },
+    {
+      "vin": null,
+      "listingId": "84Bx1uLF9gwmoPqonxDF6m",
+      "year": 2007,
+      "name": "Toyota Highlander Hybrid",
+      "type": "HEV",
+      "price": 4750,
+      "mileage": 280000,
+      "city": "Anaheim",
+      "state": "CA",
+      "drive": "Unknown",
+      "rows": null,
+      "url": "https://www.craigslist.org/view/d/anaheim-2007-toyota-highlander-hybrid/84Bx1uLF9gwmoPqonxDF6m",
+      "observedAt": "2026-11-14",
+      "fees": null,
+      "priceBasis": "Seller$4,750; fee/financeconditionsunknown; belowrequired$20,000minimum.",
+      "notes": "Independentprivatepartysearch; freshNov14search excerpt postedNovember13. Sellerclaims clean title,oilchanges5kmi,tuneup/smog/goodbattery; unverified. 280,000mi farabovepreference. Notrecommended.",
+      "history": {
+        "title": "seller_claimed_clean",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Seller says repeated cross-country/freeway use",
+        "maintenance": "Sellerclaims5kmi oilchanges,tuneup,fluids; no invoices"
+      },
+      "verification": {
+        "status": "excluded",
+        "note": "November14 vehicle-specific publicad advertises$4,750, belowbuyer$20,000minimum, and280,000mi. No titlebrand inferred.",
+        "evidenceUrl": "https://www.craigslist.org/view/d/anaheim-2007-toyota-highlander-hybrid/84Bx1uLF9gwmoPqonxDF6m"
+      }
+    },
+    {
+      "vin": "KNDRHDLG3P5158524",
+      "year": 2023,
+      "name": "Kia Sorento Hybrid",
+      "trim": "EX",
+      "type": "HEV",
+      "price": 25092,
+      "mileage": 47356,
+      "city": "Portland",
+      "state": "OR",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "Ron Tonkin Toyota",
+      "url": "https://www.carfax.com/vehicle/KNDRHDLG3P5158524",
+      "observedAt": "2026-11-14",
+      "fees": null,
+      "priceBasis": "November14CARFAX ad$25,092 labeledfeesincluded. Itemizedfees/finance/trade/downpayment/rebateconditionsunknown; dealerquote notverified. Directdetail retrievedNovember14 is two-week-oldcache at$25,902 and mentionspossible$250doc/DEQfees. FreshSRP$25,092andoldcacheareconflictingdatedevidence, not a confirmedpricecut.",
+      "notes": "Independentnewdiscovery, notclaimednewlylisted. FreshCARFAXVIN-specificsummary:oneowner,personaluse,noaccident/damage,11service records,lastserviceOctober22,2026. Fullclean-titleevidence/battery/recalls/CPOunknown; notrankedpendingoriginaldealerverification.",
+      "history": {
+        "title": "unknown",
+        "accidents": "none_reported",
+        "owners": 1,
+        "use": "CARFAX November14 personal use",
+        "maintenance": "CARFAX November14 11service records,lastserviceOctober22; invoicesunknown",
+        "evidenceUrl": "https://www.carfax.com/Used-2023-Kia-Sorento-EX_x51645"
+      },
+      "verification": {
+        "status": "awaiting_verification",
+        "note": "November14freshCARFAXexactVINad quote/specs/history; originaldealer/currentfees/titleandunsoldavailabilityunverified.",
+        "evidenceUrl": "https://www.carfax.com/Used-2023-Kia-Sorento-EX_x51645"
+      }
+    }
+  ]
+}
