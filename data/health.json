@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T23:53:35.294Z",
+  "generatedAt": "2026-11-14T14:01:36.037Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-13T23:53:35.294Z",
+      "lastAttemptAt": "2026-11-14T14:01:36.037Z",
       "status": "error",
       "lastSuccessAt": "2026-11-11T13:59:36.965Z",
       "reportDate": "2026-11-10",
@@ -21,25 +21,25 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-13T23:53:35.294Z",
-      "reportDate": "2026-11-13",
+      "lastSuccessAt": "2026-11-14T14:01:36.037Z",
+      "reportDate": "2026-11-14",
       "error": null,
-      "lastAttemptAt": "2026-11-13T23:53:35.294Z",
+      "lastAttemptAt": "2026-11-14T14:01:36.037Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-        "originSha256": "aab981cd3dccd337c68af5ef19748b133c3a67e0d7f5a28889a35ece56519032",
+        "originSha256": "3e56d7ddd9181cf1cafdb7b83e208ff0fa4cff262280a63aa8fede16f45bc030",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "a64bb639e64bf7659f94eac47625e7b2c79aeadb"
+        "triggerRevision": "e9f7fd812633b4cae89350beba93e24757f2911c"
       },
-      "lastExportAt": "2026-11-13T14:16:00Z",
-      "imported": 14,
+      "lastExportAt": "2026-11-14T14:00:49Z",
+      "imported": 11,
       "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-      "runId": "chatgpt-scheduled-c3f91c8e-d778-8322-ad78-a26caddf34ca",
+      "runId": "chatgpt-scheduled-d27f3dd3-dd24-8328-a1b0-1d2939a66f39",
       "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
-      "contentHash": "aab981cd3dccd337c68af5ef19748b133c3a67e0d7f5a28889a35ece56519032",
+      "contentHash": "3e56d7ddd9181cf1cafdb7b83e208ff0fa4cff262280a63aa8fede16f45bc030",
       "automationId": "6acc0c049d908191bdd620f519aee69c",
       "writer": {
         "mode": "scheduled",
@@ -49,37 +49,37 @@
     }
   },
   "counts": {
-    "imported": 198,
-    "active": 55,
+    "imported": 202,
+    "active": 57,
     "stale": 123,
-    "archived": 20,
-    "verified": 27,
-    "awaitingVerification": 28,
-    "outsideCriteria": 30,
-    "qualifyingActive": 52
+    "archived": 22,
+    "verified": 26,
+    "awaitingVerification": 31,
+    "outsideCriteria": 31,
+    "qualifyingActive": 54
   },
   "photos": {
-    "checkedAt": "2026-11-13T23:53:35.294Z",
-    "attempted": 44,
+    "checkedAt": "2026-11-14T14:01:36.037Z",
+    "attempted": 45,
     "collected": 0,
-    "retained": 178,
-    "archivedSkipped": 20,
-    "skippedExistingPhotos": 20,
-    "skippedRecentAttempt": 114,
-    "eligible": 44,
-    "deferred": 0,
-    "withPhotos": 22,
-    "withoutPhotos": 156,
+    "retained": 180,
+    "archivedSkipped": 22,
+    "skippedExistingPhotos": 19,
+    "skippedRecentAttempt": 88,
+    "eligible": 73,
+    "deferred": 28,
+    "withPhotos": 21,
+    "withoutPhotos": 159,
     "outcomes": {
       "collected": 0,
-      "no_source": 18,
-      "no_photos": 6,
-      "inaccessible": 20
+      "no_source": 25,
+      "no_photos": 9,
+      "inaccessible": 11
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 13314
+    "elapsedMs": 2267
   },
   "alerts": [
     "Invalid Muse v2 make"
