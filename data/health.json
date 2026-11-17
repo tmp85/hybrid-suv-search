@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-17T02:06:48.554Z",
+  "generatedAt": "2026-11-17T14:05:56.977Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-17T02:06:48.554Z",
+      "lastAttemptAt": "2026-11-17T14:05:56.977Z",
       "status": "error",
       "lastSuccessAt": "2026-11-11T13:59:36.965Z",
       "reportDate": "2026-11-10",
@@ -20,26 +20,26 @@
       }
     },
     "independent": {
-      "status": "warning",
-      "lastSuccessAt": "2026-11-17T02:06:48.554Z",
-      "reportDate": "2026-11-15",
+      "status": "connected",
+      "lastSuccessAt": "2026-11-17T14:05:56.977Z",
+      "reportDate": "2026-11-17",
       "error": null,
-      "lastAttemptAt": "2026-11-17T02:06:48.554Z",
+      "lastAttemptAt": "2026-11-17T14:05:56.977Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-        "originSha256": "85650513779722e149c8eeffed295f829f39658991bdaea7f8283518e2033715",
+        "originSha256": "b63f7d29524d092d1bf933ef59ff7239ca3ed7b1374663475579131420a7a401",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "65fa64f1d96ea1334bd72cb743a86990ecd1bca0"
+        "triggerRevision": "5a3eaa1a567aa32576cb57e95deddaad33bd9e1d"
       },
-      "lastExportAt": "2026-11-15T14:07:27Z",
-      "imported": 12,
+      "lastExportAt": "2026-11-17T14:05:16Z",
+      "imported": 10,
       "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-      "runId": "chatgpt-scheduled-e1a190c4-7e98-832e-a023-86aecc6294f6",
+      "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924",
       "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
-      "contentHash": "85650513779722e149c8eeffed295f829f39658991bdaea7f8283518e2033715",
+      "contentHash": "b63f7d29524d092d1bf933ef59ff7239ca3ed7b1374663475579131420a7a401",
       "automationId": "6acc0c049d908191bdd620f519aee69c",
       "writer": {
         "mode": "scheduled",
@@ -49,41 +49,39 @@
     }
   },
   "counts": {
-    "imported": 205,
-    "active": 16,
+    "imported": 206,
+    "active": 17,
     "stale": 165,
     "archived": 24,
     "verified": 7,
-    "awaitingVerification": 9,
+    "awaitingVerification": 10,
     "outsideCriteria": 31,
-    "qualifyingActive": 15
+    "qualifyingActive": 16
   },
   "photos": {
-    "checkedAt": "2026-11-17T02:06:48.554Z",
+    "checkedAt": "2026-11-17T14:05:56.977Z",
     "attempted": 45,
     "collected": 1,
-    "retained": 181,
+    "retained": 182,
     "archivedSkipped": 24,
     "skippedExistingPhotos": 17,
-    "skippedRecentAttempt": 45,
-    "eligible": 119,
-    "deferred": 74,
-    "withPhotos": 21,
+    "skippedRecentAttempt": 89,
+    "eligible": 76,
+    "deferred": 31,
+    "withPhotos": 22,
     "withoutPhotos": 160,
     "outcomes": {
       "collected": 1,
-      "no_source": 12,
-      "no_photos": 10,
-      "inaccessible": 22
+      "no_source": 26,
+      "no_photos": 5,
+      "inaccessible": 13
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 2956
+    "elapsedMs": 2233
   },
   "alerts": [
-    "Invalid Muse v2 make",
-    "Independent research feed is more than 48 hours old.",
-    "Active inventory dropped by more than 35%; review verification changes and retained history."
+    "Invalid Muse v2 make"
   ]
 }
