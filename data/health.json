@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16T23:44:30.331Z",
+  "generatedAt": "2026-11-17T02:06:48.554Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-16T23:44:30.331Z",
+      "lastAttemptAt": "2026-11-17T02:06:48.554Z",
       "status": "error",
       "lastSuccessAt": "2026-11-11T13:59:36.965Z",
       "reportDate": "2026-11-10",
@@ -20,11 +20,11 @@
       }
     },
     "independent": {
-      "status": "connected",
-      "lastSuccessAt": "2026-11-16T23:44:30.331Z",
+      "status": "warning",
+      "lastSuccessAt": "2026-11-17T02:06:48.554Z",
       "reportDate": "2026-11-15",
       "error": null,
-      "lastAttemptAt": "2026-11-16T23:44:30.331Z",
+      "lastAttemptAt": "2026-11-17T02:06:48.554Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "85650513779722e149c8eeffed295f829f39658991bdaea7f8283518e2033715",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "07a2a9452ac148afe306bee2a8eae87548e5e1d1"
+        "triggerRevision": "65fa64f1d96ea1334bd72cb743a86990ecd1bca0"
       },
       "lastExportAt": "2026-11-15T14:07:27Z",
       "imported": 12,
@@ -50,38 +50,40 @@
   },
   "counts": {
     "imported": 205,
-    "active": 42,
-    "stale": 139,
+    "active": 16,
+    "stale": 165,
     "archived": 24,
-    "verified": 16,
-    "awaitingVerification": 26,
+    "verified": 7,
+    "awaitingVerification": 9,
     "outsideCriteria": 31,
-    "qualifyingActive": 39
+    "qualifyingActive": 15
   },
   "photos": {
-    "checkedAt": "2026-11-16T23:44:30.331Z",
+    "checkedAt": "2026-11-17T02:06:48.554Z",
     "attempted": 45,
-    "collected": 0,
+    "collected": 1,
     "retained": 181,
     "archivedSkipped": 24,
-    "skippedExistingPhotos": 18,
-    "skippedRecentAttempt": 0,
-    "eligible": 163,
-    "deferred": 118,
+    "skippedExistingPhotos": 17,
+    "skippedRecentAttempt": 45,
+    "eligible": 119,
+    "deferred": 74,
     "withPhotos": 21,
     "withoutPhotos": 160,
     "outcomes": {
-      "collected": 0,
-      "no_source": 8,
-      "no_photos": 9,
-      "inaccessible": 28
+      "collected": 1,
+      "no_source": 12,
+      "no_photos": 10,
+      "inaccessible": 22
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 1516
+    "elapsedMs": 2956
   },
   "alerts": [
-    "Invalid Muse v2 make"
+    "Invalid Muse v2 make",
+    "Independent research feed is more than 48 hours old.",
+    "Active inventory dropped by more than 35%; review verification changes and retained history."
   ]
 }
