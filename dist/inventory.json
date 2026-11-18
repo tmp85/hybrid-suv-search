@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T01:19:57.334Z",
-  "revision": "1f0b394a1a1158a51d915818dc3acf82f342ed0f",
+  "generatedAt": "2026-11-18T14:09:57.064Z",
+  "revision": "2710453514a42f788b005d33094e3cdf8e534381",
   "vehicles": [
     {
       "id": "KM8S6DA22NU035178",
@@ -872,7 +872,7 @@
       },
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.dickshillsborohyundai.com/used-Hillsboro-2022-Hyundai-SANTA%2BFE%2BPLUG%2BIN%2BHYBRID-SEL%2BConvenience-KM8S6DA22NU035178",
         "finalUrl": "https://www.dickshillsborohyundai.com/used-Hillsboro-2022-Hyundai-SANTA%2BFE%2BPLUG%2BIN%2BHYBRID-SEL%2BConvenience-KM8S6DA22NU035178",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -901,8 +901,8 @@
       "maintenance": "November13 CARFAX summary:16 service records; last service68,533mi September16,2026. Full invoices not obtained.",
       "fees": 888,
       "feeNote": "November15 dealer$21,700+$289SupremeProtection+$599doc=$22,588 corroboratesNovember14CARFAX. $300belowolderdealer$22,888; dealerbadge saysreducedsinceNov12, not a newovernightcut. Footerpreviously599.50doc/genericrebateeligibility; reconcileunconditionaltotal/no duplicatefee. Specificfinance/trade/downpaymentrequirementnotestablished.",
-      "checked": "2026-11-17",
-      "availability": "November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates.",
+      "checked": "2026-11-18",
+      "availability": "November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates.",
       "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
       "reason": "Independent discovery; ranked with the same evidence rules as every source.",
       "concern": "Muse discovery plus independent checks. November17 original ad remains $22,588 and 70,226 miles, versus November14 CARFAX summary 70,303: unexplained 77-mile decrease, not proof of rollback. Historical CARFAX reports no accident/damage, one owner, personal use and16 service records. MuseNovember7 reports clean-title/noissues andtwo unspecified recall records. Seller CPO claim. Full invoices, battery condition, recall completion and CPO eligibility remain unknown.",
@@ -1072,6 +1072,16 @@
           "priceBasis": "November15 dealer$21,700+$289SupremeProtection+$599doc=$22,588 corroboratesNovember14CARFAX. $300belowolderdealer$22,888; dealerbadge saysreducedsinceNov12, not a newovernightcut. Footerpreviously599.50doc/genericrebateeligibility; reconcileunconditionaltotal/no duplicatefee. Specificfinance/trade/downpaymentrequirementnotestablished.",
           "availability": "November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates.",
           "notes": "Muse discovery plus independent checks. November17 original ad remains $22,588 and 70,226 miles, versus November14 CARFAX summary 70,303: unexplained 77-mile decrease, not proof of rollback. Historical CARFAX reports no accident/damage, one owner, personal use and16 service records. MuseNovember7 reports clean-title/noissues andtwo unspecified recall records. Seller CPO claim. Full invoices, battery condition, recall completion and CPO eligibility remain unknown."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
+          "checkedAt": "2026-11-18",
+          "price": 22588,
+          "priceBasis": "November15 dealer$21,700+$289SupremeProtection+$599doc=$22,588 corroboratesNovember14CARFAX. $300belowolderdealer$22,888; dealerbadge saysreducedsinceNov12, not a newovernightcut. Footerpreviously599.50doc/genericrebateeligibility; reconcileunconditionaltotal/no duplicatefee. Specificfinance/trade/downpaymentrequirementnotestablished.",
+          "availability": "November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates.",
+          "notes": "Muse discovery plus independent checks. November17 original ad remains $22,588 and 70,226 miles, versus November14 CARFAX summary 70,303: unexplained 77-mile decrease, not proof of rollback. Historical CARFAX reports no accident/damage, one owner, personal use and16 service records. MuseNovember7 reports clean-title/noissues andtwo unspecified recall records. Seller CPO claim. Full invoices, battery condition, recall completion and CPO eligibility remain unknown."
         }
       ],
       "events": [
@@ -1158,6 +1168,10 @@
         {
           "date": "2026-11-17",
           "text": "ChatGPT independent observation: November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates."
+        },
+        {
+          "date": "2026-11-18",
+          "text": "ChatGPT independent observation: November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates."
         }
       ],
       "discoveryAgents": [
@@ -1262,11 +1276,18 @@
           "url": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
           "agent": "ChatGPT independent",
           "basis": "November15 dealer$21,700+$289SupremeProtection+$599doc=$22,588 corroboratesNovember14CARFAX. $300belowolderdealer$22,888; dealerbadge saysreducedsinceNov12, not a newovernightcut. Footerpreviously599.50doc/genericrebateeligibility; reconcileunconditionaltotal/no duplicatefee. Specificfinance/trade/downpaymentrequirementnotestablished."
+        },
+        {
+          "date": "2026-11-18",
+          "price": 22588,
+          "url": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
+          "agent": "ChatGPT independent",
+          "basis": "November15 dealer$21,700+$289SupremeProtection+$599doc=$22,588 corroboratesNovember14CARFAX. $300belowolderdealer$22,888; dealerbadge saysreducedsinceNov12, not a newovernightcut. Footerpreviously599.50doc/genericrebateeligibility; reconcileunconditionaltotal/no duplicatefee. Specificfinance/trade/downpaymentrequirementnotestablished."
         }
       ],
       "currentObservation": {
         "source": "ChatGPT independent",
-        "observedAt": "2026-11-17",
+        "observedAt": "2026-11-18",
         "url": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
         "priceBasis": "November15 dealer$21,700+$289SupremeProtection+$599doc=$22,588 corroboratesNovember14CARFAX. $300belowolderdealer$22,888; dealerbadge saysreducedsinceNov12, not a newovernightcut. Footerpreviously599.50doc/genericrebateeligibility; reconcileunconditionaltotal/no duplicatefee. Specificfinance/trade/downpaymentrequirementnotestablished."
       },
@@ -1278,9 +1299,9 @@
         },
         "independent": {
           "present": true,
-          "observedAt": "2026-11-17",
+          "observedAt": "2026-11-18",
           "mode": "observations",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924"
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
         }
       },
       "reportedPriceChange": 0,
@@ -1307,7 +1328,7 @@
         ],
         "photos": []
       },
-      "historyDate": "2026-11-17",
+      "historyDate": "2026-11-18",
       "missingFromFeed": false,
       "score": 65.4,
       "rankReasons": [
@@ -1574,6 +1595,13 @@
           "url": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
           "finalUrl": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
           "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
+        },
+        {
+          "result": "observed",
+          "checkedAt": "2026-11-18T01:19:57.334Z",
+          "url": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
+          "finalUrl": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
+          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
         }
       ],
       "priceConflicts": [
@@ -1633,7 +1661,7 @@
       },
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
         "finalUrl": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -1660,9 +1688,9 @@
       "owners": 1,
       "use": "Unknown",
       "maintenance": "Unknown",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "lastVerified": null,
-      "availability": "November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates.",
+      "availability": "November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates.",
       "listingState": "awaiting_verification",
       "status": "watchlist",
       "origin": "ChatGPT independent",
@@ -1677,23 +1705,23 @@
       "sourcePresence": {
         "independent": {
           "present": true,
-          "observedAt": "2026-11-17",
+          "observedAt": "2026-11-18",
           "mode": "observations",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924"
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
         }
       },
       "currentObservation": {
         "source": "ChatGPT independent",
-        "observedAt": "2026-11-17",
+        "observedAt": "2026-11-18",
         "url": "https://www.capitalfordonline.com/auto/used-2023-hyundai-santa-fe-hybrid-blue/125191260/",
         "priceBasis": "November11 dealer$26,495+$499doc-$3,520discount=$23,474. Add$198ATP+$795Cilijet+$249Appearance=$1,242; total$24,716 before government/finance/emissions/travel. $499doc already included; do not double charge. $548 reduction versus November10 recorded$24,022/$25,264 using unchanged extra charges. Discount eligibility/package removability unknown; no specific mandatory finance/trade/downpayment/rebate condition established."
       },
       "evidence": null,
       "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
-      "historyDate": "2026-11-17",
-      "sellerClaim": "Independent continuing lead. Seller Clean CARFAX claim; earlier TrueCar reports clean title/no accidents/one owner, original attribution retained. Rental/fleet use, maintenance invoices, battery health and discount eligibility unresolved. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 17: original ad re-observed; no confirmed price reduction.",
+      "historyDate": "2026-11-18",
+      "sellerClaim": "Independent continuing lead. Seller Clean CARFAX claim; earlier TrueCar reports clean title/no accidents/one owner, original attribution retained. Rental/fleet use, maintenance invoices, battery health and discount eligibility unresolved. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 18 original ad re-observed; quote unchanged from November17.",
       "reason": "Independent discovery; ranked with the same evidence rules as every source.",
-      "concern": "Independent continuing lead. Seller Clean CARFAX claim; earlier TrueCar reports clean title/no accidents/one owner, original attribution retained. Rental/fleet use, maintenance invoices, battery health and discount eligibility unresolved. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 17: original ad re-observed; no confirmed price reduction.",
+      "concern": "Independent continuing lead. Seller Clean CARFAX claim; earlier TrueCar reports clean title/no accidents/one owner, original attribution retained. Rental/fleet use, maintenance invoices, battery health and discount eligibility unresolved. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 18 original ad re-observed; quote unchanged from November17.",
       "unknowns": [
         "Seller-confirmed unsold status",
         "Complete title/history evidence",
@@ -1840,6 +1868,16 @@
           "priceBasis": "November11 dealer$26,495+$499doc-$3,520discount=$23,474. Add$198ATP+$795Cilijet+$249Appearance=$1,242; total$24,716 before government/finance/emissions/travel. $499doc already included; do not double charge. $548 reduction versus November10 recorded$24,022/$25,264 using unchanged extra charges. Discount eligibility/package removability unknown; no specific mandatory finance/trade/downpayment/rebate condition established.",
           "availability": "November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates.",
           "notes": "Independent continuing lead. Seller Clean CARFAX claim; earlier TrueCar reports clean title/no accidents/one owner, original attribution retained. Rental/fleet use, maintenance invoices, battery health and discount eligibility unresolved. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 17: original ad re-observed; no confirmed price reduction."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.capitalfordonline.com/auto/used-2023-hyundai-santa-fe-hybrid-blue/125191260/",
+          "checkedAt": "2026-11-18",
+          "price": 23474,
+          "priceBasis": "November11 dealer$26,495+$499doc-$3,520discount=$23,474. Add$198ATP+$795Cilijet+$249Appearance=$1,242; total$24,716 before government/finance/emissions/travel. $499doc already included; do not double charge. $548 reduction versus November10 recorded$24,022/$25,264 using unchanged extra charges. Discount eligibility/package removability unknown; no specific mandatory finance/trade/downpayment/rebate condition established.",
+          "availability": "November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates.",
+          "notes": "Independent continuing lead. Seller Clean CARFAX claim; earlier TrueCar reports clean title/no accidents/one owner, original attribution retained. Rental/fleet use, maintenance invoices, battery health and discount eligibility unresolved. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 18 original ad re-observed; quote unchanged from November17."
         }
       ],
       "priceHistory": [
@@ -1922,6 +1960,13 @@
         },
         {
           "date": "2026-11-17",
+          "price": 23474,
+          "url": "https://www.capitalfordonline.com/auto/used-2023-hyundai-santa-fe-hybrid-blue/125191260/",
+          "agent": "ChatGPT independent",
+          "basis": "November11 dealer$26,495+$499doc-$3,520discount=$23,474. Add$198ATP+$795Cilijet+$249Appearance=$1,242; total$24,716 before government/finance/emissions/travel. $499doc already included; do not double charge. $548 reduction versus November10 recorded$24,022/$25,264 using unchanged extra charges. Discount eligibility/package removability unknown; no specific mandatory finance/trade/downpayment/rebate condition established."
+        },
+        {
+          "date": "2026-11-18",
           "price": 23474,
           "url": "https://www.capitalfordonline.com/auto/used-2023-hyundai-santa-fe-hybrid-blue/125191260/",
           "agent": "ChatGPT independent",
@@ -1980,6 +2025,10 @@
         {
           "date": "2026-11-17",
           "text": "ChatGPT independent observation: November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates."
+        },
+        {
+          "date": "2026-11-18",
+          "text": "ChatGPT independent observation: November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates."
         }
       ],
       "missingFromFeed": false,
@@ -2038,7 +2087,7 @@
       "maintenance": "Unknown",
       "historyDate": "2026-11-17",
       "checked": "2026-11-17",
-      "availability": "November17 inspected cached indirect evidence only; observedAt records that inspection, not fresh ad verification. Original dealer cache3days old and advertised24-hour price not freshly confirmed. Availability unresolved.",
+      "availability": "November18 inspected same four-day-old dealer cache; prior observedAt November17 is the first inspection of that indirect evidence, not a fresh ad time.24-hour advertised quote and current availability remain unresolved.",
       "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
       "airport": "Ontario International · ONT",
       "reason": "Independent discovery; ranked with the same evidence rules as every source.",
@@ -2081,6 +2130,10 @@
         {
           "date": "2026-11-17",
           "text": "ChatGPT independent observation: November17 inspected cached indirect evidence only; observedAt records that inspection, not fresh ad verification. Original dealer cache3days old and advertised24-hour price not freshly confirmed. Availability unresolved."
+        },
+        {
+          "date": "2026-11-17",
+          "text": "ChatGPT independent observation: November18 inspected same four-day-old dealer cache; prior observedAt November17 is the first inspection of that indirect evidence, not a fresh ad time.24-hour advertised quote and current availability remain unresolved."
         }
       ],
       "id": "JTEAAAAH6NJ101083",
@@ -2120,7 +2173,7 @@
       "missingFromFeed": false,
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "finalUrl": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -2151,7 +2204,7 @@
           "present": true,
           "observedAt": "2026-11-17",
           "mode": "observations",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924"
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
         }
       },
       "seller": "IE Motors Direct / California Motors Direct Montclair",
@@ -2166,6 +2219,16 @@
           "price": 23984,
           "priceBasis": "Dealer cached quote $23,899+$85doc=$23,984. Specific disclosure includes e-filing/emission testing; excludes government smog-certificate fee, government/taxes/finance. Optional accessories extra. Generic payment disclaimer conflicts on doc/emissions; prevent duplicate charges. Advertised prices valid24hours; retrieved page was three-day cache, current price unresolved. No specific mandatory finance/trade/downpayment/rebate condition established.",
           "availability": "November17 inspected cached indirect evidence only; observedAt records that inspection, not fresh ad verification. Original dealer cache3days old and advertised24-hour price not freshly confirmed. Availability unresolved.",
+          "notes": "Independent new discovery here, not newly listed. November17 inspection of three-day-old dealer cache and yesterday-crawled TrueCar summary; actual original ad observation time unknown. TrueCar reports clean title/no accidents/one owner. KBB report403 and CapitalOne403. Maintenance, rental/fleet use, battery, recalls and full title unknown. Not recommended until fresh original availability/price/history verified."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
+          "checkedAt": "2026-11-17",
+          "price": 23984,
+          "priceBasis": "Dealer cached quote $23,899+$85doc=$23,984. Specific disclosure includes e-filing/emission testing; excludes government smog-certificate fee, government/taxes/finance. Optional accessories extra. Generic payment disclaimer conflicts on doc/emissions; prevent duplicate charges. Advertised prices valid24hours; retrieved page was three-day cache, current price unresolved. No specific mandatory finance/trade/downpayment/rebate condition established.",
+          "availability": "November18 inspected same four-day-old dealer cache; prior observedAt November17 is the first inspection of that indirect evidence, not a fresh ad time.24-hour advertised quote and current availability remain unresolved.",
           "notes": "Independent new discovery here, not newly listed. November17 inspection of three-day-old dealer cache and yesterday-crawled TrueCar summary; actual original ad observation time unknown. TrueCar reports clean title/no accidents/one owner. KBB report403 and CapitalOne403. Maintenance, rental/fleet use, battery, recalls and full title unknown. Not recommended until fresh original availability/price/history verified."
         }
       ],
@@ -2187,6 +2250,13 @@
         {
           "result": "observed",
           "checkedAt": "2026-11-17T22:52:27.780Z",
+          "url": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
+          "finalUrl": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
+          "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
+        },
+        {
+          "result": "observed",
+          "checkedAt": "2026-11-18T01:19:57.334Z",
           "url": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
           "finalUrl": "https://www.iemotorsdirect.com/pre-owned-cars/detail/2022-Toyota-Venza/1588507",
           "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -2404,7 +2474,7 @@
       "priceConflicts": [],
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.tonkinwilsonvillenissan.com/vehicle/used-2023-Hyundai-SantaFeHybrid-SELPremium-SUV-Gladstone-OR-5NMS3DA12PH006164/",
         "finalUrl": "https://www.tonkinwilsonvillenissan.com/vehicle/used-2023-Hyundai-SantaFeHybrid-SELPremium-SUV-Gladstone-OR-5NMS3DA12PH006164/",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -2551,6 +2621,203 @@
       "priceConflicts": []
     },
     {
+      "id": "KM8S6DA20NU052058",
+      "vin": "KM8S6DA20NU052058",
+      "name": "Hyundai Santa Fe Plug-In Hybrid",
+      "trim": "SEL Convenience",
+      "year": 2022,
+      "price": 22575,
+      "mileage": 34746,
+      "city": "Cerritos",
+      "state": "CA",
+      "drive": "AWD",
+      "type": "PHEV",
+      "rows": 2,
+      "seller": "Norm Reeves Hyundai Superstore Cerritos",
+      "fees": 180,
+      "feeNote": "November18 original dealer $22,395+$85 documentation+$37 electronic filing+$58 smog=$22,575. Same fee basis was $23,179 November17, supporting a $604 reduction. Government/taxes/finance extra. Offer expires close of business. No specific financing/trade/downpayment/rebate condition established.",
+      "title": "Reported clean",
+      "accidents": "None reported",
+      "owners": 2,
+      "use": "CARFAX retrieved November18: two personal California owners",
+      "maintenance": "CARFAX retrieved November18:15 service records, regular oil changes, oil/filter and tire rotation November3,2026; full invoices not obtained.",
+      "checked": "2026-11-18",
+      "lastVerified": null,
+      "availability": "November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates.",
+      "listingState": "awaiting_verification",
+      "status": "watchlist",
+      "origin": "ChatGPT independent",
+      "imported": true,
+      "color": "blue",
+      "discoveryAgents": [
+        "ChatGPT independent"
+      ],
+      "sourceIds": [
+        "independent:KM8S6DA20NU052058"
+      ],
+      "sourcePresence": {
+        "independent": {
+          "present": true,
+          "observedAt": "2026-11-18",
+          "mode": "observations",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
+        }
+      },
+      "currentObservation": {
+        "source": "ChatGPT independent",
+        "observedAt": "2026-11-18",
+        "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
+        "priceBasis": "November18 original dealer $22,395+$85 documentation+$37 electronic filing+$58 smog=$22,575. Same fee basis was $23,179 November17, supporting a $604 reduction. Government/taxes/finance extra. Offer expires close of business. No specific financing/trade/downpayment/rebate condition established."
+      },
+      "evidence": null,
+      "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
+      "historyDate": "2026-11-18",
+      "sellerClaim": "Muse discovery independently cross-checked November18. Dealer34,746 miles versus CARFAX34,767; confirm actual odometer. Linked CARFAX retrieved November18 reports no accident/damage or listed title brands, two personal CA owners,15 service records, regular oil changes and November3 oil/filter/tire service. Battery/charging cable, VIN-specific manufacturer recall lookup, warranty applicability and CPO enrollment unverified.",
+      "reason": "Independent discovery; ranked with the same evidence rules as every source.",
+      "concern": "Muse discovery independently cross-checked November18. Dealer34,746 miles versus CARFAX34,767; confirm actual odometer. Linked CARFAX retrieved November18 reports no accident/damage or listed title brands, two personal CA owners,15 service records, regular oil changes and November3 oil/filter/tire service. Battery/charging cable, VIN-specific manufacturer recall lookup, warranty applicability and CPO enrollment unverified.",
+      "unknowns": [
+        "Seller-confirmed unsold status",
+        "Complete title/history evidence",
+        "Maintenance invoices",
+        "Battery condition"
+      ],
+      "sources": [
+        {
+          "label": "Original listing · via ChatGPT independent",
+          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/"
+        },
+        {
+          "label": "Reported history evidence",
+          "url": "https://www.carfax.com/vehiclehistory/ar20/CmcukjAqvUuVaNBWq1-q_f7SZLGlqKwi57WYFuHI-P2tr-n7N1nZfGjRWzkrbxyWLl48w_FxhrQbCqq85mQxINcAu67gDWx-RyU"
+        },
+        {
+          "label": "Reported history evidence",
+          "url": "https://www.carfax.com/vehiclehistory/ar20/HXPveMUybeAwBT5MIRebwJzVs9PZdvKK_Pd0PHRUrvfv9IwCLikWDLwlW_x5NCrwZJNK2k_kdzZK2MXDnbX7jFnDrdCTkyqJ2bY"
+        }
+      ],
+      "observations": [
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-d27f3dd3-dd24-8328-a1b0-1d2939a66f39",
+          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
+          "checkedAt": "2026-11-14",
+          "price": 23179,
+          "priceBasis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated.",
+          "availability": "November14 original dealer ad and linkedfullCARFAX crawledtoday; exactVIN/price/specs confirmed asadvertised. No seller-confirmed unsoldavailability.",
+          "notes": "Muse discovery independently verified. CARFAX readNovember14 reports15service records/regularoilchanges,2personalCaliforniaowners,noaccident/damage,no reported salvage/junk/rebuilt/fire/flood/hail/lemon brands,no openrecalls reported. Report latestodometer34,767 versus dealer34,746:21mi discrepancy; confirmcurrentodometer. SellerHyundaiCPO; actualbattery/chargingcable,CPOenrollment/warrantyeligibilityandmanufacturerrecallstatusunknown. Do notapply genericnonhybridDCTrecallaggregatorclaims to this6speedPHEV."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-e1a190c4-7e98-832e-a023-86aecc6294f6",
+          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
+          "checkedAt": "2026-11-15",
+          "price": 23179,
+          "priceBasis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated.",
+          "availability": "November15 original dealer ad recrawledtoday; price/specs asadvertised, not seller-confirmed unsoldavailability. Olderhistoryretains originalattribution.",
+          "notes": "Muse discovery independently verified. CARFAX readNovember14 reports15service records/regularoilchanges,2personalCaliforniaowners,noaccident/damage,no reported salvage/junk/rebuilt/fire/flood/hail/lemon brands,no openrecalls reported. Report latestodometer34,767 versus dealer34,746:21mi discrepancy; confirmcurrentodometer. SellerHyundaiCPO; actualbattery/chargingcable,CPOenrollment/warrantyeligibilityandmanufacturerrecallstatusunknown. Do notapply genericnonhybridDCTrecallaggregatorclaims to this6speedPHEV. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November15 linkedCARFAX URL inaccessible; November14 fullreportfacts retain originaldate. Dealerquoteunchanged."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924",
+          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
+          "checkedAt": "2026-11-17",
+          "price": 23179,
+          "priceBasis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated.",
+          "availability": "November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates.",
+          "notes": "Muse discovery independently verified November17. Original dealer $23,179/34,746 miles. Linked CARFAX retrieved today reports no accident/damage or listed title brands, two personal owners,15 service records and regular oil changes, last oil/tire service November3. Report odometer34,767 versus ad34,746: confirm actual reading. Battery/charging cable, manufacturer recall status, applicable warranty and CPO enrollment not independently verified. No new price cut."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
+          "checkedAt": "2026-11-18",
+          "price": 22575,
+          "priceBasis": "November18 original dealer $22,395+$85 documentation+$37 electronic filing+$58 smog=$22,575. Same fee basis was $23,179 November17, supporting a $604 reduction. Government/taxes/finance extra. Offer expires close of business. No specific financing/trade/downpayment/rebate condition established.",
+          "availability": "November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates.",
+          "notes": "Muse discovery independently cross-checked November18. Dealer34,746 miles versus CARFAX34,767; confirm actual odometer. Linked CARFAX retrieved November18 reports no accident/damage or listed title brands, two personal CA owners,15 service records, regular oil changes and November3 oil/filter/tire service. Battery/charging cable, VIN-specific manufacturer recall lookup, warranty applicability and CPO enrollment unverified."
+        }
+      ],
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 23179,
+          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
+          "agent": "ChatGPT independent",
+          "basis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated."
+        },
+        {
+          "date": "2026-11-15",
+          "price": 23179,
+          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
+          "agent": "ChatGPT independent",
+          "basis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated."
+        },
+        {
+          "date": "2026-11-17",
+          "price": 23179,
+          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
+          "agent": "ChatGPT independent",
+          "basis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated."
+        },
+        {
+          "date": "2026-11-18",
+          "price": 22575,
+          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
+          "agent": "ChatGPT independent",
+          "basis": "November18 original dealer $22,395+$85 documentation+$37 electronic filing+$58 smog=$22,575. Same fee basis was $23,179 November17, supporting a $604 reduction. Government/taxes/finance extra. Offer expires close of business. No specific financing/trade/downpayment/rebate condition established."
+        }
+      ],
+      "events": [
+        {
+          "date": "2026-11-14",
+          "text": "ChatGPT independent observation: November14 original dealer ad and linkedfullCARFAX crawledtoday; exactVIN/price/specs confirmed asadvertised. No seller-confirmed unsoldavailability."
+        },
+        {
+          "date": "2026-11-15",
+          "text": "ChatGPT independent observation: November15 original dealer ad recrawledtoday; price/specs asadvertised, not seller-confirmed unsoldavailability. Olderhistoryretains originalattribution."
+        },
+        {
+          "date": "2026-11-17",
+          "text": "ChatGPT independent observation: November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates."
+        },
+        {
+          "date": "2026-11-18",
+          "text": "ChatGPT independent observation: November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates."
+        }
+      ],
+      "missingFromFeed": false,
+      "score": 61.3,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 19.1/22",
+        "Price value 14.0/18",
+        "Age proxy 5.2/10",
+        "History evidence 17/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 4/4",
+        "Availability evidence 2/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": true,
+        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "rank": 7,
+      "photoImport": {
+        "status": "no_source",
+        "checkedAt": "2026-11-17T22:52:27.780Z",
+        "sourceUrl": null,
+        "reason": "No supported original direct listing URL is available.",
+        "stats": {
+          "sources": 0,
+          "requests": 0,
+          "htmlBytes": 0,
+          "imageBytes": 0
+        }
+      },
+      "verificationHistory": [],
+      "priceConflicts": []
+    },
+    {
       "id": "JM3KKEHA4R1122775",
       "vin": "JM3KKEHA4R1122775",
       "name": "Mazda CX-90 PHEV",
@@ -2565,7 +2832,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 7,
+      "rank": 8,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -2748,182 +3015,6 @@
       }
     },
     {
-      "id": "KM8S6DA20NU052058",
-      "vin": "KM8S6DA20NU052058",
-      "name": "Hyundai Santa Fe Plug-In Hybrid",
-      "trim": "SEL Convenience",
-      "year": 2022,
-      "price": 23179,
-      "mileage": 34746,
-      "city": "Cerritos",
-      "state": "CA",
-      "drive": "AWD",
-      "type": "PHEV",
-      "rows": 2,
-      "seller": "Norm Reeves Hyundai Superstore Cerritos",
-      "fees": 180,
-      "feeNote": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated.",
-      "title": "Reported clean",
-      "accidents": "None reported",
-      "owners": 2,
-      "use": "CARFAX report retrieved November17: two personal California owners",
-      "maintenance": "CARFAX November17:15 service records and regular oil changes; oil/filter and tire rotation November3,2026. Full invoices not obtained.",
-      "checked": "2026-11-17",
-      "lastVerified": null,
-      "availability": "November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates.",
-      "listingState": "awaiting_verification",
-      "status": "watchlist",
-      "origin": "ChatGPT independent",
-      "imported": true,
-      "color": "blue",
-      "discoveryAgents": [
-        "ChatGPT independent"
-      ],
-      "sourceIds": [
-        "independent:KM8S6DA20NU052058"
-      ],
-      "sourcePresence": {
-        "independent": {
-          "present": true,
-          "observedAt": "2026-11-17",
-          "mode": "observations",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924"
-        }
-      },
-      "currentObservation": {
-        "source": "ChatGPT independent",
-        "observedAt": "2026-11-17",
-        "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
-        "priceBasis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated."
-      },
-      "evidence": null,
-      "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
-      "historyDate": "2026-11-17",
-      "sellerClaim": "Muse discovery independently verified November17. Original dealer $23,179/34,746 miles. Linked CARFAX retrieved today reports no accident/damage or listed title brands, two personal owners,15 service records and regular oil changes, last oil/tire service November3. Report odometer34,767 versus ad34,746: confirm actual reading. Battery/charging cable, manufacturer recall status, applicable warranty and CPO enrollment not independently verified. No new price cut.",
-      "reason": "Independent discovery; ranked with the same evidence rules as every source.",
-      "concern": "Muse discovery independently verified November17. Original dealer $23,179/34,746 miles. Linked CARFAX retrieved today reports no accident/damage or listed title brands, two personal owners,15 service records and regular oil changes, last oil/tire service November3. Report odometer34,767 versus ad34,746: confirm actual reading. Battery/charging cable, manufacturer recall status, applicable warranty and CPO enrollment not independently verified. No new price cut.",
-      "unknowns": [
-        "Seller-confirmed unsold status",
-        "Complete title/history evidence",
-        "Maintenance invoices",
-        "Battery condition"
-      ],
-      "sources": [
-        {
-          "label": "Original listing · via ChatGPT independent",
-          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/"
-        },
-        {
-          "label": "Reported history evidence",
-          "url": "https://www.carfax.com/vehiclehistory/ar20/CmcukjAqvUuVaNBWq1-q_f7SZLGlqKwi57WYFuHI-P2tr-n7N1nZfGjRWzkrbxyWLl48w_FxhrQbCqq85mQxINcAu67gDWx-RyU"
-        },
-        {
-          "label": "Reported history evidence",
-          "url": "https://www.carfax.com/vehiclehistory/ar20/HXPveMUybeAwBT5MIRebwJzVs9PZdvKK_Pd0PHRUrvfv9IwCLikWDLwlW_x5NCrwZJNK2k_kdzZK2MXDnbX7jFnDrdCTkyqJ2bY"
-        }
-      ],
-      "observations": [
-        {
-          "source": "ChatGPT independent",
-          "runId": "chatgpt-scheduled-d27f3dd3-dd24-8328-a1b0-1d2939a66f39",
-          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
-          "checkedAt": "2026-11-14",
-          "price": 23179,
-          "priceBasis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated.",
-          "availability": "November14 original dealer ad and linkedfullCARFAX crawledtoday; exactVIN/price/specs confirmed asadvertised. No seller-confirmed unsoldavailability.",
-          "notes": "Muse discovery independently verified. CARFAX readNovember14 reports15service records/regularoilchanges,2personalCaliforniaowners,noaccident/damage,no reported salvage/junk/rebuilt/fire/flood/hail/lemon brands,no openrecalls reported. Report latestodometer34,767 versus dealer34,746:21mi discrepancy; confirmcurrentodometer. SellerHyundaiCPO; actualbattery/chargingcable,CPOenrollment/warrantyeligibilityandmanufacturerrecallstatusunknown. Do notapply genericnonhybridDCTrecallaggregatorclaims to this6speedPHEV."
-        },
-        {
-          "source": "ChatGPT independent",
-          "runId": "chatgpt-scheduled-e1a190c4-7e98-832e-a023-86aecc6294f6",
-          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
-          "checkedAt": "2026-11-15",
-          "price": 23179,
-          "priceBasis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated.",
-          "availability": "November15 original dealer ad recrawledtoday; price/specs asadvertised, not seller-confirmed unsoldavailability. Olderhistoryretains originalattribution.",
-          "notes": "Muse discovery independently verified. CARFAX readNovember14 reports15service records/regularoilchanges,2personalCaliforniaowners,noaccident/damage,no reported salvage/junk/rebuilt/fire/flood/hail/lemon brands,no openrecalls reported. Report latestodometer34,767 versus dealer34,746:21mi discrepancy; confirmcurrentodometer. SellerHyundaiCPO; actualbattery/chargingcable,CPOenrollment/warrantyeligibilityandmanufacturerrecallstatusunknown. Do notapply genericnonhybridDCTrecallaggregatorclaims to this6speedPHEV. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November15 linkedCARFAX URL inaccessible; November14 fullreportfacts retain originaldate. Dealerquoteunchanged."
-        },
-        {
-          "source": "ChatGPT independent",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924",
-          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
-          "checkedAt": "2026-11-17",
-          "price": 23179,
-          "priceBasis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated.",
-          "availability": "November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates.",
-          "notes": "Muse discovery independently verified November17. Original dealer $23,179/34,746 miles. Linked CARFAX retrieved today reports no accident/damage or listed title brands, two personal owners,15 service records and regular oil changes, last oil/tire service November3. Report odometer34,767 versus ad34,746: confirm actual reading. Battery/charging cable, manufacturer recall status, applicable warranty and CPO enrollment not independently verified. No new price cut."
-        }
-      ],
-      "priceHistory": [
-        {
-          "date": "2026-11-14",
-          "price": 23179,
-          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
-          "agent": "ChatGPT independent",
-          "basis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated."
-        },
-        {
-          "date": "2026-11-15",
-          "price": 23179,
-          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
-          "agent": "ChatGPT independent",
-          "basis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated."
-        },
-        {
-          "date": "2026-11-17",
-          "price": 23179,
-          "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
-          "agent": "ChatGPT independent",
-          "basis": "November14 original dealer$22,999+$85doc+$37electronicfiling+$58smog=$23,179. Excludesgovernment/taxes/finance; offerexpirescloseofbusinessunlessotherwiseindicated. No mandatoryfinancing/trade/downpayment/rebate requirement established. OlderCapitalOne$23,900/CarGurus$24,022 differ; not a confirmedcut. MuseNovember13$23,179 corroborated."
-        }
-      ],
-      "events": [
-        {
-          "date": "2026-11-14",
-          "text": "ChatGPT independent observation: November14 original dealer ad and linkedfullCARFAX crawledtoday; exactVIN/price/specs confirmed asadvertised. No seller-confirmed unsoldavailability."
-        },
-        {
-          "date": "2026-11-15",
-          "text": "ChatGPT independent observation: November15 original dealer ad recrawledtoday; price/specs asadvertised, not seller-confirmed unsoldavailability. Olderhistoryretains originalattribution."
-        },
-        {
-          "date": "2026-11-17",
-          "text": "ChatGPT independent observation: November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates."
-        }
-      ],
-      "missingFromFeed": false,
-      "score": 60.4,
-      "rankReasons": [
-        "Mileage / remaining-life proxy 19.1/22",
-        "Price value 13.1/18",
-        "Age proxy 5.2/10",
-        "History evidence 17/21",
-        "Verified service documentation 0/12",
-        "AWD bonus 4/4",
-        "Availability evidence 2/8"
-      ],
-      "priceDrop": 0,
-      "eligibility": {
-        "qualifies": true,
-        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
-      },
-      "rank": 8,
-      "photoImport": {
-        "status": "no_source",
-        "checkedAt": "2026-11-17T22:52:27.780Z",
-        "sourceUrl": null,
-        "reason": "No supported original direct listing URL is available.",
-        "stats": {
-          "sources": 0,
-          "requests": 0,
-          "htmlBytes": 0,
-          "imageBytes": 0
-        }
-      },
-      "verificationHistory": [],
-      "priceConflicts": []
-    },
-    {
       "id": "KNDRGDLG3N5107069",
       "vin": "KNDRGDLG3N5107069",
       "name": "Kia Sorento Hybrid",
@@ -2983,7 +3074,7 @@
       "evidence": null,
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.autonationchevroletarrowhead.com/used-Peoria%2B%2B-2022-Kia-Sorento%2BHybrid-S-KNDRGDLG3N5107069",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -4326,7 +4417,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.cars.com/vehicledetail/c9a03e10-3fa4-401e-8597-15aceec95590/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -5195,7 +5286,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.sandskia.com/used-Phoenix-2022-Kia-Sorento%2BHybrid-S-KNDRG4LG8N5081732",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -6421,9 +6512,9 @@
       "owners": 1,
       "use": "Unknown",
       "maintenance": "Seller claims well-maintained; invoices not obtained",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "lastVerified": null,
-      "availability": "November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates.",
+      "availability": "November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates.",
       "listingState": "awaiting_verification",
       "status": "watchlist",
       "origin": "ChatGPT independent",
@@ -6438,23 +6529,23 @@
       "sourcePresence": {
         "independent": {
           "present": true,
-          "observedAt": "2026-11-17",
+          "observedAt": "2026-11-18",
           "mode": "observations",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924"
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
         }
       },
       "currentObservation": {
         "source": "ChatGPT independent",
-        "observedAt": "2026-11-17",
+        "observedAt": "2026-11-18",
         "url": "https://www.leejohnsonkia.com/auto/preowned-2023-kia-sorento-hybrid-ex/126732762/",
         "priceBasis": "Dealer $28,790 + $200 negotiable documentary fee = $28,990. Dealer boilerplate may add up to $200; obtain written total to prevent double charge. Government/finance/other closing charges extra; no proven financing/trade price condition. Offering may require negotiated implied-warranty waiver if AS IS."
       },
       "evidence": null,
       "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
-      "historyDate": "2026-11-17",
-      "sellerClaim": "Independent continuing lead. Earlier cached TrueCar reports clean title/no accidents/one owner; original history dates are not refreshed. Complete service records, rental/fleet use, battery condition and CPO enrollment remain unknown. Dealer specifications contain a suspect 16-kWh battery field; do not use that generic field to reclassify this HEV as PHEV. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 17: original ad re-observed; no confirmed price reduction.",
+      "historyDate": "2026-11-18",
+      "sellerClaim": "Independent continuing lead. Earlier cached TrueCar reports clean title/no accidents/one owner; original history dates are not refreshed. Complete service records, rental/fleet use, battery condition and CPO enrollment remain unknown. Dealer specifications contain a suspect 16-kWh battery field; do not use that generic field to reclassify this HEV as PHEV. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 18 original ad re-observed; quote unchanged from November17.",
       "reason": "Independent discovery; ranked with the same evidence rules as every source.",
-      "concern": "Independent continuing lead. Earlier cached TrueCar reports clean title/no accidents/one owner; original history dates are not refreshed. Complete service records, rental/fleet use, battery condition and CPO enrollment remain unknown. Dealer specifications contain a suspect 16-kWh battery field; do not use that generic field to reclassify this HEV as PHEV. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 17: original ad re-observed; no confirmed price reduction.",
+      "concern": "Independent continuing lead. Earlier cached TrueCar reports clean title/no accidents/one owner; original history dates are not refreshed. Complete service records, rental/fleet use, battery condition and CPO enrollment remain unknown. Dealer specifications contain a suspect 16-kWh battery field; do not use that generic field to reclassify this HEV as PHEV. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 18 original ad re-observed; quote unchanged from November17.",
       "unknowns": [
         "Seller-confirmed unsold status",
         "Complete title/history evidence",
@@ -6635,6 +6726,16 @@
           "priceBasis": "Dealer $28,790 + $200 negotiable documentary fee = $28,990. Dealer boilerplate may add up to $200; obtain written total to prevent double charge. Government/finance/other closing charges extra; no proven financing/trade price condition. Offering may require negotiated implied-warranty waiver if AS IS.",
           "availability": "November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates.",
           "notes": "Independent continuing lead. Earlier cached TrueCar reports clean title/no accidents/one owner; original history dates are not refreshed. Complete service records, rental/fleet use, battery condition and CPO enrollment remain unknown. Dealer specifications contain a suspect 16-kWh battery field; do not use that generic field to reclassify this HEV as PHEV. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 17: original ad re-observed; no confirmed price reduction."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.leejohnsonkia.com/auto/preowned-2023-kia-sorento-hybrid-ex/126732762/",
+          "checkedAt": "2026-11-18",
+          "price": 28990,
+          "priceBasis": "Dealer $28,790 + $200 negotiable documentary fee = $28,990. Dealer boilerplate may add up to $200; obtain written total to prevent double charge. Government/finance/other closing charges extra; no proven financing/trade price condition. Offering may require negotiated implied-warranty waiver if AS IS.",
+          "availability": "November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates.",
+          "notes": "Independent continuing lead. Earlier cached TrueCar reports clean title/no accidents/one owner; original history dates are not refreshed. Complete service records, rental/fleet use, battery condition and CPO enrollment remain unknown. Dealer specifications contain a suspect 16-kWh battery field; do not use that generic field to reclassify this HEV as PHEV. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 18 original ad re-observed; quote unchanged from November17."
         }
       ],
       "priceHistory": [
@@ -6749,6 +6850,13 @@
           "url": "https://www.leejohnsonkia.com/auto/preowned-2023-kia-sorento-hybrid-ex/126732762/",
           "agent": "ChatGPT independent",
           "basis": "Dealer $28,790 + $200 negotiable documentary fee = $28,990. Dealer boilerplate may add up to $200; obtain written total to prevent double charge. Government/finance/other closing charges extra; no proven financing/trade price condition. Offering may require negotiated implied-warranty waiver if AS IS."
+        },
+        {
+          "date": "2026-11-18",
+          "price": 28990,
+          "url": "https://www.leejohnsonkia.com/auto/preowned-2023-kia-sorento-hybrid-ex/126732762/",
+          "agent": "ChatGPT independent",
+          "basis": "Dealer $28,790 + $200 negotiable documentary fee = $28,990. Dealer boilerplate may add up to $200; obtain written total to prevent double charge. Government/finance/other closing charges extra; no proven financing/trade price condition. Offering may require negotiated implied-warranty waiver if AS IS."
         }
       ],
       "events": [
@@ -6815,6 +6923,10 @@
         {
           "date": "2026-11-17",
           "text": "ChatGPT independent observation: November 17 original dealer ad recrawled today. Advertised price and specifications unchanged from November 15; no seller-confirmed unsold availability. Historical supporting evidence retains its actual dates."
+        },
+        {
+          "date": "2026-11-18",
+          "text": "ChatGPT independent observation: November 18 original dealer ad crawled today and inspected this run. Ad presence is verified; seller-confirmed unsold availability is unknown. Earlier history retains its original report dates."
         }
       ],
       "missingFromFeed": false,
@@ -7497,7 +7609,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.lithia.com/used/Hyundai/2022-Hyundai-Santa-Fe-Hybrid-a3f0ac38ac1811a5b94575c6b5faa03d.htm",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -8776,7 +8888,7 @@
       },
       "verification": {
         "result": "observed",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.tempekia.com/viewdetails/cpo/kndrh4lg2m5040086/2021-kia-sorento-hybrid-sport-utility",
         "finalUrl": "https://www.tempekia.com/viewdetails/cpo/kndrh4lg2m5040086/2021-kia-sorento-hybrid-sport-utility",
         "reason": "Direct seller page contains the matching VIN. Availability and current price still require seller confirmation."
@@ -8805,7 +8917,7 @@
       "maintenance": "Unknown",
       "checked": "2026-11-15",
       "lastVerified": null,
-      "availability": "November 17 initial response was yesterday-crawled cache; follow-up fresh lookup returned HTTP404. Retain November15 actual quote/date. A 404 is not proof of sale.",
+      "availability": "November18 lookup returned HTTP404. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged.",
       "listingState": "stale",
       "status": "watchlist",
       "origin": "ChatGPT independent",
@@ -8822,7 +8934,7 @@
           "present": true,
           "observedAt": "2026-11-15",
           "mode": "observations",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924"
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
         }
       },
       "currentObservation": {
@@ -8923,6 +9035,16 @@
           "priceBasis": "November15 dealer$25,500+$250optional/negotiabledoc=$25,750. $400 below November14same-source$26,150withsamefee basis. Government/finance/optionalaccessoriesextra. Genericqualificationcaveats; no specific mandatoryfinance/trade/downpayment/rebate conditionestablished. Do notadddocagain.",
           "availability": "November 17 initial response was yesterday-crawled cache; follow-up fresh lookup returned HTTP404. Retain November15 actual quote/date. A 404 is not proof of sale.",
           "notes": "Hold pending availability. Last verified original quote November15: $25,750 including $250 optional/negotiable doc. Seller Toyota Gold CPO/Clean CARFAX/one owner claims; October22 AutoCheck reports clean title/no accidents/personal use. No fresh availability confirmation today."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.royalmoore.com/used-Hillsboro-2021-Toyota-Venza-LE-JTEAAAAH5MJ085215",
+          "checkedAt": "2026-11-15",
+          "price": 25750,
+          "priceBasis": "November15 dealer$25,500+$250optional/negotiabledoc=$25,750. $400 below November14same-source$26,150withsamefee basis. Government/finance/optionalaccessoriesextra. Genericqualificationcaveats; no specific mandatoryfinance/trade/downpayment/rebate conditionestablished. Do notadddocagain.",
+          "availability": "November18 lookup returned HTTP404. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged.",
+          "notes": "Hold pending availability. Last verified original quote November15: $25,750 including $250 optional/negotiable doc. Seller Toyota Gold CPO/Clean CARFAX/one owner claims; October22 AutoCheck reports clean title/no accidents/personal use. No fresh availability confirmation today."
         }
       ],
       "priceHistory": [
@@ -8990,6 +9112,10 @@
         {
           "date": "2026-11-15",
           "text": "ChatGPT independent observation: November 17 initial response was yesterday-crawled cache; follow-up fresh lookup returned HTTP404. Retain November15 actual quote/date. A 404 is not proof of sale."
+        },
+        {
+          "date": "2026-11-15",
+          "text": "ChatGPT independent observation: November18 lookup returned HTTP404. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged."
         }
       ],
       "missingFromFeed": false,
@@ -9022,13 +9148,13 @@
       },
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.truecar.com/used-cars-for-sale/listing/JTEAAAAH5MJ085215/2021-toyota-venza/?position=1&returnTo=/used-cars-for-sale/listings/toyota/venza/year-2021/location-oregon-city-or/&sourceType=marketplace",
         "reason": "The primary page title does not match the vehicle year and model.",
         "stats": {
           "sources": 2,
           "requests": 2,
-          "htmlBytes": 477990,
+          "htmlBytes": 477987,
           "imageBytes": 0
         }
       },
@@ -9220,12 +9346,25 @@
           "url": "https://www.royalmoore.com/used-Hillsboro-2021-Toyota-Venza-LE-JTEAAAAH5MJ085215",
           "httpStatus": 404,
           "reason": "Request failed; availability unknown."
+        },
+        {
+          "result": "not_found",
+          "checkedAt": "2026-11-18T01:19:57.334Z",
+          "url": "https://www.royalmoore.com/used-Hillsboro-2021-Toyota-Venza-LE-JTEAAAAH5MJ085215",
+          "httpStatus": 404,
+          "reason": "Request failed; availability unknown."
+        },
+        {
+          "result": "not_found",
+          "url": "https://www.royalmoore.com/used-Hillsboro-2021-Toyota-Venza-LE-JTEAAAAH5MJ085215",
+          "checkedAt": "2026-11-15",
+          "reason": "November18 lookup returned HTTP404. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged."
         }
       ],
       "priceConflicts": [],
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.royalmoore.com/used-Hillsboro-2021-Toyota-Venza-LE-JTEAAAAH5MJ085215",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -10047,7 +10186,7 @@
       "maintenance": "Unknown",
       "checked": "2026-11-17",
       "lastVerified": null,
-      "availability": "November17 inspected yesterday-crawled CapitalOne/TrueCar evidence. Date is inspection of indirect evidence, not fresh ad verification; original dealer and availability unresolved.",
+      "availability": "November18 inspected same CapitalOne cached page, now two days old. Retain November17 first inspection timestamp and attributed historical TrueCar quote; original dealer price and current availability unresolved.",
       "listingState": "awaiting_verification",
       "status": "watchlist",
       "origin": "ChatGPT independent",
@@ -10064,7 +10203,7 @@
           "present": true,
           "observedAt": "2026-11-17",
           "mode": "observations",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924"
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
         }
       },
       "currentObservation": {
@@ -10105,6 +10244,16 @@
           "priceBasis": "Yesterday-crawled TrueCar exactVIN summary$29,886 labeledfees/addonsincluded. CapitalOne yesterday-crawled page confirms identity but no price. Original dealer quote, fee itemization, finance/trade/downpayment/rebate conditions unknown. No proven reduction.",
           "availability": "November17 inspected yesterday-crawled CapitalOne/TrueCar evidence. Date is inspection of indirect evidence, not fresh ad verification; original dealer and availability unresolved.",
           "notes": "Independent new discovery here, not newly listed. November17 inspected cached marketplace evidence; original ad observation time unknown, not fresh availability. TrueCar reports clean title/no accidents/one owner; full report/rental use/maintenance/battery/recall status unknown. CapitalOne exterior purple conflicts with seller description beige. Hold for original dealer, price and history verification."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.capitalone.com/cars/vehicle-details/2025/Kia/Sorento%2BHybrid/EX/KNDRH4JG6S5307469",
+          "checkedAt": "2026-11-17",
+          "price": 29886,
+          "priceBasis": "Yesterday-crawled TrueCar exactVIN summary$29,886 labeledfees/addonsincluded. CapitalOne yesterday-crawled page confirms identity but no price. Original dealer quote, fee itemization, finance/trade/downpayment/rebate conditions unknown. No proven reduction.",
+          "availability": "November18 inspected same CapitalOne cached page, now two days old. Retain November17 first inspection timestamp and attributed historical TrueCar quote; original dealer price and current availability unresolved.",
+          "notes": "Independent new discovery here, not newly listed. November17 inspected cached marketplace evidence; original ad observation time unknown, not fresh availability. TrueCar reports clean title/no accidents/one owner; full report/rental use/maintenance/battery/recall status unknown. CapitalOne exterior purple conflicts with seller description beige. Hold for original dealer, price and history verification."
         }
       ],
       "priceHistory": [
@@ -10120,6 +10269,10 @@
         {
           "date": "2026-11-17",
           "text": "ChatGPT independent observation: November17 inspected yesterday-crawled CapitalOne/TrueCar evidence. Date is inspection of indirect evidence, not fresh ad verification; original dealer and availability unresolved."
+        },
+        {
+          "date": "2026-11-17",
+          "text": "ChatGPT independent observation: November18 inspected same CapitalOne cached page, now two days old. Retain November17 first inspection timestamp and attributed historical TrueCar quote; original dealer price and current availability unresolved."
         }
       ],
       "missingFromFeed": false,
@@ -12965,7 +13118,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/788583066",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -14319,6 +14472,134 @@
       "priceConflicts": []
     },
     {
+      "id": "5J8YD7H57KL000449",
+      "vin": "5J8YD7H57KL000449",
+      "name": "Acura MDX Sport Hybrid",
+      "trim": "Technology Package",
+      "year": 2019,
+      "price": 27998,
+      "mileage": 75236,
+      "city": "Las Vegas",
+      "state": "NV",
+      "drive": "AWD",
+      "type": "HEV",
+      "rows": 3,
+      "seller": "CarMax Centennial",
+      "fees": 0,
+      "feeNote": "November18 original CarMax $27,998. TrueCar says no doc/processing fees; government,optionalproducts,finance and any requested transfer extra. Price assumes finalpurchaseNV. Reader-default$1,999shipping is not buyer-specific and not included. No mandatoryfinance/trade/downpayment/rebate condition established.",
+      "title": "Reported clean",
+      "accidents": "None reported",
+      "owners": 1,
+      "use": "November18 AutoCheck personal use",
+      "maintenance": "November18 AutoCheck fourservice records, oneoilserviceJuly6,2024 at47,332mi; no later reportedservice. Fullinvoices unknown.",
+      "checked": "2026-11-18",
+      "lastVerified": null,
+      "availability": "November18 originalCarMax ad and linkedAutoCheck freshly crawled. Unsoldavailability not sellerconfirmed. Unresolved lienrelease, sparsemaintenance, mileage/location discrepancies; holding for verification.",
+      "listingState": "awaiting_verification",
+      "status": "watchlist",
+      "origin": "ChatGPT independent",
+      "imported": true,
+      "color": "blue",
+      "discoveryAgents": [
+        "ChatGPT independent"
+      ],
+      "sourceIds": [
+        "independent:5J8YD7H57KL000449"
+      ],
+      "sourcePresence": {
+        "independent": {
+          "present": true,
+          "observedAt": "2026-11-18",
+          "mode": "observations",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
+        }
+      },
+      "currentObservation": {
+        "source": "ChatGPT independent",
+        "observedAt": "2026-11-18",
+        "url": "https://www.carmax.com/car/70321654",
+        "priceBasis": "November18 original CarMax $27,998. TrueCar says no doc/processing fees; government,optionalproducts,finance and any requested transfer extra. Price assumes finalpurchaseNV. Reader-default$1,999shipping is not buyer-specific and not included. No mandatoryfinance/trade/downpayment/rebate condition established."
+      },
+      "evidence": null,
+      "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
+      "historyDate": "2026-11-18",
+      "sellerClaim": "New independent discovery, absent November17 export and currentNovember13Musefeed; TrueCar says listed1dayago but actual initial listing date unverified. Original dealer freshad rounds76k vs freshTrueCar75,236 exact: confirm odometer. AutoCheck clean/noaccident,1personalowner,4service records; last oilJuly6,2024 at47,332. July20,2026 lien/duplicate-title record; release unknown. History headingSanJose conflicts with shippingoriginCentennialNV. QLLinner-taillight warrantyextension listed remedyavailable, no openrecalls reported byAutoCheck; VINmanufacturer lookup unknown. Battery,DCTfluid,timingbeltservice and currentmaintenance unverified. Not shortlisted.",
+      "reason": "Independent discovery; ranked with the same evidence rules as every source.",
+      "concern": "New independent discovery, absent November17 export and currentNovember13Musefeed; TrueCar says listed1dayago but actual initial listing date unverified. Original dealer freshad rounds76k vs freshTrueCar75,236 exact: confirm odometer. AutoCheck clean/noaccident,1personalowner,4service records; last oilJuly6,2024 at47,332. July20,2026 lien/duplicate-title record; release unknown. History headingSanJose conflicts with shippingoriginCentennialNV. QLLinner-taillight warrantyextension listed remedyavailable, no openrecalls reported byAutoCheck; VINmanufacturer lookup unknown. Battery,DCTfluid,timingbeltservice and currentmaintenance unverified. Not shortlisted.",
+      "unknowns": [
+        "Seller-confirmed unsold status",
+        "Complete title/history evidence",
+        "Maintenance invoices",
+        "Battery condition"
+      ],
+      "sources": [
+        {
+          "label": "Original listing · via ChatGPT independent",
+          "url": "https://www.carmax.com/car/70321654"
+        },
+        {
+          "label": "Reported history evidence",
+          "url": "https://www.carmax.com/car/70321654/vehicle-history"
+        }
+      ],
+      "observations": [
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.carmax.com/car/70321654",
+          "checkedAt": "2026-11-18",
+          "price": 27998,
+          "priceBasis": "November18 original CarMax $27,998. TrueCar says no doc/processing fees; government,optionalproducts,finance and any requested transfer extra. Price assumes finalpurchaseNV. Reader-default$1,999shipping is not buyer-specific and not included. No mandatoryfinance/trade/downpayment/rebate condition established.",
+          "availability": "November18 originalCarMax ad and linkedAutoCheck freshly crawled. Unsoldavailability not sellerconfirmed. Unresolved lienrelease, sparsemaintenance, mileage/location discrepancies; holding for verification.",
+          "notes": "New independent discovery, absent November17 export and currentNovember13Musefeed; TrueCar says listed1dayago but actual initial listing date unverified. Original dealer freshad rounds76k vs freshTrueCar75,236 exact: confirm odometer. AutoCheck clean/noaccident,1personalowner,4service records; last oilJuly6,2024 at47,332. July20,2026 lien/duplicate-title record; release unknown. History headingSanJose conflicts with shippingoriginCentennialNV. QLLinner-taillight warrantyextension listed remedyavailable, no openrecalls reported byAutoCheck; VINmanufacturer lookup unknown. Battery,DCTfluid,timingbeltservice and currentmaintenance unverified. Not shortlisted."
+        }
+      ],
+      "priceHistory": [
+        {
+          "date": "2026-11-18",
+          "price": 27998,
+          "url": "https://www.carmax.com/car/70321654",
+          "agent": "ChatGPT independent",
+          "basis": "November18 original CarMax $27,998. TrueCar says no doc/processing fees; government,optionalproducts,finance and any requested transfer extra. Price assumes finalpurchaseNV. Reader-default$1,999shipping is not buyer-specific and not included. No mandatoryfinance/trade/downpayment/rebate condition established."
+        }
+      ],
+      "events": [
+        {
+          "date": "2026-11-18",
+          "text": "ChatGPT independent observation: November18 originalCarMax ad and linkedAutoCheck freshly crawled. Unsoldavailability not sellerconfirmed. Unresolved lienrelease, sparsemaintenance, mileage/location discrepancies; holding for verification."
+        }
+      ],
+      "missingFromFeed": false,
+      "score": 45.2,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 11.0/22",
+        "Price value 5.7/18",
+        "Age proxy 1.6/10",
+        "History evidence 21/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 4/4",
+        "Availability evidence 2/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": true,
+        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "rank": 43,
+      "photoImport": {
+        "status": "no_source",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
+        "sourceUrl": null,
+        "reason": "No supported original direct listing URL is available.",
+        "stats": {
+          "sources": 0,
+          "requests": 0,
+          "htmlBytes": 0,
+          "imageBytes": 0
+        }
+      }
+    },
+    {
       "id": "muse-1w3g5v1",
       "vin": null,
       "name": "Hyundai Santa Fe Hybrid SEL Premium",
@@ -14333,7 +14614,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 43,
+      "rank": 44,
       "title": "Reported clean",
       "owners": null,
       "accidents": "Unknown",
@@ -14540,7 +14821,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 44,
+      "rank": 45,
       "title": "Unknown",
       "owners": null,
       "accidents": "None reported",
@@ -14829,7 +15110,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 45,
+      "rank": 46,
       "photoImport": {
         "status": "no_photos",
         "checkedAt": "2026-11-17T22:52:27.780Z",
@@ -14955,7 +15236,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 46,
+      "rank": 47,
       "photoImport": {
         "status": "no_photos",
         "checkedAt": "2026-11-17T22:52:27.780Z",
@@ -14986,7 +15267,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 47,
+      "rank": 48,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -15412,7 +15693,7 @@
       "priceConflicts": [],
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/793893458",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/793893458",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -15852,7 +16133,7 @@
           "text": "Verified active Nov 9 via CarGurus text fetch: still $28,941; Kia CPO, clean CARFAX, 1-owner (mileage not shown; prior 31,585 mi retained)"
         }
       ],
-      "rank": 48,
+      "rank": 49,
       "reportedPriceChange": 0,
       "museReport": {
         "schemaVersion": "2.0",
@@ -16280,7 +16561,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.kiacerritos.com/inventory/used-2023-kia-sorento-hybrid-ex-fwd-4d-sport-utility-kndrh4lg7p5193809/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -16402,7 +16683,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 49,
+      "rank": 50,
       "photoImport": {
         "status": "no_photos",
         "checkedAt": "2026-11-17T22:52:27.780Z",
@@ -16440,7 +16721,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 50,
+      "rank": 51,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "Unknown",
@@ -16828,7 +17109,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 51,
+      "rank": 52,
       "photoImport": {
         "status": "inaccessible",
         "checkedAt": "2026-11-17T22:52:27.780Z",
@@ -16859,7 +17140,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 52,
+      "rank": 53,
       "title": "Reported clean",
       "owners": null,
       "accidents": "Unknown",
@@ -17144,7 +17425,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 53,
+      "rank": 54,
       "photoImport": {
         "status": "no_source",
         "checkedAt": "2026-11-17T22:52:27.780Z",
@@ -17175,7 +17456,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 54,
+      "rank": 55,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -17525,7 +17806,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 55,
+      "rank": 56,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -17734,7 +18015,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 56,
+      "rank": 57,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -17939,7 +18220,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 57,
+      "rank": 58,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -18410,7 +18691,7 @@
       "evidence": null,
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.kendalllexuseugene.com/inventory/used-2024-jeep-grand-cherokee-4xe-4wd-4d-sport-utility-1c4rjyb62rc710369/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -18475,7 +18756,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 58,
+      "rank": 59,
       "photoImport": {
         "status": "inaccessible",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -18528,7 +18809,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 59,
+      "rank": 60,
       "title": "Reported clean",
       "owners": 3,
       "accidents": "1 accident reported",
@@ -18790,7 +19071,7 @@
       "maintenance": "Unknown",
       "checked": "2026-11-14",
       "lastVerified": null,
-      "availability": "November17 Craigslist lookupHTTP410. Retain November14 actual ad observation; VIN/history/availability remain unresolved. Missing ad does not establish sold.",
+      "availability": "November18 lookup returned HTTP410. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged.",
       "listingState": "stale",
       "status": "watchlist",
       "origin": "ChatGPT independent",
@@ -18807,7 +19088,7 @@
           "present": true,
           "observedAt": "2026-11-14",
           "mode": "observations",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924"
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
         }
       },
       "currentObservation": {
@@ -18884,6 +19165,16 @@
           "priceBasis": "Seller asking$25,900 in four-day-old cached ad inspected November12. Mandatory fees/finance/trade/downpayment/rebate conditions unknown.",
           "availability": "November17 Craigslist lookupHTTP410. Retain November14 actual ad observation; VIN/history/availability remain unresolved. Missing ad does not establish sold.",
           "notes": "Independent private-party lead, not newly listed. Seller claims excellent condition/no issues/clean title in hand. Numeric postID7983550458 recorded in page; opaque listingId retains exact published URL segment. No VIN, ownership/accident/service evidence; not recommended pending documentation."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.craigslist.org/view/d/tempe-2023-toyota-venza/3k1hkaNkVz1tLLrYC3v63e",
+          "checkedAt": "2026-11-14",
+          "price": 25900,
+          "priceBasis": "Seller asking$25,900 in four-day-old cached ad inspected November12. Mandatory fees/finance/trade/downpayment/rebate conditions unknown.",
+          "availability": "November18 lookup returned HTTP410. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged.",
+          "notes": "Independent private-party lead, not newly listed. Seller claims excellent condition/no issues/clean title in hand. Numeric postID7983550458 recorded in page; opaque listingId retains exact published URL segment. No VIN, ownership/accident/service evidence; not recommended pending documentation."
         }
       ],
       "priceHistory": [
@@ -18929,6 +19220,10 @@
         {
           "date": "2026-11-14",
           "text": "ChatGPT independent observation: November17 Craigslist lookupHTTP410. Retain November14 actual ad observation; VIN/history/availability remain unresolved. Missing ad does not establish sold."
+        },
+        {
+          "date": "2026-11-14",
+          "text": "ChatGPT independent observation: November18 lookup returned HTTP410. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged."
         }
       ],
       "missingFromFeed": false,
@@ -18947,7 +19242,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 60,
+      "rank": 61,
       "photoImport": {
         "status": "no_source",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -18972,6 +19267,12 @@
           "url": "https://www.craigslist.org/view/d/tempe-2023-toyota-venza/3k1hkaNkVz1tLLrYC3v63e",
           "checkedAt": "2026-11-14",
           "reason": "November17 Craigslist lookupHTTP410. Retain November14 actual ad observation; VIN/history/availability remain unresolved. Missing ad does not establish sold."
+        },
+        {
+          "result": "not_found",
+          "url": "https://www.craigslist.org/view/d/tempe-2023-toyota-venza/3k1hkaNkVz1tLLrYC3v63e",
+          "checkedAt": "2026-11-14",
+          "reason": "November18 lookup returned HTTP410. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged."
         }
       ],
       "priceConflicts": [],
@@ -18979,7 +19280,7 @@
         "result": "not_found",
         "url": "https://www.craigslist.org/view/d/tempe-2023-toyota-venza/3k1hkaNkVz1tLLrYC3v63e",
         "checkedAt": "2026-11-14",
-        "reason": "November17 Craigslist lookupHTTP410. Retain November14 actual ad observation; VIN/history/availability remain unresolved. Missing ad does not establish sold."
+        "reason": "November18 lookup returned HTTP410. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged."
       }
     },
     {
@@ -18997,7 +19298,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 61,
+      "rank": 62,
       "title": "Reported clean",
       "owners": null,
       "accidents": "Unknown",
@@ -19187,7 +19488,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 62,
+      "rank": 63,
       "title": "Reported clean",
       "owners": null,
       "accidents": "Unknown",
@@ -19377,7 +19678,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 63,
+      "rank": 64,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -19784,7 +20085,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 64,
+      "rank": 65,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "1 accident reported",
@@ -19989,7 +20290,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 65,
+      "rank": 66,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -20130,7 +20431,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.earnhardthyundai.com/used-city-2022-Hyundai-Santa%20Fe%20Hybrid-vehicle-KM8S5DA19NU037634",
         "httpStatus": 404,
         "reason": "Request failed; availability unknown."
@@ -20533,7 +20834,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 66,
+      "rank": 67,
       "title": "Unknown",
       "owners": null,
       "accidents": "None reported",
@@ -20723,7 +21024,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 67,
+      "rank": 68,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -20957,7 +21258,7 @@
       },
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/793760440",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/793760440",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -21147,7 +21448,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 68,
+      "rank": 69,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -21645,7 +21946,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.hellosubarutemecula.com/inventory/used-2023-kia-sorento-hybrid-ex-awd-4d-sport-utility-kndrhdlg0p5189018/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -21760,7 +22061,7 @@
       "evidence": null,
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.kearnymesaford.com/inventory/used-2022-hyundai-santa-fe-plug-in-hybrid-limited-awd-4-door-suv-km8s7da27nu043886/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -21829,7 +22130,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 69,
+      "rank": 70,
       "photoImport": {
         "status": "inaccessible",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -21875,7 +22176,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 70,
+      "rank": 71,
       "title": "Reported clean",
       "owners": null,
       "accidents": "Unknown",
@@ -22160,7 +22461,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 71,
+      "rank": 72,
       "photoImport": {
         "status": "no_source",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -22191,7 +22492,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 72,
+      "rank": 73,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "1 accident reported",
@@ -22455,7 +22756,7 @@
       "evidence": null,
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.tustinmazda.com/viewdetails/cpo/jm3kkbhaxr1152782/2024-mazda-cx-90-phev-sport-utility",
         "finalUrl": "https://www.tustinmazda.com/viewdetails/cpo/jm3kkbhaxr1152782/2024-mazda-cx-90-phev-sport-utility",
         "reason": "Page title does not confirm the requested year and model; requires recheck."
@@ -22520,7 +22821,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 73,
+      "rank": 74,
       "listingPhotos": {
         "items": [
           "https://content.homenetiol.com/2000157/2065512/0x0/8e69a8a6a25f4f49ad685b6b03c42ff2.jpg"
@@ -22584,7 +22885,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 74,
+      "rank": 75,
       "title": "Unknown",
       "owners": null,
       "accidents": "None reported",
@@ -22875,7 +23176,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 75,
+      "rank": 76,
       "photoImport": {
         "status": "no_source",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -22913,7 +23214,7 @@
       "type": "HEV",
       "rows": 2,
       "status": "watchlist",
-      "rank": 76,
+      "rank": 77,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -23170,7 +23471,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 77,
+      "rank": 78,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -23360,7 +23661,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 78,
+      "rank": 79,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -24164,7 +24465,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.tuttleclickmazda.com/used/Mazda/2024-Mazda-CX-90-PHEV-irvine-ca-faeb2743ac18003fe20877a2be018538.htm?edmcid=1995368&edminv=JM3KK_DHA8R1150573&utm_content=JM3KKDHA8R1150573",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -24290,7 +24591,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 79,
+      "rank": 80,
       "photoImport": {
         "status": "no_source",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -24328,7 +24629,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 80,
+      "rank": 81,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -24537,7 +24838,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 81,
+      "rank": 82,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -24666,7 +24967,7 @@
       },
       "verification": {
         "result": "inaccessible",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.cars.com/vehicledetail/30c01ad9-b72a-4d72-9f2d-c6dee8d04c00/",
         "httpStatus": 403,
         "reason": "Access restricted; availability unknown."
@@ -25054,7 +25355,7 @@
       "maintenance": "Unknown",
       "checked": "2026-11-10",
       "lastVerified": null,
-      "availability": "November17 lookupHTTP410. Retain November10 last actual ad observation and unchanged October31 archive. Not proof of sale.",
+      "availability": "November18 lookup returned HTTP410. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged.",
       "listingState": "stale",
       "status": "watchlist",
       "origin": "ChatGPT independent",
@@ -25071,7 +25372,7 @@
           "present": true,
           "observedAt": "2026-11-10",
           "mode": "observations",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924"
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
         }
       },
       "currentObservation": {
@@ -25282,6 +25583,16 @@
           "priceBasis": "Capital One and TrueCar November 5 quote: $26,998. CarMax advertises no doc/processing fee. $1,000 below November 4 report quote of $27,998, but other cached pages already showed $26,998; exact change date unknown. Government, optional products and transfer extra; price assumes final purchase in OR. Financing, trade-in and rebate conditions not established.",
           "availability": "November17 lookupHTTP410. Retain November10 last actual ad observation and unchanged October31 archive. Not proof of sale.",
           "notes": "Continuing hold for unresolved availability. Historical TrueCar reports clean title/no accidents; owners/use/maintenance/battery condition unknown. No fresh ad or price observation today."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065",
+          "checkedAt": "2026-11-10",
+          "price": 26998,
+          "priceBasis": "Capital One and TrueCar November 5 quote: $26,998. CarMax advertises no doc/processing fee. $1,000 below November 4 report quote of $27,998, but other cached pages already showed $26,998; exact change date unknown. Government, optional products and transfer extra; price assumes final purchase in OR. Financing, trade-in and rebate conditions not established.",
+          "availability": "November18 lookup returned HTTP410. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged.",
+          "notes": "Continuing hold for unresolved availability. Historical TrueCar reports clean title/no accidents; owners/use/maintenance/battery condition unknown. No fresh ad or price observation today."
         }
       ],
       "priceHistory": [
@@ -25417,6 +25728,10 @@
         {
           "date": "2026-11-10",
           "text": "ChatGPT independent observation: November17 lookupHTTP410. Retain November10 last actual ad observation and unchanged October31 archive. Not proof of sale."
+        },
+        {
+          "date": "2026-11-10",
+          "text": "ChatGPT independent observation: November18 lookup returned HTTP410. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged."
         }
       ],
       "missingFromFeed": false,
@@ -25435,7 +25750,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 82,
+      "rank": 83,
       "verificationHistory": [
         {
           "result": "not_found",
@@ -25472,6 +25787,12 @@
           "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065",
           "checkedAt": "2026-11-10",
           "reason": "November17 lookupHTTP410. Retain November10 last actual ad observation and unchanged October31 archive. Not proof of sale."
+        },
+        {
+          "result": "not_found",
+          "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065",
+          "checkedAt": "2026-11-10",
+          "reason": "November18 lookup returned HTTP410. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged."
         }
       ],
       "priceConflicts": [],
@@ -25504,7 +25825,7 @@
         "result": "not_found",
         "url": "https://www.capitalone.com/cars/vehicle-details/2018/Toyota/Highlander%2BHybrid/XLE/5TDJGRFH0JS041065",
         "checkedAt": "2026-11-10",
-        "reason": "November17 lookupHTTP410. Retain November10 last actual ad observation and unchanged October31 archive. Not proof of sale."
+        "reason": "November18 lookup returned HTTP410. Retain original observedAt and historical quote; failed lookup does not prove sale. October31 Highlander archive remains unchanged."
       }
     },
     {
@@ -25522,7 +25843,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 83,
+      "rank": 84,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -25735,7 +26056,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 84,
+      "rank": 85,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "1 accident reported",
@@ -26046,7 +26367,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 85,
+      "rank": 86,
       "photoImport": {
         "status": "no_source",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -26077,7 +26398,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 86,
+      "rank": 87,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -26429,7 +26750,7 @@
           "text": "ChatGPT independent observation: November11 originaldealer inaccessible viareader; corroborating JD Power page crawledtoday lacks price/title evidence. Availability unresolved."
         }
       ],
-      "rank": 87,
+      "rank": 88,
       "reportedPriceChange": 0,
       "museReport": {
         "schemaVersion": "2.0",
@@ -26507,7 +26828,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 88,
+      "rank": 89,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -26759,7 +27080,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 89,
+      "rank": 90,
       "photoImport": {
         "status": "no_photos",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -26790,7 +27111,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 90,
+      "rank": 91,
       "title": "Unknown",
       "owners": null,
       "accidents": "None reported",
@@ -26980,7 +27301,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 91,
+      "rank": 92,
       "title": "Reported clean",
       "owners": null,
       "accidents": "Unknown",
@@ -27170,7 +27491,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 92,
+      "rank": 93,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -27327,7 +27648,7 @@
       "type": "HEV",
       "rows": 3,
       "status": "watchlist",
-      "rank": 93,
+      "rank": 94,
       "title": "Earlier claim downgraded",
       "owners": null,
       "accidents": "Unsubstantiated prior claim",
@@ -27444,7 +27765,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 94,
+      "rank": 95,
       "title": "Reported clean",
       "owners": 2,
       "accidents": "None reported",
@@ -27790,7 +28111,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 95,
+      "rank": 96,
       "title": "Unknown",
       "owners": 2,
       "accidents": "None reported",
@@ -28108,7 +28429,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 96,
+      "rank": 97,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -28534,7 +28855,7 @@
       "priceConflicts": [],
       "verification": {
         "result": "not_found",
-        "checkedAt": "2026-11-18T01:19:57.334Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "url": "https://www.autotrader.com/cars-for-sale/vehicle/792742134",
         "finalUrl": "https://www.autotrader.com/cars-for-sale/vehicle/792742134",
         "reason": "Vehicle identity not confirmed; requires recheck."
@@ -28555,7 +28876,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 97,
+      "rank": 98,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -28849,7 +29170,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 98,
+      "rank": 99,
       "photoImport": {
         "status": "inaccessible",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -28887,7 +29208,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 99,
+      "rank": 100,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -29266,7 +29587,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 100,
+      "rank": 101,
       "photoImport": {
         "status": "no_photos",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -29297,7 +29618,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 101,
+      "rank": 102,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -29581,7 +29902,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 102,
+      "rank": 103,
       "photoImport": {
         "status": "inaccessible",
         "checkedAt": "2026-11-18T01:19:57.334Z",
@@ -29612,7 +29933,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 103,
+      "rank": 104,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -29802,7 +30123,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 104,
+      "rank": 105,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -29992,7 +30313,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 105,
+      "rank": 106,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -30484,7 +30805,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.onetoyota.com/inventory/used-2023-jeep-grand-cherokee-overland-4xe-4wd-4d-sport-utility-1c4rjyd62p8785778/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -30510,7 +30831,7 @@
       "type": "HEV",
       "rows": 3,
       "status": "watchlist",
-      "rank": 106,
+      "rank": 107,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -30711,7 +31032,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.capitalone.com/cars/vehicle-details/2023/Kia/Sorento%2BHybrid/EX/KNDRHDLG0P5204259",
         "reason": "Source returned HTTP 410; access restrictions are not bypassed.",
         "stats": {
@@ -30833,10 +31154,10 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 107,
+      "rank": 108,
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -30864,7 +31185,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 108,
+      "rank": 109,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -31200,7 +31521,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -31226,7 +31547,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 109,
+      "rank": 110,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -31356,7 +31677,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -31384,7 +31705,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 110,
+      "rank": 111,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -31567,7 +31888,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.cargurus.com/details/458462346",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -31593,7 +31914,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 111,
+      "rank": 112,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -31760,7 +32081,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -31786,7 +32107,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 112,
+      "rank": 113,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -31954,13 +32275,13 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.autotrader.com/cars-for-sale/vehicle/785624395",
         "reason": "The primary page title does not match the vehicle year and model.",
         "stats": {
           "sources": 1,
           "requests": 1,
-          "htmlBytes": 3762,
+          "htmlBytes": 3760,
           "imageBytes": 0
         }
       }
@@ -31980,7 +32301,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 113,
+      "rank": 114,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -32173,7 +32494,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -32215,7 +32536,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 114,
+      "rank": 115,
       "title": "Unknown",
       "owners": 1,
       "accidents": "Unknown",
@@ -32398,7 +32719,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -32424,7 +32745,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 115,
+      "rank": 116,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -32588,7 +32909,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -32614,7 +32935,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 116,
+      "rank": 117,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -32781,7 +33102,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -32807,7 +33128,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 117,
+      "rank": 118,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -32936,7 +33257,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -32964,7 +33285,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 118,
+      "rank": 119,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -33095,7 +33416,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -33228,7 +33549,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 119,
+      "rank": 120,
       "verificationHistory": [],
       "priceConflicts": [],
       "listingPhotos": {
@@ -33277,7 +33598,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 120,
+      "rank": 121,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -33736,13 +34057,13 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.autotrader.com/cars-for-sale/vehicle/787556965",
         "reason": "The primary page title does not match the vehicle year and model.",
         "stats": {
           "sources": 1,
           "requests": 1,
-          "htmlBytes": 3762,
+          "htmlBytes": 3760,
           "imageBytes": 0
         }
       }
@@ -33762,7 +34083,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 121,
+      "rank": 122,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -34114,7 +34435,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -34235,10 +34556,10 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 122,
+      "rank": 123,
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.craigslist.org/view/d/burlingame-2018-toyota-highlander-le/neHjeXieuaL2KoHvppfeaj",
         "reason": "Source returned HTTP 404; access restrictions are not bypassed.",
         "stats": {
@@ -34266,7 +34587,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 123,
+      "rank": 124,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -34426,7 +34747,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -34454,7 +34775,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 124,
+      "rank": 125,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -34614,7 +34935,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -34642,7 +34963,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 125,
+      "rank": 126,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -34772,7 +35093,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -34800,7 +35121,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 126,
+      "rank": 127,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -34967,7 +35288,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -34993,7 +35314,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 127,
+      "rank": 128,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -35160,7 +35481,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -35186,7 +35507,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 128,
+      "rank": 129,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -35319,7 +35640,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -35442,10 +35763,10 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 129,
+      "rank": 130,
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -35473,7 +35794,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 130,
+      "rank": 131,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -35603,7 +35924,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -35755,16 +36076,16 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 131,
+      "rank": 132,
       "photoImport": {
         "status": "no_photos",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.capitalone.com/cars/vehicle-details/2018/Lexus/RX/no-trim/2T2BGMCAXJC023286",
         "reason": "The primary page title does not match the vehicle year and model.",
         "stats": {
           "sources": 1,
           "requests": 1,
-          "htmlBytes": 818210,
+          "htmlBytes": 802500,
           "imageBytes": 0
         }
       },
@@ -35786,7 +36107,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 132,
+      "rank": 133,
       "title": "Reported clean",
       "owners": 3,
       "accidents": "Unknown",
@@ -36110,7 +36431,7 @@
       },
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.cargurus.com/details/454350256",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -36136,7 +36457,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 133,
+      "rank": 134,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -36303,7 +36624,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -36329,7 +36650,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 134,
+      "rank": 135,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -36458,7 +36779,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -36486,7 +36807,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 135,
+      "rank": 136,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -36708,7 +37029,7 @@
       },
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.cargurus.com/details/462020822",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -36831,10 +37152,10 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 136,
+      "rank": 137,
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -36862,7 +37183,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 137,
+      "rank": 138,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -37029,12 +37350,136 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
           "sources": 0,
           "requests": 0,
+          "htmlBytes": 0,
+          "imageBytes": 0
+        }
+      }
+    },
+    {
+      "id": "5J8YD7H50KL000423",
+      "vin": "5J8YD7H50KL000423",
+      "name": "Acura MDX Sport Hybrid",
+      "trim": "Technology Package",
+      "year": 2019,
+      "price": 24058,
+      "mileage": 76408,
+      "city": "Oxnard",
+      "state": "CA",
+      "drive": "AWD",
+      "type": "HEV",
+      "rows": 3,
+      "seller": "DCH Honda of Oxnard",
+      "fees": 180.25,
+      "feeNote": "Dealer week-old cached DCH selling price $24,058. Specific disclosure says includes $85doc+$58.25emissions+$37efiling; optional$599ClearShield excluded. Contradictory generic footer says fees extra and subject to approved credit. Cash-price eligibility and mandatory total unresolved; government/taxes/finance extra.",
+      "title": "Unknown",
+      "accidents": "Unknown",
+      "owners": null,
+      "use": "Unknown",
+      "maintenance": "Unknown",
+      "checked": "2026-11-18",
+      "lastVerified": null,
+      "availability": "Original dealer ad is week-old cached evidence inspected November18, not a fresh availability observation. Linked history report inaccessible; clean-title requirement unresolved.",
+      "listingState": "awaiting_verification",
+      "status": "watchlist",
+      "origin": "ChatGPT independent",
+      "imported": true,
+      "color": "blue",
+      "discoveryAgents": [
+        "ChatGPT independent"
+      ],
+      "sourceIds": [
+        "independent:5J8YD7H50KL000423"
+      ],
+      "sourcePresence": {
+        "independent": {
+          "present": true,
+          "observedAt": "2026-11-18",
+          "mode": "observations",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
+        }
+      },
+      "currentObservation": {
+        "source": "ChatGPT independent",
+        "observedAt": "2026-11-18",
+        "url": "https://www.hondaofoxnard.com/used/Acura/2019-Acura-MDX-oxnard-near-thousand-oaks-simi-valley-b8f359ceac18068f7d7cfb1d0182175b.htm",
+        "priceBasis": "Dealer week-old cached DCH selling price $24,058. Specific disclosure says includes $85doc+$58.25emissions+$37efiling; optional$599ClearShield excluded. Contradictory generic footer says fees extra and subject to approved credit. Cash-price eligibility and mandatory total unresolved; government/taxes/finance extra."
+      },
+      "evidence": null,
+      "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
+      "historyDate": "2026-11-18",
+      "sellerClaim": "New to independent research November18, absent November17 independent export and current November13 Muse feed; not proven newly listed. Cached original ad inspected today, no fresh availability check. Linked CARFAX redirected to blocked secure.carfax.com record-check. Title/accidents/owners/use/maintenance, battery/7speedDCT/timingbelt service and recall applicability unknown. Not shortlisted.",
+      "reason": "Independent discovery; ranked with the same evidence rules as every source.",
+      "concern": "New to independent research November18, absent November17 independent export and current November13 Muse feed; not proven newly listed. Cached original ad inspected today, no fresh availability check. Linked CARFAX redirected to blocked secure.carfax.com record-check. Title/accidents/owners/use/maintenance, battery/7speedDCT/timingbelt service and recall applicability unknown. Not shortlisted.",
+      "unknowns": [
+        "Seller-confirmed unsold status",
+        "Complete title/history evidence",
+        "Maintenance invoices",
+        "Battery condition"
+      ],
+      "sources": [
+        {
+          "label": "Original listing · via ChatGPT independent",
+          "url": "https://www.hondaofoxnard.com/used/Acura/2019-Acura-MDX-oxnard-near-thousand-oaks-simi-valley-b8f359ceac18068f7d7cfb1d0182175b.htm"
+        }
+      ],
+      "observations": [
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.hondaofoxnard.com/used/Acura/2019-Acura-MDX-oxnard-near-thousand-oaks-simi-valley-b8f359ceac18068f7d7cfb1d0182175b.htm",
+          "checkedAt": "2026-11-18",
+          "price": 24058,
+          "priceBasis": "Dealer week-old cached DCH selling price $24,058. Specific disclosure says includes $85doc+$58.25emissions+$37efiling; optional$599ClearShield excluded. Contradictory generic footer says fees extra and subject to approved credit. Cash-price eligibility and mandatory total unresolved; government/taxes/finance extra.",
+          "availability": "Original dealer ad is week-old cached evidence inspected November18, not a fresh availability observation. Linked history report inaccessible; clean-title requirement unresolved.",
+          "notes": "New to independent research November18, absent November17 independent export and current November13 Muse feed; not proven newly listed. Cached original ad inspected today, no fresh availability check. Linked CARFAX redirected to blocked secure.carfax.com record-check. Title/accidents/owners/use/maintenance, battery/7speedDCT/timingbelt service and recall applicability unknown. Not shortlisted."
+        }
+      ],
+      "priceHistory": [
+        {
+          "date": "2026-11-18",
+          "price": 24058,
+          "url": "https://www.hondaofoxnard.com/used/Acura/2019-Acura-MDX-oxnard-near-thousand-oaks-simi-valley-b8f359ceac18068f7d7cfb1d0182175b.htm",
+          "agent": "ChatGPT independent",
+          "basis": "Dealer week-old cached DCH selling price $24,058. Specific disclosure says includes $85doc+$58.25emissions+$37efiling; optional$599ClearShield excluded. Contradictory generic footer says fees extra and subject to approved credit. Cash-price eligibility and mandatory total unresolved; government/taxes/finance extra."
+        }
+      ],
+      "events": [
+        {
+          "date": "2026-11-18",
+          "text": "ChatGPT independent observation: Original dealer ad is week-old cached evidence inspected November18, not a fresh availability observation. Linked history report inaccessible; clean-title requirement unresolved."
+        }
+      ],
+      "missingFromFeed": false,
+      "score": 30.1,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 10.7/22",
+        "Price value 11.8/18",
+        "Age proxy 1.6/10",
+        "History evidence 0/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 4/4",
+        "Availability evidence 2/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": true,
+        "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
+      },
+      "rank": 139,
+      "photoImport": {
+        "status": "inaccessible",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
+        "sourceUrl": "https://www.hondaofoxnard.com/used/Acura/2019-Acura-MDX-oxnard-near-thousand-oaks-simi-valley-b8f359ceac18068f7d7cfb1d0182175b.htm",
+        "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
+        "stats": {
+          "sources": 1,
+          "requests": 1,
           "htmlBytes": 0,
           "imageBytes": 0
         }
@@ -37055,7 +37500,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 138,
+      "rank": 140,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -37222,7 +37667,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -37248,7 +37693,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 139,
+      "rank": 141,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -37415,7 +37860,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.capitalone.com/cars/vehicle-details/2023/Kia/Sorento+Hybrid/SX+Prestige/KNDRMDLG5P5130610",
         "reason": "Source returned HTTP 410; access restrictions are not bypassed.",
         "stats": {
@@ -37441,7 +37886,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 140,
+      "rank": 142,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -37604,7 +38049,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2023/vin/KNDRMDLHXP5165541/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -37630,7 +38075,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 141,
+      "rank": 143,
       "title": "Reported clean",
       "owners": null,
       "accidents": "Unknown",
@@ -37794,7 +38239,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -37820,7 +38265,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 142,
+      "rank": 144,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -38014,7 +38459,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2022/vin/KNDRMDLH9N5095950/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -38040,7 +38485,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 143,
+      "rank": 145,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -38207,7 +38652,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.cargurus.com/details/460093469",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -38233,7 +38678,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 144,
+      "rank": 146,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -38459,7 +38904,7 @@
       },
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.cargurus.com/details/462763332",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -38487,7 +38932,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 145,
+      "rank": 147,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -38617,7 +39062,7 @@
       },
       "photoImport": {
         "status": "no_source",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": null,
         "reason": "No supported original direct listing URL is available.",
         "stats": {
@@ -38645,7 +39090,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 146,
+      "rank": 148,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -38808,7 +39253,7 @@
       "priceConflicts": [],
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.edmunds.com/kia/sorento-plug-in-hybrid/2023/vin/KNDRMDLH5P5165625/",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -38834,7 +39279,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 147,
+      "rank": 149,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -39029,7 +39474,7 @@
       },
       "photoImport": {
         "status": "inaccessible",
-        "checkedAt": "2026-11-17T14:05:56.977Z",
+        "checkedAt": "2026-11-18T14:09:57.064Z",
         "sourceUrl": "https://www.cargurus.com/details/461890550",
         "reason": "Source returned HTTP 403; access restrictions are not bypassed.",
         "stats": {
@@ -39057,7 +39502,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 148,
+      "rank": 150,
       "title": "Unknown",
       "owners": null,
       "accidents": "None reported",
@@ -39247,7 +39692,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 149,
+      "rank": 151,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -39561,7 +40006,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 150,
+      "rank": 152,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -39758,7 +40203,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 151,
+      "rank": 153,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -40011,7 +40456,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 152,
+      "rank": 154,
       "photoImport": {
         "status": "no_photos",
         "checkedAt": "2026-11-13T14:41:39.592Z",
@@ -40043,7 +40488,7 @@
       "type": "HEV",
       "rows": 2,
       "status": "watchlist",
-      "rank": 153,
+      "rank": 155,
       "title": "Unknown",
       "owners": null,
       "accidents": "Seller: accident-free badge",
@@ -40242,7 +40687,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 154,
+      "rank": 156,
       "photoImport": {
         "status": "no_photos",
         "checkedAt": "2026-11-13T14:41:39.592Z",
@@ -40368,7 +40813,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 155,
+      "rank": 157,
       "photoImport": {
         "status": "inaccessible",
         "checkedAt": "2026-11-13T14:41:39.592Z",
@@ -40399,7 +40844,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 156,
+      "rank": 158,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -40662,7 +41107,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 157,
+      "rank": 159,
       "photoImport": {
         "status": "inaccessible",
         "checkedAt": "2026-11-13T14:41:39.592Z",
@@ -40693,7 +41138,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 158,
+      "rank": 160,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -40882,7 +41327,7 @@
       "type": "HEV",
       "rows": 3,
       "status": "watchlist",
-      "rank": 159,
+      "rank": 161,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -41073,7 +41518,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 160,
+      "rank": 162,
       "photoImport": {
         "status": "inaccessible",
         "checkedAt": "2026-11-13T14:41:39.592Z",
@@ -41104,7 +41549,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 161,
+      "rank": 163,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -41328,7 +41773,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 162,
+      "rank": 164,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -41522,7 +41967,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 163,
+      "rank": 165,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -41746,7 +42191,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 164,
+      "rank": 166,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "Unknown",
@@ -42061,7 +42506,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 165,
+      "rank": 167,
       "title": "Reported clean",
       "owners": null,
       "accidents": "Unknown",
@@ -42255,7 +42700,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 166,
+      "rank": 168,
       "title": "Reported clean",
       "owners": null,
       "accidents": "Unknown",
@@ -42543,7 +42988,7 @@
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
       },
-      "rank": 167,
+      "rank": 169,
       "verificationHistory": [],
       "priceConflicts": [],
       "listingPhotos": {
@@ -42585,7 +43030,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 168,
+      "rank": 170,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -42775,7 +43220,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 169,
+      "rank": 171,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "Unknown",
@@ -43095,7 +43540,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 170,
+      "rank": 172,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -43253,7 +43698,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 171,
+      "rank": 173,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -43462,7 +43907,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 172,
+      "rank": 174,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -43671,7 +44116,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 173,
+      "rank": 175,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -43825,7 +44270,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 174,
+      "rank": 176,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -43979,7 +44424,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 175,
+      "rank": 177,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -44228,7 +44673,7 @@
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
       },
-      "rank": 176,
+      "rank": 178,
       "photoImport": {
         "status": "no_photos",
         "checkedAt": "2026-11-13T14:41:39.592Z",
@@ -44259,7 +44704,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 177,
+      "rank": 179,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -44413,7 +44858,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 178,
+      "rank": 180,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -44622,7 +45067,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 179,
+      "rank": 181,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -44776,7 +45221,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 180,
+      "rank": 182,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -44969,7 +45414,7 @@
       "type": "HEV",
       "rows": null,
       "status": "watchlist",
-      "rank": 181,
+      "rank": 183,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -45252,7 +45697,7 @@
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
       },
-      "rank": 182,
+      "rank": 184,
       "photoImport": {
         "status": "no_source",
         "checkedAt": "2026-11-13T14:41:39.592Z",
@@ -45283,7 +45728,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 183,
+      "rank": 185,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -45485,7 +45930,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 184,
+      "rank": 186,
       "title": "Unknown",
       "owners": 1,
       "accidents": "None reported",
@@ -45663,7 +46108,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 185,
+      "rank": 187,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -45876,7 +46321,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 186,
+      "rank": 188,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -46078,7 +46523,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 187,
+      "rank": 189,
       "title": "Reported clean",
       "owners": 2,
       "accidents": "None reported",
@@ -46282,9 +46727,9 @@
       "owners": 2,
       "use": "AutoCheck November15 personaluse",
       "maintenance": "AutoCheck November15:19servicerecords,3oilservices,lastoilNovember18,2025. Maintenanceafter29,886miunknown; currentad37,780mi.",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "lastVerified": null,
-      "availability": "November17 original ad recrawled today shows Get started and Ships from Gilbert without reservation label. Prior reservation/status conflict and physical pickup location still unresolved; no seller-confirmed unsold availability.",
+      "availability": "November18 freshly crawled original ad shows $27,998, rounded38k miles, Get started and Ships from Phoenix-Gilbert. Prior reserved/archived status and conflicting history-page location still unresolved; retained37,780 is last exact historical reading. No seller-confirmed unsold availability.",
       "listingState": "confirmed_unavailable",
       "status": "removed",
       "origin": "ChatGPT independent",
@@ -46299,14 +46744,14 @@
       "sourcePresence": {
         "independent": {
           "present": true,
-          "observedAt": "2026-11-17",
+          "observedAt": "2026-11-18",
           "mode": "observations",
-          "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924"
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
         }
       },
       "currentObservation": {
         "source": "ChatGPT independent",
-        "observedAt": "2026-11-17",
+        "observedAt": "2026-11-18",
         "url": "https://www.carmax.com/car/70240907",
         "priceBasis": "Capital One and TrueCar November10 $27,998 with no doc/processing fees. Government/optional products/transfer extra. Assumes final purchase in AZ. No required finance/trade/downpayment/rebate condition established."
       },
@@ -46317,7 +46762,7 @@
         "reason": "November14 original CarMax exactVIN ad explicitly says On hold for someone / Reserved at Phoenix-Gilbert. Temporary reservation, not sold; remove from current shortlist. Prior November13 available-ad observation retained."
       },
       "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
-      "historyDate": "2026-11-17",
+      "historyDate": "2026-11-18",
       "sellerClaim": "Independent continuing watch lead, not shortlisted. $27,998 and rounded38k miles in today's ad; retained37,780 is last exact historical ad reading, not a fresh odometer check. November15 AutoCheck: clean title/no accident damage/two personal owners/19 service records; last reported service November2025, historical lien and release unknown. Ad shipping origin Gilbert conflicts with earlier history-page heading San Jose. Board previously retained archived status despite later positive ad; manual review needed. Reader-default $1,999 shipping is not a buyer travel estimate.",
       "reason": "Independent discovery; ranked with the same evidence rules as every source.",
       "concern": "Independent continuing watch lead, not shortlisted. $27,998 and rounded38k miles in today's ad; retained37,780 is last exact historical ad reading, not a fresh odometer check. November15 AutoCheck: clean title/no accident damage/two personal owners/19 service records; last reported service November2025, historical lien and release unknown. Ad shipping origin Gilbert conflicts with earlier history-page heading San Jose. Board previously retained archived status despite later positive ad; manual review needed. Reader-default $1,999 shipping is not a buyer travel estimate.",
@@ -46415,6 +46860,16 @@
           "priceBasis": "Capital One and TrueCar November10 $27,998 with no doc/processing fees. Government/optional products/transfer extra. Assumes final purchase in AZ. No required finance/trade/downpayment/rebate condition established.",
           "availability": "November17 original ad recrawled today shows Get started and Ships from Gilbert without reservation label. Prior reservation/status conflict and physical pickup location still unresolved; no seller-confirmed unsold availability.",
           "notes": "Independent continuing watch lead, not shortlisted. $27,998 and rounded38k miles in today's ad; retained37,780 is last exact historical ad reading, not a fresh odometer check. November15 AutoCheck: clean title/no accident damage/two personal owners/19 service records; last reported service November2025, historical lien and release unknown. Ad shipping origin Gilbert conflicts with earlier history-page heading San Jose. Board previously retained archived status despite later positive ad; manual review needed. Reader-default $1,999 shipping is not a buyer travel estimate."
+        },
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.carmax.com/car/70240907",
+          "checkedAt": "2026-11-18",
+          "price": 27998,
+          "priceBasis": "Capital One and TrueCar November10 $27,998 with no doc/processing fees. Government/optional products/transfer extra. Assumes final purchase in AZ. No required finance/trade/downpayment/rebate condition established.",
+          "availability": "November18 freshly crawled original ad shows $27,998, rounded38k miles, Get started and Ships from Phoenix-Gilbert. Prior reserved/archived status and conflicting history-page location still unresolved; retained37,780 is last exact historical reading. No seller-confirmed unsold availability.",
+          "notes": "Independent continuing watch lead, not shortlisted. $27,998 and rounded38k miles in today's ad; retained37,780 is last exact historical ad reading, not a fresh odometer check. November15 AutoCheck: clean title/no accident damage/two personal owners/19 service records; last reported service November2025, historical lien and release unknown. Ad shipping origin Gilbert conflicts with earlier history-page heading San Jose. Board previously retained archived status despite later positive ad; manual review needed. Reader-default $1,999 shipping is not a buyer travel estimate."
         }
       ],
       "priceHistory": [
@@ -46466,6 +46921,13 @@
           "url": "https://www.carmax.com/car/70240907",
           "agent": "ChatGPT independent",
           "basis": "Capital One and TrueCar November10 $27,998 with no doc/processing fees. Government/optional products/transfer extra. Assumes final purchase in AZ. No required finance/trade/downpayment/rebate condition established."
+        },
+        {
+          "date": "2026-11-18",
+          "price": 27998,
+          "url": "https://www.carmax.com/car/70240907",
+          "agent": "ChatGPT independent",
+          "basis": "Capital One and TrueCar November10 $27,998 with no doc/processing fees. Government/optional products/transfer extra. Assumes final purchase in AZ. No required finance/trade/downpayment/rebate condition established."
         }
       ],
       "events": [
@@ -46496,6 +46958,10 @@
         {
           "date": "2026-11-17",
           "text": "ChatGPT independent observation: November17 original ad recrawled today shows Get started and Ships from Gilbert without reservation label. Prior reservation/status conflict and physical pickup location still unresolved; no seller-confirmed unsold availability."
+        },
+        {
+          "date": "2026-11-18",
+          "text": "ChatGPT independent observation: November18 freshly crawled original ad shows $27,998, rounded38k miles, Get started and Ships from Phoenix-Gilbert. Prior reserved/archived status and conflicting history-page location still unresolved; retained37,780 is last exact historical reading. No seller-confirmed unsold availability."
         }
       ],
       "missingFromFeed": false,
@@ -46514,7 +46980,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 188,
+      "rank": 190,
       "listingPhotos": {
         "items": [
           "https://autoimage.capitalone.com/dealer/2021-Toyota-Venza_Hybrid-LE-JTEAAAAH7MJ068352-newcarmax_JTEAAAAH7MJ068352_7662-a95f5107f5f533508228aebefd27e31e7f47402b72b93ee28d0b69a691514624.jpg?width=640&height=480",
@@ -46558,7 +47024,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 189,
+      "rank": 191,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "1 accident reported",
@@ -46756,7 +47222,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 190,
+      "rank": 192,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -47001,7 +47467,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 191,
+      "rank": 193,
       "title": "Unknown",
       "owners": null,
       "accidents": "Unknown",
@@ -47325,7 +47791,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 192,
+      "rank": 194,
       "verificationHistory": [],
       "priceConflicts": []
     },
@@ -47444,7 +47910,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 193,
+      "rank": 195,
       "verificationHistory": [],
       "priceConflicts": []
     },
@@ -47563,7 +48029,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 194,
+      "rank": 196,
       "verificationHistory": [],
       "priceConflicts": []
     },
@@ -47682,7 +48148,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 195,
+      "rank": 197,
       "verificationHistory": [],
       "priceConflicts": []
     },
@@ -47801,7 +48267,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 196,
+      "rank": 198,
       "verificationHistory": [],
       "priceConflicts": []
     },
@@ -47920,7 +48386,7 @@
         "qualifies": true,
         "reason": "Matches configured hybrid, midsize, price and location criteria; history still needs review."
       },
-      "rank": 197,
+      "rank": 199,
       "verificationHistory": [],
       "priceConflicts": []
     },
@@ -47939,7 +48405,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 198,
+      "rank": 200,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -48137,7 +48603,7 @@
       "type": "PHEV",
       "rows": null,
       "status": "removed",
-      "rank": 199,
+      "rank": 201,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -48335,7 +48801,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 200,
+      "rank": 202,
       "title": "Reported clean",
       "owners": 3,
       "accidents": "None reported",
@@ -48575,7 +49041,7 @@
       "type": "HEV",
       "rows": null,
       "status": "removed",
-      "rank": 201,
+      "rank": 203,
       "title": "Reported clean",
       "owners": 1,
       "accidents": "None reported",
@@ -48873,7 +49339,7 @@
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
       },
-      "rank": 202,
+      "rank": 204,
       "verificationHistory": [],
       "priceConflicts": []
     },
@@ -48992,7 +49458,7 @@
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
       },
-      "rank": 203,
+      "rank": 205,
       "verificationHistory": [],
       "priceConflicts": []
     },
@@ -49111,7 +49577,7 @@
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
       },
-      "rank": 204,
+      "rank": 206,
       "verificationHistory": [],
       "priceConflicts": []
     },
@@ -49230,7 +49696,7 @@
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
       },
-      "rank": 205,
+      "rank": 207,
       "verificationHistory": [],
       "priceConflicts": []
     },
@@ -49349,14 +49815,131 @@
         "qualifies": false,
         "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
       },
-      "rank": 206,
+      "rank": 208,
       "verificationHistory": [],
       "priceConflicts": []
+    },
+    {
+      "id": "JTJBC1BA6E2453981",
+      "vin": "JTJBC1BA6E2453981",
+      "name": "Lexus RX 450h",
+      "trim": "",
+      "year": 2014,
+      "price": 19750,
+      "mileage": 87300,
+      "city": "Calistoga",
+      "state": "CA",
+      "drive": "AWD",
+      "type": "HEV",
+      "rows": 2,
+      "seller": "Private party, identity unknown",
+      "fees": null,
+      "feeNote": "Public Craigslist search result crawled today asking $19,750; below $20,000 minimum. Fees and financing/trade/downpayment/rebate conditions unknown.",
+      "title": "Seller claims clean",
+      "accidents": "Unknown",
+      "owners": null,
+      "use": "Unknown",
+      "maintenance": "Seller says records available; none obtained",
+      "checked": "2026-11-18",
+      "lastVerified": null,
+      "availability": "Public vehicle-specific Craigslist search evidence asks$19,750, below$20,000 buyer minimum. Originalpage follow-up inaccessible; do not infer sold or fresh sellerconfirmedavailability.",
+      "listingState": "excluded",
+      "status": "removed",
+      "origin": "ChatGPT independent",
+      "imported": true,
+      "color": "blue",
+      "discoveryAgents": [
+        "ChatGPT independent"
+      ],
+      "sourceIds": [
+        "independent:JTJBC1BA6E2453981"
+      ],
+      "sourcePresence": {
+        "independent": {
+          "present": true,
+          "observedAt": "2026-11-18",
+          "mode": "observations",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383"
+        }
+      },
+      "currentObservation": {
+        "source": "ChatGPT independent",
+        "observedAt": "2026-11-18",
+        "url": "https://www.craigslist.org/view/d/calistoga-2014-lexus-rx450h-hybrid/47ZYDonwF51yMGhMvm9skz",
+        "priceBasis": "Public Craigslist search result crawled today asking $19,750; below $20,000 minimum. Fees and financing/trade/downpayment/rebate conditions unknown."
+      },
+      "evidence": {
+        "source": "ChatGPT independent",
+        "url": "https://www.craigslist.org/view/d/calistoga-2014-lexus-rx450h-hybrid/47ZYDonwF51yMGhMvm9skz",
+        "date": "2026-11-18",
+        "reason": "Public vehicle-specific Craigslist search evidence asks$19,750, below$20,000 buyer minimum. Originalpage follow-up inaccessible; do not infer sold or fresh sellerconfirmedavailability."
+      },
+      "historySource": "ChatGPT independent report; history claims attributed to recorded sources",
+      "historyDate": "2026-11-18",
+      "sellerClaim": "Indirect publicsearch evidence inspected November18, original page unavailable on follow-up. Seller claims clean title/excellent condition/servicerecords available; not independently verified. Structured87,300mi conflictsdescription83k. Pickup city unclear: Calistoga title versus richmond/seacliff and seller commutingSF/Napa/SantaRosa. Not shortlisted.",
+      "reason": "Independent discovery; ranked with the same evidence rules as every source.",
+      "concern": "Indirect publicsearch evidence inspected November18, original page unavailable on follow-up. Seller claims clean title/excellent condition/servicerecords available; not independently verified. Structured87,300mi conflictsdescription83k. Pickup city unclear: Calistoga title versus richmond/seacliff and seller commutingSF/Napa/SantaRosa. Not shortlisted.",
+      "unknowns": [
+        "Seller-confirmed unsold status",
+        "Complete title/history evidence",
+        "Maintenance invoices",
+        "Battery condition"
+      ],
+      "sources": [
+        {
+          "label": "Original listing · via ChatGPT independent",
+          "url": "https://www.craigslist.org/view/d/calistoga-2014-lexus-rx450h-hybrid/47ZYDonwF51yMGhMvm9skz"
+        }
+      ],
+      "observations": [
+        {
+          "source": "ChatGPT independent",
+          "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
+          "url": "https://www.craigslist.org/view/d/calistoga-2014-lexus-rx450h-hybrid/47ZYDonwF51yMGhMvm9skz",
+          "checkedAt": "2026-11-18",
+          "price": 19750,
+          "priceBasis": "Public Craigslist search result crawled today asking $19,750; below $20,000 minimum. Fees and financing/trade/downpayment/rebate conditions unknown.",
+          "availability": "Public vehicle-specific Craigslist search evidence asks$19,750, below$20,000 buyer minimum. Originalpage follow-up inaccessible; do not infer sold or fresh sellerconfirmedavailability.",
+          "notes": "Indirect publicsearch evidence inspected November18, original page unavailable on follow-up. Seller claims clean title/excellent condition/servicerecords available; not independently verified. Structured87,300mi conflictsdescription83k. Pickup city unclear: Calistoga title versus richmond/seacliff and seller commutingSF/Napa/SantaRosa. Not shortlisted."
+        }
+      ],
+      "priceHistory": [
+        {
+          "date": "2026-11-18",
+          "price": 19750,
+          "url": "https://www.craigslist.org/view/d/calistoga-2014-lexus-rx450h-hybrid/47ZYDonwF51yMGhMvm9skz",
+          "agent": "ChatGPT independent",
+          "basis": "Public Craigslist search result crawled today asking $19,750; below $20,000 minimum. Fees and financing/trade/downpayment/rebate conditions unknown."
+        }
+      ],
+      "events": [
+        {
+          "date": "2026-11-18",
+          "text": "ChatGPT independent observation: Public vehicle-specific Craigslist search evidence asks$19,750, below$20,000 buyer minimum. Originalpage follow-up inaccessible; do not infer sold or fresh sellerconfirmedavailability."
+        }
+      ],
+      "missingFromFeed": false,
+      "score": 30.9,
+      "rankReasons": [
+        "Mileage / remaining-life proxy 8.5/22",
+        "Price value 18.4/18",
+        "Age proxy 0.0/10",
+        "History evidence 0/21",
+        "Verified service documentation 0/12",
+        "AWD bonus 4/4",
+        "Availability evidence 0/8"
+      ],
+      "priceDrop": 0,
+      "eligibility": {
+        "qualifies": false,
+        "reason": "Outside configured hybrid, midsize, price or location criteria; preserved for audit."
+      },
+      "rank": 209
     }
   ],
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-18T01:19:57.334Z",
+      "lastAttemptAt": "2026-11-18T14:09:57.064Z",
       "status": "error",
       "lastSuccessAt": "2026-11-11T13:59:36.965Z",
       "reportDate": "2026-11-10",
@@ -49375,25 +49958,25 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-18T01:19:57.334Z",
-      "reportDate": "2026-11-17",
+      "lastSuccessAt": "2026-11-18T14:09:57.064Z",
+      "reportDate": "2026-11-18",
       "error": null,
-      "lastAttemptAt": "2026-11-18T01:19:57.334Z",
+      "lastAttemptAt": "2026-11-18T14:09:57.064Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-        "originSha256": "b63f7d29524d092d1bf933ef59ff7239ca3ed7b1374663475579131420a7a401",
+        "originSha256": "8ee912095e7448eb881c96e727a495b3db8d2291349bf011f4c97bb2b0229d82",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "1f0b394a1a1158a51d915818dc3acf82f342ed0f"
+        "triggerRevision": "2710453514a42f788b005d33094e3cdf8e534381"
       },
-      "lastExportAt": "2026-11-17T14:05:16Z",
-      "imported": 10,
+      "lastExportAt": "2026-11-18T14:09:00Z",
+      "imported": 13,
       "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-      "runId": "chatgpt-scheduled-16611041-8acc-8326-9b80-94c822778924",
+      "runId": "chatgpt-scheduled-75254440-bc20-832c-8804-0de374cfa383",
       "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
-      "contentHash": "b63f7d29524d092d1bf933ef59ff7239ca3ed7b1374663475579131420a7a401",
+      "contentHash": "8ee912095e7448eb881c96e727a495b3db8d2291349bf011f4c97bb2b0229d82",
       "automationId": "6acc0c049d908191bdd620f519aee69c",
       "writer": {
         "mode": "scheduled",
@@ -49403,14 +49986,14 @@
     }
   },
   "counts": {
-    "imported": 206,
-    "active": 13,
+    "imported": 209,
+    "active": 15,
     "stale": 169,
-    "archived": 24,
+    "archived": 25,
     "verified": 6,
-    "awaitingVerification": 7,
-    "outsideCriteria": 31,
-    "qualifyingActive": 13
+    "awaitingVerification": 9,
+    "outsideCriteria": 32,
+    "qualifyingActive": 15
   },
   "reconciliation": [
     {
@@ -50441,32 +51024,53 @@
       "vehicleId": "KNDRH4JG6S5307469",
       "disposition": "imported",
       "reason": "Merged by VIN or exact vehicle-specific URL."
+    },
+    {
+      "source": "independent",
+      "sourceId": "independent:5J8YD7H50KL000423",
+      "vehicleId": "5J8YD7H50KL000423",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL."
+    },
+    {
+      "source": "independent",
+      "sourceId": "independent:5J8YD7H57KL000449",
+      "vehicleId": "5J8YD7H57KL000449",
+      "disposition": "imported",
+      "reason": "Merged by VIN or exact vehicle-specific URL."
+    },
+    {
+      "source": "independent",
+      "sourceId": "independent:JTJBC1BA6E2453981",
+      "vehicleId": "JTJBC1BA6E2453981",
+      "disposition": "archived",
+      "reason": "Public vehicle-specific Craigslist search evidence asks$19,750, below$20,000 buyer minimum. Originalpage follow-up inaccessible; do not infer sold or fresh sellerconfirmedavailability."
     }
   ],
   "alerts": [
     "Invalid Muse v2 make"
   ],
   "photos": {
-    "checkedAt": "2026-11-18T01:19:57.334Z",
+    "checkedAt": "2026-11-18T14:09:57.064Z",
     "attempted": 45,
-    "collected": 1,
-    "retained": 182,
-    "archivedSkipped": 24,
-    "skippedExistingPhotos": 18,
+    "collected": 0,
+    "retained": 184,
+    "archivedSkipped": 25,
+    "skippedExistingPhotos": 19,
     "skippedRecentAttempt": 88,
-    "eligible": 76,
-    "deferred": 31,
+    "eligible": 77,
+    "deferred": 32,
     "withPhotos": 23,
-    "withoutPhotos": 159,
+    "withoutPhotos": 161,
     "outcomes": {
-      "collected": 1,
-      "no_source": 14,
-      "no_photos": 11,
-      "inaccessible": 19
+      "collected": 0,
+      "no_source": 27,
+      "no_photos": 4,
+      "inaccessible": 14
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 4513
+    "elapsedMs": 4073
   }
 }
