@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-18T22:35:33.145Z",
+  "generatedAt": "2026-11-19T00:44:30.122Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-18T22:35:33.145Z",
+      "lastAttemptAt": "2026-11-19T00:44:30.122Z",
       "status": "error",
       "lastSuccessAt": "2026-11-11T13:59:36.965Z",
       "reportDate": "2026-11-10",
@@ -21,10 +21,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-18T22:35:33.145Z",
+      "lastSuccessAt": "2026-11-19T00:44:30.122Z",
       "reportDate": "2026-11-18",
       "error": null,
-      "lastAttemptAt": "2026-11-18T22:35:33.145Z",
+      "lastAttemptAt": "2026-11-19T00:44:30.122Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "8ee912095e7448eb881c96e727a495b3db8d2291349bf011f4c97bb2b0229d82",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "00f1d63d03e0b03fa568137295e6b5a806318bf7"
+        "triggerRevision": "58b5636b401c70c7ef65736567897df7a50314f6"
       },
       "lastExportAt": "2026-11-18T14:09:00Z",
       "imported": 13,
@@ -50,36 +50,36 @@
   },
   "counts": {
     "imported": 209,
-    "active": 15,
-    "stale": 169,
+    "active": 14,
+    "stale": 170,
     "archived": 25,
-    "verified": 6,
+    "verified": 5,
     "awaitingVerification": 9,
     "outsideCriteria": 32,
-    "qualifyingActive": 15
+    "qualifyingActive": 14
   },
   "photos": {
-    "checkedAt": "2026-11-18T22:35:33.145Z",
+    "checkedAt": "2026-11-19T00:44:30.122Z",
     "attempted": 45,
     "collected": 0,
     "retained": 184,
     "archivedSkipped": 25,
     "skippedExistingPhotos": 18,
-    "skippedRecentAttempt": 45,
-    "eligible": 121,
-    "deferred": 76,
+    "skippedRecentAttempt": 90,
+    "eligible": 76,
+    "deferred": 31,
     "withPhotos": 23,
     "withoutPhotos": 161,
     "outcomes": {
       "collected": 0,
-      "no_source": 7,
-      "no_photos": 7,
-      "inaccessible": 31
+      "no_source": 15,
+      "no_photos": 12,
+      "inaccessible": 18
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 1712
+    "elapsedMs": 2056
   },
   "alerts": [
     "Invalid Muse v2 make"
