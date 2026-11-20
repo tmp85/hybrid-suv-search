@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-20T00:55:42.288Z",
+  "generatedAt": "2026-11-20T14:06:23.212Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-20T00:55:42.288Z",
+      "lastAttemptAt": "2026-11-20T14:06:23.212Z",
       "status": "error",
       "lastSuccessAt": "2026-11-11T13:59:36.965Z",
       "reportDate": "2026-11-10",
@@ -21,25 +21,25 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-20T00:55:42.288Z",
-      "reportDate": "2026-11-19",
+      "lastSuccessAt": "2026-11-20T14:06:23.212Z",
+      "reportDate": "2026-11-20",
       "error": null,
-      "lastAttemptAt": "2026-11-20T00:55:42.288Z",
+      "lastAttemptAt": "2026-11-20T14:06:23.212Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
         "origin": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-        "originSha256": "3847d687370dd84697a80ce257c3254df04113e93b12fbd05668748353a6a465",
+        "originSha256": "ef81f041e46c4be1fb16dd4244ad152ed204c6e057afc97d53439b299e9af7f8",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "c8af4129f9ae8104ff3823be4570ce33cc295170"
+        "triggerRevision": "b237a7af97443a6f2973f3b10ac9b8ea74392aed"
       },
-      "lastExportAt": "2026-11-19T14:05:36Z",
-      "imported": 9,
+      "lastExportAt": "2026-11-20T14:05:30Z",
+      "imported": 10,
       "feedUrl": "https://raw.githubusercontent.com/tmp85/hybrid-suv-search/main/independent/listings.json",
-      "runId": "chatgpt-scheduled-9accfa52-293c-8332-9207-aaa3ef4f94ca",
+      "runId": "chatgpt-scheduled-85be6867-b540-8325-959a-23ef3dda2a0a",
       "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
-      "contentHash": "3847d687370dd84697a80ce257c3254df04113e93b12fbd05668748353a6a465",
+      "contentHash": "ef81f041e46c4be1fb16dd4244ad152ed204c6e057afc97d53439b299e9af7f8",
       "automationId": "6acc0c049d908191bdd620f519aee69c",
       "writer": {
         "mode": "scheduled",
@@ -49,37 +49,37 @@
     }
   },
   "counts": {
-    "imported": 213,
-    "active": 17,
-    "stale": 170,
+    "imported": 217,
+    "active": 20,
+    "stale": 171,
     "archived": 26,
     "verified": 5,
-    "awaitingVerification": 12,
+    "awaitingVerification": 15,
     "outsideCriteria": 33,
-    "qualifyingActive": 17
+    "qualifyingActive": 20
   },
   "photos": {
-    "checkedAt": "2026-11-20T00:55:42.288Z",
+    "checkedAt": "2026-11-20T14:06:23.212Z",
     "attempted": 45,
     "collected": 0,
-    "retained": 187,
+    "retained": 191,
     "archivedSkipped": 26,
     "skippedExistingPhotos": 20,
-    "skippedRecentAttempt": 122,
-    "eligible": 45,
-    "deferred": 0,
+    "skippedRecentAttempt": 90,
+    "eligible": 81,
+    "deferred": 36,
     "withPhotos": 23,
-    "withoutPhotos": 164,
+    "withoutPhotos": 168,
     "outcomes": {
       "collected": 0,
-      "no_source": 14,
-      "no_photos": 12,
-      "inaccessible": 19
+      "no_source": 28,
+      "no_photos": 4,
+      "inaccessible": 13
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 1729
+    "elapsedMs": 1259
   },
   "alerts": [
     "Invalid Muse v2 make"
