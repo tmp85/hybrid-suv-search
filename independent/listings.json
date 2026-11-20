@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "source": "chatgpt-independent",
   "mode": "observations",
-  "runId": "chatgpt-scheduled-9accfa52-293c-8332-9207-aaa3ef4f94ca",
-  "generatedAt": "2026-11-19T14:05:36Z",
-  "reportDate": "2026-11-19",
+  "runId": "chatgpt-scheduled-85be6867-b540-8325-959a-23ef3dda2a0a",
+  "generatedAt": "2026-11-20T14:05:30Z",
+  "reportDate": "2026-11-20",
   "reportUrl": "https://chatgpt.com/c/6acc0bf1-5fc8-83e8-9f58-0b52b72d9852",
   "writer": {
     "mode": "scheduled",
@@ -13,7 +13,7 @@
   },
   "listings": [
     {
-      "observedAt": "2026-11-19",
+      "observedAt": "2026-11-20",
       "fees": 200,
       "history": {
         "title": "reported_clean",
@@ -37,15 +37,15 @@
       "seller": "Lee Johnson Mazda of Kirkland",
       "url": "https://www.leejohnsonkia.com/auto/preowned-2023-kia-sorento-hybrid-ex/126732762/",
       "priceBasis": "Dealer $28,790 + $200 negotiable documentary fee = $28,990. Dealer boilerplate may add up to $200; obtain written total to prevent double charge. Government/finance/other closing charges extra; no proven financing/trade price condition. Offering may require negotiated implied-warranty waiver if AS IS.",
-      "notes": "Independent continuing lead. Earlier cached TrueCar reports clean title/no accidents/one owner; original history dates are not refreshed. Complete service records, rental/fleet use, battery condition and CPO enrollment remain unknown. Dealer specifications contain a suspect 16-kWh battery field; do not use that generic field to reclassify this HEV as PHEV. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 18 original ad re-observed; quote unchanged from November17. November19 original ad re-observed; no new price change.",
+      "notes": "Independent continuing lead. Earlier cached TrueCar reports clean title/no accidents/one owner; original history dates are not refreshed. Complete service records, rental/fleet use, battery condition and CPO enrollment remain unknown. Dealer specifications contain a suspect 16-kWh battery field; do not use that generic field to reclassify this HEV as PHEV. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 18 original ad re-observed; quote unchanged from November17. November19 original ad re-observed; no new price change. November20 original ad observed, unchanged price. Muse November19 feed independently reviewed; differing aggregator prices do not override dealer fee-inclusive quote.",
       "verification": {
         "status": "ad_observed",
-        "note": "November19 original dealer ad crawled today; price/specifications unchanged versus November18. Ad observed, not seller-confirmed unsold availability. Historical reports keep their original dates.",
+        "note": "November20 original dealer ad crawled today. Same advertised price versusNovember19; ad observed, not seller-confirmed unsold availability. Historical supporting reports retain dates.",
         "evidenceUrl": "https://www.leejohnsonkia.com/auto/preowned-2023-kia-sorento-hybrid-ex/126732762/"
       }
     },
     {
-      "observedAt": "2026-11-19",
+      "observedAt": "2026-11-20",
       "fees": 1741,
       "history": {
         "title": "reported_clean",
@@ -69,15 +69,15 @@
       "seller": "Capital Ford",
       "url": "https://www.capitalfordonline.com/auto/used-2023-hyundai-santa-fe-hybrid-blue/125191260/",
       "priceBasis": "November11 dealer$26,495+$499doc-$3,520discount=$23,474. Add$198ATP+$795Cilijet+$249Appearance=$1,242; total$24,716 before government/finance/emissions/travel. $499doc already included; do not double charge. $548 reduction versus November10 recorded$24,022/$25,264 using unchanged extra charges. Discount eligibility/package removability unknown; no specific mandatory finance/trade/downpayment/rebate condition established.",
-      "notes": "Independent continuing lead. Seller Clean CARFAX claim; earlier TrueCar reports clean title/no accidents/one owner, original attribution retained. Rental/fleet use, maintenance invoices, battery health and discount eligibility unresolved. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 18 original ad re-observed; quote unchanged from November17. November19 original ad re-observed; no new price change.",
+      "notes": "Independent continuing lead. Seller Clean CARFAX claim; earlier TrueCar reports clean title/no accidents/one owner, original attribution retained. Rental/fleet use, maintenance invoices, battery health and discount eligibility unresolved. November14 original ad re-observed, unchanged. Earlier history claims are not refreshed. November15 dealer ad re-observed. Historical reports are not refreshed by ad retrieval. November 18 original ad re-observed; quote unchanged from November17. November19 original ad re-observed; no new price change. November20 original ad observed, unchanged price. Muse November19 feed independently reviewed; differing aggregator prices do not override dealer fee-inclusive quote.",
       "verification": {
         "status": "ad_observed",
-        "note": "November19 original dealer ad crawled today; price/specifications unchanged versus November18. Ad observed, not seller-confirmed unsold availability. Historical reports keep their original dates.",
+        "note": "November20 original dealer ad crawled today. Same advertised price versusNovember19; ad observed, not seller-confirmed unsold availability. Historical supporting reports retain dates.",
         "evidenceUrl": "https://www.capitalfordonline.com/auto/used-2023-hyundai-santa-fe-hybrid-blue/125191260/"
       }
     },
     {
-      "observedAt": "2026-11-19",
+      "observedAt": "2026-11-20",
       "fees": 888,
       "vin": "KNDRHDLG7P5191963",
       "year": 2023,
@@ -93,10 +93,10 @@
       "seller": "Sands Kia",
       "url": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963",
       "priceBasis": "November15 dealer$21,700+$289SupremeProtection+$599doc=$22,588 corroboratesNovember14CARFAX. $300belowolderdealer$22,888; dealerbadge saysreducedsinceNov12, not a newovernightcut. Footerpreviously599.50doc/genericrebateeligibility; reconcileunconditionaltotal/no duplicatefee. Specificfinance/trade/downpaymentrequirementnotestablished.",
-      "notes": "Muse discovery plus independent checks. November17 original ad remains $22,588 and 70,226 miles, versus November14 CARFAX summary 70,303: unexplained 77-mile decrease, not proof of rollback. Historical CARFAX reports no accident/damage, one owner, personal use and16 service records. MuseNovember7 reports clean-title/noissues andtwo unspecified recall records. Seller CPO claim. Full invoices, battery condition, recall completion and CPO eligibility remain unknown. November19 original ad re-observed; no new price change.",
+      "notes": "Muse discovery plus independent checks. November17 original ad remains $22,588 and 70,226 miles, versus November14 CARFAX summary 70,303: unexplained 77-mile decrease, not proof of rollback. Historical CARFAX reports no accident/damage, one owner, personal use and16 service records. MuseNovember7 reports clean-title/noissues andtwo unspecified recall records. Seller CPO claim. Full invoices, battery condition, recall completion and CPO eligibility remain unknown. November19 original ad re-observed; no new price change. November20 original ad observed, unchanged price. Muse November19 feed independently reviewed; differing aggregator prices do not override dealer fee-inclusive quote.",
       "verification": {
         "status": "ad_observed",
-        "note": "November19 original dealer ad crawled today; price/specifications unchanged versus November18. Ad observed, not seller-confirmed unsold availability. Historical reports keep their original dates.",
+        "note": "November20 original dealer ad crawled today. Same advertised price versusNovember19; ad observed, not seller-confirmed unsold availability. Historical supporting reports retain dates.",
         "evidenceUrl": "https://www.sandskia.com/used-Phoenix-2023-Kia-Sorento%2BHybrid-EX-KNDRHDLG7P5191963"
       },
       "history": {
@@ -122,182 +122,210 @@
       "rows": 2,
       "seller": "Norm Reeves Hyundai Superstore Cerritos",
       "url": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/",
-      "observedAt": "2026-11-19",
+      "observedAt": "2026-11-20",
       "fees": 180,
       "priceBasis": "November18 original dealer $22,395+$85 documentation+$37 electronic filing+$58 smog=$22,575. Same fee basis was $23,179 November17, supporting a $604 reduction. Government/taxes/finance extra. Offer expires close of business. No specific financing/trade/downpayment/rebate condition established.",
-      "notes": "Muse discovery independently checkedNovember19. LinkedCARFAX today reports noaccident/damage or listedtitlebrands,2personalowners,15service records, regularoilchanges, lastserviceNovember3. Ad34,746 vsCARFAX34,767 confirmodometer. SellerCPO; battery/chargingcable,warrantyeligibility/enrollment and manufacturerVINrecallstatusunknown. Price unchanged sinceNovember18; $604belowNovember17 on samefee basis.",
+      "notes": "Muse discovery, independently checked November20. Ad34,746 versus CARFAX34,767; confirm actual odometer. LinkedCARFAX retrievedtoday reports no accident/damage or listed titlebrands,2 personalCAowners,15service records,regularoilchanges,lastoil/filter/tirerotationNovember3. SellerCPO; actualbattery,chargingcable,warranty/CPOenrollment and manufacturerVINrecallstatusunknown. Price unchanged versusNovember19; no newcut.",
       "history": {
         "title": "reported_clean",
         "accidents": "none_reported",
         "owners": 2,
-        "use": "CARFAX retrievedNovember19: two personal California owners",
-        "maintenance": "CARFAX November19:15 service records, regular oil changes, last oil/filter and tire rotationNovember3,2026. Invoices not obtained.",
-        "evidenceUrl": "https://www.carfax.com/vehiclehistory/ar20/8vqTNemGIiUdn6oWD2Et7TAVQFq4PVP9v47F-bRcXbliJMk-cf7o2XyTxgUJ8fUaSmOs9d6mpCxxwwyoEqkfWR2mOGACCVswX4Q"
+        "use": "CARFAX November20:two personalCaliforniaowners",
+        "maintenance": "CARFAX November20:15service records,regularoilchanges,November3oil/filter/tirerotation; fullinvoicesnotobtained",
+        "evidenceUrl": "https://www.carfax.com/vehiclehistory/ar20/OAwCgHmrT9b6WT2ZimXqDDX-5aKhUP8og8GPwoClxZfueuqyRKbFPDvswjAEuMru8hkNs3Yl3Gj4n_2PZvlWc6nJUQtD8VDEFx0"
       },
       "verification": {
         "status": "ad_observed",
-        "note": "November19 original dealer ad crawled today; price/specifications unchanged versus November18. Ad observed, not seller-confirmed unsold availability. Historical reports keep their original dates.",
+        "note": "November20 original dealer ad crawled today. Same advertised price versusNovember19; ad observed, not seller-confirmed unsold availability. Historical supporting reports retain dates.",
         "evidenceUrl": "https://www.normreeveshyundai.com/inventory/certified-used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-sport-utility-km8s6da20nu052058/"
       }
     },
     {
-      "type": "HEV",
+      "vin": "KM8S6DA29NU017020",
+      "year": 2022,
+      "name": "Hyundai Santa Fe Plug-In Hybrid",
+      "trim": "SEL Convenience",
+      "type": "PHEV",
+      "price": 20688,
+      "mileage": 69720,
+      "city": "Reno",
+      "state": "NV",
       "drive": "AWD",
-      "rows": 3,
-      "observedAt": "2026-11-19",
-      "fees": 250,
-      "vin": "5TDHBRCH9LS507046",
-      "year": 2020,
-      "name": "Toyota Highlander Hybrid",
-      "trim": "XLE",
-      "price": 29744,
-      "mileage": 73316,
-      "city": "Salem",
-      "state": "OR",
-      "seller": "Salem Pre-Owned / Mazda of Salem",
-      "url": "https://www.salemusedcars.com/viewdetails/used/5tdhbrch9ls507046/2020-toyota-highlander-hybrid-suv",
-      "priceBasis": "FreshTrueCar$29,744 labeledfee/addonsincluded. Cached dealerinventory(search yesterday) $29,544+$200doc+$50filing=$29,794. Original two-day cache financeillustration uses$29,544 beforefees,$5,908down,72mo7.75%,mustfinanceAlly,credit/residencyrestrictions,expiresNov30. Those terms relate paymentoffer; unconditionalcashprice unresolved. Government/financeextra; no defensible pricedrop.",
+      "rows": 2,
+      "seller": "Corwin Ford Reno (dealer)",
+      "url": "https://www.corwinfordreno.com/inventory/used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-4-door-suv-km8s6da29nu017020/",
+      "observedAt": "2026-11-20",
+      "fees": 699,
+      "priceBasis": "November20 freshdealer $19,989+$699doc=$20,688. Description conflicts: mentions$794.25doc/smogservicefee. Do not doublecharge; mandatorytotal unresolved. Dealerapproval basedontrade,loyalty,proximity boilerplate; applicabilitytocash/outofareabuyerunknown. Government/financeextra; no requiredloan/downpaymentproven.",
+      "notes": "Muse lead, originalad freshNovember20 confirms69,720AWD/PHEV. Muse priorAutoCheck says0accidents,2personalowners,cleantitle; reportnotindependentlyaccessedtoday. SixrecallrecordsMuseclaim notsixconfirmedopenrecalls. SellerFordBlueCertified3mo/4000mi,$100deductible claim; notHyundaiCPO. Battery/cable,recalls,serviceinvoices,warrantyunknown. Priceunchanged fromMuseNov19; notnewlisting.",
       "history": {
         "title": "reported_clean",
-        "accidents": "reported",
+        "accidents": "none_reported",
         "owners": 2,
-        "use": "TrueCar AutoCheck asofOctober29 reports fleetuse; rental subtype unknown",
-        "maintenance": "Unknown",
-        "evidenceUrl": "https://www.truecar.com/used-cars-for-sale/listing/5TDHBRCH9LS507046/2020-toyota-highlander/?position=18&returnTo=/used-cars-for-sale/listings/toyota/highlander/fuel-hybrid/location-portland-or/&sourceType=marketplace"
+        "use": "Muse prior AutoCheck:personaluse; independentlyunverified",
+        "maintenance": "Unknown"
       },
-      "notes": "Independent cross-checkNovember19; freshmarketplace versus cachedoriginaldealer. AutoChecksummary asofOctober29 reports1accident,2owners,fleetuse,cleantitle. Fullreport/damageseverity/maintenance/battery/recallstatusunknown. Not shortlisted. Originaladfirstobservationtimeunknown; todayisresearchinspection,notfreshdealeravailability.",
       "verification": {
         "status": "awaiting_verification",
-        "note": "November19 freshTrueCar ad but originaldealer two-daycache and conflictingfees/price; accident/fleet history makes weakeroption. Notsellerconfirmedunsold.",
-        "evidenceUrl": "https://www.salemusedcars.com/viewdetails/used/5tdhbrch9ls507046/2020-toyota-highlander-hybrid-suv"
+        "note": "FreshoriginaladNovember20; feeconflict and trade/proximityapproval clause prevent unconditionalpriceconfirmation. Unsoldstatus/historyunresolved.",
+        "evidenceUrl": "https://www.corwinfordreno.com/inventory/used-2022-hyundai-santa-fe-plug-in-hybrid-sel-convenience-awd-4-door-suv-km8s6da29nu017020/"
       }
     },
     {
+      "vin": "KNDRHDLG3N5098385",
+      "year": 2022,
+      "name": "Kia Sorento Hybrid",
+      "trim": "EX",
       "type": "HEV",
+      "price": 20402,
+      "mileage": 82363,
+      "city": "Clovis",
+      "state": "CA",
       "drive": "AWD",
       "rows": 3,
+      "seller": "Driveway (dealer, online only)",
+      "url": "https://www.nissanofclovis.com/viewdetails/used/kndrhdlg3n5098385/2022-kia-sorento-hybrid-sport-utility",
       "observedAt": "2026-11-19",
       "fees": null,
-      "vin": "5TDBBRCH7LS504894",
-      "year": 2020,
-      "name": "Toyota Highlander Hybrid",
-      "trim": "LE",
-      "price": 26385,
-      "mileage": 98862,
-      "city": "Portland",
-      "state": "OR",
-      "seller": "PDX Motors",
-      "url": "https://signup.cargurus.com/details/459105151",
-      "priceBasis": "CarGurus five-daycached$26,385, versus two-weekcachedsearch$25,385 and olderOfferUp$27,500. No confirmedchange or unconditionaldealerquote. Fees, mandatoryfinance/trade/downpayment/rebates unknown.",
+      "priceBasis": "MuseNovember19$20,402, dealerfeesunknown. Originaldealer week-oldadhasidentity/mileagebutnoprice; three-weekinventorycache$22,798+$181fees=$22,979 conflicts. No independent pricecutclaim. Finance/trade/downpayment/rebateconditionsunknown.",
+      "notes": "Muse lead cross-checkedNovember20 onlyweek-oldoriginaldealercache; notfreshavailability/price. Muse historypriorNovember18AutoCheck saysnoaccident/2personalowners/cleantitle,notindependentlyverifiedtoday. Drivewayonline-onlysellerMuse versusNissanClovisoriginal; location/pickupunknown. 6recallrecordsMuseclaim,notconfirmedopenrecalls. Battery/servicesunknown.",
+      "history": {
+        "title": "reported_clean",
+        "accidents": "none_reported",
+        "owners": 2,
+        "use": "Muse prior AutoCheck:personaluse; independentlyunverified",
+        "maintenance": "Unknown"
+      },
+      "verification": {
+        "status": "awaiting_verification",
+        "note": "PreserveMuseNov19 priceobservation; November20 dealerlookupreturnsweek-oldcachewithoutprice. Originaladtimeunknown; nofreshverification.",
+        "evidenceUrl": "https://www.nissanofclovis.com/viewdetails/used/kndrhdlg3n5098385/2022-kia-sorento-hybrid-sport-utility"
+      }
+    },
+    {
+      "vin": "KNDRH4LG2M5040086",
+      "year": 2021,
+      "name": "Kia Sorento Hybrid",
+      "trim": "EX",
+      "type": "HEV",
+      "price": 25599,
+      "mileage": 33689,
+      "city": "Tempe",
+      "state": "AZ",
+      "drive": "FWD",
+      "rows": 3,
+      "seller": "Tempe Dodge Chrysler Jeep Kia RAM (dealer)",
+      "url": "https://www.tempekia.com/viewdetails/cpo/kndrh4lg2m5040086/2021-kia-sorento-hybrid-sport-utility",
+      "observedAt": "2026-11-19",
+      "fees": null,
+      "priceBasis": "MuseNovember19$25,599. Week-oldoriginaldealerpaymentillustration $25,000 includesdoc, $2,500down/72mo7.75%,mustfinanceAlly,approvedcredit/residentialrestrictions,expiresNov30. Notunconditionalcashquote. Fees/pricebasisdifferenceunresolved; no new reduction.",
+      "notes": "Muse priorAutoCheck0accidents/1personalowner/cleantitle; independentlyunverified. November20 originaldealercacheweekold confirms33,689FWD/HEV3rows,CPOclaim,notfreshavailability. CPOenrollment,battery,serviceinvoices,recallcompletionunknown. ThreerecallrecordsMuseclaimnotconfirmedopenrecalls. Holdpendingunconditionalprice.",
+      "history": {
+        "title": "unknown",
+        "accidents": "none_reported",
+        "owners": 1,
+        "use": "Muse prior AutoCheck:personaluse; independentlyunverified",
+        "maintenance": "Unknown"
+      },
+      "verification": {
+        "status": "awaiting_verification",
+        "note": "November20inspectionofweek-olddealercache; preserveMuseNov19priceobservation. Allyfinanceconditiononillustratedoffer; currentcashpriceunknown.",
+        "evidenceUrl": "https://www.tempekia.com/viewdetails/cpo/kndrh4lg2m5040086/2021-kia-sorento-hybrid-sport-utility"
+      }
+    },
+    {
+      "vin": "KNDRJDLH9N5109810",
+      "year": 2022,
+      "name": "Kia Sorento Plug-In Hybrid",
+      "trim": "SX",
+      "type": "PHEV",
+      "price": 25488,
+      "mileage": 37177,
+      "city": "Victorville",
+      "state": "CA",
+      "drive": "AWD",
+      "rows": 3,
+      "seller": "Caposio Buick GMC (dealer)",
+      "url": "https://www.capitalone.com/cars/vehicle-details/2022/Kia/Sorento%2BPlug-In%2BHybrid/SX/KNDRJDLH9N5109810",
+      "observedAt": "2026-11-19",
+      "fees": null,
+      "priceBasis": "MuseNov19$25,488; CarGurus3-daysearchcache$26,000. FreshCapitalOneNovember20identitypagepriceblank. Originaldealerquote/fees/finance/trade/downpayment/rebateconditionsunknown; no pricecutclaim.",
+      "notes": "Muse leadNovember19price/history retained. November20CapitalOnefreshadconfirmsVIN37,177AWD/PHEV,CaposioBuickGMCVictorville,butnoprice. MuseAutoCheck0accidents/1owner/lease/cleantitle; reportnotindependentlyverified. CarGurusdetailblocked. Originaldealersearchdidnotfindpage. Battery/cable,maintenance,CPO/recallsunknown.",
       "history": {
         "title": "reported_clean",
         "accidents": "none_reported",
         "owners": 1,
-        "use": "Muse historicalOctober23 sayspersonaluse; currentrental/fleetuseunverified",
-        "maintenance": "Sellerclaims13+CARFAXservicerecords,newtires,freshoil/filter; no invoicesobtained",
-        "evidenceUrl": "https://signup.cargurus.com/details/459105151"
+        "use": "Muse reported AutoCheck leasevehicle,not independently verified",
+        "maintenance": "Unknown"
       },
-      "notes": "Muse discovery sinceOctober13; historicalMusecheckOctober23. IndependentNovember19inspectionofcachedmarketplaceevidence. CarGurus saysclean/noacc1owner. Originaldealerinventory403; dealerhomepagenotvehicleverification. Nearly100k,battery/recalls/warrantyunknown. Notshortlisted. Today'sdateisinspectionofindirectevidence,notfreshadverification.",
       "verification": {
         "status": "awaiting_verification",
-        "note": "November19 inspection of five-dayCarGuruscache; originalPDXinventory403. No freshavailability orpriceconfirmation.",
-        "evidenceUrl": "https://signup.cargurus.com/details/459105151"
+        "note": "November20freshmarketplaceidentityadwithoutprice; priceobservationretainsMuseNov19time. Originalavailability/fees/historyunresolved.",
+        "evidenceUrl": "https://www.capitalone.com/cars/vehicle-details/2022/Kia/Sorento%2BPlug-In%2BHybrid/SX/KNDRJDLH9N5109810"
       }
     },
     {
-      "type": "HEV",
-      "drive": "AWD",
-      "rows": 3,
-      "observedAt": "2026-11-19",
-      "fees": null,
-      "vin": "5TDJGRFH3KS064762",
-      "year": 2019,
-      "name": "Toyota Highlander Hybrid",
-      "trim": "XLE",
-      "price": 29720,
-      "mileage": 80376,
-      "city": "Gladstone",
-      "state": "OR",
-      "seller": "Gladstone Mitsubishi",
-      "url": "https://www.craigslist.org/view/d/gladstone-2019-toyota-highlander-hybrid/aC8u6DjV8RGXbpEAZxM6gQ",
-      "priceBasis": "Two-weekcachedsearchsnapshot $29,720. CurrentURLnowdifferentvehicle; oldHighlanderfeesandunconditionalpricingunknown. No currentprice ornewcutclaim.",
-      "history": {
-        "title": "seller_claimed_clean",
-        "accidents": "unknown",
-        "owners": null,
-        "use": "Unknown",
-        "maintenance": "Unknown",
-        "evidenceUrl": "https://www.craigslist.org/view/d/gladstone-2019-toyota-highlander-hybrid/aC8u6DjV8RGXbpEAZxM6gQ"
-      },
-      "notes": "November19 inspectedhistoricalCraigslistsearchresult, notfreshHighlanderad. ExactVIN/price/milesfromcachedsnapshot; currentURLshows2022HondaPilotVIN5FNYF6H5XNB093655. AnothercachedHighlanderURLMGVU5pfb8RG3YqYucZ3Nmwnowshowsgas2023Jeep. CapitalOneexactHighlanderURLHTTP410. Identitymismatchisnotproofofsale. Notshortlisted; actualoriginalobservationtimeunknown.",
-      "verification": {
-        "status": "awaiting_verification",
-        "note": "November19 oldadURLnowdifferentVIN/model; cachedHighlanderidentitynotrefreshed. CapitalOnelookup410; currentavailabilityunknown.",
-        "evidenceUrl": "https://www.craigslist.org/view/d/gladstone-2019-toyota-highlander-hybrid/aC8u6DjV8RGXbpEAZxM6gQ"
-      }
-    },
-    {
-      "type": "HEV",
-      "drive": "AWD",
-      "rows": 3,
-      "observedAt": "2026-11-19",
-      "fees": 250,
-      "vin": "5TDHBRCH3LS501890",
-      "year": 2020,
-      "name": "Toyota Highlander Hybrid",
-      "trim": "XLE",
-      "price": 36900,
-      "mileage": 55462,
-      "city": "Hillsboro",
-      "state": "OR",
-      "seller": "Royal Moore Auto Group",
-      "url": "https://www.craigslist.org/view/d/hillsboro-2020-toyota-highlander-hybrid/ljQS_E3R8RGdaqk2eawl7Q",
-      "priceBasis": "Three-weekcachedoriginalCraigslist$36,900 excludesoptional$250doc,government,optionalaccessories. Searchsnapshot$36,500differs; no provenchange. Financingadvertisedavailable,notprovenrequired.",
-      "history": {
-        "title": "seller_claimed_clean",
-        "accidents": "unknown",
-        "owners": null,
-        "use": "Unknown",
-        "maintenance": "SellerclaimsToyotaGoldCPO; enrollment/servicesunknown",
-        "evidenceUrl": "https://www.craigslist.org/view/d/hillsboro-2020-toyota-highlander-hybrid/ljQS_E3R8RGdaqk2eawl7Q"
-      },
-      "notes": "November19inspectionofthree-weekcachedad; notfreshavailabilityornewlisting. Priceabovebuyer$30kmaximum. Notshortlisted.",
-      "verification": {
-        "status": "excluded",
-        "note": "Recordedcachedvehiclead$36,900 exceeds$30,000budget. Inspectiondateisnotfreshoriginaladverification.",
-        "evidenceUrl": "https://www.craigslist.org/view/d/hillsboro-2020-toyota-highlander-hybrid/ljQS_E3R8RGdaqk2eawl7Q"
-      }
-    },
-    {
-      "type": "HEV",
+      "vin": "KM8S6DA26PU072480",
+      "year": 2023,
+      "name": "Hyundai Santa Fe Plug-In Hybrid",
+      "trim": "SEL Convenience",
+      "type": "PHEV",
+      "price": 28973,
+      "mileage": 22547,
+      "city": "Sacramento",
+      "state": "CA",
       "drive": "AWD",
       "rows": 2,
-      "observedAt": "2026-11-19",
+      "seller": "Sacramento Hyundai (J.D.Power listing)",
+      "url": "https://www.jdpower.com/inventory/2023/hyundai/santa-fe-plug-in-hybrid/sacramento-ca/km8s6da26pu072480?dealercode=311406",
+      "observedAt": "2026-11-20",
       "fees": null,
-      "vin": null,
-      "listingId": "omZcY85ryoZL7AJqKNZmaS",
-      "year": 2018,
-      "name": "Lexus RX 450h",
-      "price": 24000,
-      "mileage": 106587,
-      "city": "San Mateo",
-      "state": "CA",
-      "seller": "Private party, identity unknown",
-      "url": "https://www.craigslist.org/view/d/san-mateo-2018-lexus-rx-450h-hybrid-all/omZcY85ryoZL7AJqKNZmaS",
-      "priceBasis": "Two-daycachedprivateasking$24,000. Feesandfinance/trade/downpayment/rebateconditionsunknown.",
+      "priceBasis": "FreshJ.D.PowerNovember20$28,973 versusMuseNov18$25,584/ElkGrove and olderDealerRater$25,788. Feeitemization/conditionalpricingunknown; crosssource/locationdifference notconfirmedpriceincrease.",
+      "notes": "Muse lead independentlycrosscheckedfreshJDPowerNovember20VIN22,547AWD/PHEV. SellerlocationSacramento conflictsMuseElkGrove. Originaldealersearchnoresult. Title/accidents/owners/services/battery/recallsunknown. JD sellerdescription erroneouslycallsSantaFethreerow; actualmodel2row. Notshortlisted.",
       "history": {
         "title": "unknown",
         "accidents": "unknown",
         "owners": null,
         "use": "Unknown",
-        "maintenance": "Unknown",
-        "evidenceUrl": "https://www.craigslist.org/view/d/san-mateo-2018-lexus-rx-450h-hybrid-all/omZcY85ryoZL7AJqKNZmaS"
+        "maintenance": "Unknown"
       },
-      "notes": "PrivateadNovember10 updatedNovember11; November19inspectionoftwo-daycache. Titlefieldlien andexplicit'odometer rolled over' warning. NoVIN,clean-titleevidence,history,invoices,lienrelease orbatterycondition. Notshortlisted; >100knotautomaticdisqualificationbutodometer/titleunresolved.",
       "verification": {
         "status": "awaiting_verification",
-        "note": "November19inspectionofcachedprivatead,notfreshavailability. Lien/odometerwarningandmissingVINrequireverification.",
-        "evidenceUrl": "https://www.craigslist.org/view/d/san-mateo-2018-lexus-rx-450h-hybrid-all/omZcY85ryoZL7AJqKNZmaS"
+        "note": "FreshmarketplaceadNovember20butoriginaldealer,history,feesandpickupunresolved. No sellerconfirmedunsoldavailability.",
+        "evidenceUrl": "https://www.jdpower.com/inventory/2023/hyundai/santa-fe-plug-in-hybrid/sacramento-ca/km8s6da26pu072480?dealercode=311406"
+      }
+    },
+    {
+      "vin": null,
+      "listingId": "krySygN3X2iCTXVMiLkW6n",
+      "year": 2021,
+      "name": "Toyota Venza",
+      "trim": "LE",
+      "type": "HEV",
+      "price": 20000,
+      "mileage": 105605,
+      "city": "Las Vegas",
+      "state": "NV",
+      "drive": "AWD",
+      "rows": 2,
+      "seller": "Privateparty,identityunknown",
+      "url": "https://www.craigslist.org/view/d/las-vegas-2021-toyota-venza/krySygN3X2iCTXVMiLkW6n",
+      "observedAt": "2026-11-20",
+      "fees": null,
+      "priceBasis": "Two-weekcachedCraigslistasking$20,000firm. Fees/finance/trade/downpayment/rebateconditionsunknown.",
+      "notes": "IndependentNovember20inspectionofcachedadpostedNovember1,notfreshavailability. Sellerclaimsoriginalowner,cleantitle,noaccidents,95%dealerservice,newMichelins/oil/brakes/coolants/brakefluid,goodbatterytest. Noneindependentlyverified; noVIN,invoices,history,actualbatterytestobtained. >100kpreference,notautomaticexclusion. Hold.",
+      "history": {
+        "title": "seller_claimed_clean",
+        "accidents": "unknown",
+        "owners": null,
+        "use": "Sellerclaimsoriginalowner; useunknown",
+        "maintenance": "Sellerclaims95%dealermaintenanceandrecenttires/fluids/brakes/goodbatterytest; no evidence obtained",
+        "evidenceUrl": "https://www.craigslist.org/view/d/las-vegas-2021-toyota-venza/krySygN3X2iCTXVMiLkW6n"
+      },
+      "verification": {
+        "status": "awaiting_verification",
+        "note": "November20inspectionof two-weekcachedad; originalobservationtimeunknown. NoVIN/title/history/availabilityverification.",
+        "evidenceUrl": "https://www.craigslist.org/view/d/las-vegas-2021-toyota-venza/krySygN3X2iCTXVMiLkW6n"
       }
     }
   ]
