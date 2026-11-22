@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-22T14:07:32.212Z",
+  "generatedAt": "2026-11-22T21:02:11.767Z",
   "sources": {
     "muse": {
-      "lastAttemptAt": "2026-11-22T14:07:32.212Z",
+      "lastAttemptAt": "2026-11-22T21:02:11.767Z",
       "status": "error",
       "lastSuccessAt": "2026-11-11T13:59:36.965Z",
       "reportDate": "2026-11-10",
@@ -21,10 +21,10 @@
     },
     "independent": {
       "status": "connected",
-      "lastSuccessAt": "2026-11-22T14:07:32.212Z",
+      "lastSuccessAt": "2026-11-22T21:02:11.767Z",
       "reportDate": "2026-11-22",
       "error": null,
-      "lastAttemptAt": "2026-11-22T14:07:32.212Z",
+      "lastAttemptAt": "2026-11-22T21:02:11.767Z",
       "exporterMode": "scheduled_verified",
       "automationVerified": true,
       "provenance": {
@@ -32,7 +32,7 @@
         "originSha256": "eee19782672f9a90fead3bafdd391de62424455a536c6f613146e71676139eff",
         "mode": "repository_checkout",
         "path": "independent/listings.json",
-        "triggerRevision": "c6dde3e2723bb43965c22b1a6c9f0dc084866d54"
+        "triggerRevision": "0a9f3f760b41e425e940483a68a70e16893bdb5e"
       },
       "lastExportAt": "2026-11-22T14:06:48Z",
       "imported": 7,
@@ -59,27 +59,27 @@
     "qualifyingActive": 22
   },
   "photos": {
-    "checkedAt": "2026-11-22T14:07:32.212Z",
+    "checkedAt": "2026-11-22T21:02:11.767Z",
     "attempted": 45,
     "collected": 0,
     "retained": 194,
     "archivedSkipped": 26,
     "skippedExistingPhotos": 18,
-    "skippedRecentAttempt": 86,
-    "eligible": 90,
-    "deferred": 45,
+    "skippedRecentAttempt": 45,
+    "eligible": 131,
+    "deferred": 86,
     "withPhotos": 24,
     "withoutPhotos": 170,
     "outcomes": {
       "collected": 0,
-      "no_source": 28,
-      "no_photos": 5,
-      "inaccessible": 12
+      "no_source": 8,
+      "no_photos": 8,
+      "inaccessible": 29
     },
     "deadlineReached": false,
     "maxAttempts": 45,
     "concurrency": 4,
-    "elapsedMs": 2013
+    "elapsedMs": 1527
   },
   "alerts": [
     "Invalid Muse v2 make"
